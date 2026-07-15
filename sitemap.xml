@@ -1,136 +1,136 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://example.com/index.html</loc>
+    <loc>https://sputnikiran.github.io/news/index.html</loc>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://example.com/auto.html</loc>
+    <loc>https://sputnikiran.github.io/news/auto.html</loc>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://example.com/sport.html</loc>
+    <loc>https://sputnikiran.github.io/news/sport.html</loc>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://example.com/96081-انهدام-پهپاد-آمریکایی-لوکاس-در-بندرعباس-توسط-رزمندگان-سپاه.html</loc>
+    <loc>https://sputnikiran.github.io/news/96081-انهدام-پهپاد-آمریکایی-لوکاس-در-بندرعباس-توسط-رزمندگان-سپاه.html</loc>
     <lastmod>+058507-01-04T18:00:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://example.com/96080-آیا-مراسلات-و-مکاتبات-از-ناو-هواپیمابر-مهمتر-است؟.html</loc>
+    <loc>https://sputnikiran.github.io/news/96080-آیا-مراسلات-و-مکاتبات-از-ناو-هواپیمابر-مهمتر-است؟.html</loc>
     <lastmod>+058506-12-28T19:20:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://example.com/96079-لازم-نیست-آلمان-نگرانی-شود-روسیه-به-اندازه-کافی-موشکهای-quot.html</loc>
+    <loc>https://sputnikiran.github.io/news/96079-لازم-نیست-آلمان-نگرانی-شود-روسیه-به-اندازه-کافی-موشکهای-quot.html</loc>
     <lastmod>+058506-12-14T22:00:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://example.com/96078-ماریا-زاخارووا-به-اسپوتنیک-لیندسی-گراهام-اصلاً-خواستار-از-بی.html</loc>
+    <loc>https://sputnikiran.github.io/news/96078-ماریا-زاخارووا-به-اسپوتنیک-لیندسی-گراهام-اصلاً-خواستار-از-بی.html</loc>
     <lastmod>+058506-12-10T01:20:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://example.com/96077-تحریم-مجدد-ایران-توسط-آمریکا.html</loc>
+    <loc>https://sputnikiran.github.io/news/96077-تحریم-مجدد-ایران-توسط-آمریکا.html</loc>
     <lastmod>+058506-12-10T01:20:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://example.com/96076-طرح-ایجاد-کارخانه-موشکهای-ضدهوایی-quot-پاتریوت-quot-در-اوکرا.html</loc>
+    <loc>https://sputnikiran.github.io/news/96076-طرح-ایجاد-کارخانه-موشکهای-ضدهوایی-quot-پاتریوت-quot-در-اوکرا.html</loc>
     <lastmod>+058506-12-10T01:20:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://example.com/96075-صاحبان-خودرو-در-چین-در-برابر-سیل-به-چه-ترفندهایی-که-دست-نمی.html</loc>
+    <loc>https://sputnikiran.github.io/news/96075-صاحبان-خودرو-در-چین-در-برابر-سیل-به-چه-ترفندهایی-که-دست-نمی.html</loc>
     <lastmod>+058506-12-10T01:20:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://example.com/96074-روسیه-سه-کشتی-باری-را-در-بنادر-اوکراین-هدف-قرار-داد.html</loc>
+    <loc>https://sputnikiran.github.io/news/96074-روسیه-سه-کشتی-باری-را-در-بنادر-اوکراین-هدف-قرار-داد.html</loc>
     <lastmod>+058506-12-10T01:20:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://example.com/96070-تصاویر-ماهوارهای-جدید-از-حملات-ایران-به-پایگاه-های-آمریکا-در.html</loc>
+    <loc>https://sputnikiran.github.io/news/96070-تصاویر-ماهوارهای-جدید-از-حملات-ایران-به-پایگاه-های-آمریکا-در.html</loc>
     <lastmod>+058506-12-10T01:20:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://example.com/96069-quot-وُکس-پاپ-quot-اسپوتنیک-در-خیابانهای-تهران-پتانسیل-ایران.html</loc>
+    <loc>https://sputnikiran.github.io/news/96069-quot-وُکس-پاپ-quot-اسپوتنیک-در-خیابانهای-تهران-پتانسیل-ایران.html</loc>
     <lastmod>+058506-12-10T01:20:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://example.com/96068-ابراز-نگرانی-وزارت-خارجه-روسیه-نسبت-به-تشدید-تنشها-در-منطقه.html</loc>
+    <loc>https://sputnikiran.github.io/news/96068-ابراز-نگرانی-وزارت-خارجه-روسیه-نسبت-به-تشدید-تنشها-در-منطقه.html</loc>
     <lastmod>+058506-12-10T01:20:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://example.com/96067-سیاستمدار-فرانسوی-خودداری-بلغارستان-از-مشارکت-در-quot-ائتلاف.html</loc>
+    <loc>https://sputnikiran.github.io/news/96067-سیاستمدار-فرانسوی-خودداری-بلغارستان-از-مشارکت-در-quot-ائتلاف.html</loc>
     <lastmod>+058506-12-10T01:20:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://example.com/96066-پرواز-گروه-آکروجت-فرچه-تریکولوری-بر-فراز-ساحل-سابیادورو-در-ا.html</loc>
+    <loc>https://sputnikiran.github.io/news/96066-پرواز-گروه-آکروجت-فرچه-تریکولوری-بر-فراز-ساحل-سابیادورو-در-ا.html</loc>
     <lastmod>+058506-12-10T01:20:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://example.com/96065-حسن-سالاریه-به-اسپوتنیک-ما-از-ظرفیت-پرتابگرهای-روسی-در-کنار.html</loc>
+    <loc>https://sputnikiran.github.io/news/96065-حسن-سالاریه-به-اسپوتنیک-ما-از-ظرفیت-پرتابگرهای-روسی-در-کنار.html</loc>
     <lastmod>+058506-12-10T01:20:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://example.com/96064-وکیل-آنا-نوویکووا-درمورد-آخرین-بازجویی-از-وی-در-پاریس-درخواس.html</loc>
+    <loc>https://sputnikiran.github.io/news/96064-وکیل-آنا-نوویکووا-درمورد-آخرین-بازجویی-از-وی-در-پاریس-درخواس.html</loc>
     <lastmod>+058506-12-10T01:20:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://example.com/96063-زاخارووا-نیروهای-ائتلاف-مشتاقان-در-اوکراین-به-یک-هدف-نظامی-م.html</loc>
+    <loc>https://sputnikiran.github.io/news/96063-زاخارووا-نیروهای-ائتلاف-مشتاقان-در-اوکراین-به-یک-هدف-نظامی-م.html</loc>
     <lastmod>+058506-12-10T01:20:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://example.com/96062-موشکهای-گراد-روسی،-نیروهای-ذخیره-اوکراینی-در-دنیپروپتروسک-را.html</loc>
+    <loc>https://sputnikiran.github.io/news/96062-موشکهای-گراد-روسی،-نیروهای-ذخیره-اوکراینی-در-دنیپروپتروسک-را.html</loc>
     <lastmod>+058506-12-10T01:20:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://example.com/96061-چرا-فرانسه-کمکهای-بشردوستانه-به-دونباس-را-به-اقدامی-جاسوسی-ت.html</loc>
+    <loc>https://sputnikiran.github.io/news/96061-چرا-فرانسه-کمکهای-بشردوستانه-به-دونباس-را-به-اقدامی-جاسوسی-ت.html</loc>
     <lastmod>+058506-12-10T01:20:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://example.com/96060-عباس-عراقچی،-وزیر-امور-خارجه-ایران،-به-منظور-ابراز-تسلیت-به.html</loc>
+    <loc>https://sputnikiran.github.io/news/96060-عباس-عراقچی،-وزیر-امور-خارجه-ایران،-به-منظور-ابراز-تسلیت-به.html</loc>
     <lastmod>+058506-12-10T01:20:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://example.com/96059-گزارش-تصویری-اسپوتنیک-از-مراسم-یادبود-آیتالله-خامنهای-در-تهر.html</loc>
+    <loc>https://sputnikiran.github.io/news/96059-گزارش-تصویری-اسپوتنیک-از-مراسم-یادبود-آیتالله-خامنهای-در-تهر.html</loc>
     <lastmod>+058506-12-10T01:20:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
