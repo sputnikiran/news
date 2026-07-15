@@ -6,6 +6,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://sputnikiran.github.io/news/index2.html</loc>
+    <changefreq>hourly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://sputnikiran.github.io/news/auto.html</loc>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
@@ -14,6 +19,12 @@
     <loc>https://sputnikiran.github.io/news/sport.html</loc>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sputnikiran.github.io/news/96084-نکات-کلیدی-در-اظهارات-سخنگوی-وزارت-خارجه-روسیه-در-کنفرانس-خب.html</loc>
+    <lastmod>+058507-01-11T16:40:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://sputnikiran.github.io/news/96081-انهدام-پهپاد-آمریکایی-لوکاس-در-بندرعباس-توسط-رزمندگان-سپاه.html</loc>
