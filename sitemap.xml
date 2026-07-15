@@ -11,6 +11,11 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://sputnikiran.github.io/news/index3.html</loc>
+    <changefreq>hourly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://sputnikiran.github.io/news/auto.html</loc>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
@@ -21,8 +26,26 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://sputnikiran.github.io/news/96107-باران-سیل-آسا-در-امارات.html</loc>
+    <lastmod>2026-07-15T21:00:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sputnikiran.github.io/news/96105-چهار-نقطه-در-اطراف-شهر-اهواز-مورد-تهاجم-آمریکا-قرار-گرفت.html</loc>
+    <lastmod>2026-07-15T21:00:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://sputnikiran.github.io/news/96105-چهار-نقطه-در-اطراف-شهر-اهواز-مورد-تهاجم-آمریکا-قرار-گرفت.html</loc>
     <lastmod>2026-07-15T20:55:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sputnikiran.github.io/news/96104-اسرائیل-نیروهای-خود-را-از-شش-منطقه-در-جنوب-لبنان-خارج-میکند.html</loc>
+    <lastmod>2026-07-15T21:00:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -34,7 +57,19 @@
   </url>
   <url>
     <loc>https://sputnikiran.github.io/news/96100-درمان،-نه-از-بین-بردن-اعتراض-پاریسیها-به-قانونی-که-به-اتاناز.html</loc>
+    <lastmod>2026-07-15T21:00:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sputnikiran.github.io/news/96100-درمان،-نه-از-بین-بردن-اعتراض-پاریسیها-به-قانونی-که-به-اتاناز.html</loc>
     <lastmod>2026-07-15T20:45:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sputnikiran.github.io/news/96099-اسرائیل-نیروهای-خود-را-از-شش-منطقه-در-جنوب-لبنان-خارج-میکند.html</loc>
+    <lastmod>2026-07-15T21:00:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -46,7 +81,19 @@
   </url>
   <url>
     <loc>https://sputnikiran.github.io/news/96098-زاخارووا-گروسی-بالاخره-باید-جنایت-رژیم-کی-یف-را-ببیند-سخنگوی.html</loc>
+    <lastmod>2026-07-15T21:00:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sputnikiran.github.io/news/96098-زاخارووا-گروسی-بالاخره-باید-جنایت-رژیم-کی-یف-را-ببیند-سخنگوی.html</loc>
     <lastmod>2026-07-15T20:20:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sputnikiran.github.io/news/96097-حمله-پهپادهای-روسی-quot-گران-quot-به-کشتی-های-اوکراینی.html</loc>
+    <lastmod>2026-07-15T21:00:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -58,7 +105,19 @@
   </url>
   <url>
     <loc>https://sputnikiran.github.io/news/96096-اقدام-نمادین-سبز-ها-و-اتحادیه-های-کارگری-در-ایتالیا.html</loc>
+    <lastmod>2026-07-15T21:00:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sputnikiran.github.io/news/96096-اقدام-نمادین-سبز-ها-و-اتحادیه-های-کارگری-در-ایتالیا.html</loc>
     <lastmod>2026-07-15T19:50:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sputnikiran.github.io/news/96095-فرماندهی-مرکزی-ارتش-آمریکا-از-آغاز-موج-جدیدی-از-حملات-علیه-ا.html</loc>
+    <lastmod>2026-07-15T21:00:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -70,7 +129,19 @@
   </url>
   <url>
     <loc>https://sputnikiran.github.io/news/96094-اخبار-مهم-جهان-تا-شبانگاه-15-ژوئیه.html</loc>
+    <lastmod>2026-07-15T21:00:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sputnikiran.github.io/news/96094-اخبار-مهم-جهان-تا-شبانگاه-15-ژوئیه.html</loc>
     <lastmod>2026-07-15T19:35:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sputnikiran.github.io/news/96093-کارشناس-تعداد-قابل-توجهی-از-شرکت-های-اروپایی-چین-را-به-عنوان.html</loc>
+    <lastmod>2026-07-15T21:00:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -82,7 +153,19 @@
   </url>
   <url>
     <loc>https://sputnikiran.github.io/news/96092-احضار-سفیر-انگلیس-در-تهران-به-وزارت-امور-خارجه-ایران.html</loc>
+    <lastmod>2026-07-15T21:00:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sputnikiran.github.io/news/96092-احضار-سفیر-انگلیس-در-تهران-به-وزارت-امور-خارجه-ایران.html</loc>
     <lastmod>2026-07-15T19:00:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sputnikiran.github.io/news/96091-لیخاچف-یاکوولف،-مهندس-ارشد-نیروگاه-هستهای-زاپاروژیه-،-در-حمل.html</loc>
+    <lastmod>2026-07-15T21:00:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -94,7 +177,19 @@
   </url>
   <url>
     <loc>https://sputnikiran.github.io/news/96090-خودداری-ووچیچ-از-امضای-بیانیه-نهایی-ضد-روسی-پنجمین-اجلاس-اوک.html</loc>
+    <lastmod>2026-07-15T21:00:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sputnikiran.github.io/news/96090-خودداری-ووچیچ-از-امضای-بیانیه-نهایی-ضد-روسی-پنجمین-اجلاس-اوک.html</loc>
     <lastmod>2026-07-15T18:30:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sputnikiran.github.io/news/96089-قالیباف-تفاهمنامه-زمانی-معنا-دارد-که-بندهای-آن-معتبر-و-درحال.html</loc>
+    <lastmod>2026-07-15T21:00:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
