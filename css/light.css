@@ -1,0 +1,63 @@
+
+@import url("https://fonts.googleapis.com/css2?family=Vazirmatn:wght@400;700&display=swap");
+body { font-family: "Vazirmatn", sans-serif; margin: 0; padding: 0; background-color: #f4f4f4; color: #333; line-height: 1.8; }
+header { background-color: #000000; color: white; padding: 15px 20px; display: flex; justify-content: center; align-items: center; border-bottom: 4px solid #ff9800; }
+header h1 { margin: 0; font-size: 24px; font-weight: bold; }
+header a { color: white; text-decoration: none; font-size: 16px; }
+.container { max-width: 1000px; margin: 5px auto 20px auto; padding: 0 15px; }
+.post-container { max-width: 800px; margin: 30px auto; padding: 20px; background: white; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); }
+.content-wrapper { background: white; padding: 5px 15px 15px 15px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); }
+.grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 15px; margin-bottom: 20px; }
+.card { position: relative; background: #000; border-radius: 4px; overflow: hidden; text-decoration: none; color: white; display: flex; flex-direction: column; transition: transform 0.2s; height: 180px; }
+.card:hover { transform: translateY(-3px); box-shadow: 0 6px 15px rgba(0,0,0,0.2); }
+.card img { position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; z-index: 1; }
+.card .list-placeholder { position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 1; }
+.card .content { position: absolute; bottom: 0; left: 0; right: 0; padding: 30px 15px 15px; background: linear-gradient(to top, rgba(0,0,0,0.9) 0%, rgba(0,0,0,0.6) 50%, transparent 100%); z-index: 2; flex-grow: unset; display: flex; flex-direction: column; justify-content: flex-end; }
+.card .title { font-weight: bold; font-size: 16px; margin: 0 0 5px 0; line-height: 1.4; color: white; text-shadow: 0 1px 3px rgba(0,0,0,0.8); }
+.card .date { font-size: 12px; color: #ddd; }
+.play-btn { position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); z-index: 2; pointer-events: none; width: 48px; height: 48px; background: rgba(0,0,0,0.5); border-radius: 50%; display: flex; align-items: center; justify-content: center; }
+.list-item-image { position: relative; }
+@media (min-width: 768px) {
+  .grid { grid-template-columns: repeat(2, 1fr); }
+}
+.post-title { font-weight: bold; font-size: 28px; margin-bottom: 15px; color: #1a1a1a; line-height: 1.3; }
+.post-date { font-size: 14px; color: #777; margin-bottom: 20px; border-bottom: 1px solid #eee; padding-bottom: 10px; }
+#pinned-posts { display: grid; grid-template-columns: 2fr 1fr; grid-template-rows: repeat(2, 1fr); gap: 15px; margin-bottom: 30px; }
+#pinned-posts .card:first-child { grid-row: span 2; height: 100%; }
+#pinned-posts .card { height: 100%; }
+#top-posts { display: grid; grid-template-columns: 2fr 1fr; grid-template-rows: 180px 180px; gap: 15px; margin-bottom: 20px; }
+#top-posts .card:first-child { grid-row: span 2; height: 100%; }
+#top-posts .card { height: 100%; }
+@media (max-width: 768px) { #pinned-posts, #top-posts { grid-template-columns: 1fr; grid-template-rows: auto; } #pinned-posts .card:first-child { grid-row: auto; height: 220px; } }
+.post-image { margin-bottom: 25px; overflow: hidden; border-radius: 8px; text-align: center; }
+.post-image img { max-width: 100%; max-height: 300px; object-fit: contain; }
+.post-content { font-size: 17px; line-height: 1.8; color: #333; margin-bottom: 30px; }
+#top-posts { display: grid; grid-template-columns: 2fr 1fr; grid-template-rows: 180px 180px; gap: 15px; margin-bottom: 20px; }
+#top-posts .card:first-child { grid-row: span 2; height: 100%; }
+#top-posts .card { height: 100%; }
+@media (max-width: 768px) { #top-posts { grid-template-columns: 1fr; grid-template-rows: auto; } #top-posts .card:first-child { grid-row: auto; height: 200px; } #top-posts .card { height: 200px; } }
+.archive-list { display: flex; flex-direction: column; gap: 15px; border-top: 2px solid #ddd; padding-top: 30px; }
+.list-item { background: white; border-radius: 8px; padding: 15px; display: flex; gap: 20px; text-decoration: none; color: inherit; box-shadow: 0 1px 3px rgba(0,0,0,0.1); transition: transform 0.2s; align-items: center; border: 1px solid #eee; }
+.list-item:hover { transform: translateX(-5px); box-shadow: 0 2px 6px rgba(0,0,0,0.15); background: #fcfcfc; }
+.list-item-image { flex: 0 0 150px; height: 100px; overflow: hidden; border-radius: 6px; }
+.list-item-image img { width: 100%; height: 100%; object-fit: cover; }
+.list-placeholder { width: 100%; height: 100%; display: flex; align-items: center; justify-content: center; }
+.list-item-content { flex-grow: 1; display: flex; flex-direction: column; justify-content: center; }
+.list-title { font-size: 18px; font-weight: bold; margin: 0 0 8px 0; color: #1a1a1a; line-height: 1.4; }
+.list-date { font-size: 13px; color: #777; }
+.back-btn { display: inline-block; margin-bottom: 20px; text-decoration: none; font-size: 24px; }
+.telegram-link { text-align: center; margin-top: 30px; }
+.tg-btn { display: inline-flex; align-items: center; justify-content: center; background: #0088cc; color: white; padding: 10px 25px; text-decoration: none; border-radius: 5px; font-size: 20px; font-weight: bold; }
+.tg-btn:hover { background: #0077b3; }
+.pagination { display: flex; justify-content: center; align-items: center; gap: 10px; margin: 40px 0; flex-wrap: wrap; }
+.page-btn { display: inline-flex; align-items: center; justify-content: center; min-width: 40px; height: 40px; padding: 0 15px; background-color: white; border: 1px solid #ddd; border-radius: 4px; text-decoration: none; color: #1a1a1a; font-weight: bold; font-size: 16px; transition: all 0.2s; box-shadow: 0 2px 4px rgba(0,0,0,0.05); }
+.page-btn:hover { background-color: #f9f9f9; transform: translateY(-2px); box-shadow: 0 4px 8px rgba(0,0,0,0.1); }
+.page-btn.active { background-color: #ff9800; color: white; border-color: #ff9800; pointer-events: none; }
+.page-dots { font-weight: bold; color: #777; padding: 0 5px; }
+.tags-cloud { display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 10px; padding: 0; border: none; justify-content: center; }
+.tag-btn { flex: 1; text-align: center; display: block; padding: 8px 10px; background: #ffffff; color: #000000; border: 1px solid #e0e0e0; border-radius: 4px; text-decoration: none; font-size: 14px; font-weight: bold; transition: all 0.2s; }
+.tag-btn:hover { background: #f5f5f5; border-color: #d0d0d0; }
+.inline-tag { color: #ff9800; font-weight: bold; text-decoration: none; }
+.inline-tag:hover { text-decoration: underline; }
+@media (max-width: 600px) { .list-item { flex-direction: column; } .list-item-image { flex: 0 0 auto; height: 150px; } }
+    
