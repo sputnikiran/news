@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>tags: auto</title>
+    <link rel="icon" type="image/x-icon" href="logo_sputnik.svg">
+    <link rel="stylesheet" href="css/light.css?v=1784178922914">
+    <script async src="https://telegram.org/js/telegram-widget.js?22"></script>
+    
+    </head>
+<body>
+    <header class="header">
+        <div class="logo">
+            <a href="index.html" style="display: flex; align-items: center; justify-content: center; text-decoration: none; color: inherit; width: 100%;">
+                <img src="logo_sputnik.svg" alt="Logo" style="height: 40px; margin-left: 15px;">
+                <h1 style="margin: 0;">auto</h1>
+            </a>
+        </div>
+    </header>
+    <div class="container" style="padding-top: 5px;">
+        <div class="content-wrapper" style="margin-bottom: 15px; padding-bottom: 5px;">
+            <div class="tags-cloud" style="margin-bottom: 0;">
+                <a href="auto.html" class="tag-btn">auto</a>
+            </div>
+        </div>
+        <div class="content-wrapper">
+        <div id="pinned-container" style="display:none;">
+            <div id="pinned-posts" class="grid"></div>
+        </div>
+        <div class="archive-list">
+            <a href="96109-ترامپ-در-تشدید-جنگ-تجاری-جدید،-تعرفه-25-درصدی-بر-برزیل-وضع-ک.html" class="list-item" onclick="trackClick(96109, 'web_internal')">
+                <div class="list-item-image">
+                    <img src="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/96109.jpg">
+                    
+                </div>
+                <div class="list-item-content">
+                    <h3 class="list-title">ترامپ در تشدید جنگ تجاری جدید، تعرفه 25 درصدی بر برزیل وضع کرد</h3>
+                    <div class="list-date">2026-07-16 08:15</div>
+                </div>
+            </a>
+        </div>
+        <div class="pagination">
+            <span class="page-btn active">1</span>
+        </div>
+        </div><!-- content-wrapper -->
+    </div><!-- container -->
+    <script>
+        const GAS_URL = "https://script.google.com/macros/s/AKfycbyv-tioEQw7EJw4vDD7Z9cVKDjULDcNydq5xf6clBnujq0OfzdkFJhz-M4VBFtQFSw6tw/exec";
+        function trackClick(postId, target) {
+            new Image().src = GAS_URL + "?action=click&id=" + postId + "&target=" + target + "&t=" + new Date().getTime();
+        }
+        async function loadPinned() {
+            try {
+                const res = await fetch(GAS_URL + "?action=get_pinned");
+                const pinnedIds = await res.json();
+                const container = document.getElementById('pinned-posts');
+                if (!pinnedIds || pinnedIds.length === 0) return;
+                
+                for (let obj of pinnedIds) {
+                    const link = document.createElement('a');
+                    link.href = obj.slug + '.html';
+                    link.className = 'card';
+                    link.innerHTML = '<div class="list-placeholder">...</div>';
+                    container.appendChild(link);
+                }
+            } catch(e) { console.error(e); }
+        }
+        document.addEventListener("DOMContentLoaded", loadPinned);
+    </script>
+</body>
+</html>
