@@ -46,6 +46,11 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://sputnikiran.github.io/news/index10.html</loc>
+    <changefreq>hourly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://sputnikiran.github.io/news/russia.html</loc>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
@@ -57,13 +62,31 @@
   </url>
   <url>
     <loc>https://sputnikiran.github.io/news/96245-اطلاعیه-شماره-25-سپاه-انهدام-دپوی-شهپادهای-آمریکا-در-بحرین-و.html</loc>
+    <lastmod>2026-07-17T21:00:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sputnikiran.github.io/news/96245-اطلاعیه-شماره-25-سپاه-انهدام-دپوی-شهپادهای-آمریکا-در-بحرین-و.html</loc>
     <lastmod>2026-07-17T20:50:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://sputnikiran.github.io/news/96244-نسبت-واقعی-تلفات-32-به-1-که-اوکراین-نمیخواهد-شما-ببینید.html</loc>
+    <lastmod>2026-07-17T21:00:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sputnikiran.github.io/news/96244-نسبت-واقعی-تلفات-32-به-1-که-اوکراین-نمیخواهد-شما-ببینید.html</loc>
     <lastmod>2026-07-17T20:45:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sputnikiran.github.io/news/96243-تسنیم-حمله-نظامی-آمریکا-به-حوالی-سیریک.html</loc>
+    <lastmod>2026-07-17T21:00:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -75,7 +98,19 @@
   </url>
   <url>
     <loc>https://sputnikiran.github.io/news/96242-ارتش-آمریکا-از-حملات-جدید-علیه-ایران-خبر-داد.html</loc>
+    <lastmod>2026-07-17T21:00:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sputnikiran.github.io/news/96242-ارتش-آمریکا-از-حملات-جدید-علیه-ایران-خبر-داد.html</loc>
     <lastmod>2026-07-17T20:20:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sputnikiran.github.io/news/96241-شلیک-موشکهای-کروز-به-سمت-شناور-متخاصم-آمریکایی-در-شمال-اقیان.html</loc>
+    <lastmod>2026-07-17T21:00:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -87,7 +122,19 @@
   </url>
   <url>
     <loc>https://sputnikiran.github.io/news/96240-زاخارووا-کییف-با-تجلیل-از-oun-ذات-انسانستیزانه-رژیم-خود-را-ث.html</loc>
+    <lastmod>2026-07-17T21:00:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sputnikiran.github.io/news/96240-زاخارووا-کییف-با-تجلیل-از-oun-ذات-انسانستیزانه-رژیم-خود-را-ث.html</loc>
     <lastmod>2026-07-17T19:55:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sputnikiran.github.io/news/96239-مهمترین-رویدادهای-جهان-تا-عصر-17-ژوئیه.html</loc>
+    <lastmod>2026-07-17T21:00:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -99,7 +146,19 @@
   </url>
   <url>
     <loc>https://sputnikiran.github.io/news/96238-وزارت-امنیت-داخلی-آمریکا-حدود-400-000-رأیدهنده-مرده-و-250-00.html</loc>
+    <lastmod>2026-07-17T21:00:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sputnikiran.github.io/news/96238-وزارت-امنیت-داخلی-آمریکا-حدود-400-000-رأیدهنده-مرده-و-250-00.html</loc>
     <lastmod>2026-07-17T19:20:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sputnikiran.github.io/news/96237-رضایی-نیروهای-مسلح-ایران-سیلیهای-محکمی-به-متجاوزان-آمریکایی.html</loc>
+    <lastmod>2026-07-17T21:00:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -111,13 +170,31 @@
   </url>
   <url>
     <loc>https://sputnikiran.github.io/news/96236-عراقچی-تا-آخرین-نفس-از-وجب-به-وجب-سرزمینمان-دفاع-میکنیم.html</loc>
+    <lastmod>2026-07-17T21:00:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sputnikiran.github.io/news/96236-عراقچی-تا-آخرین-نفس-از-وجب-به-وجب-سرزمینمان-دفاع-میکنیم.html</loc>
     <lastmod>2026-07-17T19:05:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://sputnikiran.github.io/news/96235-رانش-کوه-در-شهرستان-پنگشویی-چین؛-8-کشته،-34-مفقود-و-تخلیه-بی.html</loc>
+    <lastmod>2026-07-17T21:00:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sputnikiran.github.io/news/96235-رانش-کوه-در-شهرستان-پنگشویی-چین؛-8-کشته،-34-مفقود-و-تخلیه-بی.html</loc>
     <lastmod>2026-07-17T18:55:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sputnikiran.github.io/news/96234-nbsp-تصاویر-اصابت-دقیق-پهپاد-تهاجمی-نیروی-دریایی-سپاه-به-یک.html</loc>
+    <lastmod>2026-07-17T21:00:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -129,7 +206,19 @@
   </url>
   <url>
     <loc>https://sputnikiran.github.io/news/96233-زلزله-7-4-ریشتری-در-جنوب-مکزیک؛-هشدار-سونامی-و-تخلیه-سواحل-ج.html</loc>
+    <lastmod>2026-07-17T21:00:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sputnikiran.github.io/news/96233-زلزله-7-4-ریشتری-در-جنوب-مکزیک؛-هشدار-سونامی-و-تخلیه-سواحل-ج.html</loc>
     <lastmod>2026-07-17T18:20:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sputnikiran.github.io/news/96232-انهدام-مواضع-نظامیان-اوکراین-توسط-جنگندههای-سوخو-34-در-استان.html</loc>
+    <lastmod>2026-07-17T21:00:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -141,7 +230,19 @@
   </url>
   <url>
     <loc>https://sputnikiran.github.io/news/96231-حمله-جدید-ایران-به-پایگاههای-ایالات-متحده-در-خلیج-فارس،-موفق.html</loc>
+    <lastmod>2026-07-17T21:00:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sputnikiran.github.io/news/96231-حمله-جدید-ایران-به-پایگاههای-ایالات-متحده-در-خلیج-فارس،-موفق.html</loc>
     <lastmod>2026-07-17T17:35:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sputnikiran.github.io/news/96230-اعتراض-شدید-روسیه-به-تخریب-یادبود-شوروی-در-استونی.html</loc>
+    <lastmod>2026-07-17T21:00:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -153,13 +254,31 @@
   </url>
   <url>
     <loc>https://sputnikiran.github.io/news/96228-آتشسوزی-جنگلی-در-آراگون-اسپانیا-خارج-از-کنترل؛-بیش-از-12-000.html</loc>
+    <lastmod>2026-07-17T21:00:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sputnikiran.github.io/news/96228-آتشسوزی-جنگلی-در-آراگون-اسپانیا-خارج-از-کنترل؛-بیش-از-12-000.html</loc>
     <lastmod>2026-07-17T17:15:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://sputnikiran.github.io/news/96227-تصاویر-هوایی-از-تخریب-پلهای-بندر-خمیر-ایران-در-حمله-آمریکا.html</loc>
+    <lastmod>2026-07-17T21:00:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sputnikiran.github.io/news/96227-تصاویر-هوایی-از-تخریب-پلهای-بندر-خمیر-ایران-در-حمله-آمریکا.html</loc>
     <lastmod>2026-07-17T16:55:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sputnikiran.github.io/news/96226-در-چین-هشدار-دادند-که-quot-روز-قیامت-برای-اروپا-quot-نزدیک-م.html</loc>
+    <lastmod>2026-07-17T21:00:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
