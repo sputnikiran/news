@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>News</title>
+    <link rel="icon" type="image/x-icon" href="logo_sputnik.svg">
+    <link rel="stylesheet" href="css/light.css?v=1784279484303">
+    <script async src="https://telegram.org/js/telegram-widget.js?22"></script>
+    
+    </head>
+<body>
+    <header class="header">
+        <div class="logo">
+            <a href="index.html" style="display: flex; align-items: center; justify-content: center; text-decoration: none; color: inherit; width: 100%;">
+                <img src="logo_sputnik.svg" alt="Logo" style="height: 40px; ">
+                
+            </a>
+        </div>
+    </header>
+    <div class="container" style="padding-top: 5px;">
+        <div class="content-wrapper" style="margin-bottom: 15px; padding-bottom: 5px;">
+            <div class="tags-cloud" style="margin-bottom: 0;">
+                <a href="russia.html" class="tag-btn">روسیه</a>
+                <a href="iran.html" class="tag-btn">ایران</a>
+            </div>
+        </div>
+        <div class="content-wrapper">
+        <div id="pinned-container" >
+            <div id="pinned-posts" class="grid"></div>
+        </div>
+        <div class="archive-list">
+            <a href="96061-چرا-فرانسه-کمکهای-بشردوستانه-به-دونباس-را-به-اقدامی-جاسوسی-ت.html" class="list-item" onclick="trackClick(96061, 'web_internal')">
+                <div class="list-item-image">
+                    <img src="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/96061.jpg">
+                    
+                </div>
+                <div class="list-item-content">
+                    <h3 class="list-title">چرا فرانسه کمک‌های بشردوستانه به دونباس را به اقدامی جاسوسی تبدیل کرده است؟</h3>
+                    <div class="list-date">2026-07-15 19:38</div>
+                </div>
+            </a>
+            <a href="96060-عباس-عراقچی،-وزیر-امور-خارجه-ایران،-به-منظور-ابراز-تسلیت-به.html" class="list-item" onclick="trackClick(96060, 'web_internal')">
+                <div class="list-item-image">
+                    <img src="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/96060.jpg">
+                    
+                </div>
+                <div class="list-item-content">
+                    <h3 class="list-title">عباس عراقچی، وزیر امور خارجه ایران، به منظور ابراز تسلیت به مناسبت درگذشت امیر سابق قطر، وارد دوحه شد</h3>
+                    <div class="list-date">2026-07-15 19:38</div>
+                </div>
+            </a>
+            <a href="96059-گزارش-تصویری-اسپوتنیک-از-مراسم-یادبود-آیتالله-خامنهای-در-تهر.html" class="list-item" onclick="trackClick(96059, 'web_internal')">
+                <div class="list-item-image">
+                    <img src="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/96059.jpg">
+                    <div class="play-btn"><svg viewBox="0 0 24 24" width="24" height="24" stroke="white" stroke-width="2" fill="white" style="margin-left: 4px;"><polygon points="5 3 19 12 5 21"></polygon></svg></div>
+                </div>
+                <div class="list-item-content">
+                    <h3 class="list-title">گزارش تصویری اسپوتنیک از مراسم یادبود آیت‌الله خامنه‌ای در تهران</h3>
+                    <div class="list-date">2026-07-15 19:38</div>
+                </div>
+            </a>
+        </div>
+        <div class="pagination">
+            <a href="index5.html" class="page-btn" title="Newer"><svg viewBox="0 0 24 24" width="20" height="20" stroke="currentColor" stroke-width="2" fill="none"><polyline points="9 18 15 12 9 6"></polyline></svg></a>
+            <a href="index.html" class="page-btn">1</a>
+            <a href="index2.html" class="page-btn">2</a>
+            <a href="index3.html" class="page-btn">3</a>
+            <a href="index4.html" class="page-btn">4</a>
+            <a href="index5.html" class="page-btn">5</a>
+            <span class="page-btn active">6</span>
+        </div>
+        </div><!-- content-wrapper -->
+    </div><!-- container -->
+    <script>
+        const GAS_URL = "https://script.google.com/macros/s/AKfycbxAGMNkZO-kr-W75x7cqhRAhW7PFq03_SsysJuOcmiiEKZvAc4u/exec";
+        function trackClick(postId, target) {
+            new Image().src = GAS_URL + "?action=click&id=" + postId + "&target=" + target + "&t=" + new Date().getTime();
+        }
+        async function loadPinned() {
+            try {
+                const res = await fetch(GAS_URL + "?action=get_pinned");
+                const pinnedIds = await res.json();
+                const container = document.getElementById('pinned-posts');
+                if (!pinnedIds || pinnedIds.length === 0) return;
+                
+                for (let obj of pinnedIds) {
+                    const link = document.createElement('a');
+                    link.href = obj.slug + '.html';
+                    link.className = 'card';
+                    link.innerHTML = '<div class="list-placeholder">...</div>';
+                    container.appendChild(link);
+                }
+            } catch(e) { console.error(e); }
+        }
+        document.addEventListener("DOMContentLoaded", loadPinned);
+    </script>
+</body>
+</html>
