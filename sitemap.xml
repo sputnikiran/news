@@ -31,6 +31,11 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://sputnikiran.github.io/news/index7.html</loc>
+    <changefreq>hourly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://sputnikiran.github.io/news/russia.html</loc>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
@@ -39,6 +44,12 @@
     <loc>https://sputnikiran.github.io/news/iran.html</loc>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sputnikiran.github.io/news/96217-با-پایان-آتش-بس-ایران-و-آمریکا-گام-بعدی-ترامپ-چه-خواهد-بود؟.html</loc>
+    <lastmod>+058512-02-22T18:00:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://sputnikiran.github.io/news/96212-بارانهای-سیلآسا-در-شمال-ویتنام؛-یک-کشته،-4-مفقود-و-تخلیه-دهه.html</loc>
