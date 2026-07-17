@@ -31,6 +31,11 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://sputnikiran.github.io/news/index7.html</loc>
+    <changefreq>hourly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://sputnikiran.github.io/news/auto.html</loc>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
@@ -39,6 +44,18 @@
     <loc>https://sputnikiran.github.io/news/sport.html</loc>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sputnikiran.github.io/news/96169-چین-اتهامات-ترامپ-در-باره-دخالت-در-انتخابات-را-رد-کرد.html</loc>
+    <lastmod>2026-07-17T05:05:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sputnikiran.github.io/news/96168-ارتش-آمریکا-اعلام-کرد-ششمین-شب-حملات-به-ایران-به-پایان-رسید.html</loc>
+    <lastmod>2026-07-17T05:05:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://sputnikiran.github.io/news/96167-فوران-آتشفشان-کیلائوآ-در-هاوایی.html</loc>
