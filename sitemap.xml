@@ -66,6 +66,11 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://sputnikiran.github.io/news/index14.html</loc>
+    <changefreq>hourly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://sputnikiran.github.io/news/russia.html</loc>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
@@ -76,8 +81,26 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://sputnikiran.github.io/news/96298-ثبت-رفتار-نادر-جریان-گدازه-در-آتشفشان-اتنا؛-جدا-شدن-و-فروپاش.html</loc>
+    <lastmod>2026-07-18T21:00:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sputnikiran.github.io/news/96297-حملات-شهرکنشینان-اسرائیلی-به-دوران-حرفهای-بازیکن-فلسطینی-پای.html</loc>
+    <lastmod>2026-07-18T21:00:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://sputnikiran.github.io/news/96297-حملات-شهرکنشینان-به-دوران-حرفهای-بازیکن-فلسطینی-پایان-داد.html</loc>
     <lastmod>2026-07-18T20:45:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sputnikiran.github.io/news/96296-هند-برای-اولین-بار-با-موفقیت-موشک-مداری-ویکرام-1-خود-را-که-ت.html</loc>
+    <lastmod>2026-07-18T21:00:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -89,7 +112,19 @@
   </url>
   <url>
     <loc>https://sputnikiran.github.io/news/96295-غریبآبادی-تعهداتمان-در-تفاهمنامه-اسلامآباد-را-متوقف-کردهایم.html</loc>
+    <lastmod>2026-07-18T21:00:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sputnikiran.github.io/news/96295-غریبآبادی-تعهداتمان-در-تفاهمنامه-اسلامآباد-را-متوقف-کردهایم.html</loc>
     <lastmod>2026-07-18T20:15:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sputnikiran.github.io/news/96294-فرستاده-ویژه-رئیسجمهور-روسیه-بحران-انرژی،-اروپا-و-بریتانیای.html</loc>
+    <lastmod>2026-07-18T21:00:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -101,7 +136,19 @@
   </url>
   <url>
     <loc>https://sputnikiran.github.io/news/96293-آغاز-عملیات-آبرسانی-اضطراری-ستاد-اجرایی-فرمان-امام-به-مناطق.html</loc>
+    <lastmod>2026-07-18T21:00:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sputnikiran.github.io/news/96293-آغاز-عملیات-آبرسانی-اضطراری-ستاد-اجرایی-فرمان-امام-به-مناطق.html</loc>
     <lastmod>2026-07-18T19:45:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sputnikiran.github.io/news/96292-مهمترین-رویدادهای-جهان-تا-شامگاه-18-ژوئیه.html</loc>
+    <lastmod>2026-07-18T21:00:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -113,7 +160,19 @@
   </url>
   <url>
     <loc>https://sputnikiran.github.io/news/96291-دو-سرباز-آمریکایی-در-حملات-ایران-به-تأسیسات-اردن-کشته-شدند.html</loc>
+    <lastmod>2026-07-18T21:00:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sputnikiran.github.io/news/96291-دو-سرباز-آمریکایی-در-حملات-ایران-به-تأسیسات-اردن-کشته-شدند.html</loc>
     <lastmod>2026-07-18T19:15:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sputnikiran.github.io/news/96290-رهبر-ایران-نقض-تفاهمنامه-بار-دیگر-بیارزشی-و-نامعتبربودن-امضا.html</loc>
+    <lastmod>2026-07-18T21:00:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -125,7 +184,19 @@
   </url>
   <url>
     <loc>https://sputnikiran.github.io/news/96289-دانشمندان-روسی-آزمایش-پیشگامانه-ریه-را-رونمایی-کردند-که-با-د.html</loc>
+    <lastmod>2026-07-18T21:00:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sputnikiran.github.io/news/96289-دانشمندان-روسی-آزمایش-پیشگامانه-ریه-را-رونمایی-کردند-که-با-د.html</loc>
     <lastmod>2026-07-18T18:35:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sputnikiran.github.io/news/96288-دو-سرباز-آمریکایی-در-حملات-ایران-به-تأسیسات-اردن-کشته-شدند.html</loc>
+    <lastmod>2026-07-18T21:00:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -137,7 +208,19 @@
   </url>
   <url>
     <loc>https://sputnikiran.github.io/news/96287-رسانه-انفجار-مرگبار-در-کارخانه-غیرقانونی-مواد-محترقه-در-هند؛.html</loc>
+    <lastmod>2026-07-18T21:00:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sputnikiran.github.io/news/96287-رسانه-انفجار-مرگبار-در-کارخانه-غیرقانونی-مواد-محترقه-در-هند؛.html</loc>
     <lastmod>2026-07-18T17:35:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sputnikiran.github.io/news/96286-آب-بازی-کودکان-فلسطینی-در-کنار-چادرهای-آوارگان-در-غزه-برای-ف.html</loc>
+    <lastmod>2026-07-18T21:00:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -149,7 +232,19 @@
   </url>
   <url>
     <loc>https://sputnikiran.github.io/news/96285-رئیس-ستاد-کل-روسیه-نیروهای-روسی-در-تمام-جبهههای-درگیری-اوکرا.html</loc>
+    <lastmod>2026-07-18T21:00:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sputnikiran.github.io/news/96285-رئیس-ستاد-کل-روسیه-نیروهای-روسی-در-تمام-جبهههای-درگیری-اوکرا.html</loc>
     <lastmod>2026-07-18T16:40:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sputnikiran.github.io/news/96284-تحلیلگر-ویتنامی-تشدید-درگیری-آمریکا-و-ایران-نگرانیها-از-جنگ.html</loc>
+    <lastmod>2026-07-18T21:00:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -161,7 +256,19 @@
   </url>
   <url>
     <loc>https://sputnikiran.github.io/news/96283-حمله-پهپادی-اوکراین-به-منطقه-تامبوف-روسیه،-حمله-تروریستی-برن.html</loc>
+    <lastmod>2026-07-18T21:00:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sputnikiran.github.io/news/96283-حمله-پهپادی-اوکراین-به-منطقه-تامبوف-روسیه،-حمله-تروریستی-برن.html</loc>
     <lastmod>2026-07-18T15:50:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sputnikiran.github.io/news/96282-حمله-اسرائیل-به-یک-آپارتمان-در-شمال-غزه.html</loc>
+    <lastmod>2026-07-18T21:00:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -173,13 +280,31 @@
   </url>
   <url>
     <loc>https://sputnikiran.github.io/news/96281-لاوروف-با-همتای-اماراتی-خود-تماس-تلفنی-برقرار-کرد.html</loc>
+    <lastmod>2026-07-18T21:00:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sputnikiran.github.io/news/96281-لاوروف-با-همتای-اماراتی-خود-تماس-تلفنی-برقرار-کرد.html</loc>
     <lastmod>2026-07-18T15:10:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://sputnikiran.github.io/news/96280-حمله-پهپادهای-روسیه-به-کشتی-کانتینربر-حامل-محموله-نظامی-برای.html</loc>
+    <lastmod>2026-07-18T21:00:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sputnikiran.github.io/news/96280-حمله-پهپادهای-روسیه-به-کشتی-کانتینربر-حامل-محموله-نظامی-برای.html</loc>
     <lastmod>2026-07-18T15:00:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sputnikiran.github.io/news/96279-ویدیو-انفجار-ساختمانهای-مسکونی-توسط-ارتش-اسرائیل-در-شرق-خان.html</loc>
+    <lastmod>2026-07-18T21:00:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
