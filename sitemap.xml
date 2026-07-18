@@ -61,6 +61,11 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://sputnikiran.github.io/news/index13.html</loc>
+    <changefreq>hourly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://sputnikiran.github.io/news/russia.html</loc>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
@@ -69,6 +74,12 @@
     <loc>https://sputnikiran.github.io/news/iran.html</loc>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sputnikiran.github.io/news/96297-حملات-شهرکنشینان-به-دوران-حرفهای-بازیکن-فلسطینی-پایان-داد.html</loc>
+    <lastmod>2026-07-18T20:45:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://sputnikiran.github.io/news/96296-هند-برای-اولین-بار-با-موفقیت-موشک-مداری-ویکرام-1-خود-را-که-ت.html</loc>
