@@ -81,6 +81,11 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://sputnikiran.github.io/news/index17.html</loc>
+    <changefreq>hourly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://sputnikiran.github.io/news/russia.html</loc>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
@@ -92,7 +97,19 @@
   </url>
   <url>
     <loc>https://sputnikiran.github.io/news/96350-تعداد-کشتهشدگان-زلزله-پرو-به-شش-نفر-رسید.html</loc>
+    <lastmod>2026-07-19T21:00:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sputnikiran.github.io/news/96350-تعداد-کشتهشدگان-زلزله-پرو-به-شش-نفر-رسید.html</loc>
     <lastmod>2026-07-19T20:55:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sputnikiran.github.io/news/96349-صدراعظم-آلمان-وابستگی-آلمان-به-گاز-روسیه-را-تأیید-کرد.html</loc>
+    <lastmod>2026-07-19T21:00:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -104,7 +121,19 @@
   </url>
   <url>
     <loc>https://sputnikiran.github.io/news/96348-معاون-وزیر-امور-خارجه-ایران-حمله-به-تاسیسات-هستهای-دارخوین-ر.html</loc>
+    <lastmod>2026-07-19T21:00:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sputnikiran.github.io/news/96348-معاون-وزیر-امور-خارجه-ایران-حمله-به-تاسیسات-هستهای-دارخوین-ر.html</loc>
     <lastmod>2026-07-19T20:35:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sputnikiran.github.io/news/96347-کارشناس-زندان-تمساح-اسرائیل-شکنجه-گاه-است-نه-امنیت.html</loc>
+    <lastmod>2026-07-19T21:00:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -116,7 +145,19 @@
   </url>
   <url>
     <loc>https://sputnikiran.github.io/news/96346-اخبار-مهم-جهان-در-19-جولای.html</loc>
+    <lastmod>2026-07-19T21:00:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sputnikiran.github.io/news/96346-اخبار-مهم-جهان-در-19-جولای.html</loc>
     <lastmod>2026-07-19T18:50:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sputnikiran.github.io/news/96345-رسانه-ها-اتحادیه-اروپا-با-حمایت-از-تحریمهای-جدید-علیه-روسیه،.html</loc>
+    <lastmod>2026-07-19T21:00:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -128,7 +169,19 @@
   </url>
   <url>
     <loc>https://sputnikiran.github.io/news/96344-ایران-توربینهای-بادی-بدون-پره-تولید-میکند-که-هفت-برابر-انرژی.html</loc>
+    <lastmod>2026-07-19T21:00:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sputnikiran.github.io/news/96344-ایران-توربینهای-بادی-بدون-پره-تولید-میکند-که-هفت-برابر-انرژی.html</loc>
     <lastmod>2026-07-19T18:00:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sputnikiran.github.io/news/96343-قزاقستان-حملات-به-کشتیهای-غیرنظامی-در-دریای-سیاه-را-محکوم-نم.html</loc>
+    <lastmod>2026-07-19T21:00:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -140,7 +193,19 @@
   </url>
   <url>
     <loc>https://sputnikiran.github.io/news/96342-حضور-پرشور-هواداران-آرژانتین-و-اسپانیا-در-نیویورک-برای-فینال.html</loc>
+    <lastmod>2026-07-19T21:00:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sputnikiran.github.io/news/96342-حضور-پرشور-هواداران-آرژانتین-و-اسپانیا-در-نیویورک-برای-فینال.html</loc>
     <lastmod>2026-07-19T16:50:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sputnikiran.github.io/news/96340-حضور-پرشور-هواداران-آرژانتین-و-اسپانیا-در-نیویورک-برای-فینال.html</loc>
+    <lastmod>2026-07-19T21:00:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -152,7 +217,19 @@
   </url>
   <url>
     <loc>https://sputnikiran.github.io/news/96339-پیشرفت-فناوری-هند-در-ساخت-پهپادهای-فوق-بشری-هوایی،-زمینی-و-د.html</loc>
+    <lastmod>2026-07-19T21:00:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sputnikiran.github.io/news/96339-پیشرفت-فناوری-هند-در-ساخت-پهپادهای-فوق-بشری-هوایی،-زمینی-و-د.html</loc>
     <lastmod>2026-07-19T15:45:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sputnikiran.github.io/news/96338-سخنگوی-کرملین-پوتین-با-چوی-سون-هوی،-وزیر-خارجه-کره-شمالی،-در.html</loc>
+    <lastmod>2026-07-19T21:00:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -164,7 +241,19 @@
   </url>
   <url>
     <loc>https://sputnikiran.github.io/news/96337-تغییر-رویکرد-ایران-در-حملات.html</loc>
+    <lastmod>2026-07-19T21:00:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sputnikiran.github.io/news/96337-تغییر-رویکرد-ایران-در-حملات.html</loc>
     <lastmod>2026-07-19T15:15:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sputnikiran.github.io/news/96336-راهپیمایی-ضد-دولتی-علیه-نظامی-شدن-ژاپن-در-مرکز-توکیو-برگزار.html</loc>
+    <lastmod>2026-07-19T21:00:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -176,7 +265,19 @@
   </url>
   <url>
     <loc>https://sputnikiran.github.io/news/96335-یکی-از-بزرگترین-مراکز-لجستیکی-اوکراین-در-نزدیکی-کی-یف،-پس-از.html</loc>
+    <lastmod>2026-07-19T21:00:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sputnikiran.github.io/news/96335-یکی-از-بزرگترین-مراکز-لجستیکی-اوکراین-در-نزدیکی-کی-یف،-پس-از.html</loc>
     <lastmod>2026-07-19T14:30:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sputnikiran.github.io/news/96334-راهبرد-بقا-در-جنگ-فراگیر-از-بازدارندگی-نظامی-ایران-و-مدیریت.html</loc>
+    <lastmod>2026-07-19T21:00:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -188,13 +289,31 @@
   </url>
   <url>
     <loc>https://sputnikiran.github.io/news/96333-انهدام-یک-فروند-پهپاد-لوکاس-توسط-نیروی-دریایی-ارتش-در-جنوب-ک.html</loc>
+    <lastmod>2026-07-19T21:00:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sputnikiran.github.io/news/96333-انهدام-یک-فروند-پهپاد-لوکاس-توسط-نیروی-دریایی-ارتش-در-جنوب-ک.html</loc>
     <lastmod>2026-07-19T13:55:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://sputnikiran.github.io/news/96332-ونیز-تعطیلات-جشن-سنتی-نجاتدهنده-را-با-آتشبازی-بر-فراز-تالاب.html</loc>
+    <lastmod>2026-07-19T21:00:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sputnikiran.github.io/news/96332-ونیز-تعطیلات-جشن-سنتی-نجاتدهنده-را-با-آتشبازی-بر-فراز-تالاب.html</loc>
     <lastmod>2026-07-19T13:35:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sputnikiran.github.io/news/96330-پیامدهای-سیل-شدید-در-سرزمین-پرم،-روسیه.html</loc>
+    <lastmod>2026-07-19T21:00:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
