@@ -106,6 +106,11 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://sputnikiran.github.io/news/index22.html</loc>
+    <changefreq>hourly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://sputnikiran.github.io/news/russia.html</loc>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
@@ -114,6 +119,12 @@
     <loc>https://sputnikiran.github.io/news/iran.html</loc>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sputnikiran.github.io/news/96463-رسانه-غربی-ترامپ-میتواند-تا-اوایل-این-هفته-تعرفههای-جدیدی-را.html</loc>
+    <lastmod>2026-07-21T13:25:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://sputnikiran.github.io/news/96462-توافق-هرمز-آتشبس-یا-حمله-تمامعیار؟.html</loc>
