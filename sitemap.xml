@@ -538,6 +538,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://sputnikiran.github.io/news/96562-اخبار-مهم-جهان-تا-شبانگاه.html</loc>
+    <lastmod>2026-07-22T19:05:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://sputnikiran.github.io/news/96432-گزارش-میانجیها-پیشنهاد-آتشبس.html</loc>
     <lastmod>2026-07-21T05:10:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
@@ -3126,12 +3132,6 @@
   <url>
     <loc>https://sputnikiran.github.io/news/96085-روسیه-سه-کشتی-باری-را-در-بنادر-اوکراین-هدف-قرار-داد-وزارت-دف.html</loc>
     <lastmod>2026-07-15T17:35:00.000Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sputnikiran.github.io/news/96087-لیخاچف-یاکولف،-مهندس-ارشد-نیروگاه-هستهای-زاپاروژیه-،-در-حمله.html</loc>
-    <lastmod>2026-07-15T17:55:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
