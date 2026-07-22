@@ -520,6 +520,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://sputnikiran.github.io/news/96559-هشدار-فرمانده-نیروی-هوافضای-سپاه-به-پلها-و-نیروگاههای-ما-تعر.html</loc>
+    <lastmod>2026-07-22T18:25:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://sputnikiran.github.io/news/96432-گزارش-میانجیها-پیشنهاد-آتشبس.html</loc>
     <lastmod>2026-07-21T05:10:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
@@ -3126,12 +3132,6 @@
   <url>
     <loc>https://sputnikiran.github.io/news/96089-قالیباف-تفاهمنامه-زمانی-معنا-دارد-که-بندهای-آن-معتبر-و-درحال.html</loc>
     <lastmod>2026-07-15T18:10:00.000Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sputnikiran.github.io/news/96090-خودداری-ووچیچ-از-امضای-بیانیه-نهایی-ضد-روسی-پنجمین-اجلاس-اوک.html</loc>
-    <lastmod>2026-07-15T18:30:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
