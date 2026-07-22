@@ -508,6 +508,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://sputnikiran.github.io/news/96557-طوفان-شدیدی-استانبول-را-درنوردیده-است.html</loc>
+    <lastmod>2026-07-22T18:05:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://sputnikiran.github.io/news/96432-گزارش-میانجیها-پیشنهاد-آتشبس.html</loc>
     <lastmod>2026-07-21T05:10:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
@@ -3126,12 +3132,6 @@
   <url>
     <loc>https://sputnikiran.github.io/news/96091-لیخاچف-یاکولف،-مهندس-ارشد-نیروگاه-هستهای-زاپاروژیه-،-در-حمله.html</loc>
     <lastmod>2026-07-15T18:40:00.000Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sputnikiran.github.io/news/96092-احضار-سفیر-انگلیس-در-تهران-به-وزارت-امور-خارجه-ایران.html</loc>
-    <lastmod>2026-07-15T19:00:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
