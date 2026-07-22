@@ -556,6 +556,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://sputnikiran.github.io/news/96565-شجاعتی-که-قرنها-زنده-خواهد-ماند-و-باید-درباره-آن-فیلم-و-کتاب.html</loc>
+    <lastmod>2026-07-22T19:50:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://sputnikiran.github.io/news/96432-گزارش-میانجیها-پیشنهاد-آتشبس.html</loc>
     <lastmod>2026-07-21T05:10:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
@@ -3126,12 +3132,6 @@
   <url>
     <loc>https://sputnikiran.github.io/news/96080-آیا-مراسلات-و-مکاتبات-از-ناو-هواپیمابر-مهمتر-است؟.html</loc>
     <lastmod>2026-07-15T17:05:00.000Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sputnikiran.github.io/news/96081-انهدام-پهپاد-آمریکایی-لوکاس-در-بندرعباس-توسط-رزمندگان-سپاه.html</loc>
-    <lastmod>2026-07-15T17:15:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
