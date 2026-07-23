@@ -352,6 +352,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://sputnikiran.github.io/news/96610-خدمه-سوخو.html</loc>
+    <lastmod>2026-07-23T15:15:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://sputnikiran.github.io/news/96493-دم-یک-هواپیمای-باری-به-باند-فرودگاهی-در-آمریکا-برخورد-کرد.html</loc>
     <lastmod>2026-07-21T21:00:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
@@ -3126,12 +3132,6 @@
   <url>
     <loc>https://sputnikiran.github.io/news/96140-کمیته-بینالمللی-المپیک-موضع-خود-را-درباره-مشارکت-ورزشکاران-ر.html</loc>
     <lastmod>2026-07-16T14:25:00.000Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sputnikiran.github.io/news/96141-تصمیم-فون-در-لاین-پس-از-سفرش-به-اوکراین،-غرب-را-شوکه-کرد.html</loc>
-    <lastmod>2026-07-16T14:30:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
