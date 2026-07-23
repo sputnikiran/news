@@ -388,6 +388,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://sputnikiran.github.io/news/96618-نیروهای-امدادی-پس-از-بارانهای-شدید-در-آستانه،-قزاقستان،-به-ر.html</loc>
+    <lastmod>2026-07-23T17:35:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://sputnikiran.github.io/news/96493-دم-یک-هواپیمای-باری-به-باند-فرودگاهی-در-آمریکا-برخورد-کرد.html</loc>
     <lastmod>2026-07-21T21:00:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
@@ -3126,12 +3132,6 @@
   <url>
     <loc>https://sputnikiran.github.io/news/96134-یک-سگ-دزد-در-کورسک-مشاهده-شد.html</loc>
     <lastmod>2026-07-16T12:45:00.000Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sputnikiran.github.io/news/96135-ایران،-در-حال-بستن-مسیرهای-فرعی-نفت-خلیج-فارس-است.html</loc>
-    <lastmod>2026-07-16T12:50:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
