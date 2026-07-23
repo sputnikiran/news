@@ -466,6 +466,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://sputnikiran.github.io/news/96631-جاری-شدن-آب-در-درههای-منطقه-الخیاله-در-جنوب-طائف-عربستان.html</loc>
+    <lastmod>2026-07-23T20:56:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://sputnikiran.github.io/news/96493-دم-یک-هواپیمای-باری-به-باند-فرودگاهی-در-آمریکا-برخورد-کرد.html</loc>
     <lastmod>2026-07-21T21:00:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
@@ -3126,12 +3132,6 @@
   <url>
     <loc>https://sputnikiran.github.io/news/96120-اعتراضات-در-سراسر-اوکراین-در-حمایت-از-وزیر-دفاع-برکنار-شده-ا.html</loc>
     <lastmod>2026-07-16T07:35:00.000Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sputnikiran.github.io/news/96121-وزیر-دفاع-روسیه-به-نیروهای-عملیات-ویژه-نظامی-مدال-شجاعت-اعطا.html</loc>
-    <lastmod>2026-07-16T07:45:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
