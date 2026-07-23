@@ -310,6 +310,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://sputnikiran.github.io/news/96603-ورزشکار-ایتالیایی-تصمیم-به-محروم-کردن-فقط-روسیه،-برای-خود-مس.html</loc>
+    <lastmod>2026-07-23T13:45:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://sputnikiran.github.io/news/96493-دم-یک-هواپیمای-باری-به-باند-فرودگاهی-در-آمریکا-برخورد-کرد.html</loc>
     <lastmod>2026-07-21T21:00:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
@@ -3126,12 +3132,6 @@
   <url>
     <loc>https://sputnikiran.github.io/news/96150-پسر-8-ساله-به-دلیل-علاقهاش-به-جاروبرقیهای-رباتیک-در-فضای-مجا.html</loc>
     <lastmod>2026-07-16T16:35:00.000Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sputnikiran.github.io/news/96151-تانکهای-t-90m-پروریو-روسیه-شبکه-پهپادهای-اوکراین-در-زاپوریژی.html</loc>
-    <lastmod>2026-07-16T16:45:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
