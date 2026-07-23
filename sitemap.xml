@@ -250,6 +250,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://sputnikiran.github.io/news/96591-سخنگوی-کرملین-تماسها-برای-حل-و-فصل-مناقشه-اوکراین-ادامه-دارد.html</loc>
+    <lastmod>2026-07-23T10:40:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://sputnikiran.github.io/news/96493-دم-یک-هواپیمای-باری-به-باند-فرودگاهی-در-آمریکا-برخورد-کرد.html</loc>
     <lastmod>2026-07-21T21:00:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
@@ -3126,12 +3132,6 @@
   <url>
     <loc>https://sputnikiran.github.io/news/96161-8-انفجار-در-قشم-و-7-مصدوم-در-بندرعباس-بر-اثر-حملات-هوایی-آمر.html</loc>
     <lastmod>2026-07-16T20:15:00.000Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sputnikiran.github.io/news/96162-سخنگوی-ارشد-نیروهای-مسلح-ایران-در-مقابل-یاغی-کوتاه-نخواهد-آم.html</loc>
-    <lastmod>2026-07-16T20:25:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
