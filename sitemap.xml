@@ -454,6 +454,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://sputnikiran.github.io/news/96629-ورزشکار-روس-سباستین-کوئه-شخصاً-در-قبال-ورزشکاران-روسی-مسئول.html</loc>
+    <lastmod>2026-07-23T20:35:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://sputnikiran.github.io/news/96493-دم-یک-هواپیمای-باری-به-باند-فرودگاهی-در-آمریکا-برخورد-کرد.html</loc>
     <lastmod>2026-07-21T21:00:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
@@ -3126,12 +3132,6 @@
   <url>
     <loc>https://sputnikiran.github.io/news/96122-مجموعه-جدید-سامانههای-پدافند-هوایی-روسیه-موسوم-به-تار-عنکبوت.html</loc>
     <lastmod>2026-07-16T08:10:00.000Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sputnikiran.github.io/news/96123-لاوروف-تقریبا-تمامی-مبادلات-تجاری-میان-روسیه-و-چین-با-استفاد.html</loc>
-    <lastmod>2026-07-16T09:00:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
