@@ -442,6 +442,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://sputnikiran.github.io/news/96627-بررسی-تجهیزات-نظامی-پاکستان-توسط-مقامات-ارشد-در-نمایشگاه-اسل.html</loc>
+    <lastmod>2026-07-23T20:05:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://sputnikiran.github.io/news/96493-دم-یک-هواپیمای-باری-به-باند-فرودگاهی-در-آمریکا-برخورد-کرد.html</loc>
     <lastmod>2026-07-21T21:00:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
@@ -3126,12 +3132,6 @@
   <url>
     <loc>https://sputnikiran.github.io/news/96124-مهمترین-اخبار-جهان-در-25-جولای.html</loc>
     <lastmod>2026-07-16T09:30:00.000Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sputnikiran.github.io/news/96125-ارتش-روسیه-به-تأسیسات-زیرساختی-سوخت،-انرژی-و-حمل-و-نقل-مورد.html</loc>
-    <lastmod>2026-07-16T09:45:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
