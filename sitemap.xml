@@ -316,6 +316,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://sputnikiran.github.io/news/96604-وزیر-ورزش-روسیه-از-فدراسیون-جهانی-دو-و-میدانی-به-دلیل-جلوگیر.html</loc>
+    <lastmod>2026-07-23T14:10:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://sputnikiran.github.io/news/96493-دم-یک-هواپیمای-باری-به-باند-فرودگاهی-در-آمریکا-برخورد-کرد.html</loc>
     <lastmod>2026-07-21T21:00:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
@@ -3126,12 +3132,6 @@
   <url>
     <loc>https://sputnikiran.github.io/news/96148-وزارت-خارجه-ایران-حملات-اخیر-آمریکا-و-اسرائیل-به-زیرساختهای.html</loc>
     <lastmod>2026-07-16T16:10:00.000Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sputnikiran.github.io/news/96150-پسر-8-ساله-به-دلیل-علاقهاش-به-جاروبرقیهای-رباتیک-در-فضای-مجا.html</loc>
-    <lastmod>2026-07-16T16:35:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
