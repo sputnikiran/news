@@ -292,6 +292,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://sputnikiran.github.io/news/96673-ماریا-زاخارووا-پس-از-اظهارات-ایلان-ماسک-در-مورد-درگیری-اوکرا.html</loc>
+    <lastmod>2026-07-24T11:25:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://sputnikiran.github.io/news/96570-آمریکا-هنوز-از-سایتهای-تولید-موشک-ایران-بیخبر-است.html</loc>
     <lastmod>2026-07-22T21:00:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
@@ -3126,12 +3132,6 @@
   <url>
     <loc>https://sputnikiran.github.io/news/96242-ارتش-آمریکا-از-حملات-جدید-علیه-ایران-خبر-داد.html</loc>
     <lastmod>2026-07-17T20:20:00.000Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sputnikiran.github.io/news/96243-حمله-نظامی-آمریکا-به-حوالی-سیریک.html</loc>
-    <lastmod>2026-07-17T20:25:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
