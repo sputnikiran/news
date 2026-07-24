@@ -364,6 +364,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://sputnikiran.github.io/news/96688-نیکو-به-اسپوتنیک-در-نهایت-بخاطر-فشار-افکار-عمومی،-آمریکا-تقص.html</loc>
+    <lastmod>2026-07-24T14:30:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://sputnikiran.github.io/news/96570-آمریکا-هنوز-از-سایتهای-تولید-موشک-ایران-بیخبر-است.html</loc>
     <lastmod>2026-07-22T21:00:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
@@ -3126,12 +3132,6 @@
   <url>
     <loc>https://sputnikiran.github.io/news/96230-اعتراض-شدید-روسیه-به-تخریب-یادبود-شوروی-در-استونی.html</loc>
     <lastmod>2026-07-17T17:20:00.000Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sputnikiran.github.io/news/96231-حمله-جدید-ایران-به-پایگاههای-ایالات-متحده-در-خلیج-فارس،-موفق.html</loc>
-    <lastmod>2026-07-17T17:35:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
