@@ -220,6 +220,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://sputnikiran.github.io/news/96732-حوثیها-اقدامات-اخیر-عربستان-بیپاسخ-نخواهد-ماند.html</loc>
+    <lastmod>2026-07-25T09:17:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://sputnikiran.github.io/news/96632-آمریکا-سیزدهمین-حمله-موشکی-شبانه-خود-را-به-ایران-انجام-داد-و.html</loc>
     <lastmod>2026-07-24T05:10:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
@@ -3126,12 +3132,6 @@
   <url>
     <loc>https://sputnikiran.github.io/news/96186-هند-به-باشگاه-منتخبی-از-کشورهای-دارای-قطارهای-هیدروژنی-پیوست.html</loc>
     <lastmod>2026-07-17T09:20:00.000Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sputnikiran.github.io/news/96148-وزارت-خارجه-ایران-حملات-اخیر-آمریکا-و-اسرائیل-به-زیرساختهای.html</loc>
-    <lastmod>2026-07-16T21:00:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
