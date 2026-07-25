@@ -136,6 +136,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://sputnikiran.github.io/news/96778-وزارت-خارجه-روسیه-حملات-اوکراین-به-کیروف-و-کریلوفکا-ماهیت-نا.html</loc>
+    <lastmod>2026-07-25T21:17:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://sputnikiran.github.io/news/96715-بازرسی-سر-زده-خرس-از-یک-دفتری-در-آمریکا.html</loc>
     <lastmod>2026-07-24T21:17:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
@@ -3126,12 +3132,6 @@
   <url>
     <loc>https://sputnikiran.github.io/news/96291-دو-سرباز-آمریکایی-در-حملات-ایران-به-تأسیسات-اردن-کشته-شدند.html</loc>
     <lastmod>2026-07-18T19:15:00.000Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sputnikiran.github.io/news/96292-مهمترین-رویدادهای-جهان-تا-شامگاه-18-ژوئیه.html</loc>
-    <lastmod>2026-07-18T19:20:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
