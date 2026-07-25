@@ -310,6 +310,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://sputnikiran.github.io/news/96759-وزارت-دفاع-روسیه-نیروهای-مسلح-روسیه-شب-گذشته-به-حملات-گروهی.html</loc>
+    <lastmod>2026-07-25T15:47:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://sputnikiran.github.io/news/96632-آمریکا-سیزدهمین-حمله-موشکی-شبانه-خود-را-به-ایران-انجام-داد-و.html</loc>
     <lastmod>2026-07-24T05:10:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
@@ -3126,12 +3132,6 @@
   <url>
     <loc>https://sputnikiran.github.io/news/96211-نامه-ایروانی-به-شورای-امنیت-در-محکومیت-اقدامات-جنگی-آمریکا-ع.html</loc>
     <lastmod>2026-07-17T13:40:00.000Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sputnikiran.github.io/news/96210-اندی-برنهام-به-عنوان-رهبر-حزب-کارگر-اکنون-میتواند-نخست-وزیر.html</loc>
-    <lastmod>2026-07-17T13:20:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
