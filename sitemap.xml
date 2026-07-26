@@ -310,6 +310,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://sputnikiran.github.io/news/96810-پوتین-در-روز-نیروی-دریایی-از-گارد-نیروی-دریایی-در-سن-پترزبور.html</loc>
+    <lastmod>2026-07-26T13:47:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://sputnikiran.github.io/news/96715-بازرسی-سر-زده-خرس-از-یک-دفتری-در-آمریکا.html</loc>
     <lastmod>2026-07-24T21:17:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
@@ -3126,12 +3132,6 @@
   <url>
     <loc>https://sputnikiran.github.io/news/96256-هشدار-انصارالله-به-عربستان-ریاض-دست-از-خدمت-به-آمریکا-برندار.html</loc>
     <lastmod>2026-07-18T07:10:00.000Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sputnikiran.github.io/news/96257-حمله-پهپادهای-روسیه-به-کشتی-کانتینربر-حامل-محموله-نظامی-برای.html</loc>
-    <lastmod>2026-07-18T07:30:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
