@@ -261,6 +261,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://sputnikiran.github.io/news/96895-تحقیق-عراق-درباره-ادعای-عربستان-مبنی-بر-حمله-به-این-کشور-از.html</loc>
+    <lastmod>2026-07-27T21:17:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://sputnikiran.github.io/news/96829-رسانهها-آمریکا-به-دلیل-کمبود-مهمات،-اجازه-عبور-موشکهای-ایران.html</loc>
     <lastmod>2026-07-27T05:17:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
@@ -3250,12 +3256,6 @@
   </url>
   <url>
     <loc>https://sputnikiran.github.io/news/96297-حملات-شهرکنشینان-اسرائیلی-به-دوران-حرفهای-بازیکن-فلسطینی-پای.html</loc>
-    <lastmod>2026-07-18T21:00:00.000Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sputnikiran.github.io/news/96298-ثبت-رفتار-نادر-جریان-گدازه-در-آتشفشان-اتنا؛-جدا-شدن-و-فروپاش.html</loc>
     <lastmod>2026-07-18T21:00:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
