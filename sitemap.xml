@@ -549,6 +549,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://sputnikiran.github.io/news/96882-زیادهخواهی-آمریکا،-عامل-اصلی-شکستهای-مکرر-مذاکرات-با-ایران.html</loc>
+    <lastmod>2026-07-27T17:47:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://sputnikiran.github.io/news/96778-وزارت-خارجه-روسیه-حملات-اوکراین-به-کیروف-و-کریلوفکا-ماهیت-نا.html</loc>
     <lastmod>2026-07-25T21:17:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
@@ -3251,12 +3257,6 @@
   <url>
     <loc>https://sputnikiran.github.io/news/96306-در-اندونزی،-یک-بنای-یادبود-به-رنگ-پرچم-روسیه-رنگآمیزی-شد.html</loc>
     <lastmod>2026-07-19T06:55:00.000Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sputnikiran.github.io/news/96307-گزارش-احتمال-استقرار-پهپادهای-دریایی-در-تلاش-برای-نظامیسازی.html</loc>
-    <lastmod>2026-07-19T07:05:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
