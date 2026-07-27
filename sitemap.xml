@@ -423,6 +423,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://sputnikiran.github.io/news/96859-این-تله-به-شدت-بسته-شده-است.html</loc>
+    <lastmod>2026-07-27T11:17:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://sputnikiran.github.io/news/96778-وزارت-خارجه-روسیه-حملات-اوکراین-به-کیروف-و-کریلوفکا-ماهیت-نا.html</loc>
     <lastmod>2026-07-25T21:17:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
@@ -3251,12 +3257,6 @@
   <url>
     <loc>https://sputnikiran.github.io/news/96332-ونیز-تعطیلات-جشن-سنتی-نجاتدهنده-را-با-آتشبازی-بر-فراز-تالاب.html</loc>
     <lastmod>2026-07-19T13:35:00.000Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sputnikiran.github.io/news/96333-انهدام-یک-فروند-پهپاد-لوکاس-توسط-نیروی-دریایی-ارتش-در-جنوب-ک.html</loc>
-    <lastmod>2026-07-19T13:55:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
