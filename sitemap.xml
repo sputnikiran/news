@@ -573,6 +573,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://sputnikiran.github.io/news/96886-رویدادهای-مهم-خبری-روسیه-و-جهان-تا-شامگاه.html</loc>
+    <lastmod>2026-07-27T19:17:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://sputnikiran.github.io/news/96778-وزارت-خارجه-روسیه-حملات-اوکراین-به-کیروف-و-کریلوفکا-ماهیت-نا.html</loc>
     <lastmod>2026-07-25T21:17:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
@@ -3251,12 +3257,6 @@
   <url>
     <loc>https://sputnikiran.github.io/news/96302-مرحله-هفدهم-عملیات-صاعقه-ارتش-ادامه-حملات-پهپادهای-ارتش-به-پ.html</loc>
     <lastmod>2026-07-19T05:45:00.000Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sputnikiran.github.io/news/96303-رهگیری-و-انهدام-379-پهپاد-اوکراینی-بر-فراز-خاک-روسیه.html</loc>
-    <lastmod>2026-07-19T06:00:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
