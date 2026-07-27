@@ -537,6 +537,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://sputnikiran.github.io/news/96880-اوکراین-به-چندین-کشور-حمله-میکند؛کرملین-این-کشور-قبلاً-به-آل.html</loc>
+    <lastmod>2026-07-27T16:47:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://sputnikiran.github.io/news/96778-وزارت-خارجه-روسیه-حملات-اوکراین-به-کیروف-و-کریلوفکا-ماهیت-نا.html</loc>
     <lastmod>2026-07-25T21:17:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
@@ -3251,12 +3257,6 @@
   <url>
     <loc>https://sputnikiran.github.io/news/96308-لحظه-فروریختن-یک-ساختمان-مسکونی-در-منطقه-quot-بیر-العبد-quot.html</loc>
     <lastmod>2026-07-19T07:15:00.000Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sputnikiran.github.io/news/96310-نرخ-ارز،-سکه-و-طلا-تا-ساعت-11-00.html</loc>
-    <lastmod>2026-07-19T07:30:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
