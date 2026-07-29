@@ -375,6 +375,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://sputnikiran.github.io/news/96991-نیروهای-حشد-شعبی-عراق-تصاویری-از-پیامدهای-حملات-هوایی-آمریکا.html</loc>
+    <lastmod>2026-07-29T11:20:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://sputnikiran.github.io/news/96895-تحقیق-عراق-درباره-ادعای-عربستان-مبنی-بر-حمله-به-این-کشور-از.html</loc>
     <lastmod>2026-07-27T21:17:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
@@ -3251,12 +3257,6 @@
   <url>
     <loc>https://sputnikiran.github.io/news/96356-جزئیات-حملهٔ-ساعاتی-پیش-دشمن-آمریکایی-به-اطراف-تبریز.html</loc>
     <lastmod>2026-07-20T06:00:00.000Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sputnikiran.github.io/news/96357-وزارت-موقعیتهای-اضطراری-روسیه-اعلام-کرد-که-یک-کوهنورد-و-جسد.html</loc>
-    <lastmod>2026-07-20T06:15:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
