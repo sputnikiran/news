@@ -261,6 +261,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://sputnikiran.github.io/news/97476-%D8%AF%D9%88-%D8%A8%DA%86%D9%87-%D8%A2%D9%87%D9%88%DB%8C-%D9%85%D8%A7%D8%B1%D8%AE%D9%88%D8%B1-%D8%AF%D8%B1-%D8%A8%D8%A7%D8%BA.html</loc>
+    <lastmod>2026-08-06T13:17:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://sputnikiran.github.io/news/97475-%D9%88%D8%B2%D8%A7%D8%B1%D8%AA-%D8%AE%D8%A7%D8%B1%D8%AC%D9%87-%D8%B1%D9%88%D8%B3%DB%8C%D9%87-%D9%87%DB%8C%DA%86-%D9%BE%DB%8C%D8%B4.html</loc>
     <lastmod>2026-08-06T12:47:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
@@ -3250,12 +3256,6 @@
   </url>
   <url>
     <loc>https://sputnikiran.github.io/news/96874-%D8%B1%D9%88%D8%B3%DB%8C%D9%87-%D8%AF%D8%B1-%D8%AD%D9%85%D9%84%D8%A7%D8%AA-%DB%8C%DA%A9-%D8%B1%D9%88%D8%B2%D9%87-%D8%A8%D9%87.html</loc>
-    <lastmod>2026-07-27T15:17:00.000Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sputnikiran.github.io/news/96872-%D9%81%D8%B6%D8%A7%D8%A6%D9%84%DB%8C-%D8%A8%D9%87-%D8%A7%D8%B3%D9%BE%D9%88%D8%AA%D9%86%DB%8C%DA%A9-%D8%A7%DA%AF%D8%B1-%D8%A2%D9%85.html</loc>
     <lastmod>2026-07-27T15:17:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
