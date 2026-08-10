@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sputnikiran.github.io/news/sitemap.xml
