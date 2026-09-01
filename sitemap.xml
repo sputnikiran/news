@@ -16,6 +16,18 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://sputnikiran.github.io/news/99166-معاون-امنیتی-استاندار-هرم.html</loc>
+    <lastmod>2026-09-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sputnikiran.github.io/news/99165-نظامیان-ایران-هزینه-سنگین.html</loc>
+    <lastmod>2026-09-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://sputnikiran.github.io/news/99164-اخبار-مهم-جهان-تا-شبانگاه.html</loc>
     <lastmod>2026-09-01</lastmod>
     <changefreq>monthly</changefreq>
@@ -2999,18 +3011,6 @@
   </url>
   <url>
     <loc>https://sputnikiran.github.io/news/98570-بقائی-ایران-و-افغانستان-م.html</loc>
-    <lastmod>2026-08-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sputnikiran.github.io/news/98569-کمیسیون-اروپا-روز-دوشنبه.html</loc>
-    <lastmod>2026-08-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sputnikiran.github.io/news/98568-نرخ-ارز،-سکه-و-طلا-تا-ساع.html</loc>
     <lastmod>2026-08-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
