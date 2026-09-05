@@ -16,6 +16,18 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://sputnikiran.github.io/news/99440-حمله-روسیه-به-کارخانه-مهم.html</loc>
+    <lastmod>2026-09-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sputnikiran.github.io/news/99439-سقوط-جنگنده-اف.html</loc>
+    <lastmod>2026-09-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://sputnikiran.github.io/news/99438-مسدود-شدن-فعالیت-بندر-دوو.html</loc>
     <lastmod>2026-09-05</lastmod>
     <changefreq>monthly</changefreq>
@@ -3000,18 +3012,6 @@
   <url>
     <loc>https://sputnikiran.github.io/news/98826-نیروهای-مسلح-روسیه-به-اهد.html</loc>
     <lastmod>2026-08-28</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sputnikiran.github.io/news/98825-لاوروف-نقش-بریتانیا-در-در.html</loc>
-    <lastmod>2026-08-28</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sputnikiran.github.io/news/98824-نجات-معجزهآسای-یک-موتورسو.html</loc>
-    <lastmod>2026-08-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
