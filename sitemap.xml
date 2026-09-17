@@ -16,6 +16,18 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://sputnikiran.github.io/news/100209-وزارت-دفاع-روسیه-شب-گذشته.html</loc>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sputnikiran.github.io/news/100208-رسانه-ترامپ-با-سران-خلیج.html</loc>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://sputnikiran.github.io/news/100207-ناآرامیها-در-پریشتینای-کو.html</loc>
     <lastmod>2026-09-17</lastmod>
     <changefreq>monthly</changefreq>
@@ -2999,18 +3011,6 @@
   </url>
   <url>
     <loc>https://sputnikiran.github.io/news/99598-دیپلمات-ارشد-روس-حملات-نی.html</loc>
-    <lastmod>2026-09-08</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sputnikiran.github.io/news/99597-سخنگوی-وزارت-امور-خارجه-ر.html</loc>
-    <lastmod>2026-09-08</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sputnikiran.github.io/news/99595-فورانهای-قدرتمند-آتشفشان.html</loc>
     <lastmod>2026-09-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
