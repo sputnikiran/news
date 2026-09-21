@@ -16,6 +16,18 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://sputnikiran.github.io/news/100468-تحلیلگر-ارتش-و-اقتصاد-اوک.html</loc>
+    <lastmod>2026-09-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sputnikiran.github.io/news/100467-رسانههای-ایران-مسعود-پزشک.html</loc>
+    <lastmod>2026-09-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://sputnikiran.github.io/news/100466-یک-خرس-کامچاتکایی-روسیه-ب.html</loc>
     <lastmod>2026-09-21</lastmod>
     <changefreq>monthly</changefreq>
@@ -3000,18 +3012,6 @@
   <url>
     <loc>https://sputnikiran.github.io/news/99870-آتشسوزی-مهیب-در-اردوگاه-م.html</loc>
     <lastmod>2026-09-12</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sputnikiran.github.io/news/99869-مکانیک-ایتالیایی-باریکتری.html</loc>
-    <lastmod>2026-09-11</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sputnikiran.github.io/news/99868-راهحلهای-مهندسی-منحصربهفر.html</loc>
-    <lastmod>2026-09-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
