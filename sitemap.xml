@@ -16,6 +16,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://sputnikiran.github.io/news/100528-سرویس-اطلاعات-خارجی-روسیه.html</loc>
+    <lastmod>2026-09-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://sputnikiran.github.io/news/100527-رسانه-ترکیه-چهار-دانشآموز.html</loc>
     <lastmod>2026-09-22</lastmod>
     <changefreq>monthly</changefreq>
@@ -3005,12 +3011,6 @@
   </url>
   <url>
     <loc>https://sputnikiran.github.io/news/99935-بارش-تگرگ-و-جاری-شدن-سیلا.html</loc>
-    <lastmod>2026-09-12</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sputnikiran.github.io/news/99934-وزارت-دفاع-روسیه-انهدام-ا.html</loc>
     <lastmod>2026-09-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
