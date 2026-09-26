@@ -16,6 +16,18 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://sputnikiran.github.io/news/100828-اعتراضهای-گسترده-در-مادری.html</loc>
+    <lastmod>2026-09-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sputnikiran.github.io/news/100827-مهمترین-رویدادهای-جهان-تا.html</loc>
+    <lastmod>2026-09-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://sputnikiran.github.io/news/100825-بانکوک-به-آکواریوم-تبدیل.html</loc>
     <lastmod>2026-09-26</lastmod>
     <changefreq>monthly</changefreq>
@@ -2999,18 +3011,6 @@
   </url>
   <url>
     <loc>https://sputnikiran.github.io/news/100246-گزارش-روز-وزارت-دفاع-روسی.html</loc>
-    <lastmod>2026-09-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sputnikiran.github.io/news/100245-فرستاپن-در.html</loc>
-    <lastmod>2026-09-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sputnikiran.github.io/news/100244-داستانهای-ترسناک-بیل-گیتس.html</loc>
     <lastmod>2026-09-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
