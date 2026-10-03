@@ -16,6 +16,18 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://sputnikiran.github.io/news/101205-کاهش-حقوق.html</loc>
+    <lastmod>2026-10-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sputnikiran.github.io/news/101204-رسانه-ایالات-متحده-آمریکا.html</loc>
+    <lastmod>2026-10-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://sputnikiran.github.io/news/101203-ترامپ-از-آمریکاییها-خواست.html</loc>
     <lastmod>2026-10-03</lastmod>
     <changefreq>monthly</changefreq>
@@ -2999,18 +3011,6 @@
   </url>
   <url>
     <loc>https://sputnikiran.github.io/news/100635-هیچکس-در-آژانس-بینالمللی.html</loc>
-    <lastmod>2026-09-23</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sputnikiran.github.io/news/100634-اظهارات-کلیدی-لاوروف-در-ج.html</loc>
-    <lastmod>2026-09-23</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sputnikiran.github.io/news/100633-حمله-شدید-توپخانه-روسیه-ب.html</loc>
     <lastmod>2026-09-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
