@@ -16,6 +16,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://sputnikiran.github.io/news/101360-روسیه-پست-کنترل-پهپاد-اوک.html</loc>
+    <lastmod>2026-10-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://sputnikiran.github.io/news/101359-رئیس-سرویس-اطلاعات-آلمان.html</loc>
     <lastmod>2026-10-05</lastmod>
     <changefreq>monthly</changefreq>
@@ -3006,12 +3012,6 @@
   <url>
     <loc>https://sputnikiran.github.io/news/100773-روسیه-به-مرکز-داده-استارل.html</loc>
     <lastmod>2026-09-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sputnikiran.github.io/news/100772-عراقچی-طرح-هفتروزه-بازگشا.html</loc>
-    <lastmod>2026-09-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
