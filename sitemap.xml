@@ -16,6 +16,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://sputnikiran.github.io/news/101651-در-تاریخ.html</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://sputnikiran.github.io/news/101650-اتحادیه-اروپا-قصد-دارد-بو.html</loc>
     <lastmod>2026-10-10</lastmod>
     <changefreq>monthly</changefreq>
@@ -3006,12 +3012,6 @@
   <url>
     <loc>https://sputnikiran.github.io/news/101078-تأکید-گروسی-بر-اهمیت-تماس.html</loc>
     <lastmod>2026-10-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sputnikiran.github.io/news/101077-یکی-از-مسافران-پرواز-فلای.html</loc>
-    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
