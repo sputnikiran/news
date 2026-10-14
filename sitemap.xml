@@ -16,6 +16,18 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://sputnikiran.github.io/news/101885-فرهنگ-نگهداری-از-حیوانات.html</loc>
+    <lastmod>2026-10-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sputnikiran.github.io/news/101884-پیام-تبریک-پوتین-به-شرکتک.html</loc>
+    <lastmod>2026-10-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://sputnikiran.github.io/news/101883-پیام-تبریک-پوتین-به-شرکتک.html</loc>
     <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
@@ -3000,18 +3012,6 @@
   <url>
     <loc>https://sputnikiran.github.io/news/101324-رسانه-های-غربی-آمریکا-در.html</loc>
     <lastmod>2026-10-05</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sputnikiran.github.io/news/101323-کارشناس-غرب-خواهان-تشدید.html</loc>
-    <lastmod>2026-10-04</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sputnikiran.github.io/news/101322-روسیه-جدیدترین-سلاحهای-تو.html</loc>
-    <lastmod>2026-10-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
