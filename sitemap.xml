@@ -16,6 +16,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://sputnikiran.github.io/news/102006-پوتین-روسیه-به-حملات-اوکر.html</loc>
+    <lastmod>2026-10-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://sputnikiran.github.io/news/102005-حملات-پهپادی-روسیه-به-تأس.html</loc>
     <lastmod>2026-10-15</lastmod>
     <changefreq>monthly</changefreq>
@@ -3005,12 +3011,6 @@
   </url>
   <url>
     <loc>https://sputnikiran.github.io/news/101429-صیدایی-به-اسپوتنیک-هماکنو.html</loc>
-    <lastmod>2026-10-06</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sputnikiran.github.io/news/101428-حمله-با-چاقو-به-دانش-آموز.html</loc>
     <lastmod>2026-10-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
