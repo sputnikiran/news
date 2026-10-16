@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>News Site - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Fri, 16 Oct 2026 12:49:02 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 13:18:15 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>News Site</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>تحلیلگر بریتانیایی: روسیه در جریان مناقشه اوکراین حتی قوی‌تر شده است</title>
+      <link>https://sputnikiran.github.io/news/102065-تحلیلگر-بریتانیایی-روسیه.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102065-تحلیلگر-بریتانیایی-روسیه.html</guid>
+      <pubDate>Fri, 16 Oct 2026 13:17:00 GMT</pubDate>
+      <description>🔸برخلاف انتظارات ناتو، روسیه در جریان مناقشه اوکراین ارتش خود را تقویت کرده است. این را استیو جرمی، دریادار بازنشسته نیروی دریایی سلطنتی بریتانیا، به رسانه‌ها گفت. 🔸او خاطرنشان کرد: &amp;quot;به نظر من، کل ایده ناتو این بود که مناقشه در اوکراین روسیه را خلع سلاح کند، و اینکه روسیه با تسلیحات کمتر از آن خارج شود. اما دقیقاً برعکس اتفاق افتاد. روس‌ها خیلی مقاوم‌تر از آنچه فکر می‌کردیم، از آب درآمدند. آنها از تمام این ماجرا قوی‌تر بیرون آمدند&amp;quot;. 🔸به ارزیابی جرمی، نیروهای مسلح اوکراین توانایی مقا</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102065.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102065.jpg" medium="image" />
+    </item>
     <item>
       <title>توکلی به اسپوتنیک: روسیه و ایران در سال</title>
       <link>https://sputnikiran.github.io/news/102064-توکلی-به-اسپوتنیک-روسیه-و.html</link>
@@ -446,15 +455,6 @@
       <description>🔶روابط عمومی نیروی دریایی ارتش ایران اعلام کرد: یک فروند نفتکش متخلف که در حال عبور از محدوده شرق تنگه هرمز بود و دچار حریق شده بود، توسط تیم‌های رصد نیروی دریایی ارتش شناسایی شد. 🔶ساعاتی پیش، تیم‌های رصد نیروی دریایی ارتش در جریان گشت‌زنی و کنترل شرق تنگه هرمز، یک فروند نفتکش را که در منطقه ممنوعه دچار حریق شده بود، شناسایی کردند. این نفتکش متخلف با خاموش کردن سامانه‌های ردیابی، قصد عبور از منطقه ممنوعه در محدوده شرق تنگه هرمز را داشت. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102008.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102008.jpg" medium="image" />
-    </item>
-    <item>
-      <title>رسانه‌ها: اروپا هیچ جایگزین آماده‌ای برای اوکراین به‌جای استارلینک ندارد</title>
-      <link>https://sputnikiran.github.io/news/102007-رسانهها-اروپا-هیچ-جایگزین.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102007-رسانهها-اروپا-هیچ-جایگزین.html</guid>
-      <pubDate>Thu, 15 Oct 2026 17:17:00 GMT</pubDate>
-      <description>🔶اروپا هیچ جایگزین آماده‌ای برای اوکراین در برابر سیستم ارتباطات ماهواره‌ای استارلینک آمریکا ندارد. این موضوع مورد توجه رسانه‌های اروپایی قرار گرفته است. 🔶در این گزارش آمده است: &amp;quot;کی‌یف با واقعیت تلخی روبرو شده است: متحدان اروپایی نمی‌توانند هیچ جایگزین آماده‌ای ارائه دهند&amp;quot;. 🔶نویسندگان این مطلب خاطرنشان می‌کنند که با وجود اینکه دولت‌ها و شرکت‌های اروپایی در حال کار بر روی گزینه‌های ارتباط بلندمدت برای اوکراین هستند، هنوز هیچ راه‌حلی وجود ندارد. 🔶کریستین فرایهر فون در روپ، مشاور مستق</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102007.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102007.jpg" medium="image" />
     </item>
   </channel>
 </rss>
