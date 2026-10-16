@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>News Site - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Fri, 16 Oct 2026 17:18:36 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 17:48:09 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>News Site</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>وزارت دفاع روسیه ویدیویی از شهر آزادشده دوبروپولیه در منطقه دونتسک منتشر کرد</title>
+      <link>https://sputnikiran.github.io/news/102083-وزارت-دفاع-روسیه-ویدیویی.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102083-وزارت-دفاع-روسیه-ویدیویی.html</guid>
+      <pubDate>Fri, 16 Oct 2026 17:47:00 GMT</pubDate>
+      <description>🔶پیش از این، والری گراسیموف، رئیس ستاد کل نیروهای مسلح روسیه، آزادسازی این شهرک را به ولادیمیر پوتین گزارش داده بود. پوتین نیز آزادسازی دوبروپولیه را یک رویداد قابل توجه در جریان عملیات ویژه نظامی خواند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102083.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102083.jpg" medium="image" />
+    </item>
     <item>
       <title>کارشناس: ترامپ به این نتیجه رسیده که زلنسکی عامل ادامه جنگ اوکراین است</title>
       <link>https://sputnikiran.github.io/news/102082-کارشناس-ترامپ-به-این-نتیج.html</link>
@@ -436,15 +445,6 @@
       <description>🔸به گزارش رسانه‌های تلویزیونی آمریکا، تیراندازی در یک مدرسه ابتدایی در اورگان که حداقل چهار کشته برجای گذاشت، توسط یک پسر 16 ساله انجام شده است. 🔸به گفته نیروهای انتظامی، مهاجم مظنون کشته شده است. 🔸پیش از این، رسانه‌ها گزارش داده بودند که سه کودک و یک بزرگسال در این حادثه کشته شده‌اند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102024.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102024.jpg" medium="image" />
-    </item>
-    <item>
-      <title>تحلیل اسپوتنیک: کی‌یف در سال</title>
-      <link>https://sputnikiran.github.io/news/102023-تحلیل-اسپوتنیک-کییف-در-سا.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102023-تحلیل-اسپوتنیک-کییف-در-سا.html</guid>
-      <pubDate>Fri, 16 Oct 2026 05:17:00 GMT</pubDate>
-      <description>بیش از 6.5 میلیارد دلار به طلبکاران خارجی بدهکار خواهد بود 🛰این مطلب از برنامه پرداخت‌های وزارت دارایی این کشور که توسط اسپوتنیک تحلیل شده، برآورد شده است. 🛰طبق این سند، کی‌یف باید سال آینده 3.335 میلیارد دلار از مبلغ اصلی بدهی خارجی خود را بازپرداخت کند. 3.339 میلیارد دلار دیگر نیز برای بازپرداخت وام‌های خارجی مورد نیاز است. 🛰کی‌یف به شدت به تأمین مالی خارجی وابسته است. در همین حال، در غرب، تخصیص بسته‌های کمکی جدید پس از بحث‌های طولانی در حال انجام است و شرکا به طور فزاینده‌ای هشدار می‌دهند </description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102023.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102023.jpg" medium="image" />
     </item>
   </channel>
 </rss>
