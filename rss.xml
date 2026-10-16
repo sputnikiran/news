@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>News Site - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Fri, 16 Oct 2026 09:18:35 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 09:48:22 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>News Site</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>حمله شهرک‌نشینان اسرائیلی به کشاورزان در شهر ترمسعیا</title>
+      <link>https://sputnikiran.github.io/news/102047-حمله-شهرکنشینان-اسرائیلی.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102047-حمله-شهرکنشینان-اسرائیلی.html</guid>
+      <pubDate>Fri, 16 Oct 2026 09:47:00 GMT</pubDate>
+      <description>🔸تصاویری منتشر شده نشان می‌دهد که آتش در تعدادی از ماشین‌آلات رخ داده است. سازمان هلال احمر فلسطین اعلام کرد که 4 نفر در نتیجه حمله شهرک‌نشینان به شهر برقا در شرق رام‌الله، مجروح شده‌اند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102047.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102047.jpg" medium="image" />
+    </item>
     <item>
       <title>رسانه بریتانیایی: کشورهای عضو گروه هفت (G</title>
       <link>https://sputnikiran.github.io/news/102046-رسانه-بریتانیایی-کشورهای.html</link>
@@ -442,15 +451,6 @@
       <guid isPermaLink="true">https://sputnikiran.github.io/news/101985-فرستاده-ویژه-ترامپ-بازگرد.html</guid>
       <pubDate>Thu, 15 Oct 2026 12:47:00 GMT</pubDate>
       <description>🔸فرستاده ویژه ترامپ نسبت به چشم‌انداز رفع موانع موجود بر سر راه حضور ورزشکاران روس در بازی‌های المپیک، خوش‌بین است. پائولو زامپولی این مطلب را در مصاحبه‌ای با رسانه‌های روسیه بیان کرد. 🔸بازی‌های المپیک تابستانی ۲۰۲۸ از ۱۴ تا ۳۰ ژوئیه در لس‌آنجلس برگزار خواهد شد. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-    </item>
-    <item>
-      <title>محله کاباتاش استانبول در زیر آب</title>
-      <link>https://sputnikiran.github.io/news/101984-محله-کاباتاش-استانبول-در.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/101984-محله-کاباتاش-استانبول-در.html</guid>
-      <pubDate>Thu, 15 Oct 2026 12:47:00 GMT</pubDate>
-      <description>🔸 باران شدید در بسیاری از مناطق استامبول، در ساعات صبح نیز به صورت پراکنده ادامه یافت. ما را در سایت و تلگرام اسپوتنیک دنبال کنید 👇 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/101984.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/101984.jpg" medium="image" />
     </item>
   </channel>
 </rss>
