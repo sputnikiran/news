@@ -5,13 +5,40 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>News Site - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Fri, 16 Oct 2026 09:48:22 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 10:18:25 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>News Site</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>پنتاگون حقیقت را در مورد کودکان میناب پنهان می‌کند</title>
+      <link>https://sputnikiran.github.io/news/102051-پنتاگون-حقیقت-را-در-مورد.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102051-پنتاگون-حقیقت-را-در-مورد.html</guid>
+      <pubDate>Fri, 16 Oct 2026 10:17:00 GMT</pubDate>
+      <description>🛰پنتاگون حقیقت را پنهان می‌کند: گزارش قتل 123 کودک ایرانی در میناب ممکن است تا پس از انتخابات میان‌دوره‌ای آمریکا به تعویق بیفتد. 🛰رسوایی در ابعاد عظیم در حال آشکار شدن است. طبق گزارش‌ها، مشاوران پیت هگزت قصد دارند انتشار تحقیقات در مورد حمله آمریکا به یک مدرسه ابتدایی در میناب ایران، که در آن بیش از 150 نفر، از جمله حداقل 123 کودک، کشته شدند را به تعویق بیندازند. محققان به این نتیجه رسیدند که اطلاعات قدیمی، تصاویر ماهواره‌ای معیوب و اتکای بیش از حد به هوش مصنوعی منجر به این فاجعه شده است. این</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102051.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102051.jpg" medium="image" />
+    </item>
+    <item>
+      <title>کرملین: پوتین امشب یک گفتگوی تلفنی بین‌المللی خواهد داشت</title>
+      <link>https://sputnikiran.github.io/news/102050-کرملین-پوتین-امشب-یک-گفتگ.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102050-کرملین-پوتین-امشب-یک-گفتگ.html</guid>
+      <pubDate>Fri, 16 Oct 2026 10:17:00 GMT</pubDate>
+      <description>🛰کرملین کاملاً با ترامپ موافق است که زلنسکی علاقه‌ای به حل و فصل مسالمت‌آمیز ندارد. 🛰کاملاً واضح است که زلنسکی نمی‌خواهد مسئولیت بپذیرد و به سمت یک راه‌حل مسالمت‌آمیز حرکت کند. و در اینجا ما کاملاً با رئیس جمهور ترامپ در این مورد موافقیم. 🛰پسکوف تأکید کرد که بحث در مورد حل و فصل در اوکراین بدون مشارکت کی‌یف غیرممکن است. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102050.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102050.jpg" medium="image" />
+    </item>
+    <item>
+      <title>تسلا از رودستر «پروازی» رونمایی کرد که می‌تواند در هوا بلند شود و پشتک بزند</title>
+      <link>https://sputnikiran.github.io/news/102048-تسلا-از-رودستر-پروازی-رون.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102048-تسلا-از-رودستر-پروازی-رون.html</guid>
+      <pubDate>Fri, 16 Oct 2026 10:17:00 GMT</pubDate>
+      <description>🚘این خودرو توسط 10 نازل که هوای فشرده را تحت فشار بالا آزاد می‌کنند، به هوا رانده می‌شود. این موتورها از نوع گاز سرد هستند، سیستمی که به طور مشترک با اسپیس ایکس توسعه یافته است. 🚘فقط مدل سطح بالای راکت می‌تواند پرواز کند. این خودرو قانونی برای جاده نیست و خرید آن فقط با دعوتنامه امکان‌پذیر است. تسلا قیمتی اعلام نکرده است، اما تولید آن در سال 2028 آغاز خواهد شد. 🔶حرکات نمایشی در مراسم رونمایی به نمایش گذاشته شد. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102048.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102048.jpg" medium="image" />
+    </item>
     <item>
       <title>حمله شهرک‌نشینان اسرائیلی به کشاورزان در شهر ترمسعیا</title>
       <link>https://sputnikiran.github.io/news/102047-حمله-شهرکنشینان-اسرائیلی.html</link>
@@ -426,31 +453,6 @@
       <description>در 15 اکتبر، یک پل جاده‌ای جدید بر روی رودخانه یالو (رودخانه آمنوک) به‌طور رسمی گشوده شد. این پل شهر داندونگ در چین (استان لیائونینگ) را به شهر سینوئیجو در کره شمالی متصل می‌کند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/101988.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/101988.jpg" medium="image" />
-    </item>
-    <item>
-      <title>صدر اعظم آلمان با انتقال دارایی‌های روسیه که در اروپا مسدود شده‌اند به ایالات متحده، آمریکا مخالفت کرد</title>
-      <link>https://sputnikiran.github.io/news/101987-صدر-اعظم-آلمان-با-انتقال.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/101987-صدر-اعظم-آلمان-با-انتقال.html</guid>
-      <pubDate>Thu, 15 Oct 2026 13:17:00 GMT</pubDate>
-      <description>🔸مرتس اظهار داشت: «این مسئله به ما مربوط می‌شود و ما هستیم که در مورد آن تصمیم می‌گیریم.» 🔸پیش‌تر، رسانه های غربی گزارش داده بود که استیو ویتکاف، فرستاده ویژه ایالات متحده، و جرد کوشنر، تاجر آمریکایی، به نمایندگانی از اتحادیه اروپا، بریتانیا، فرانسه و آلمان پیشنهاد داده‌اند که این وجوه تحت کنترل واشنگتن قرار گیرد. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/101987.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/101987.jpg" medium="image" />
-    </item>
-    <item>
-      <title>نیروهای مسلح روسیه، منطقه نفدوکا در خارکف را آزاد کرد</title>
-      <link>https://sputnikiran.github.io/news/101986-نیروهای-مسلح-روسیه،-منطقه.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/101986-نیروهای-مسلح-روسیه،-منطقه.html</guid>
-      <pubDate>Thu, 15 Oct 2026 13:17:00 GMT</pubDate>
-      <description>🔸با آزادسازی نفدوکا، نیروهای روسیه مواضع خود را در طول بخش جنوبی محاصره نیروهای اوکراینی در شمال شرقی منطقه خارکف را تقویت کردند. این اقدام امنیت مناطق شرق بلاگوداتنویه را تأمین و مسیرهای عقب‌نشینی اوکراین را تحت فشار قرار داده است. 🔸بر اساس گزارش‌ها، با آزادسازی چرنویه، نیروهای روسیه یک کریدور کلیدی را که نیروهای اوکراینی برای فرار از محاصره و انجام حملات امدادی استفاده می‌کردند، مسدود کردند. با این حساب، تنها دو شهرک وارواروفکا و نیکولایفکا در کنترل نیروهای اوکراینی در داخل این گلوگاه باقی م</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/101986.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/101986.jpg" medium="image" />
-    </item>
-    <item>
-      <title>فرستاده ویژه ترامپ: بازگرداندن پرچم و سرود به پارالمپین‌های روسیه در بازی‌های ایتالیا، گامی مهم است</title>
-      <link>https://sputnikiran.github.io/news/101985-فرستاده-ویژه-ترامپ-بازگرد.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/101985-فرستاده-ویژه-ترامپ-بازگرد.html</guid>
-      <pubDate>Thu, 15 Oct 2026 12:47:00 GMT</pubDate>
-      <description>🔸فرستاده ویژه ترامپ نسبت به چشم‌انداز رفع موانع موجود بر سر راه حضور ورزشکاران روس در بازی‌های المپیک، خوش‌بین است. پائولو زامپولی این مطلب را در مصاحبه‌ای با رسانه‌های روسیه بیان کرد. 🔸بازی‌های المپیک تابستانی ۲۰۲۸ از ۱۴ تا ۳۰ ژوئیه در لس‌آنجلس برگزار خواهد شد. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
     </item>
   </channel>
 </rss>
