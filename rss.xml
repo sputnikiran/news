@@ -5,13 +5,20 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>News Site - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Fri, 16 Oct 2026 16:18:30 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 16:48:21 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>News Site</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>پوتین: تحت کنترل گرفتن دوبروپولیه رویداد چشمگیری بود</title>
+      <link>https://sputnikiran.github.io/news/102080-پوتین-تحت-کنترل-گرفتن-دوب.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102080-پوتین-تحت-کنترل-گرفتن-دوب.html</guid>
+      <pubDate>Fri, 16 Oct 2026 16:47:00 GMT</pubDate>
+      <description>ولادیمیر پوتین، رئیس‌جمهور روسیه: 🔶 آزادسازی جمهوری خلق دونتسک یکی از وظایف اصلی باقی می‌ماند. 🔶 آزادسازی آلکسیفو-دروژکوفکا شرایط را برای آزادسازی هرچه سریع‌تر دونباس فراهم می‌کند. 🔶 حملات در استان زاپروژیا با سرعت بالا پیش می‌رود. 🔶 نوار امنیتی در مناطق مرزی با اوکراین به‌طور قابل‌توجهی گسترش یافته است. 🔶پوتین اشاره کرد که کار رزمی با تلفات و دشواری‌هایی همراه است، اما سرعت پیشروی نیروهای روسیه افزایش یافته است. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+    </item>
     <item>
       <title>نیروهای روسیه دوبروپولیه را آزاد کردند</title>
       <link>https://sputnikiran.github.io/news/102079-نیروهای-روسیه-دوبروپولیه.html</link>
@@ -438,15 +445,6 @@
       <description>🔶فرآیند چاق‌شدن (ذخیره‌سازی چربی) تیموفی، گربه پالاس معروف باغ‌وحش مسکو، در اوج خود قرار دارد. برای افزودن حال‌وهوای پاییزی به این ماجرا، مسئولان باغ‌وحش یک بلدرچین را در میان توده‌ای از برگ‌ها پنهان کردند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102021.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102021.jpg" medium="image" />
-    </item>
-    <item>
-      <title>یک چترباز روی سقف خانه‌ای در روسیه فرود آمد</title>
-      <link>https://sputnikiran.github.io/news/102020-یک-چترباز-روی-سقف-خانهای.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102020-یک-چترباز-روی-سقف-خانهای.html</guid>
-      <pubDate>Thu, 15 Oct 2026 20:47:00 GMT</pubDate>
-      <description>🔶صاحب‌خانه مشغول تماشای تلویزیون بود که صدای برخورد شدیدی را روی سقف شنید. او وقتی بیرون رفت، با چتربازی مواجه شد که ضمن عذرخواهی، درخواست نردبان می‌کرد. 🔶وی با نیروهای امدادی تماس گرفت و امدادگران به آن فرد کمک کردند تا از سقف پایین بیاید. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102020.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102020.jpg" medium="image" />
     </item>
   </channel>
 </rss>
