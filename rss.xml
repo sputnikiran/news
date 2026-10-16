@@ -5,13 +5,31 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>News Site - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Fri, 16 Oct 2026 10:18:25 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 10:48:22 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>News Site</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>وزارت دفاع روسیه: نیروهای مسلح روسیه با تصرف نیکولایفکا، کنترل خود را بر منطقه امتداد رودخانه «ولچیا» تثبیت کردند</title>
+      <link>https://sputnikiran.github.io/news/102054-وزارت-دفاع-روسیه-نیروهای.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102054-وزارت-دفاع-روسیه-نیروهای.html</guid>
+      <pubDate>Fri, 16 Oct 2026 10:47:00 GMT</pubDate>
+      <description>▫️«وارواروفکا» در منطقه خارکف آزاد شد. تحولات عملیات روسیه: پیشروی‌های گسترده و تلفات سنگین اوکراین ▫️با آزادسازی وارواروفکا، گزارش‌ها حاکی از آن است که نیروهای روسی بقایای نیروهای اوکراینی را از مناطق مسکونیِ واقع در یک محدوده محاصره‌شده به وسعت 460 کیلومتر مربع در شمال شرقی خارکف پاکسازی کرده‌اند. ▫️نیروهای مسلح روسیه پایگاهی بالقوه برای پیشروی به سوی «ولیکی بورلوک» که یک مرکز لجستیکی کلیدی برای اوکراین محسوب می‌شود ایجاد کرده‌اند. ▫️نیروهای مسلح روسیه طی یک هفته، ده منطقه مسکونی را آزاد کردند</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102054.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102054.jpg" medium="image" />
+    </item>
+    <item>
+      <title>در آنتالیا، که مانند سایر مناطق جنوبی ترکیه، باران‌های شدیدی را تجربه کرد، یک هتل دچار سیل شد</title>
+      <link>https://sputnikiran.github.io/news/102052-در-آنتالیا،-که-مانند-سایر.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102052-در-آنتالیا،-که-مانند-سایر.html</guid>
+      <pubDate>Fri, 16 Oct 2026 10:47:00 GMT</pubDate>
+      <description>🔶در چنین وضعیتی یک پیانیست محلی خونسردی خود را حفظ کرد و موسیقی فیلم تایتانیک را نواخت. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102052.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102052.jpg" medium="image" />
+    </item>
     <item>
       <title>پنتاگون حقیقت را در مورد کودکان میناب پنهان می‌کند</title>
       <link>https://sputnikiran.github.io/news/102051-پنتاگون-حقیقت-را-در-مورد.html</link>
@@ -435,24 +453,6 @@
       <description>🗣دکتر محمدسعید اربابی, مدیرعامل منطقه آزاد تجاری-صنعتی چابهار، در گفتگوی اختصاصی با اسپوتنیک گفت که حجم ترانزیت و واردات در بندر چابهار امسال نسبت به سال گذشته بهتر شده است. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/101990.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/101990.jpg" medium="image" />
-    </item>
-    <item>
-      <title>اربابی به اسپوتنیک: «مشکلاتی مربوط به وضعیت تنگه هرمز در بندر چابهار وجود ندارد»</title>
-      <link>https://sputnikiran.github.io/news/101989-اربابی-به-اسپوتنیک-مشکلات.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/101989-اربابی-به-اسپوتنیک-مشکلات.html</guid>
-      <pubDate>Thu, 15 Oct 2026 13:48:00 GMT</pubDate>
-      <description>🗣دکتر محمدسعید اربابی, مدیرعامل منطقه آزاد تجاری-صنعتی چابهار، در گفتگوی اختصاصی با اسپوتنیک در باره اینکه آیا ایجاد ارتباط مستقیم ریلی چابهار با روسیه به ‌عنوان جایگزینی برای مسیر دریایی از بندرعباس بررسی می‌شود، گفت که هم چابهار، هم بندرعباس دارای مزایای ویژه خودشان هستند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/101989.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/101989.jpg" medium="image" />
-    </item>
-    <item>
-      <title>پل جاده‌ای جدید، چین و کره شمالی را به هم متصل می‌کند</title>
-      <link>https://sputnikiran.github.io/news/101988-پل-جادهای-جدید،-چین-و-کره.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/101988-پل-جادهای-جدید،-چین-و-کره.html</guid>
-      <pubDate>Thu, 15 Oct 2026 13:17:00 GMT</pubDate>
-      <description>در 15 اکتبر، یک پل جاده‌ای جدید بر روی رودخانه یالو (رودخانه آمنوک) به‌طور رسمی گشوده شد. این پل شهر داندونگ در چین (استان لیائونینگ) را به شهر سینوئیجو در کره شمالی متصل می‌کند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/101988.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/101988.jpg" medium="image" />
     </item>
   </channel>
 </rss>
