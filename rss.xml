@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>News Site - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Fri, 16 Oct 2026 19:18:33 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 19:48:29 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>News Site</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>مهم‌ترین رویدادهای جهان تا شامگاه</title>
+      <link>https://sputnikiran.github.io/news/102088-مهمترین-رویدادهای-جهان-تا.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102088-مهمترین-رویدادهای-جهان-تا.html</guid>
+      <pubDate>Fri, 16 Oct 2026 19:47:00 GMT</pubDate>
+      <description>اکتبر 🔹اسماعیل بقائی، سخنگوی وزارت امور خارجه ایران: ایران آماده کمک برای حل مسالمت‌آمیز مسائل میان&amp;nbsp;عربستان سعودی&amp;nbsp;و&amp;nbsp;یمن&amp;nbsp;است. 🔹ولادیمیر پوتین، رئیس‌جمهور روسیه:&amp;nbsp;جمهوری خلق لوگانسک&amp;nbsp;کاملاً تحت کنترل&amp;nbsp;نیروهای مسلح روسیه&amp;nbsp;است. 🔹الکساندر نواک، معاون نخست‌وزیر روسیه: روسیه آماده مشارکت در برقراری توازن در بازارهای انرژی است. 🔹کریل دمیتریف، فرستاده ویژه رئیس‌جمهور روسیه: روسیه و&amp;nbsp;آمریکا&amp;nbsp;درباره همکاری در حوزه مراکز داده گفت‌وگو می‌کنند. 🔹یک دیپلمات اروپ</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102088.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102088.jpg" medium="image" />
+    </item>
     <item>
       <title>ترامپ: تمایل دارم پوتین را در اجلاس سران گروه</title>
       <link>https://sputnikiran.github.io/news/102087-ترامپ-تمایل-دارم-پوتین-را.html</link>
@@ -434,15 +443,6 @@
       <description>▫️موشک‌های Geran روسیه به انبارهای پهپاد و موشک نیروهای مسلح اوکراین در نزدیکی شهرهای زاپاروژیه، ازخار و ماروزکوفکا در منطقه خارکف حمله کردند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102029.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102029.jpg" medium="image" />
-    </item>
-    <item>
-      <title>رهبران اروپایی، از جمله فرانسه و آلمان، همچنان بر موضع خود پابرجا هستند: آنها همچنان از تحریم‌ها علیه روسیه حمایت می‌کنند</title>
-      <link>https://sputnikiran.github.io/news/102028-رهبران-اروپایی،-از-جمله-ف.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102028-رهبران-اروپایی،-از-جمله-ف.html</guid>
-      <pubDate>Fri, 16 Oct 2026 07:17:00 GMT</pubDate>
-      <description>🔸رهبران اروپایی خود را برای وضعیتی آماده می‌کنند که در آن دونالد ترامپ، رئیس جمهور آمریکا، عملاً در کنار مسکو قرار می‌گیرد: او اوکراین را تهدید می‌کند و به روسیه نوعی «طناب نجات» اقتصادی پیشنهاد می‌دهد. 🔸اقدامات اخیر ترامپ - به ویژه انتقاد از تحریم‌های انرژی علیه کرملین و فشار بر کیف برای توقف حملات به پالایشگاه‌های نفت روسیه، یک واقعیت ناخوشایند را آشکار کرده است: تمایل طبیعی او انتقاد از کی‌یف و حمایت از روسیه است. 🔸رهبران اروپایی، از جمله فرانسه و آلمان، همچنان بر موضع خود پابرجا هستند: آن</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102028.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102028.jpg" medium="image" />
     </item>
   </channel>
 </rss>
