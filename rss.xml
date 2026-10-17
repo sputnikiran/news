@@ -5,13 +5,20 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>News Site - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Sat, 17 Oct 2026 07:48:11 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 08:18:35 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>News Site</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>رسانه‌ها: غرب در حال تدارک یک مأموریت «حافظ صلح» در اوکراین است</title>
+      <link>https://sputnikiran.github.io/news/102103-رسانهها-غرب-در-حال-تدارک.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102103-رسانهها-غرب-در-حال-تدارک.html</guid>
+      <pubDate>Sat, 17 Oct 2026 08:17:00 GMT</pubDate>
+      <description>🔸بر اساس گزارش رسانه‌های بریتانیایی، نیروهایی از کشورهای بریتانیا، فرانسه و آلمان — که شمار آن‌ها دست‌کم به 1500 نفر می‌رسد — در ماه نوامبر برای انجام رزمایش‌های نظامی راهی لهستان خواهند شد. این رزمایش‌ها که در نوع خود نخستین نمونه محسوب می‌شوند، بر استقرار نیروها و منابع، از جمله سوخت و تدارکات، متمرکز خواهند بود. نیروهای نظامی لهستان نیز در این تمرینات مشارکت خواهند کرد. 🔸 این رزمایش‌ها به مثابه تمرینی برای استقرار احتمالی نیروها در اوکراین، در صورت برقراری آتش‌بس، تلقی می‌شوند. 🔸 وزارت امو</description>
+    </item>
     <item>
       <title>آتش‌سوزی در ساختمان یک دانشگاه در نزدیکی «روآن» فرانسه</title>
       <link>https://sputnikiran.github.io/news/102102-آتشسوزی-در-ساختمان-یک-دان.html</link>
@@ -440,13 +447,6 @@
       <description>🔸تصاویری منتشر شده نشان می‌دهد که آتش در تعدادی از ماشین‌آلات رخ داده است. سازمان هلال احمر فلسطین اعلام کرد که 4 نفر در نتیجه حمله شهرک‌نشینان به شهر برقا در شرق رام‌الله، مجروح شده‌اند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102047.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102047.jpg" medium="image" />
-    </item>
-    <item>
-      <title>رسانه بریتانیایی: کشورهای عضو گروه هفت (G</title>
-      <link>https://sputnikiran.github.io/news/102046-رسانه-بریتانیایی-کشورهای.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102046-رسانه-بریتانیایی-کشورهای.html</guid>
-      <pubDate>Fri, 16 Oct 2026 09:17:00 GMT</pubDate>
-      <description>) در بحبوحه نگرانی‌های فزاینده در مورد امنیت سایبری، قصد دارند حملات هوش مصنوعی به بانک‌ها را شبیه‌سازی کنند 🔸وزرای دارایی توافق کردند که برای آمادگی در برابر حملات سایبری احتمالی در آینده، رزمایش‌های فرماندهی- ستادی برگزار کنند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
     </item>
   </channel>
 </rss>
