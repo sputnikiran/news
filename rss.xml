@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>News Site - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Sat, 17 Oct 2026 11:19:33 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 11:48:43 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>News Site</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>آغاز درگیری‌های اولیه‌ای میان معترضان و پلیس در پاریس</title>
+      <link>https://sputnikiran.github.io/news/102116-آغاز-درگیریهای-اولیهای-می.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102116-آغاز-درگیریهای-اولیهای-می.html</guid>
+      <pubDate>Sat, 17 Oct 2026 11:48:00 GMT</pubDate>
+      <description>🔸به گزارش خبرنگار اسپوتنیک، دانش‌آموزان دبیرستانی و اعضای جنبش «جلیقه‌زردها» برای مطالبه شرایط زندگی بهتر به خیابان‌ها آمده‌اند. 🔸قرار است تظاهرات اصلی ساعت 14:00 در «میدان جمهوری» آغاز شود، اما گروه‌های…</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102116.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102116.jpg" medium="image" />
+    </item>
     <item>
       <title>کمربند فولادی اوراسیا: چگونه روسیه، چین و کشورهای مستقل مشترکالمنافع در حال تغییر قواعد بازی در افغانستان هستند</title>
       <link>https://sputnikiran.github.io/news/102115-کمربند-فولادی-اوراسیا-چگو.html</link>
@@ -438,15 +447,6 @@
       <description>🔸روابط عمومی نیروی دریایی ارتش ایران: ساعاتی پیش، تیم‌های رصد نیروی دریایی ارتش در راستای کنترل مستمر شرق تنگه هرمز، یک فروند نفتکش متخلف که در منطقه ممنوعه دچار حریق شده بود را کشف و شناسایی کردند. 🔸این نفتکش متخلف هم سامانه‌های ردیابی خود را خاموش کرده و در صدد عبور از منطقه ممنوعه در محدوده دریای عمان بود. 🔸نیروی دریایی ارتش جمهوری اسلامی ایران تاکید کرد، پیامد حرکت‌های ناهماهنگ در مسیرها و مناطق ممنوعه، ایجاد ناامنی و مخاطرات بسیار برای دیگر شناورهاست. Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102059.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102059.jpg" medium="image" />
-    </item>
-    <item>
-      <title>زاخارووا: وزارت امور خارجه روسیه خواستار احتیاط کردن شهروندان روسیه در خارج از کشور در بحبوحه «شکار روس‌ها» شد</title>
-      <link>https://sputnikiran.github.io/news/102058-زاخارووا-وزارت-امور-خارجه.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102058-زاخارووا-وزارت-امور-خارجه.html</guid>
-      <pubDate>Fri, 16 Oct 2026 11:47:00 GMT</pubDate>
-      <description>🛰سایر اظهارات کلیدی ماریا زاخارووا سخنگوی وزارت امور خارجه روسیه در جلسه توجیهی: 💬روسیه علیرغم سیاست‌های تبعیض‌آمیز اتحادیه اروپا، هیچ برنامه‌ای برای ممنوعیت ورود اروپایی‌های صلح‌دوست ندارد؛ 💬هیچ مدرکی مبنی بر دخالت هیچ حزبی در حوادث مربوط به کشتی‌ها در آب‌های بلغارستان وجود ندارد؛ 💬کشورهای بالتیک به بازی مورد علاقه زلنسکی، یعنی قصابی، پیوسته‌اند؛ 💬این مسکو نیست که زلنسکی را به برگزاری انتخابات ملزم می‌کند، بلکه قانون اساسی و مردم این کار را می‌کنند؛ 🛰ماریا زاخارووا بسته جدید تحریم‌های اتح</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102058.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102058.jpg" medium="image" />
     </item>
   </channel>
 </rss>
