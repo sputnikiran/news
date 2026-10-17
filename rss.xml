@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>News Site - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Sat, 17 Oct 2026 08:49:42 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 09:18:24 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>News Site</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>یک گوزن مانع حرکت قطار در آمریکا شد</title>
+      <link>https://sputnikiran.github.io/news/102107-یک-گوزن-مانع-حرکت-قطار-در.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102107-یک-گوزن-مانع-حرکت-قطار-در.html</guid>
+      <pubDate>Sat, 17 Oct 2026 09:17:00 GMT</pubDate>
+      <description>🔸 لحظاتی بعد، حیوان راهی جنگل شد و قطار توانست به مسیر خود ادامه دهد. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102107.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102107.jpg" medium="image" />
+    </item>
     <item>
       <title>تشدید تنش در یمن: وضعیت در پی حملات متقابل و گزارش‌هایی مبنی بر تلفات نظامی در هر دو طرف، همچنان رو به وخامت است</title>
       <link>https://sputnikiran.github.io/news/102106-تشدید-تنش-در-یمن-وضعیت-در.html</link>
@@ -438,15 +447,6 @@
       <description>🛰پنتاگون حقیقت را پنهان می‌کند: گزارش قتل 123 کودک ایرانی در میناب ممکن است تا پس از انتخابات میان‌دوره‌ای آمریکا به تعویق بیفتد. 🛰رسوایی در ابعاد عظیم در حال آشکار شدن است. طبق گزارش‌ها، مشاوران پیت هگزت قصد دارند انتشار تحقیقات در مورد حمله آمریکا به یک مدرسه ابتدایی در میناب ایران، که در آن بیش از 150 نفر، از جمله حداقل 123 کودک، کشته شدند را به تعویق بیندازند. محققان به این نتیجه رسیدند که اطلاعات قدیمی، تصاویر ماهواره‌ای معیوب و اتکای بیش از حد به هوش مصنوعی منجر به این فاجعه شده است. این</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102051.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102051.jpg" medium="image" />
-    </item>
-    <item>
-      <title>کرملین: پوتین امشب یک گفتگوی تلفنی بین‌المللی خواهد داشت</title>
-      <link>https://sputnikiran.github.io/news/102050-کرملین-پوتین-امشب-یک-گفتگ.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102050-کرملین-پوتین-امشب-یک-گفتگ.html</guid>
-      <pubDate>Fri, 16 Oct 2026 10:17:00 GMT</pubDate>
-      <description>🛰کرملین کاملاً با ترامپ موافق است که زلنسکی علاقه‌ای به حل و فصل مسالمت‌آمیز ندارد. 🛰کاملاً واضح است که زلنسکی نمی‌خواهد مسئولیت بپذیرد و به سمت یک راه‌حل مسالمت‌آمیز حرکت کند. و در اینجا ما کاملاً با رئیس جمهور ترامپ در این مورد موافقیم. 🛰پسکوف تأکید کرد که بحث در مورد حل و فصل در اوکراین بدون مشارکت کی‌یف غیرممکن است. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102050.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102050.jpg" medium="image" />
     </item>
   </channel>
 </rss>
