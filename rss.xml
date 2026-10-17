@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>News Site - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Sat, 17 Oct 2026 19:48:30 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 20:18:08 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>News Site</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>فوران آتشفشان کیلائوئه در هاوایی؛ پنجاه و پنجمین دوره فعالیت ثبت شد</title>
+      <link>https://sputnikiran.github.io/news/102147-فوران-آتشفشان-کیلائوئه-در.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102147-فوران-آتشفشان-کیلائوئه-در.html</guid>
+      <pubDate>Sat, 17 Oct 2026 20:17:00 GMT</pubDate>
+      <description>👉فواره‌های عظیم گدازه که ارتفاع آن‌ها به 30 تا 35 متر می‌رسد، از اوایل صبح امروز (به وقت محلی) آغاز شده‌اند. 📍 شایان ذکر است که «کیلاویا» جوان‌ترین آتشفشان در هاوایی محسوب می‌شود و پیش‌تر، مجموعه‌ای پیوسته از فوران‌ها از دهانه «پو او او» در این آتشفشان، به مدت 35 سال به طول انجامیده بود. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102147.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102147.jpg" medium="image" />
+    </item>
     <item>
       <title>لاوروف وارد بحرین شد</title>
       <link>https://sputnikiran.github.io/news/102146-لاوروف-وارد-بحرین-شد.html</link>
@@ -448,13 +457,6 @@
       <description>🔶ولادیمیر پوتین، رئیس‌جمهور روسیه، افزود که فرماندهان گروه‌های رزمی باید وظایف خود را دقیقاً مطابق با مفهوم عملیات ویژه نظامی ادامه دهند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102085.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102085.jpg" medium="image" />
-    </item>
-    <item>
-      <title>یک دیپلمات اروپایی در حاشیه نشست سران اتحادیه اروپا: این نشست هیچ‌گونه کمک مالی جدید یا محموله تسلیحاتی  از جمله موشک‌های پدافند هوایی برای اوکراین به همراه نداشت</title>
-      <link>https://sputnikiran.github.io/news/102084-یک-دیپلمات-اروپایی-در-حاش.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102084-یک-دیپلمات-اروپایی-در-حاش.html</guid>
-      <pubDate>Fri, 16 Oct 2026 18:18:00 GMT</pubDate>
-      <description>🔶ولادیمیر زلنسکی از اتحادیه اروپا 70 میلیارد یورو کمک اضافی برای نیازهای نظامی در سال 2027 درخواست…</description>
     </item>
   </channel>
 </rss>
