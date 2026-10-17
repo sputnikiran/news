@@ -5,13 +5,40 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>News Site - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Sat, 17 Oct 2026 15:18:14 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 15:48:20 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>News Site</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>حمله روسیه به کارخانه آلمانی «کرومبرگ اند شوبرت» در لوتسک اوکراین</title>
+      <link>https://sputnikiran.github.io/news/102134-حمله-روسیه-به-کارخانه-آلم.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102134-حمله-روسیه-به-کارخانه-آلم.html</guid>
+      <pubDate>Sat, 17 Oct 2026 15:47:00 GMT</pubDate>
+      <description>🔶وزارت دفاع روسیه اعلام کرد که نیروهای مسلح روسیه به کارخانه آلمانی «کرومبرگ اند شوبرت» در شهر لوتسک اوکراین که در راستای منافع نیروهای مسلح اوکراین فعالیت می‌کرد، حمله کردند. 🔶بر اساس این گزارش، در این کارخانه سیستم‌های کابل‌کشی خودرو و سیم‌کشی برقی تولید می‌شد. همچنین یک پست برق در استان ترنوپیل که تأمین‌کننده برق شرکت‌های صنایع نظامی بود، مورد اصابت قرار گرفت. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102134.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102134.jpg" medium="image" />
+    </item>
+    <item>
+      <title>مجری اسپوتنیک مبتنی بر هوش مصنوعی مهمترین رویدادهای هفته را برای شما شرح می دهد</title>
+      <link>https://sputnikiran.github.io/news/102133-مجری-اسپوتنیک-مبتنی-بر-هو.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102133-مجری-اسپوتنیک-مبتنی-بر-هو.html</guid>
+      <pubDate>Sat, 17 Oct 2026 15:47:00 GMT</pubDate>
+      <description>🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102133.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102133.jpg" medium="image" />
+    </item>
+    <item>
+      <title>عضو انجمن فولاد ایران: در حوزهٔ صنعت فولاد، منابع اولیهٔ زیادی در روسیه وجود دارد که می‌توانیم از آن‌ها استفاده کنیم، مثل زغال‌سنگ یا کک متالورژیکی</title>
+      <link>https://sputnikiran.github.io/news/102132-عضو-انجمن-فولاد-ایران-در.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102132-عضو-انجمن-فولاد-ایران-در.html</guid>
+      <pubDate>Sat, 17 Oct 2026 15:47:00 GMT</pubDate>
+      <description>🗣علیرضا ابراهیمی، مدیرعامل میدکو و عضو انجمن فولاد ایران، در گفتگوی اختصاصی با اسپوتنیک گفت: ما در حال حاضر به همکاری‌های دوجانبه با روسیه و چین اعتقاد زیادی داریم و همین الان هم این همکاری‌ها گسترش زیادی پیدا کرده است. به‌گونه‌ای که وقتی مرزهای جنوبی ما دچار آسیب می‌شود، ما مرزهای مشترک قابل‌توجهی با کشورهای آسیای مرکزی و روسیه داریم و می‌توانیم از ظرفیت این مرزها و مرزهای شرق کشور برای جایگزینی استفاده کنیم. 🔶در مورد همسایهٔ جنوبی هم، اقتصاد ما به هم گره خورده و زندگی‌مان به همدیگر گره خورده</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102132.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102132.jpg" medium="image" />
+    </item>
     <item>
       <title>افزایش تعداد نفتکش‌های آسیب‌دیده در دریای عمان؛ تنگه هرمز باز نیست</title>
       <link>https://sputnikiran.github.io/news/102131-افزایش-تعداد-نفتکشهای-آسی.html</link>
@@ -424,31 +451,6 @@
       <description>مهم‌ترین اظهارات الکساندر نوواک، معاون نخست‌وزیر روسیه، در نشست عمومی مجمع انرژی روسیه: 🔶 انتقاد اتحادیه اروپا از توافق دیزل خلاف منافع مصرف‌کنندگان است. 🔶 کمبود سوخت دیزل در بازار جهانی حدود 25 درصد است. 🔶 روسیه آماده برقراری توازن در بازارهای جهانی انرژی بر پایه روابط مشارکتی است. 🔶 روسیه کاهش تقاضا برای منابع انرژی در جهان را می‌بیند. 🔶 روسیه همچنان تأمین‌کننده قابل‌اعتماد منابع انرژی در بازار جهانی است و آماده افزایش صادرات انرژی به اروپا است. 🔶 روسیه خواستار همکاری نزدیک‌تر در حوزه ان</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102075.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102075.jpg" medium="image" />
-    </item>
-    <item>
-      <title>دمیتریف: روسیه و آمریکا درباره همکاری در حوزه مراکز داده گفت‌وگو می‌کنند</title>
-      <link>https://sputnikiran.github.io/news/102074-دمیتریف-روسیه-و-آمریکا-در.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102074-دمیتریف-روسیه-و-آمریکا-در.html</guid>
-      <pubDate>Fri, 16 Oct 2026 15:17:00 GMT</pubDate>
-      <description>🔶کریل دمیتریف، فرستاده ویژه رئیس‌جمهور روسیه در امور همکاری‌های سرمایه‌گذاری و اقتصادی، گفت: «همین‌جا هم به مراکز داده اشاره شد. ما نیز پروژه‌های مشترک روسیه و آمریکا در حوزه مراکز داده را بررسی می‌کنیم؛ از جمله با استفاده از نیروگاه‌های هسته‌ای و اتمی خودمان.» 🔶دمیتریف اظهار داشت که ایالات متحده به دنبال راه‌هایی برای فاصله گرفتن از تحریم‌های علیه روسیه است: «نخست اینکه، آمریکایی‌ها بیش‌ازپیش درمی‌یابند که این تحریم‌ها در واقع به خودِ ایالات متحده آسیب می‌رسانند. دوم اینکه، آن‌ها خود را در وض</description>
-    </item>
-    <item>
-      <title>رسانه: حدود صد نوجوان در نزدیکی یک دبیرستان در برلین، در اعتراض به خدمت سربازی اجباری دست به تظاهرات زدند</title>
-      <link>https://sputnikiran.github.io/news/102072-رسانه-حدود-صد-نوجوان-در-ن.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102072-رسانه-حدود-صد-نوجوان-در-ن.html</guid>
-      <pubDate>Fri, 16 Oct 2026 14:47:00 GMT</pubDate>
-      <description>🔶معترضان همچنین خواستار افزایش بودجه بخش آموزش شدند. بر اساس گزارشات، ورودی‌های اصلی و پشتی دبیرستان «آندریاس» مسدود شده بود. حدود 30 مأمور پلیس برای مدیریت وضعیت در محل حضور یافتند و ناچار به استفاده از نیروی فیزیکی شدند. یک شرکت‌کننده 17 ساله نیز بازداشت شد؛ گفته می‌شود که او دانش‌آموز این دبیرستان نیست. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102072.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102072.jpg" medium="image" />
-    </item>
-    <item>
-      <title>نواک: روسیه آماده مشارکت در برقراری توازن در بازارهای انرژی است</title>
-      <link>https://sputnikiran.github.io/news/102071-نواک-روسیه-آماده-مشارکت-د.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102071-نواک-روسیه-آماده-مشارکت-د.html</guid>
-      <pubDate>Fri, 16 Oct 2026 14:47:00 GMT</pubDate>
-      <description>🔶الکساندر نواک، معاون نخست‌وزیر روسیه، اشاره کرد که قیمت نفت در جهان از آغاز سال تقریباً 2 برابر شده است. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102071.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102071.jpg" medium="image" />
     </item>
   </channel>
 </rss>
