@@ -5,13 +5,31 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>News Site - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Sat, 17 Oct 2026 06:48:22 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 07:18:27 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>News Site</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>وقوع آتش‌سوزی در جنگل‌های «سن کلمنته» در کالیفرنیا</title>
+      <link>https://sputnikiran.github.io/news/102101-وقوع-آتشسوزی-در-جنگلهای-س.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102101-وقوع-آتشسوزی-در-جنگلهای-س.html</guid>
+      <pubDate>Sat, 17 Oct 2026 07:17:00 GMT</pubDate>
+      <description>🔸از ساکنان خواسته شده تا ضمن پیروی از دستورات تخلیه، مناطق پرخطر را ترک کنند. وزش باد موجب نگرانی‌هایی شده است مبنی بر اینکه ممکن است شعله‌های آتش بیش از پیش گسترش یابند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102101.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102101.jpg" medium="image" />
+    </item>
+    <item>
+      <title>کره شمالی سیستم اژدر هدایت‌شونده با هوش مصنوعی Zam-</title>
+      <link>https://sputnikiran.github.io/news/102100-کره-شمالی-سیستم-اژدر-هدای.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102100-کره-شمالی-سیستم-اژدر-هدای.html</guid>
+      <pubDate>Sat, 17 Oct 2026 07:17:00 GMT</pubDate>
+      <description>را آزمایش کرد 🔸به گزارش خبرگزاری مرکزی کره، کره شمالی یک پرتاب آزمایشی از Zam-2.0 انجام داده است که نوع جدیدی از سیستم تسلیحاتی اژدر هدایت‌شونده، بسیار دقیق، مجهز به هوش مصنوعی و قابل پرتاب از زیردریایی است. 🔸 این پرتاب با هدف «تأیید به‌روزرسانی موفقیت‌آمیز فنی این سیستم تسلیحاتی جدید» انجام شده و در آن از فناوری هوش مصنوعی برای شناسایی هدف استفاده شده است. ما را در سایت و تلگرام اسپوتنیک دنبال کنید 👇 🔸 Sputnik Afghanistan | Telegram 🔸🔸</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102100.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102100.jpg" medium="image" />
+    </item>
     <item>
       <title>عراقچی وارد بغداد شد</title>
       <link>https://sputnikiran.github.io/news/102099-عراقچی-وارد-بغداد-شد.html</link>
@@ -429,24 +447,6 @@
       <description>🛰به گفته فواد ایزدی، کارشناس ایرانی، این امر می‌تواند سرمایه‌گذاری‌های آمریکا در خاورمیانه را که تقریباً به 2 تریلیون دلار می‌رسد، به خطر بیندازد. کمیک هوش مصنوعی اسپوتنیک. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102045.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102045.jpg" medium="image" />
-    </item>
-    <item>
-      <title>سرگئی لاوروف به آسیای مرکزی در مورد تهدیدات غرب هشدار داد: «هر کشوری می‌تواند قربانی شود»</title>
-      <link>https://sputnikiran.github.io/news/102044-سرگئی-لاوروف-به-آسیای-مرک.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102044-سرگئی-لاوروف-به-آسیای-مرک.html</guid>
-      <pubDate>Fri, 16 Oct 2026 08:47:00 GMT</pubDate>
-      <description>🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102044.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102044.jpg" medium="image" />
-    </item>
-    <item>
-      <title>رویدادهای مهم جهان تا ظهر،</title>
-      <link>https://sputnikiran.github.io/news/102043-رویدادهای-مهم-جهان-تا-ظهر.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102043-رویدادهای-مهم-جهان-تا-ظهر.html</guid>
-      <pubDate>Fri, 16 Oct 2026 08:47:00 GMT</pubDate>
-      <description>اکتبر 🛰ترامپ گفت طرفین درگیری در اوکراین به توافق خواهند رسید، اما بدون زلنسکی. 🛰لاوروف: ناتو قصد دارد اراده خود را بسیار فراتر از حوزه مسئولیت خود تحمیل کند. 🛰کی‌یف تا سال 2027 بیش از 6.5 میلیارد دلار به طلبکاران خارجی بدهکار خواهد بود. 🛰رسانه‌ها جزئیات تیراندازی در مدرسه اورگان را گزارش دادند. 🛰روسیه به مرکز لجستیک بلوم در اودسا حمله کرد. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102043.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102043.jpg" medium="image" />
     </item>
   </channel>
 </rss>
