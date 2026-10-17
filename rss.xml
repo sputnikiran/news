@@ -5,13 +5,31 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>News Site - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Sat, 17 Oct 2026 08:18:35 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 08:49:42 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>News Site</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>تشدید تنش در یمن: وضعیت در پی حملات متقابل و گزارش‌هایی مبنی بر تلفات نظامی در هر دو طرف، همچنان رو به وخامت است</title>
+      <link>https://sputnikiran.github.io/news/102106-تشدید-تنش-در-یمن-وضعیت-در.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102106-تشدید-تنش-در-یمن-وضعیت-در.html</guid>
+      <pubDate>Sat, 17 Oct 2026 08:48:00 GMT</pubDate>
+      <description>🔸 وزارت بهداشت تحت کنترل حوثی‌ها در یمن گزارش داد که در جریان آنچه به ادعای آن‌ها حملات هوایی عربستان سعودی به منازل مسکونی در استان «ذمار» بوده، سه کودک کشته و 15 نفر زخمی شده‌اند. 🔸 ائتلاف [به رهبری عربستان] از انهدام چندین قایق خبر داد و اعلام کرد که حوثی‌ها از این قایق‌ها برای قاچاق سلاح استفاده می‌کردند و شناورها به سمت «حدیده» در حرکت بودند. 👇 به گفته ائتلاف، دو سکوی پرتاب موشک بالستیک متعلق به حوثی‌ها در استان «صعده» منهدم شده است. 🔸 ارتش یمن اعلام کرد که طی 24 ساعت گذشته، بیش از 430 </description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102106.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102106.jpg" medium="image" />
+    </item>
+    <item>
+      <title>ارتش روسیه، موضع‌های دفاعی ارتش اوکراین را موزد هدف قرار داد</title>
+      <link>https://sputnikiran.github.io/news/102104-ارتش-روسیه،-موضعهای-دفاعی.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102104-ارتش-روسیه،-موضعهای-دفاعی.html</guid>
+      <pubDate>Sat, 17 Oct 2026 08:48:00 GMT</pubDate>
+      <description>🔸بر اساس گزارش‌های نظامی، آتش‌بار سامانه توپخانه‌ای «گیاسینت-کا» متعلق به گروه ارتش «شرق» روسیه، مواضع و استحکامات نیروهای اوکراینی را در شهر زاپروژیا هدف حملات خود قرار داد. 🔸همزمان، ‌بسامانه موشکی چندگانه «اوراگان» متعلق به گروه ارتش «شمال» روسیه، موضع‌های دفاعی و محل تجمع پرسنل نظامی اوکراین را در شهر خارکیف منهدم کرد. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102104.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102104.jpg" medium="image" />
+    </item>
     <item>
       <title>رسانه‌ها: غرب در حال تدارک یک مأموریت «حافظ صلح» در اوکراین است</title>
       <link>https://sputnikiran.github.io/news/102103-رسانهها-غرب-در-حال-تدارک.html</link>
@@ -429,24 +447,6 @@
       <description>🛰کرملین کاملاً با ترامپ موافق است که زلنسکی علاقه‌ای به حل و فصل مسالمت‌آمیز ندارد. 🛰کاملاً واضح است که زلنسکی نمی‌خواهد مسئولیت بپذیرد و به سمت یک راه‌حل مسالمت‌آمیز حرکت کند. و در اینجا ما کاملاً با رئیس جمهور ترامپ در این مورد موافقیم. 🛰پسکوف تأکید کرد که بحث در مورد حل و فصل در اوکراین بدون مشارکت کی‌یف غیرممکن است. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102050.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102050.jpg" medium="image" />
-    </item>
-    <item>
-      <title>تسلا از رودستر «پروازی» رونمایی کرد که می‌تواند در هوا بلند شود و پشتک بزند</title>
-      <link>https://sputnikiran.github.io/news/102048-تسلا-از-رودستر-پروازی-رون.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102048-تسلا-از-رودستر-پروازی-رون.html</guid>
-      <pubDate>Fri, 16 Oct 2026 10:17:00 GMT</pubDate>
-      <description>🚘این خودرو توسط 10 نازل که هوای فشرده را تحت فشار بالا آزاد می‌کنند، به هوا رانده می‌شود. این موتورها از نوع گاز سرد هستند، سیستمی که به طور مشترک با اسپیس ایکس توسعه یافته است. 🚘فقط مدل سطح بالای راکت می‌تواند پرواز کند. این خودرو قانونی برای جاده نیست و خرید آن فقط با دعوتنامه امکان‌پذیر است. تسلا قیمتی اعلام نکرده است، اما تولید آن در سال 2028 آغاز خواهد شد. 🔶حرکات نمایشی در مراسم رونمایی به نمایش گذاشته شد. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102048.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102048.jpg" medium="image" />
-    </item>
-    <item>
-      <title>حمله شهرک‌نشینان اسرائیلی به کشاورزان در شهر ترمسعیا</title>
-      <link>https://sputnikiran.github.io/news/102047-حمله-شهرکنشینان-اسرائیلی.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102047-حمله-شهرکنشینان-اسرائیلی.html</guid>
-      <pubDate>Fri, 16 Oct 2026 09:47:00 GMT</pubDate>
-      <description>🔸تصاویری منتشر شده نشان می‌دهد که آتش در تعدادی از ماشین‌آلات رخ داده است. سازمان هلال احمر فلسطین اعلام کرد که 4 نفر در نتیجه حمله شهرک‌نشینان به شهر برقا در شرق رام‌الله، مجروح شده‌اند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102047.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102047.jpg" medium="image" />
     </item>
   </channel>
 </rss>
