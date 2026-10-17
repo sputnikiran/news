@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>News Site - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Sat, 17 Oct 2026 14:18:19 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 14:49:16 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>News Site</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>رسانه:</title>
+      <link>https://sputnikiran.github.io/news/102130-رسانه.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102130-رسانه.html</guid>
+      <pubDate>Sat, 17 Oct 2026 14:47:00 GMT</pubDate>
+      <description>گردشگر در جریان آتش‌سوزی در مجموعه «تاپ‌تاپ رستو اند ریزورت» در جنوب شرقی بنگلادش جان باختند 🔶بر اساس اطلاعات موجود، این ساختمان چوبیِ سه طبقه به‌طور کامل در آتش سوخت. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102130.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102130.jpg" medium="image" />
+    </item>
     <item>
       <title>مرتس: اتحادیه دموکرات مسیحی در وضعیت دشواری قرار دارد</title>
       <link>https://sputnikiran.github.io/news/102129-مرتس-اتحادیه-دموکرات-مسیح.html</link>
@@ -440,13 +449,6 @@
       <description>🔶ایالات متحده تعداد محدودی موشک رهگیر دارد، و به همین دلیل اوکراین باید دیگر روی این کمک از واشنگتن حساب نکند. این مطلب را رسانه‌های آمریکایی منتشر کرده اند. 🔶پیش از این، کانال‌های تلویزیونی گزارش دادند که اوکراین ذخایر موشک‌های رهگیر خود را برای سامانه‌های موشکی دفاع هوایی پاتریوت به پایان رسانده است. رسانه‌ها همچنین گزارش دادند که ایالات متحده می‌تواند ارسال سلاح و اطلاعات به اوکراین را مسدود کند تا کی‌یف را وادار به توقف حملات به پالایشگاه‌های روسیه کند. 🔶در گزارش مورد بحث آمده است: &amp;quot;</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102070.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102070.jpg" medium="image" />
-    </item>
-    <item>
-      <title>یک دیپلمات اروپایی در حاشیه نشست سران اتحادیه اروپا: این نشست هیچ‌گونه کمک مالی جدید یا محموله تسلیحاتی  از جمله موشک‌های پدافند هوایی برای اوکراین به همراه نداشت</title>
-      <link>https://sputnikiran.github.io/news/102069-یک-دیپلمات-اروپایی-در-حاش.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102069-یک-دیپلمات-اروپایی-در-حاش.html</guid>
-      <pubDate>Fri, 16 Oct 2026 13:47:00 GMT</pubDate>
-      <description>🔶ولادیمیر زلنسکی از اتحادیه اروپا 70 میلیارد یورو کمک اضافی برای نیازهای نظامی در سال 2027 درخواست کرده بود. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
     </item>
   </channel>
 </rss>
