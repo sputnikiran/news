@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>News Site - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Sun, 18 Oct 2026 07:48:51 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 08:18:19 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>News Site</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>رسانه محلی: یک کامیون به جمعیت زائران معبدی در هند برخورد کرد و</title>
+      <link>https://sputnikiran.github.io/news/102162-رسانه-محلی-یک-کامیون-به-ج.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102162-رسانه-محلی-یک-کامیون-به-ج.html</guid>
+      <pubDate>Sun, 18 Oct 2026 08:17:00 GMT</pubDate>
+      <description>نفر جان سپردند و 27 نفر زخمی شدند 🔸طبق گزارش‌های اولیه، این وسیله نقلیه به دلیل نقص فنی کنترل خود را از دست داده است. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102162.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102162.jpg" medium="image" />
+    </item>
     <item>
       <title>اعتراضات گسترده رم، میلان، تورین، بولونیا و ناپل را فرا گرفت</title>
       <link>https://sputnikiran.github.io/news/102161-اعتراضات-گسترده-رم،-میلان.html</link>
@@ -448,15 +457,6 @@
       <description>را آزمایش کرد 🔸به گزارش خبرگزاری مرکزی کره، کره شمالی یک پرتاب آزمایشی از Zam-2.0 انجام داده است که نوع جدیدی از سیستم تسلیحاتی اژدر هدایت‌شونده، بسیار دقیق، مجهز به هوش مصنوعی و قابل پرتاب از زیردریایی است. 🔸 این پرتاب با هدف «تأیید به‌روزرسانی موفقیت‌آمیز فنی این سیستم تسلیحاتی جدید» انجام شده و در آن از فناوری هوش مصنوعی برای شناسایی هدف استفاده شده است. ما را در سایت و تلگرام اسپوتنیک دنبال کنید 👇 🔸 Sputnik Afghanistan | Telegram 🔸🔸</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102100.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102100.jpg" medium="image" />
-    </item>
-    <item>
-      <title>عراقچی وارد بغداد شد</title>
-      <link>https://sputnikiran.github.io/news/102099-عراقچی-وارد-بغداد-شد.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102099-عراقچی-وارد-بغداد-شد.html</guid>
-      <pubDate>Sat, 17 Oct 2026 06:47:00 GMT</pubDate>
-      <description>🔸سید عباس عراقچی، وزیر امور خارجه ایران صبح امروز جهت شرکت در نشست شورای وزیران سازمان همکاری اسلامی (OIC) در راس هیئتی سیاسی وارد 🔸بغداد شد و مورد استقبال معاون وزیر امور خارجه عراق قرار گرفت. قرار است نشست شورای وزیران امور خارجه سازمان همکاری اسلامی در روزهای شنبه و یکشنبه با شعار «گفت‌وگو و همبستگی؛ دو رکن اساسی برای تقویت صلح و توسعه پایدار» در شهر بغداد عراق برگزار شود. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102099.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102099.jpg" medium="image" />
     </item>
   </channel>
 </rss>
