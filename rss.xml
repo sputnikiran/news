@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>News Site - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Sun, 18 Oct 2026 15:18:18 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 15:48:26 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>News Site</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>نخست وزیر لکورنو: تعداد افراد دستگیر شده در جریان ناآرامی‌های فرانسه به</title>
+      <link>https://sputnikiran.github.io/news/102185-نخست-وزیر-لکورنو-تعداد-اف.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102185-نخست-وزیر-لکورنو-تعداد-اف.html</guid>
+      <pubDate>Sun, 18 Oct 2026 15:47:00 GMT</pubDate>
+      <description>نفر رسیده است 🔸درگیری با معترضان منجر به زخمی شدن 150 افسر پلیس و ژاندارمری شد. 🔸علاوه بر این، در جریان اعتراضات در لیموژ، تظاهرکنندگان یک بنای تاریخی - برج ناقوس 43 متری تالار…</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102185.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102185.jpg" medium="image" />
+    </item>
     <item>
       <title>لاوروف در دیدار با پادشاه بحرین: باید به ریشه‌های مناقشه پیرامون تنگه هرمز رسیدگی شود</title>
       <link>https://sputnikiran.github.io/news/102184-لاوروف-در-دیدار-با-پادشاه.html</link>
@@ -450,15 +459,6 @@
       <description>🗣علیرضا ابراهیمی، مدیرعامل میدکو و عضو انجمن فولاد ایران، در گفتگوی اختصاصی با اسپوتنیک گفت: ما در حال حاضر به همکاری‌های دوجانبه با روسیه و چین اعتقاد زیادی داریم و همین الان هم این همکاری‌ها گسترش زیادی پیدا کرده است. به‌گونه‌ای که وقتی مرزهای جنوبی ما دچار آسیب می‌شود، ما مرزهای مشترک قابل‌توجهی با کشورهای آسیای مرکزی و روسیه داریم و می‌توانیم از ظرفیت این مرزها و مرزهای شرق کشور برای جایگزینی استفاده کنیم. 🔶در مورد همسایهٔ جنوبی هم، اقتصاد ما به هم گره خورده و زندگی‌مان به همدیگر گره خورده</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102132.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102132.jpg" medium="image" />
-    </item>
-    <item>
-      <title>افزایش تعداد نفتکش‌های آسیب‌دیده در دریای عمان؛ تنگه هرمز باز نیست</title>
-      <link>https://sputnikiran.github.io/news/102131-افزایش-تعداد-نفتکشهای-آسی.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102131-افزایش-تعداد-نفتکشهای-آسی.html</guid>
-      <pubDate>Sat, 17 Oct 2026 15:17:00 GMT</pubDate>
-      <description>🔶نیروی دریایی ارتش ایران اعلام کرد که ظهر امروز، تیم‌های رصد این نیرو یک فروند نفتکش متخلف را که در محدوده دریای عمان دچار حریق شده و از حرکت بازمانده بود، شناسایی کردند. در روزهای گذشته نیز چند نفتکش متخلف که بدون توجه به هشدارها مبنی بر لزوم روشن بودن تجهیزات الکترونیکی قصد عبور از مناطق ممنوعه را داشتند، دچار آتش‌سوزی شده بودند. 🔶نیروی دریایی ارتش ایران تأکید کرد که کنترل کامل و اشراف اطلاعاتی بر شرق تنگه هرمز، دریای عربی و دریای عمان دارد و از خطرات تردد در مناطق ممنوعه آگاه است. همچنین اع</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102131.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102131.jpg" medium="image" />
     </item>
   </channel>
 </rss>
