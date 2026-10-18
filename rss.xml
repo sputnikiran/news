@@ -5,13 +5,40 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>News Site - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Sat, 17 Oct 2026 20:49:06 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 05:18:24 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>News Site</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>نوواک: تداوم بحران هرمز قیمت نفت را بیشتر افزایش خواهد داد</title>
+      <link>https://sputnikiran.github.io/news/102154-نوواک-تداوم-بحران-هرمز-قی.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102154-نوواک-تداوم-بحران-هرمز-قی.html</guid>
+      <pubDate>Sun, 18 Oct 2026 05:17:00 GMT</pubDate>
+      <description>🛰الکساندر نوواک، معاون نخست‌وزیر روسیه، گفت که بازار جهانی نفت همچنان بسیار پرنوسان است و در انتظار بازگشایی تنگه هرمز به سر می‌برد؛ او هشدار داد که ادامه اختلالات موجب جهش شدید قیمت‌ها خواهد شد. 🛰نوواک در حاشیه مجمع «هفته انرژی روسیه» گفت: «در حال حاضر، شاهد آن هستیم که محموله‌های نفتی از طریق تنگه هرمز از سر گرفته نشده‌اند. نوسانات همچنان بالاست و بازار منتظر بهبود شرایط است، اما قیمت‌ها در سطوح بالا باقی مانده‌اند. به عقیده من، اگر این وضعیت ادامه یابد، قیمت‌ها باز هم افزایش بیشتری خواهند ی</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102154.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102154.jpg" medium="image" />
+    </item>
+    <item>
+      <title>نخست وزیر لکورنو: تعداد افراد دستگیر شده در جریان ناآرامی‌های فرانسه به</title>
+      <link>https://sputnikiran.github.io/news/102153-نخست-وزیر-لکورنو-تعداد-اف.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102153-نخست-وزیر-لکورنو-تعداد-اف.html</guid>
+      <pubDate>Sun, 18 Oct 2026 05:17:00 GMT</pubDate>
+      <description>نفر رسیده است 🔸درگیری با معترضان منجر به زخمی شدن 150 افسر پلیس و ژاندارمری شد. 🔸علاوه بر این، در جریان اعتراضات در لیموژ، تظاهرکنندگان یک بنای تاریخی - برج ناقوس 43 متری تالار شهر را به آتش کشیدند که 143 سال پابرجا بود. 🔸سازمان‌دهندگان تخمین می‌زنند که تا 800000 نفر در این اعتراضات شرکت کردند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102153.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102153.jpg" medium="image" />
+    </item>
+    <item>
+      <title>روبیو: اوکراین برای انجام حملات به عمق خاک روسیه، درخواست دسترسی به سامانه ارتباطی «استارشیلد» (Starshield) را مطرح کرده، اما به آن دسترسی ندارد</title>
+      <link>https://sputnikiran.github.io/news/102152-روبیو-اوکراین-برای-انجام.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102152-روبیو-اوکراین-برای-انجام.html</guid>
+      <pubDate>Sun, 18 Oct 2026 05:17:00 GMT</pubDate>
+      <description>🔸مارکو روبیو، وزیر امور خارجه آمریکا، اتهامات اوکراین مبنی بر اینکه کاخ سفید عمداً سرعت شبکه ماهواره‌ای «استارلینک» (Starlink) را کاهش داده است، به‌شدت رد کرد. 🔸او به خبرنگاران گفت: «مطمئن نیستم زلنسکی بداند درباره چه چیزی صحبت می‌کند. این کار عمدی نبوده و هیچ‌کس دستور نداده است که سرعت استارلینک کاهش یابد.» 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102152.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102152.jpg" medium="image" />
+    </item>
     <item>
       <title>دست‌کم</title>
       <link>https://sputnikiran.github.io/news/102151-دستکم.html</link>
@@ -430,33 +457,6 @@
       <description>🔶هزاران دانش‌آموز و دانشجو در اعتراض به سیاست‌های آموزشی دولت ایتالیا به خیابان‌ها آمدند. معترضان خواستار افزایش بودجه مدارس، بازسازی ساختمان‌های آموزشی و حل مشکل کمبود معلم هستند. 🔶در بولونیا، پلیس برای متفرق کردن معترضانی که تلاش می‌کردند از ایستگاه راه‌آهن عبور کنند، از باتوم استفاده کرد. در تورین، معترضان به سمت پلیس سنگ و بطری پرتاب کردند و نیروهای امنیتی در پاسخ از ماشین‌های آب‌پاش و گاز اشک‌آور استفاده کردند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102091.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102091.jpg" medium="image" />
-    </item>
-    <item>
-      <title>گلوله هدایت‌شونده کراسنوپول؛ انهدام حتمی برای تانک‌های دشمن</title>
-      <link>https://sputnikiran.github.io/news/102090-گلوله-هدایتشونده-کراسنوپو.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102090-گلوله-هدایتشونده-کراسنوپو.html</guid>
-      <pubDate>Fri, 16 Oct 2026 20:17:00 GMT</pubDate>
-      <description>🔶بر اساس اعلام شرکت روس‌تک، گلوله هدایت‌شونده توپخانه‌ای «کراسنوپول» به خدمه‌های روسی امکان می‌دهد اهداف زمینی کوچک و متحرک (از جمله تانک‌ها) را از فاصله ده‌ها کیلومتری با اصابت مستقیم منهدم کنند. 🔶وقتی یک هویتزر 152 میلی‌متری شلیک می‌کند، موج لرزه‌ای-صوتی ایجاد می‌شود و گلوله در طیف الکترومغناطیسی «می‌درخشد». همین موضوع رگبارهای طولانی را خطرناک می‌کند، زیرا رادارهای ضدباتری دشمن هرگز خواب نمی‌روند. 🔶تاکتیک ساده است: «شلیک، شلیک — و رفتن.» هویتزرهای مدرن مانند مستا-اس، مالوا و گیاتسینت-ک موض</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102090.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102090.jpg" medium="image" />
-    </item>
-    <item>
-      <title>«وینی‌پو» به کتابخانه یکی از شهرهای کالیفرنیای آمریکا سر زد</title>
-      <link>https://sputnikiran.github.io/news/102089-وینیپو-به-کتابخانه-یکی-از.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102089-وینیپو-به-کتابخانه-یکی-از.html</guid>
-      <pubDate>Fri, 16 Oct 2026 20:17:00 GMT</pubDate>
-      <description>🔹اداره آموزش محلی به شوخی حدس زد که این خرس به دنبال نسخه‌ای از کتاب «وینی‌پو» بوده که 100 سال پیش منتشر شده است. 🔹گفته می‌شود این خرس در کتابخانه مشغول خوردن عسل، بیسکویت و کره بادام‌زمینی شد و سپس بدون واردکردن هیچ خسارتی ساختمان را ترک کرد. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102089.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102089.jpg" medium="image" />
-    </item>
-    <item>
-      <title>مهم‌ترین رویدادهای جهان تا شامگاه</title>
-      <link>https://sputnikiran.github.io/news/102088-مهمترین-رویدادهای-جهان-تا.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102088-مهمترین-رویدادهای-جهان-تا.html</guid>
-      <pubDate>Fri, 16 Oct 2026 19:47:00 GMT</pubDate>
-      <description>اکتبر 🔹اسماعیل بقائی، سخنگوی وزارت امور خارجه ایران: ایران آماده کمک برای حل مسالمت‌آمیز مسائل میان&amp;nbsp;عربستان سعودی&amp;nbsp;و&amp;nbsp;یمن&amp;nbsp;است. 🔹ولادیمیر پوتین، رئیس‌جمهور روسیه:&amp;nbsp;جمهوری خلق لوگانسک&amp;nbsp;کاملاً تحت کنترل&amp;nbsp;نیروهای مسلح روسیه&amp;nbsp;است. 🔹الکساندر نواک، معاون نخست‌وزیر روسیه: روسیه آماده مشارکت در برقراری توازن در بازارهای انرژی است. 🔹کریل دمیتریف، فرستاده ویژه رئیس‌جمهور روسیه: روسیه و&amp;nbsp;آمریکا&amp;nbsp;درباره همکاری در حوزه مراکز داده گفت‌وگو می‌کنند. 🔹یک دیپلمات اروپ</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102088.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102088.jpg" medium="image" />
     </item>
   </channel>
 </rss>
