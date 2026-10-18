@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>News Site - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Sun, 18 Oct 2026 12:18:39 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 12:48:21 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>News Site</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>تحلیلگر سیاسی: همکاری‌های دریایی روسیه و چین فرصت‌های جدیدی را برای «جنوب جهانی» ایجاد می‌کند</title>
+      <link>https://sputnikiran.github.io/news/102177-تحلیلگر-سیاسی-همکاریهای-د.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102177-تحلیلگر-سیاسی-همکاریهای-د.html</guid>
+      <pubDate>Sun, 18 Oct 2026 12:47:00 GMT</pubDate>
+      <description>🛰رناتو پنلوپی جونیور، تحلیلگر سیاسی، به اسپوتنیک گفت کنترل بنادر کلیدی اوراسیا توسط روسیه و چین می‌تواند به نیروی محرکه‌ای قدرتمند برای اقتصاد این منطقه تبدیل شود. 🛰در سایه بحران تنگه هرمز و افزایش بی‌ثباتی در سطح جهان، «مسیر دریایی شمالی» روسیه که امنیت آن به واسطه نزدیکی به خط ساحلی روسیه تضمین شده است «مسیرهای تجاری جدیدی را در این منطقه می‌گشاید.» 🛰از آنجا که روسیه با ایفای نقش واسطه میان طرف‌های ذینفع، تسهیل‌گر تجارت در سراسر اوراسیا است، ایجاد مسیرهای تجاری جدید، نظیر راه‌آهن سراسری سیب</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102177.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102177.jpg" medium="image" />
+    </item>
     <item>
       <title>تصاویری از یک نوزاد مصری در شبکه‌های اجتماعی منتشر شد که واکنش‌های گسترده‌ای را برانگیخت</title>
       <link>https://sputnikiran.github.io/news/102176-تصاویری-از-یک-نوزاد-مصری.html</link>
@@ -450,15 +459,6 @@
       <description>🔸در منطقه دنیپروپتروفسک، یگان‌های روسی بیش از 1800 سازه را پاکسازی کردند. وسعت این موضع دفاعی که تحت کنترل درآمده، به بیش از 8 کیلومتر مربع می‌رسد. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102124.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102124.jpg" medium="image" />
-    </item>
-    <item>
-      <title>ساکنان کی‌یف به دلیل نگرانی‌ها در مورد گرمایش در فصل زمستان، خواستار استعفای کلیچکو شدند</title>
-      <link>https://sputnikiran.github.io/news/102119-ساکنان-کییف-به-دلیل-نگران.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102119-ساکنان-کییف-به-دلیل-نگران.html</guid>
-      <pubDate>Sat, 17 Oct 2026 12:17:00 GMT</pubDate>
-      <description>🔸به گزارش «سوسپیلنه»، معترضان با تجمع در مقابل ساختمان شهرداری کی‌یف، ویتالی کلیچکو، شهردار این شهر را متهم کردند که در آماده‌سازی پایتخت برای فصل زمستان کوتاهی کرده است. 🔸با توجه به گزارش‌ها مبنی بر اینکه تنها 50 تا 70 درصد از تأسیسات اصلی گرمایشی بازسازی شده‌اند، ساکنان نگران یخ‌زدگی در آپارتمان‌های خود هستند. 🔸کلیچکو این اتهامات را رد کرده و دولت مرکزی اوکراین را به راه‌اندازی کارزاری علیه خود متهم می‌کند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102119.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102119.jpg" medium="image" />
     </item>
   </channel>
 </rss>
