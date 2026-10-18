@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>News Site - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Sun, 18 Oct 2026 13:49:07 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 14:18:14 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>News Site</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>لاوروف: روسیه خواستار گفتگو در منطقه خلیج فارس برای جلوگیری از یک جنگ بزرگ است</title>
+      <link>https://sputnikiran.github.io/news/102181-لاوروف-روسیه-خواستار-گفتگ.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102181-لاوروف-روسیه-خواستار-گفتگ.html</guid>
+      <pubDate>Sun, 18 Oct 2026 14:17:00 GMT</pubDate>
+      <description>👇سرگئی لاوروف، وزیر امور خارجه روسیه، اظهار داشت که روسیه در تلاش است تا از وقوع یک جنگ بزرگ در منطقه خلیج فارس — که امنیت در آن از اهمیتی حیاتی برخوردار است — جلوگیری کند. 🔸لاوروف که در نهمین نشست «گفتگوی راهبردی روسیه و شورای همکاری خلیج [فارس]» در منامه (بحرین) سخن می‌گفت، خواستار انجام گفتگوهای مستقیم میان کشورهای حوزه خلیج فارس و همسایگان آن‌ها، از جمله عراق و اردن، شد؛ گفتگوهایی که می‌تواند با مشارکت احتمالی «سازمان همکاری اسلامی» و «شورای امنیت سازمان ملل متحد» همراه باشد. 🛰 Sputnik Ir</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102181.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102181.jpg" medium="image" />
+    </item>
     <item>
       <title>کارشناس: آیا روسیه میانجی بهتری میشود؟</title>
       <link>https://sputnikiran.github.io/news/102180-کارشناس-آیا-روسیه-میانجی.html</link>
@@ -450,15 +459,6 @@
       <description>🔹رویدادی که به مناسبت «جشنواره چونگ‌یونگ» — روزی که به‌طور سنتی به تکریم سالمندان اختصاص دارد — برگزار شد. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102128.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102128.jpg" medium="image" />
-    </item>
-    <item>
-      <title>انفجار مهیب در ابر نفتکش بعد از برخورد با مین دریایی در تنگه هرمز</title>
-      <link>https://sputnikiran.github.io/news/102127-انفجار-مهیب-در-ابر-نفتکش.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102127-انفجار-مهیب-در-ابر-نفتکش.html</guid>
-      <pubDate>Sat, 17 Oct 2026 13:17:00 GMT</pubDate>
-      <description>🔸نیروی دریایی سپاه پاسداران ایران اعلام نمود که یک فروند سوپر نفتکش متخلف با بیش از 2 میلیون بشکه نفت خام&amp;nbsp; که قصد عبور از مسیر غیر مجاز تنگه هرمز را داشت با برخورد مین، دچار حادثه منجر به…</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102127.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102127.jpg" medium="image" />
     </item>
   </channel>
 </rss>
