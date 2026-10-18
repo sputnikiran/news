@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>News Site - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Sun, 18 Oct 2026 18:48:18 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 19:19:32 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>News Site</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>مهم‌ترین خبرهای شامگاه</title>
+      <link>https://sputnikiran.github.io/news/102193-مهمترین-خبرهای-شامگاه.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102193-مهمترین-خبرهای-شامگاه.html</guid>
+      <pubDate>Sun, 18 Oct 2026 19:18:00 GMT</pubDate>
+      <description>اکتبر 🔸واکنش سخنگوی وزارت امور خارجه ایران به اعتراضات در فرانسه: آقای مکرون&amp;#33; استاندارد دوگانه قابل دفاع نیست 🔸سرگئی لاوروف در دیدار با پادشاه بحرین خاطرنشان کرد که باید به ریشه‌های اصلی مناقشه پیرامون تنگه هرمز رسیدگی شود. 🔸ماریا زاخارووا به نخست‌وزیر لتونی توصیه کرد که نگاهی دقیق‌تر بیندازد تا ببیند تهدید واقعی در حال حاضر از کجا نشأت می‌گیرد. 🔸فرانسه در حال برآورد خسارات یکی از شدیدترین روزهای ناآرامی در سال‌های اخیر است؛ روزی که در آن اعتراضات به هزینه‌های زندگی، به شورش‌هایی در سراس</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102193.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102193.jpg" medium="image" />
+    </item>
     <item>
       <title>واکنش سخنگوی وزارت امور خارجه به اعتراضات در فرانسه: آقای مکرون&amp;</title>
       <link>https://sputnikiran.github.io/news/102192-واکنش-سخنگوی-وزارت-امور-خ.html</link>
@@ -448,15 +457,6 @@
       <description>🗣علیرضا ابراهیمی، مدیرعامل میدکو و عضو انجمن فولاد ایران، در گفتگوی اختصاصی با اسپوتنیک گفت: صنعت فولاد ایران تا کمتر از&amp;nbsp;10&amp;nbsp;سال پیش حتی نمی‌توانست نیازهای داخلی کشور را تأمین کند و ایران وابسته به واردات فولاد از کشورهای مختلف بود. اما در طول&amp;nbsp;10&amp;nbsp;سال گذشته، توسعه‌ای بسیار گسترده و سریع در این صنعت رخ داد، به‌گونه‌ای که اکنون تقریباً&amp;nbsp;یک‌سوم&amp;nbsp;فولاد تولیدی کشور صرف نیازهای داخلی می‌شود و&amp;nbsp;دو‌سوم&amp;nbsp;آن قابلیت صادرات به بازارهای بین‌المللی را دارد. این تغییر وضعیت ا</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102143.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102143.jpg" medium="image" />
-    </item>
-    <item>
-      <title>کارشناس: معافیت تحریمی ترامپ، تهدید تعرفه‌ای علیه خریداران نفت روسیه را بی‌اثر می‌کند</title>
-      <link>https://sputnikiran.github.io/news/102142-کارشناس-معافیت-تحریمی-ترا.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102142-کارشناس-معافیت-تحریمی-ترا.html</guid>
-      <pubDate>Sat, 17 Oct 2026 17:47:00 GMT</pubDate>
-      <description>🗣محمد ثاقب، دبیرکل شورای اقتصادی و فرهنگی هند-چین، به اسپوتنیک گفت که معافیت دونالد ترامپ از تحریم‌های آمریکا علیه روسیه، اثربخشی مکانیسم «تحریم‌های ثانویه از طریق تعرفه» در قانون گراهام را تضعیف می‌کند. 👉وی افزود: «این معافیت به ترامپ انعطاف‌پذیری می‌دهد، اما اعتبار این تهدید را کاهش می‌دهد.» خریداران عمده نفت و گاز روسیه مانند چین، هند و ترکیه که قانون تحریم‌ها آن‌ها را به تعرفه&amp;nbsp;100&amp;nbsp;درصدی تهدید کرده بود، ممکن است این تعلیق را «یک وقفه موقت» تلقی کنند، زیرا «بازگرداندن این تعرفه‌ها </description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102142.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102142.jpg" medium="image" />
     </item>
   </channel>
 </rss>
