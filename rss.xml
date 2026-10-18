@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>News Site - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Sun, 18 Oct 2026 05:18:24 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 05:48:28 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>News Site</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>گزارش: آتش‌سوزی بزرگ در پایگاه نظامی کانادایی وینرایت کشته و زخمی برجای گذاشت</title>
+      <link>https://sputnikiran.github.io/news/102155-گزارش-آتشسوزی-بزرگ-در-پای.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102155-گزارش-آتشسوزی-بزرگ-در-پای.html</guid>
+      <pubDate>Sun, 18 Oct 2026 05:47:00 GMT</pubDate>
+      <description>🔥دیوید مک‌گینتی، وزیر دفاع، تأیید کرد که در حادثه‌ای در پایگاه نظامی در آلبرتا که باعث آتش‌سوزی بزرگی شد، افرادی کشته و زخمی شده‌اند. وی آمار تلفات یا علت حادثه را ارائه نکرد. 🔥آتش از حصار پایگاه عبور کرد و به دلیل بادهای شدید به سرعت گسترش یافت. دانیل اسمیت، نخست وزیر آلبرتا، آتش‌سوزی را &amp;quot;غم‌انگیز&amp;quot; خواند و خاطرنشان کرد که بسیاری از پرسنل نظامی را تحت تأثیر قرار داده است. 🔸تصاویر: شبکه‌های اجتماعی. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102155.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102155.jpg" medium="image" />
+    </item>
     <item>
       <title>نوواک: تداوم بحران هرمز قیمت نفت را بیشتر افزایش خواهد داد</title>
       <link>https://sputnikiran.github.io/news/102154-نوواک-تداوم-بحران-هرمز-قی.html</link>
@@ -448,15 +457,6 @@
       <description>🔹نسخه به‌روزرسانی‌شده خودروی لوکس «اوروس سنات» که ترکیبی از تجملات و فناوری مدرن است، رونمایی شد. این خودرو به صفحه کیلومتر دیجیتال، سیستم دید در شب، فناوری تشخیص خستگی راننده و آینه عقب دیجیتال مجهز شده است. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102092.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102092.jpg" medium="image" />
-    </item>
-    <item>
-      <title>درگیری معترضان با پلیس در چندین شهر ایتالیا در اعتراض به سیاست‌های آموزشی دولت</title>
-      <link>https://sputnikiran.github.io/news/102091-درگیری-معترضان-با-پلیس-در.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102091-درگیری-معترضان-با-پلیس-در.html</guid>
-      <pubDate>Fri, 16 Oct 2026 20:47:00 GMT</pubDate>
-      <description>🔶هزاران دانش‌آموز و دانشجو در اعتراض به سیاست‌های آموزشی دولت ایتالیا به خیابان‌ها آمدند. معترضان خواستار افزایش بودجه مدارس، بازسازی ساختمان‌های آموزشی و حل مشکل کمبود معلم هستند. 🔶در بولونیا، پلیس برای متفرق کردن معترضانی که تلاش می‌کردند از ایستگاه راه‌آهن عبور کنند، از باتوم استفاده کرد. در تورین، معترضان به سمت پلیس سنگ و بطری پرتاب کردند و نیروهای امنیتی در پاسخ از ماشین‌های آب‌پاش و گاز اشک‌آور استفاده کردند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102091.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102091.jpg" medium="image" />
     </item>
   </channel>
 </rss>
