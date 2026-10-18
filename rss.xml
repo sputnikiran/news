@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>News Site - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Sun, 18 Oct 2026 14:18:14 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 14:48:21 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>News Site</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>توصیه ماریا زاخارووا به نخست‌وزیر لتونی: نگاهی بیندازد تا ببیند تهدید واقعی در حال حاضر از کجا نشأت می‌گیرد</title>
+      <link>https://sputnikiran.github.io/news/102182-توصیه-ماریا-زاخارووا-به-ن.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102182-توصیه-ماریا-زاخارووا-به-ن.html</guid>
+      <pubDate>Sun, 18 Oct 2026 14:47:00 GMT</pubDate>
+      <description>🔸پیش‌تر، کولبرگس از کشورهای عضو اتحادیه اروپا خواسته بود صدور روادید گردشگری برای شهروندان روسیه را متوقف کنند؛ اقدامی که ظاهراً با هدف پیشگیری از «تهدیدهای ترکیبی» در آینده صورت می‌گرفت. 🔸سخنگوی وزارت خارجه روسیه ماریا زاخارووا در پاسخ به وی خاطرنشان کرد: «باید تلویزیون را برای آقای کولبرگس روشن کرد تا ببیند که اتحادیه اروپا نه در یک سناریوی احتمالی در آینده، بلکه همین حالا — آن هم نه به شیوه‌ای &amp;quot;ترکیبی&amp;quot;، بلکه به شکلی کاملاً عریان و مستقیم — در حال ویرانی است؛ و توسط چه کسانی؟ توسط </description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102182.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102182.jpg" medium="image" />
+    </item>
     <item>
       <title>لاوروف: روسیه خواستار گفتگو در منطقه خلیج فارس برای جلوگیری از یک جنگ بزرگ است</title>
       <link>https://sputnikiran.github.io/news/102181-لاوروف-روسیه-خواستار-گفتگ.html</link>
@@ -450,15 +459,6 @@
       <description>🔶فریدریش مرتس، صدراعظم آلمان و رئیس حزب اتحادیه دموکرات مسیحی، با اشاره به نتایج انتخابات اخیر پارلمان‌های ایالتی در «زاکسن-آنهالت» و «مکلنبورگ-پومرانی غربی»، تأکید کرد که این نتایج پیامدهایی بسیار سنگین—و حتی فاجعه‌بار—برای این حزب به همراه داشته است. 🔶در عین حال، مرتس اذعان کرد که دولت فدرال آلمان و همچنین شخص او، در قبال نتایج این انتخابات که برای حزب دموکرات مسیحی ناموفق بود، مسئول هستند. 🔶مرتس گفت: «درباره نتایج انتخابات و نقش دولت فدرال—از جمله نقش خودِ من—سخنان بسیاری گفته شده است. این</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102129.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102129.jpg" medium="image" />
-    </item>
-    <item>
-      <title>پهپاد آسمانِ بالای «بندر ویکتوریا» در هنگ‌کنگ را به نمایشی پرشور و تماشایی بدل کردند</title>
-      <link>https://sputnikiran.github.io/news/102128-پهپاد-آسمانِ-بالای-بندر-و.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102128-پهپاد-آسمانِ-بالای-بندر-و.html</guid>
-      <pubDate>Sat, 17 Oct 2026 13:47:00 GMT</pubDate>
-      <description>🔹رویدادی که به مناسبت «جشنواره چونگ‌یونگ» — روزی که به‌طور سنتی به تکریم سالمندان اختصاص دارد — برگزار شد. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102128.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102128.jpg" medium="image" />
     </item>
   </channel>
 </rss>
