@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>News Site - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Sun, 18 Oct 2026 10:48:48 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 11:18:26 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>News Site</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>ویکتور اوربان، نخست وزیر سابق مجارستان: مجارستان دیگر بی‌طرف نیست، اکنون ضد روسیه است</title>
+      <link>https://sputnikiran.github.io/news/102172-ویکتور-اوربان،-نخست-وزیر.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102172-ویکتور-اوربان،-نخست-وزیر.html</guid>
+      <pubDate>Sun, 18 Oct 2026 11:17:00 GMT</pubDate>
+      <description>🗣اوربان خاطرنشان کرد: «آنها پول ما را می‌گیرند، آن را به اوکراین منتقل می‌کنند و ما را به جنگ می‌کشانند. روسیه به عنوان دشمن اعلام شده است و مجارستان به همراه آلمانی‌ها، فرانسوی‌ها و بریتانیایی‌ها طرفدار اوکراین شده است.» 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102172.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102172.jpg" medium="image" />
+    </item>
     <item>
       <title>مشاور فنی زلنسکی: فناوری زلنسکی: شبکه ماهواره‌ای راس‌وت روسیه «خطر شماره</title>
       <link>https://sputnikiran.github.io/news/102171-مشاور-فنی-زلنسکی-فناوری-ز.html</link>
@@ -450,15 +459,6 @@
       <description>نفر جان باختند 🔸به گزارش پلیس محلی، این حادثه در حومه دهکده درایمن رخ داده است. طبق گزارش‌ها، ارتباط با این هواپیما 20 دقیقه پس از برخاستن از فرودگاه گلاسگو قطع شده بود. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102111.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102111.jpg" medium="image" />
-    </item>
-    <item>
-      <title>یک مجموعه ورزشی مجهز، شامل زمین‌های تنیس، در متروی گوانگ‌ژو در چین افتتاح شد</title>
-      <link>https://sputnikiran.github.io/news/102110-یک-مجموعه-ورزشی-مجهز،-شام.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102110-یک-مجموعه-ورزشی-مجهز،-شام.html</guid>
-      <pubDate>Sat, 17 Oct 2026 10:17:00 GMT</pubDate>
-      <description>🔸ساکنان شهر گوانگ‌ژو در چین اکنون می‌توانند بدون نیاز به خروج از ایستگاه مترو، ورزش کردن را با رفت‌وآمدهای روزانه خود تلفیق کنند. فضاهای ورزشی جدیدی ایجاد شده که طیف گسترده‌ای از فعالیت‌ها، از «پیکل‌بال» و تنیس گرفته تا تمرینات قدرتی را در بر می‌گیرد. 🔸بر اساس گزارش‌ها، متروی گوانگ‌ژو حدود 1600 متر مربع از فضای ایستگاه را به هفت زمین پیکل‌بال و سه محوطه تمرین تنیس اختصاص داده است که به دستگاه‌های توپ‌انداز نیز مجهز هستند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102110.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102110.jpg" medium="image" />
     </item>
   </channel>
 </rss>
