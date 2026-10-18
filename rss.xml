@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>News Site - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Sun, 18 Oct 2026 12:48:21 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 13:18:17 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>News Site</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>ربات‌ها، بازدیدکنندگان را در نمایشگاه &amp;quot;کانتون&amp;quot; در چین شگفت‌زده کردند</title>
+      <link>https://sputnikiran.github.io/news/102178-رباتها،-بازدیدکنندگان-را.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102178-رباتها،-بازدیدکنندگان-را.html</guid>
+      <pubDate>Sun, 18 Oct 2026 13:17:00 GMT</pubDate>
+      <description>🔶در این نمایشگاه، ربات‌های انسان‌نما مهارت‌های خود را در حرکات ورزشی مانند ضربه زدن و مشت زدن به نمایش گذاشتند و توجه خریداران خارجی را در دوره 140ام این نمایشگاه جلب کردند. این نمایشگاه میزبان عرضه 235 هزار محصول مبتنی بر هوش مصنوعی است. 🔶این موضوع نشان‌دهنده گسترش استفاده از این فناوری‌ها خارج از آزمایشگاه‌ها و ورود آن‌ها به کاربردهای عملی در صنایع و بخش‌های مختلف است. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102178.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102178.jpg" medium="image" />
+    </item>
     <item>
       <title>تحلیلگر سیاسی: همکاری‌های دریایی روسیه و چین فرصت‌های جدیدی را برای «جنوب جهانی» ایجاد می‌کند</title>
       <link>https://sputnikiran.github.io/news/102177-تحلیلگر-سیاسی-همکاریهای-د.html</link>
@@ -450,15 +459,6 @@
       <description>🔸وزیر خارجه ایران در نشست شورای وزیران سازمان همکاری اسلامی گفت که ایران از مردم، حاکمیت و منافع مشروع خود دفاع خواهد کرد. اما میان دفاع از حقوقمان و پیگیری صلح هیچ تناقضی نیست؛ ما خسارت ناشی از جنگ را می‌شناسیم و دقیقاً به همین دلیل برای صلح ارزش قائلیم.&amp;nbsp; 🔸 امنیت را نمی‌توان با تکرار اشتباهات و جنایات قبلی بازگرداند؛ نمی‌توان کشوری را بمباران کرد، تهدید به نابودی‌اش کرد و محاصره‌اش نمود و سپس انتظار داشت امنیت ناوبری به حالت عادی بازگردد.&amp;nbsp; 🔸 از طریق قطر، یک برنامه مشخص هفت‌روزه را </description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102125.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102125.jpg" medium="image" />
-    </item>
-    <item>
-      <title>وزارت دفاع روسیه: نیروهای روسی کنترل منطقه دفاعی متعلق به نیروهای مسلح اوکراین را به دست گرفتند</title>
-      <link>https://sputnikiran.github.io/news/102124-وزارت-دفاع-روسیه-نیروهای.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102124-وزارت-دفاع-روسیه-نیروهای.html</guid>
-      <pubDate>Sat, 17 Oct 2026 12:47:00 GMT</pubDate>
-      <description>🔸در منطقه دنیپروپتروفسک، یگان‌های روسی بیش از 1800 سازه را پاکسازی کردند. وسعت این موضع دفاعی که تحت کنترل درآمده، به بیش از 8 کیلومتر مربع می‌رسد. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102124.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102124.jpg" medium="image" />
     </item>
   </channel>
 </rss>
