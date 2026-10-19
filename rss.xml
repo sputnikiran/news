@@ -5,13 +5,31 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>News Site - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Mon, 19 Oct 2026 11:48:31 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 12:48:31 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>News Site</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>تصاویر اسپوتنیک از دیدار لاوروف و عراقچی در تهران</title>
+      <link>https://sputnikiran.github.io/news/102229-تصاویر-اسپوتنیک-از-دیدار.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102229-تصاویر-اسپوتنیک-از-دیدار.html</guid>
+      <pubDate>Mon, 19 Oct 2026 12:47:00 GMT</pubDate>
+      <description>🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102229.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102229.jpg" medium="image" />
+    </item>
+    <item>
+      <title>تصاویر اسپوتنیک از دیدار لاوروف و عراقچی در تهران</title>
+      <link>https://sputnikiran.github.io/news/102227-تصاویر-اسپوتنیک-از-دیدار.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102227-تصاویر-اسپوتنیک-از-دیدار.html</guid>
+      <pubDate>Mon, 19 Oct 2026 12:47:00 GMT</pubDate>
+      <description>🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102227.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102227.jpg" medium="image" />
+    </item>
     <item>
       <title>به‌روزرسانی بیانیه وزارت دفاع روسیه: پیشروی‌های ارضی جدید و تلفات سنگین اوکراین</title>
       <link>https://sputnikiran.github.io/news/102225-بهروزرسانی-بیانیه-وزارت-د.html</link>
@@ -441,24 +459,6 @@
       <description>▫️توان آتش هوایی و موشکی روسیه، زیرساخت‌های حمل‌ونقل مورد استفاده ارتش اوکراین، یک انبار تجهیزات نظامی-فنی و کارگاه‌های تولید پهپاد را هدف قرار داد. ▫️برتری پدافند هوایی: هفت موشک کروز «فلامینگو» و 1256 پهپاد سرنگون شدند. ▫️تلفات اوکراین: حدود 1185 سرباز کشته یا زخمی شدند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102175.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102175.jpg" medium="image" />
-    </item>
-    <item>
-      <title>بالگرد AH-</title>
-      <link>https://sputnikiran.github.io/news/102174-بالگرد-ah.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102174-بالگرد-ah.html</guid>
-      <pubDate>Sun, 18 Oct 2026 11:47:00 GMT</pubDate>
-      <description>i عربستان سعودی در منطقه نجران عربستان سعودی سقوط کرد و دو خدمه آن کشته شدند 🚁به گفته مقامات عربستان سعودی، نقص فنی علت این حادثه بوده است. این سانحه در منطقه‌ای تحت نظارت وزارت گارد ملی این کشور رخ داده است. 🚁با این حال، انصارالله ادعا می‌کند که این بالگرد توسط یک پهپاد هیبریدی و یک موشک صقر-1 سرنگون شده است. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102174.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102174.jpg" medium="image" />
-    </item>
-    <item>
-      <title>گزارش: آتش‌سوزی بزرگ در پایگاه نظامی کانادایی وینرایت کشته و زخمی برجای گذاشت</title>
-      <link>https://sputnikiran.github.io/news/102173-گزارش-آتشسوزی-بزرگ-در-پای.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102173-گزارش-آتشسوزی-بزرگ-در-پای.html</guid>
-      <pubDate>Sun, 18 Oct 2026 11:47:00 GMT</pubDate>
-      <description>🔥دیوید مک‌گینتی، وزیر دفاع، تأیید کرد که در حادثه‌ای در پایگاه نظامی در آلبرتا که باعث آتش‌سوزی بزرگی شد، افرادی کشته و زخمی شده‌اند. وی آمار تلفات یا علت حادثه را ارائه نکرد.…</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102173.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102173.jpg" medium="image" />
     </item>
   </channel>
 </rss>
