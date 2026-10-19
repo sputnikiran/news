@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>News Site - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Mon, 19 Oct 2026 09:18:47 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 09:48:23 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>News Site</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>معترضان در پاریس ورودی موزه لوور را مسدود کردند</title>
+      <link>https://sputnikiran.github.io/news/102215-معترضان-در-پاریس-ورودی-مو.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102215-معترضان-در-پاریس-ورودی-مو.html</guid>
+      <pubDate>Mon, 19 Oct 2026 09:47:00 GMT</pubDate>
+      <description>🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102215.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102215.jpg" medium="image" />
+    </item>
     <item>
       <title>ماسک قول داد که سال آینده یکی از سهام اسپیس ایکس خود را به هر کودک آمریکایی بدهد</title>
       <link>https://sputnikiran.github.io/news/102214-ماسک-قول-داد-که-سال-آینده.html</link>
@@ -450,15 +459,6 @@
       <description>و 40 روزه آماده کرده‌اند 💬هذیان‌گویی و تهدیدهای مکرر این روزهای مقامات آمریکایی و صهیونی، واقعیت میدان را تغییر نمی‌دهد. 💬طرح عملیاتی جدید ایران، با قواعدی که آنها می‌شناسند، پیش نخواهد رفت. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102164.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102164.jpg" medium="image" />
-    </item>
-    <item>
-      <title>باران‌های سیل‌آسا، سیل و بادهای شدید سومالی را درنوردیده‌اند</title>
-      <link>https://sputnikiran.github.io/news/102163-بارانهای-سیلآسا،-سیل-و-با.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102163-بارانهای-سیلآسا،-سیل-و-با.html</guid>
-      <pubDate>Sun, 18 Oct 2026 08:48:00 GMT</pubDate>
-      <description>💦ارتش ملی سومالی، با هماهنگی ادارات منطقه‌ای، در حال تخلیه خانواده‌های آسیب‌دیده به پناهگاه‌های امن است. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102163.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102163.jpg" medium="image" />
     </item>
   </channel>
 </rss>
