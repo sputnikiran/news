@@ -5,13 +5,31 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>News Site - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Mon, 19 Oct 2026 10:48:32 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 11:18:35 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>News Site</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>لاوروف وارد تهران شد و قرار است در آنجا با عراقچی، همتای ایرانی خود، در مورد گام‌های کاهش تنش در خلیج فارس گفتگو کند</title>
+      <link>https://sputnikiran.github.io/news/102223-لاوروف-وارد-تهران-شد-و-قر.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102223-لاوروف-وارد-تهران-شد-و-قر.html</guid>
+      <pubDate>Mon, 19 Oct 2026 11:17:00 GMT</pubDate>
+      <description>🔸به گفته خبرنگاران رسانه‌های روسی، وزیر روسیه همچنین به حضور پزشکیان، رئیس جمهور ایران، پذیرفته خواهد شد. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102223.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102223.jpg" medium="image" />
+    </item>
+    <item>
+      <title>تحریم‌ها علیه روسیه: آیا همه از آنها پیروی می‌کنند؟</title>
+      <link>https://sputnikiran.github.io/news/102222-تحریمها-علیه-روسیه-آیا-هم.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102222-تحریمها-علیه-روسیه-آیا-هم.html</guid>
+      <pubDate>Mon, 19 Oct 2026 11:17:00 GMT</pubDate>
+      <description>#داده_نمایی 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102222.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102222.jpg" medium="image" />
+    </item>
     <item>
       <title>یک سگ کوچک در آمریکا خرسی را فراری داد</title>
       <link>https://sputnikiran.github.io/news/102221-یک-سگ-کوچک-در-آمریکا-خرسی.html</link>
@@ -441,24 +459,6 @@
       <description>» است 🔸در حالی که اوکراین از کند شدن استارلینک نگران است، مشاور فنی زلنسکی زنگ خطر بسیار بلندتری را به صدا در ‌آورده است که در رابطه با پاسخ روسیه به منظومه ماهواره‌ای ایلان ماسک است. 🔸او معتقد است که روسیه در حال حاضر توانایی کنترل سلاح‌هایی مانند موشک کروز سبک باندرول و پهپاد کامیکازه مجهز به مواد منفجره Dan-M را از طریق ماهواره و در زمان واقعی به دست آورده است. 🔸در مقیاس بزرگ، راس‌وت به اپراتورهای روسی اجازه می‌دهد تا پهپادها و موشک‌ها را مستقیماً هدایت کنند و شبکه جنگ الکترونیک اوکراین را</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102171.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102171.jpg" medium="image" />
-    </item>
-    <item>
-      <title>بازگشت پروازهای عمان به ایران</title>
-      <link>https://sputnikiran.github.io/news/102170-بازگشت-پروازهای-عمان-به-ا.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102170-بازگشت-پروازهای-عمان-به-ا.html</guid>
-      <pubDate>Sun, 18 Oct 2026 10:48:00 GMT</pubDate>
-      <description>🛰به رغم تحریم های آمریکا بر علیه ایران اکثر کشورها از تبعیت به این تحریم ها سر باز زدند و بعد از عراق دوباره پرواز های عمان به ایران راه اندازی شد. 🛰تصاویر اختصاصی اسپوتنیک از اولین پرواز سلام ایر به تهران پس از تحریم های جدید آمریکا. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102170.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102170.jpg" medium="image" />
-    </item>
-    <item>
-      <title>کرملین: حملات روسیه به طور سیستماتیک قابلیت‌های حمله اوکراین را تضعیف می‌کند</title>
-      <link>https://sputnikiran.github.io/news/102169-کرملین-حملات-روسیه-به-طور.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102169-کرملین-حملات-روسیه-به-طور.html</guid>
-      <pubDate>Sun, 18 Oct 2026 10:18:00 GMT</pubDate>
-      <description>🛰دمیتری پسکوف، سخنگوی کرملین، گفت که روسیه همچنان به حملات تلافی‌جویانه گسترده علیه اوکراین ادامه می‌دهد که هدف آن کاهش توانایی کی‌یف برای انجام حملات است. سایر اظهارات سخنگوی کرملین: 🛰حملات تلافی‌جویانه روسیه مداوم، سیستماتیک و گسترده است و نتایجی را به همراه دارد. 🛰این حملات برای تضعیف قابلیت‌های تهاجمی رژیم کی‌یف طراحی شده‌اند. 🛰حملات پهپادی اوکراین به مناطق روسیه روند وقایع را تغییر نخواهد داد و نشان دهنده «نشانه‌های نهایی پایان رژیم» است. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102169.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102169.jpg" medium="image" />
     </item>
   </channel>
 </rss>
