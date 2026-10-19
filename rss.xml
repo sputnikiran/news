@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>News Site - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Mon, 19 Oct 2026 20:18:12 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 20:48:26 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>News Site</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>یک هواپیما هنگام برخاستن در پرو آتش گرفت</title>
+      <link>https://sputnikiran.github.io/news/102267-یک-هواپیما-هنگام-برخاستن.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102267-یک-هواپیما-هنگام-برخاستن.html</guid>
+      <pubDate>Mon, 19 Oct 2026 20:47:00 GMT</pubDate>
+      <description>▫️موتور یک ایرباس A320 هنگام برخاستن از فرودگاه بین‌المللی خورخه چاوز در لیما، پرو، آتش گرفت. ▫️خلبانان پرواز را لغو کردند و همه مسافران تخلیه شدند. شرکت هواپیمایی پرو، LATAM، آتش‌سوزی را یک «حادثه فنی پیش‌بینی نشده» نامید. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102267.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102267.jpg" medium="image" />
+    </item>
     <item>
       <title>معترضان در پاریس ورودی موزه لوور را مسدود کردند</title>
       <link>https://sputnikiran.github.io/news/102266-معترضان-در-پاریس-ورودی-مو.html</link>
@@ -448,15 +457,6 @@
       <description>🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102209.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102209.jpg" medium="image" />
-    </item>
-    <item>
-      <title>نرخ ارز، سکه و طلا تا ساعت</title>
-      <link>https://sputnikiran.github.io/news/102208-نرخ-ارز،-سکه-و-طلا-تا-ساع.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102208-نرخ-ارز،-سکه-و-طلا-تا-ساع.html</guid>
-      <pubDate>Mon, 19 Oct 2026 07:48:00 GMT</pubDate>
-      <description>:00 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102208.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102208.jpg" medium="image" />
     </item>
   </channel>
 </rss>
