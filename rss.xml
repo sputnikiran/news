@@ -5,13 +5,31 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>News Site - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Mon, 19 Oct 2026 11:18:35 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 11:48:31 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>News Site</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>به‌روزرسانی بیانیه وزارت دفاع روسیه: پیشروی‌های ارضی جدید و تلفات سنگین اوکراین</title>
+      <link>https://sputnikiran.github.io/news/102225-بهروزرسانی-بیانیه-وزارت-د.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102225-بهروزرسانی-بیانیه-وزارت-د.html</guid>
+      <pubDate>Mon, 19 Oct 2026 11:47:00 GMT</pubDate>
+      <description>▫️آزادسازی «اوملنیک» در منطقه زاپاروژیه. ▫️تصرف «اوملنیک» فرصت‌هایی را برای انجام مانور جناح‌گیرانه و محاصره یکی از مناطق مستحکم اصلی نیروهای مسلح اوکراین در «اورخوف» فراهم می‌کند؛ همچنین این اقدام موجب اختلال در تدارکات نیروهای اوکراینی در منطقه «پولوگی» (در استان زاپاروژیه) می‌شود. ▫️نیروهای مسلح روسیه به کارگاه‌های مونتاژ پهپادهای دوربرد، تأسیسات ذخیره‌سازی و سایت‌های پرتاب پهپادهای اوکراینی حمله کردند. ▫️برتری پدافند هوایی: سامانه‌های پدافند هوایی روسیه طی 24 ساعت گذشته، 405 فروند پهپاد بال‌</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102225.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102225.jpg" medium="image" />
+    </item>
+    <item>
+      <title>نامزد ریاست جمهوری فرانسه خواستار توقف فوری کمک به کی‌یف شد</title>
+      <link>https://sputnikiran.github.io/news/102224-نامزد-ریاست-جمهوری-فرانسه.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102224-نامزد-ریاست-جمهوری-فرانسه.html</guid>
+      <pubDate>Mon, 19 Oct 2026 11:47:00 GMT</pubDate>
+      <description>🔸فلوریان فیلیپو، رهبر حزب &amp;quot;میهن‌پرستان&amp;quot; فرانسه و نامزد ریاست جمهوری، با توجه به ناآرامی‌های خیابانی گسترده در فرانسه، خواستار توقف فوری کمک‌های پاریس به اوکراین شد. 🔸فیلیپو در شبکه اجتماعی ایکس نوشت: &amp;quot;حمایت فرانسه از اوکراین باید فوراً متوقف شود. میلیاردها یورو باید به حمایت از کشاورزان فرانسوی، صاحبان مغازه‌های غارت‌شده و افزایش قدرت خرید فرانسوی‌ها هدایت شود&amp;quot;. 🔸این سیاستمدار در میان سایر اقدامات ضروری برای واکنش به بحران، پیشنهاد بستن مرزها، اخراج مجرمان خارجی و مجبور کر</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102224.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102224.jpg" medium="image" />
+    </item>
     <item>
       <title>لاوروف وارد تهران شد و قرار است در آنجا با عراقچی، همتای ایرانی خود، در مورد گام‌های کاهش تنش در خلیج فارس گفتگو کند</title>
       <link>https://sputnikiran.github.io/news/102223-لاوروف-وارد-تهران-شد-و-قر.html</link>
@@ -441,24 +459,6 @@
       <description>🔥دیوید مک‌گینتی، وزیر دفاع، تأیید کرد که در حادثه‌ای در پایگاه نظامی در آلبرتا که باعث آتش‌سوزی بزرگی شد، افرادی کشته و زخمی شده‌اند. وی آمار تلفات یا علت حادثه را ارائه نکرد.…</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102173.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102173.jpg" medium="image" />
-    </item>
-    <item>
-      <title>ویکتور اوربان، نخست وزیر سابق مجارستان: مجارستان دیگر بی‌طرف نیست، اکنون ضد روسیه است</title>
-      <link>https://sputnikiran.github.io/news/102172-ویکتور-اوربان،-نخست-وزیر.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102172-ویکتور-اوربان،-نخست-وزیر.html</guid>
-      <pubDate>Sun, 18 Oct 2026 11:17:00 GMT</pubDate>
-      <description>🗣اوربان خاطرنشان کرد: «آنها پول ما را می‌گیرند، آن را به اوکراین منتقل می‌کنند و ما را به جنگ می‌کشانند. روسیه به عنوان دشمن اعلام شده است و مجارستان به همراه آلمانی‌ها، فرانسوی‌ها و بریتانیایی‌ها طرفدار اوکراین شده است.» 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102172.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102172.jpg" medium="image" />
-    </item>
-    <item>
-      <title>مشاور فنی زلنسکی: فناوری زلنسکی: شبکه ماهواره‌ای راس‌وت روسیه «خطر شماره</title>
-      <link>https://sputnikiran.github.io/news/102171-مشاور-فنی-زلنسکی-فناوری-ز.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102171-مشاور-فنی-زلنسکی-فناوری-ز.html</guid>
-      <pubDate>Sun, 18 Oct 2026 10:48:00 GMT</pubDate>
-      <description>» است 🔸در حالی که اوکراین از کند شدن استارلینک نگران است، مشاور فنی زلنسکی زنگ خطر بسیار بلندتری را به صدا در ‌آورده است که در رابطه با پاسخ روسیه به منظومه ماهواره‌ای ایلان ماسک است. 🔸او معتقد است که روسیه در حال حاضر توانایی کنترل سلاح‌هایی مانند موشک کروز سبک باندرول و پهپاد کامیکازه مجهز به مواد منفجره Dan-M را از طریق ماهواره و در زمان واقعی به دست آورده است. 🔸در مقیاس بزرگ، راس‌وت به اپراتورهای روسی اجازه می‌دهد تا پهپادها و موشک‌ها را مستقیماً هدایت کنند و شبکه جنگ الکترونیک اوکراین را</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102171.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102171.jpg" medium="image" />
     </item>
   </channel>
 </rss>
