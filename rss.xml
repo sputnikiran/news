@@ -5,13 +5,31 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>News Site - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Mon, 19 Oct 2026 15:18:21 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 15:48:48 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>News Site</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>به‌روزرسانی بیانیه وزارت دفاع روسیه: پیشروی‌های ارضی جدید و تلفات سنگین اوکراین</title>
+      <link>https://sputnikiran.github.io/news/102249-بهروزرسانی-بیانیه-وزارت-د.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102249-بهروزرسانی-بیانیه-وزارت-د.html</guid>
+      <pubDate>Mon, 19 Oct 2026 15:48:00 GMT</pubDate>
+      <description>▫️آزادسازی «اوملنیک» در منطقه زاپاروژیه. ▫️تصرف «اوملنیک» فرصت‌هایی را برای انجام مانور جناح‌گیرانه و محاصره یکی از مناطق مستحکم اصلی نیروهای مسلح اوکراین در «اورخوف» فراهم می‌کند؛…</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102249.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102249.jpg" medium="image" />
+    </item>
+    <item>
+      <title>نقش پررنگ روسیه در تجارت جنگی ایران</title>
+      <link>https://sputnikiran.github.io/news/102248-نقش-پررنگ-روسیه-در-تجارت.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102248-نقش-پررنگ-روسیه-در-تجارت.html</guid>
+      <pubDate>Mon, 19 Oct 2026 15:48:00 GMT</pubDate>
+      <description>▫️سید روح‌اله لطیفی، سخنگوی کمیسیون توسعه تجارت خانه صمت، در خصوص نقش همسایگان ایران در تجارت در دوران جنگ گفت: کشورهای همسایه ایران، به‌ویژه همسایگانی که مرز زمینی مشترک با ما دارند، نقش مهمی در این زمینه ایفا کرده‌اند. هفت کشوری که از طریق مرز زمینی با ایران همسایه هستند، به همراه همسایگان شمالی ما، نقش پررنگی در جبران بخشی از ظرفیت تجاری ایفا کرده‌اند که پیش‌تر کشورهای حوزه خلیج فارس و همسایگان جنوبی در اختیار داشتند. ▫️وی افزود: بنابراین، شاید از نظر اسامی شرکای تجاری تغییراتی داشته باشیم، ا</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102248.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102248.jpg" medium="image" />
+    </item>
     <item>
       <title>چگونه گدازه دامنه‌های آتشفشان کامچاتکا را فرا گرفت؟</title>
       <link>https://sputnikiran.github.io/news/102247-چگونه-گدازه-دامنههای-آتشف.html</link>
@@ -437,24 +455,6 @@
       <guid isPermaLink="true">https://sputnikiran.github.io/news/102190-کارشناس-اروپا-از-آسیب-دید.html</guid>
       <pubDate>Sun, 18 Oct 2026 18:17:00 GMT</pubDate>
       <description>🔶 الکسی چپا، کارشناس امور بین‌الملل، به اسپوتنیک گفت که رهبران اروپایی به طور فزاینده‌ای نگران این هستند که تنش‌ها بین دونالد ترامپ و ولودیمیر زلنسکی می‌تواند روابط آنها با آمریکا را تضعیف کند و موضع اوکراین را بیش از پیش تضعیف کند. 🔶 چپا خاطرنشان کرد: «اجلاس اخیر اتحادیه اروپا، اختلافات بین رهبران اروپایی و ناتوانی آنها در تدوین یک موضع واحد را نشان داد. وابستگی اروپا به آمریکا، علیرغم تلاش‌های بریتانیا برای حفظ نفوذ جهانی خود، همچنان آشکار است.» 🔶 او به انتقادات تند ترامپ از زلنسکی، از جمله</description>
-    </item>
-    <item>
-      <title>وقوع سیل در جزیره «اِلبا» در ایتالیا</title>
-      <link>https://sputnikiran.github.io/news/102189-وقوع-سیل-در-جزیره-اِلبا-د.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102189-وقوع-سیل-در-جزیره-اِلبا-د.html</guid>
-      <pubDate>Sun, 18 Oct 2026 17:17:00 GMT</pubDate>
-      <description>بارش‌های سیل‌آسا باعث شده است شهر «ریو مارینا» به زیر آب برود. در بخش‌هایی از این جزیره، خدمات تلفن همراه قطع شده است. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102189.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102189.jpg" medium="image" />
-    </item>
-    <item>
-      <title>کشیش اکوادوری در مراسم کلیسا، بر اثر سقوط صلیب جان باخت</title>
-      <link>https://sputnikiran.github.io/news/102188-کشیش-اکوادوری-در-مراسم-کل.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102188-کشیش-اکوادوری-در-مراسم-کل.html</guid>
-      <pubDate>Sun, 18 Oct 2026 17:17:00 GMT</pubDate>
-      <description>🔶 این حادثه در حین پخش زنده توسط «پدر پاتریسیو آلفردو سانچز مولیناری» در شبکه‌های اجتماعی ضبط شده است. صلیب از دیوار جدا شده و سقوط می‌کند و هم به محراب و هم به کشیش برخورد می‌کند. وی جان باخت. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102188.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102188.jpg" medium="image" />
     </item>
   </channel>
 </rss>
