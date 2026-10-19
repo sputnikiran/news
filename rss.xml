@@ -5,13 +5,31 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>News Site - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Mon, 19 Oct 2026 09:48:23 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 10:18:13 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>News Site</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>پسکوف: بدون مشارکت نماینده‌ای از کی‌یف که مایل به پذیرش مسئولیت باشد، دستیابی به توافق نهایی در اوکراین غیرممکن است</title>
+      <link>https://sputnikiran.github.io/news/102218-پسکوف-بدون-مشارکت-نماینده.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102218-پسکوف-بدون-مشارکت-نماینده.html</guid>
+      <pubDate>Mon, 19 Oct 2026 10:17:00 GMT</pubDate>
+      <description>🛰نکات دیگر اظهاارت دمیتری پسکوف، سخنگوی کرملین: 💬ایالات متحده به تلاش‌های میانجیگری و صلح‌بانی خود برای حل و فصل اوکراین ادامه می‌دهد، که روسیه برای آن ارزش زیادی قائل است. 💬ناآرامی در اروپا به هرج و مرج نزدیک می‌شود و نشانه‌های یک بحران بزرگ مشهود است. 💬هیچ پیشنهاد یا توافق اساسی در مورد دیدار رهبران روسیه، ایالات متحده و چین در APEC یا دستور کار آن ارائه یا مورد بحث قرار نگرفته است. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102218.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102218.jpg" medium="image" />
+    </item>
+    <item>
+      <title>اعتراضات گسترده رانندگان کامیون و کشاورزان که از افزایش شدید قیمت سوخت و مواد اولیه ناراضی هستند، در جنوب ایتالیا ادامه دارد</title>
+      <link>https://sputnikiran.github.io/news/102216-اعتراضات-گسترده-رانندگان.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102216-اعتراضات-گسترده-رانندگان.html</guid>
+      <pubDate>Mon, 19 Oct 2026 10:17:00 GMT</pubDate>
+      <description>🔸معترضان جاده‌ها و بزرگراه‌ها را مسدود می‌کنند، ترافیک را کند می‌کنند و خواستار مذاکره فوری با دولت هستند. 🔸شدیدترین اختلالات ترافیکی در مناطق آپولیا، کامپانیا و کالابریا مشاهده می‌شود، جایی که اعتراضات با مسدود شدن مسیرهای اصلی حمل و نقل همراه است. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102216.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102216.jpg" medium="image" />
+    </item>
     <item>
       <title>معترضان در پاریس ورودی موزه لوور را مسدود کردند</title>
       <link>https://sputnikiran.github.io/news/102215-معترضان-در-پاریس-ورودی-مو.html</link>
@@ -441,24 +459,6 @@
       <description>🗣شرایط ما کاملا روشن است و در قالب طرح هفت روزه به آمریکا ارائه شده است. آنان نظراتی ارائه دادند که در حال بررسی هستیم اما از نظر ما این طرح همچنان روی میز است. 🗣اگر صداقتی در طرف آمریکایی وجود داشته باشد که ندارد، راهش کاملا باز شدن تنگه هرمز است. اگر به شروط ما عمل کنند تنگه هرمز در روز ششم باز می‌شود و در روز هفتم مذاکرات شروع خواهد شد. 🗣شروطی که ما گفتیم عجیب و‌ غریب نیست و شروطی است که قبلا آمریکا متعهد شده بود. شروط ما عادلانه است و اگر آمریکا برای باز شدن تنگه هرمز اراده داشته باشد می‌</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102166.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102166.jpg" medium="image" />
-    </item>
-    <item>
-      <title>وزارت دفاع روسیه: نیروی هوایی روسیه یک پایگاه موقت متعلق به نیروهای مسلح اوکراین را در شهر گونتاروفکا، واقع در استان خارکوف، منهدم کرد</title>
-      <link>https://sputnikiran.github.io/news/102165-وزارت-دفاع-روسیه-نیروی-هو.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102165-وزارت-دفاع-روسیه-نیروی-هو.html</guid>
-      <pubDate>Sun, 18 Oct 2026 09:17:00 GMT</pubDate>
-      <description>🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102165.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102165.jpg" medium="image" />
-    </item>
-    <item>
-      <title>سرلشگر محسن رضایی: نیروهای مسلح ایران برای ماجراجویی جدید، طرحی ویرانگرتر از جنگ‌های</title>
-      <link>https://sputnikiran.github.io/news/102164-سرلشگر-محسن-رضایی-نیروهای.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102164-سرلشگر-محسن-رضایی-نیروهای.html</guid>
-      <pubDate>Sun, 18 Oct 2026 08:48:00 GMT</pubDate>
-      <description>و 40 روزه آماده کرده‌اند 💬هذیان‌گویی و تهدیدهای مکرر این روزهای مقامات آمریکایی و صهیونی، واقعیت میدان را تغییر نمی‌دهد. 💬طرح عملیاتی جدید ایران، با قواعدی که آنها می‌شناسند، پیش نخواهد رفت. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102164.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102164.jpg" medium="image" />
     </item>
   </channel>
 </rss>
