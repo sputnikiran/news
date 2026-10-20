@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>News Site - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Tue, 20 Oct 2026 19:18:33 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 19:48:21 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>News Site</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>ترامپ: آمریکا کمک‌های هنگفتی به اوکراین ارائه داد اما در عوض چیزی جز قیمت بالای گازوئیل دریافت نکرد</title>
+      <link>https://sputnikiran.github.io/news/102340-ترامپ-آمریکا-کمکهای-هنگفت.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102340-ترامپ-آمریکا-کمکهای-هنگفت.html</guid>
+      <pubDate>Tue, 20 Oct 2026 19:47:00 GMT</pubDate>
+      <description>▫️دونالد ترامپ، رئیس جمهور آمریکا، افزود که کمک‌های نظامی قبلی ایالات متحده به اوکراین تنها منجر به غم و اندوه، مرگ و زیان مالی شده است. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102340.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102340.jpg" medium="image" />
+    </item>
     <item>
       <title>هشدار ترامپ: در صورت امتناع کی‌یف از پایان دادن به درگیری، عواقب آن «بسیار وخیم» خواهد بود</title>
       <link>https://sputnikiran.github.io/news/102339-هشدار-ترامپ-در-صورت-امتنا.html</link>
@@ -450,15 +459,6 @@
       <description>:00 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102283.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102283.jpg" medium="image" />
-    </item>
-    <item>
-      <title>معترضان در آلبانی به سمت پلیس آتش‌بازی پرتاب کردند و سطل‌های زباله را آتش زدند</title>
-      <link>https://sputnikiran.github.io/news/102282-معترضان-در-آلبانی-به-سمت.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102282-معترضان-در-آلبانی-به-سمت.html</guid>
-      <pubDate>Tue, 20 Oct 2026 07:17:00 GMT</pubDate>
-      <description>👮‍♂️پلیس برای متفرق کردن آنها از ماشین‌های آب‌پاش استفاده کرد. 🔸درگیری با نیروهای امنیتی تا ساعات اولیه صبح ادامه داشت. تظاهرکنندگان علیه فساد تظاهرات می‌کنند و خواستار استعفای نخست وزیر هستند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102282.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102282.jpg" medium="image" />
     </item>
   </channel>
 </rss>
