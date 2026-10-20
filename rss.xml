@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>News Site - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Tue, 20 Oct 2026 17:18:40 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 17:48:34 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>News Site</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>تصاویری از جاری شدن سیل‌های ناگهانی در شهر «ایمزورن» واقع در شمال مراکش</title>
+      <link>https://sputnikiran.github.io/news/102333-تصاویری-از-جاری-شدن-سیلها.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102333-تصاویری-از-جاری-شدن-سیلها.html</guid>
+      <pubDate>Tue, 20 Oct 2026 17:47:00 GMT</pubDate>
+      <description>💧 بارش‌های کم‌سابقه موجب شده است که سیلاب با شدت زیاد به درون محله‌های مسکونی و ساختمان‌ها هجوم آورد؛ به‌ویژه در خیابان‌ها و کوچه‌هایی که در ارتفاع پایین‌تری قرار دارند و همچنین در مناطق نزدیک به رودخانه «وادی المالح». 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102333.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102333.jpg" medium="image" />
+    </item>
     <item>
       <title>قالیباف: آمریکا جز با اجرای شروط هفتگانه، نمی‌تواند اعتماد ایران را کسب کند</title>
       <link>https://sputnikiran.github.io/news/102332-قالیباف-آمریکا-جز-با-اجرا.html</link>
@@ -450,15 +459,6 @@
       <description>🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102276.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102276.jpg" medium="image" />
-    </item>
-    <item>
-      <title>پنجاه و چهارمین پهپاد MQ-</title>
-      <link>https://sputnikiran.github.io/news/102275-پنجاه-و-چهارمین-پهپاد-mq.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102275-پنجاه-و-چهارمین-پهپاد-mq.html</guid>
-      <pubDate>Tue, 20 Oct 2026 05:47:00 GMT</pubDate>
-      <description>ارتش تروریستی امریکا به وسیلهء آتش سامانه نوین پدافند پیشرفته هوافضای سپاه منهدم شد 🔸رهگیری تحت کنترل شبکه یکپارچه پدافند هوایی کشور بامداد امروز (سه شنبه 20 اکتبر) در آسمان تنگه هرمز انجام شد. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102275.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102275.jpg" medium="image" />
     </item>
   </channel>
 </rss>
