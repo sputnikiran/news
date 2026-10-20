@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>News Site - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Tue, 20 Oct 2026 10:18:26 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 10:49:39 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>News Site</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>فرمانده ارتش پاکستان به تهران آمد</title>
+      <link>https://sputnikiran.github.io/news/102302-فرمانده-ارتش-پاکستان-به-ت.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102302-فرمانده-ارتش-پاکستان-به-ت.html</guid>
+      <pubDate>Tue, 20 Oct 2026 10:48:00 GMT</pubDate>
+      <description>🔸 سید عاصم منیر، فرمانده ارتش پاکستان، به همراه هیأتی از مقامات این کشور وارد تهران شد. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102302.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102302.jpg" medium="image" />
+    </item>
     <item>
       <title>سپاه پاسداران ایران: دو فروند نفتکش متخلف به آتش کشیده متوقف شدند/ پنجاه و چهارمین پهپاد MQ-</title>
       <link>https://sputnikiran.github.io/news/102301-سپاه-پاسداران-ایران-دو-فر.html</link>
@@ -452,15 +461,6 @@
       <description>▫️متخصصان ناسا یک تایم‌لپس از 17 تصویر ماهواره‌ای از آتشفشان کراشنینیکوف در کامچاتکا تهیه کردند. این تصاویر از دسامبر 2025 تا آگوست 2026 گرفته شده‌اند. تصاویر نشان می‌دهند که گدازه دهانه را پر می‌کند، سرریز می‌شود و در دامنه‌ها پخش می‌شود. ▫️این آتشفشان در آگوست 2025 پس از نزدیک به 500 سال خاموشی فوران کرد. اعتقاد بر این است که این فوران در اثر زلزله‌ای قدرتمند در سواحل کامچاتکا رخ داده است. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102247.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102247.jpg" medium="image" />
-    </item>
-    <item>
-      <title>تشدید تنش‌های خاورمیانه و احتمال ریسک جهش قیمت نفت تا</title>
-      <link>https://sputnikiran.github.io/news/102246-تشدید-تنشهای-خاورمیانه-و.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102246-تشدید-تنشهای-خاورمیانه-و.html</guid>
-      <pubDate>Mon, 19 Oct 2026 14:47:00 GMT</pubDate>
-      <description>دلار ▫️حملات به زیرساخت‌های نفتی عربستان و تهدید امنیت کشتیرانی در تنگه هرمز، خطر افزایش قیمت نفت و سوخت را بالا برده است و احتمال افزایش عرضه روسیه می‌تواند تا حدی از شدت رشد قیمت‌ها بکاهد. ▫️تشدید درگیری‌ها در خاورمیانه، به‌ویژه حملات حوثی‌ها به تأسیسات نفتی عربستان و تهدید نفتکش‌ها در تنگه هرمز، ریسک اختلال در عرضه جهانی نفت را افزایش داده است. در 19 اکتبر، نفت برنت پس از رسیدن به بالاترین سطح از ماه مه، در محدوده 107 دلار در هر بشکه معامله شد. در چنین شرایطی، رسیدن قیمت به 125 دلار تا پایان </description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102246.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102246.jpg" medium="image" />
     </item>
   </channel>
 </rss>
