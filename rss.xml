@@ -5,13 +5,31 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>News Site - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Wed, 21 Oct 2026 15:18:37 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 15:52:08 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>News Site</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>در آمریکا، شب به روز تبدیل شد؛ استارتاپ «ریفلکت اوربیتال» یک آینه فضایی را آزمایش کرد</title>
+      <link>https://sputnikiran.github.io/news/102397-در-آمریکا،-شب-به-روز-تبدی.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102397-در-آمریکا،-شب-به-روز-تبدی.html</guid>
+      <pubDate>Wed, 21 Oct 2026 15:48:00 GMT</pubDate>
+      <description>🔸این شرکت قصد دارد 50 هزار ماهواره بازتاب‌دهنده را به فضا بفرستد که می‌توانند نور خورشید را بنا به درخواست، به مکان‌های خاصی هدایت کنند. آن‌ها نمونه اولیه خود را بر فراز کوه «ویتنی» در کالیفرنیا آزمایش کردند. 🔸در جریان این آزمایش که نیمه‌شب انجام شد، افراد توانستند تا شعاع 5 کیلومتری را در هر جهتی ببینند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102397.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102397.jpg" medium="image" />
+    </item>
+    <item>
+      <title>پیش بینی افسر اطلاعاتی آمریکایی از آینده زلنسکی</title>
+      <link>https://sputnikiran.github.io/news/102396-پیش-بینی-افسر-اطلاعاتی-آم.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102396-پیش-بینی-افسر-اطلاعاتی-آم.html</guid>
+      <pubDate>Wed, 21 Oct 2026 15:48:00 GMT</pubDate>
+      <description>🔸دونالد ترامپ، رئیس‌جمهور آمریکا، ممکن است روابط با اوکراین را قطع کند. این اظهارات توسط اسکات ریتر، افسر اطلاعاتی بازنشسته سپاه تفنگداران دریایی ایالات متحده، به رسانه‌ها ارائه شد. 🔸به گفته ریتر، این موضوع به این دلیل است که ولادیمیر زلنسکی تلاش می‌کند در آستانه انتخابات میان‌دوره‌ای کنگره، افکار عمومی آمریکا را دستکاری کند. 🔸این کارشناس تأکید کرد: &amp;quot;وقتی ایالات متحده سرانجام روابط خود را با اوکراین قطع کند، عملاً روابط با ناتو نیز قطع خواهد ‌شد. مرا شگفت‌زده می‌کند که اروپا تا چه حد آما</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102396.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102396.jpg" medium="image" />
+    </item>
     <item>
       <title>حملات روسیه به غرب اوکراین، شکست پدافند هوایی اروپا را آشکار کرد - کارشناس</title>
       <link>https://sputnikiran.github.io/news/102395-حملات-روسیه-به-غرب-اوکرای.html</link>
@@ -429,24 +447,6 @@
       <description>&amp;quot; به یک پست کنترل پهپاد ارتش اوکراین در منطقه دنیپروپتروفسک ▫️نیروهای شناسایی روسیه نقطه برخاست و سنگر اوکراینی را شناسایی کردند و 800 متر مانده به هدف، نیروهای مسلح اوکراین سیستم جنگ الکترونیک خود را فعال کردند. سپس سیگنال ویدیویی به طور کامل رهگیری شد و باعث شد اپراتور تصویر را از دست بدهد. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102345.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102345.jpg" medium="image" />
-    </item>
-    <item>
-      <title>بحران غذا در ایتالیا: قفسه‌های خالی سوپرمارکت‌ها در کامپانیا یادآور دوران قرنطینه کرونایی</title>
-      <link>https://sputnikiran.github.io/news/102344-بحران-غذا-در-ایتالیا-قفسه.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102344-بحران-غذا-در-ایتالیا-قفسه.html</guid>
-      <pubDate>Tue, 20 Oct 2026 20:47:00 GMT</pubDate>
-      <description>▫️بحران تأمین مواد غذایی در منطقه کامپانیا ایتالیا در حال افزایش است. قفسه‌های سوپرمارکت‌ها خالی هستند - منظره‌ای که مردم محلی از زمان محدودیت‌های همه‌گیری کرونا ندیده‌اند.…</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102344.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102344.jpg" medium="image" />
-    </item>
-    <item>
-      <title>سرلشکر رضایی: آمریکا جلب اعتماد کند تا مذاکره کنیم</title>
-      <link>https://sputnikiran.github.io/news/102343-سرلشکر-رضایی-آمریکا-جلب-ا.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102343-سرلشکر-رضایی-آمریکا-جلب-ا.html</guid>
-      <pubDate>Tue, 20 Oct 2026 20:17:00 GMT</pubDate>
-      <description>▫️محسن رضایی، دبیر شورای عالی امنیت ملی ایران در شبکه ایکس نوشت: تا زمانی که ایالات متحده برای جلب اعتماد گام‌هایی برندارد، هیچ مذاکره‌ای انجام نخواهد شد. ▫️ وی تأکید کرد حتی یک گرم اورانیوم غنی‌شده از ایران خارج نخواهد شد و این روند باید با اجرای کامل تمام شروط ایران آغاز شود. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102343.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102343.jpg" medium="image" />
     </item>
   </channel>
 </rss>
