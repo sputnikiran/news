@@ -5,13 +5,31 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>News Site - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Wed, 21 Oct 2026 10:48:30 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 11:18:24 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>News Site</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>رضایی به اسپوتنیک: «در حال آماده شدن برای مرحله بعدی جنگ با آمریکا و رژیم صهیونسیتی هستیم»</title>
+      <link>https://sputnikiran.github.io/news/102378-رضایی-به-اسپوتنیک-در-حال.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102378-رضایی-به-اسپوتنیک-در-حال.html</guid>
+      <pubDate>Wed, 21 Oct 2026 11:17:00 GMT</pubDate>
+      <description>ابراهیم رضایی، عضو کمیسیون امنیت ملی مجلس، در گفتگوی اختصاصی با اسپوتنیک در باره ارزیابی چشم‌انداز مذاکرات با آمریکا گفت که ایران دریچه دیپلماسی را نبسته است، ولی تجربه خوبی از دیپلماسی با غرب ندارد 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102378.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102378.jpg" medium="image" />
+    </item>
+    <item>
+      <title>ترامپ: ایالات متحده در ازای هابارد، هیچ‌ فردی را با روسیه مبادله نکرده است</title>
+      <link>https://sputnikiran.github.io/news/102377-ترامپ-ایالات-متحده-در-ازا.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102377-ترامپ-ایالات-متحده-در-ازا.html</guid>
+      <pubDate>Wed, 21 Oct 2026 11:17:00 GMT</pubDate>
+      <description>▫️پیش‌تر، استیو ویتکاف، فرستاده ویژه رئیس‌جمهور ایالات متحده، از پوتین بابت آزادی هابارد تشکر کرد؛ فردی که در سال 2024 در روسیه به اتهامات مرتبط با فعالیت‌های مزدوری محکوم شده بود. ▫️هابارد اهل ایالت میشیگان است و از سال 2014 در اوکراین زندگی می‌کرد. در فوریه 2022، این شهروند آمریکایی قراردادی با یک گردان دفاع سرزمینی در شهر ایزیوم امضا کرد که به موجب آن، ماهانه دست‌کم هزار دلار دریافت می‌کرد. هابارد دوره‌های آموزشی را گذراند و به سلاح و مهمات مجهز شد؛ او تا آوریل 2022 در نیروهای مسلح اوکراین خد</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102377.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102377.jpg" medium="image" />
+    </item>
     <item>
       <title>سپاسگزاری ویژه ویتکاف از رئیس جمهور روسیه</title>
       <link>https://sputnikiran.github.io/news/102376-سپاسگزاری-ویژه-ویتکاف-از.html</link>
@@ -429,24 +447,6 @@
       <guid isPermaLink="true">https://sputnikiran.github.io/news/102323-اعتصاب-غذای-نایب-رئیس-پار.html</guid>
       <pubDate>Tue, 20 Oct 2026 16:17:00 GMT</pubDate>
       <description>▫️پینا پیسرنو خواستار آتش‌بس بشردوستانه، تحویل غذا و دارو و تخلیه امن غیرنظامیان از این شهر شده که تحت کنترل ارتش روسیه است. پیش از این، دمیترو لوبینتس، آمبودزمان اوکراین، گزارش داده بود که مسکو و کی یف در حال هماهنگی جزئیات نهایی تخلیه از اولشکی و شش شهرک دیگر هستند. ▫️پاپ لئو چهاردهم در 16 اکتبر به طور جداگانه با پوتین و در 19 اکتبر با زلنسکی در مورد وضعیت این شهر گفتگو کرد. ▫️پیش از این، دیمیتری پسکوف، دبیر مطبوعاتی ریاست جمهوری روسیه، اظهار داشت که نیروهای مسلح روسیه تمام تلاش خود را برای حل</description>
-    </item>
-    <item>
-      <title>وزارت دفاع روسیه: واحدهای یگان «شرق» نیروهای مسلح روسیه، روستای تیموشیوکا در منطقه زاپاروژیه را آزاد کردند</title>
-      <link>https://sputnikiran.github.io/news/102322-وزارت-دفاع-روسیه-واحدهای.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102322-وزارت-دفاع-روسیه-واحدهای.html</guid>
-      <pubDate>Tue, 20 Oct 2026 15:47:00 GMT</pubDate>
-      <description>▫️سایر نکات جلسه توجیهی جدید وزارت دفاع روسیه: ▫️نیروهای مسلح روسیه طی 24 ساعت به محل پرتاب پهپادهای دوربرد نیروهای مسلح اوکراین حمله کردند؛ ▫️سامانه‌های…</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102322.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102322.jpg" medium="image" />
-    </item>
-    <item>
-      <title>پهلوگیری کشتی آموزشی نیروی دریایی روسیه در نامیبیا در جریان سفری دریایی در چهار اقیانوس</title>
-      <link>https://sputnikiran.github.io/news/102321-پهلوگیری-کشتی-آموزشی-نیرو.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102321-پهلوگیری-کشتی-آموزشی-نیرو.html</guid>
-      <pubDate>Tue, 20 Oct 2026 15:47:00 GMT</pubDate>
-      <description>▫️کشتی آموزشی «پرکوپ» (Perekop) متعلق به ناوگان بالتیک، در چارچوب یک سفر دریایی طولانی‌مدت به دور اوراسیا و آفریقا، در بندر «والویس بی» (Walvis Bay) در نامیبیا پهلو گرفت. ▫️در این بازدید، دانشجویان افسری به انجام تمرینات تیراندازی و کار با تجهیزات تخصصی پرداختند؛ هم‌زمان، افسران روس با نمایندگان نیروی دریایی نامیبیا دیدار کرده و آن‌ها را برای بازدید از بخش‌های مختلف کشتی همراهی کردند. مسیر طی‌شده تا نامیبیا شامل عبور از اقیانوس‌های هند و اطلس بود که طی هفت روز دریانوردی، مسافتی بیش از 1800 مایل </description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102321.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102321.jpg" medium="image" />
     </item>
   </channel>
 </rss>
