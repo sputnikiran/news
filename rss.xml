@@ -5,13 +5,31 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>News Site - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Wed, 21 Oct 2026 14:20:23 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 14:48:40 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>News Site</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>دستیار پوتین: مسکو آمادگی دارد در بازه زمانی</title>
+      <link>https://sputnikiran.github.io/news/102393-دستیار-پوتین-مسکو-آمادگی.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102393-دستیار-پوتین-مسکو-آمادگی.html</guid>
+      <pubDate>Wed, 21 Oct 2026 14:47:00 GMT</pubDate>
+      <description>تا 19 نوامبر، مذاکرات را در قالب سه‌جانبه‌ای متشکل از روسیه، امریکا و اوکراین از سر بگیرد. 🔸اوشاکوف گفت که پوتین این موضوع را در جریان گفتگوهایش با ویتکاف به او منتقل کرد. 🔸اوشاکوف تاکید کرد که ویتکاف خاطرنشان…</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102393.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102393.jpg" medium="image" />
+    </item>
+    <item>
+      <title>سخنگوی وزارت امور خارجه ایران، ریاکاری «روبیو» را به شدت محکوم کرد</title>
+      <link>https://sputnikiran.github.io/news/102392-سخنگوی-وزارت-امور-خارجه-ا.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102392-سخنگوی-وزارت-امور-خارجه-ا.html</guid>
+      <pubDate>Wed, 21 Oct 2026 14:47:00 GMT</pubDate>
+      <description>🔸بقائی در سخنانی گفت که جهان در حال پرداخت هزینه جنگ تجاوزکارانه ایالات متحده است. رژیم آمریکا در بحبوحه مذاکرات رسمی، سه بار به ایران تجاوز کرد و یادداشت تفاهم اسلام‌آباد را از بین برد 🔸 «آمریکا در میناب و لامرد مرتکب جنایات جنگی فجیعی شد، رهبران ایران را ترور کرد و تحریم‌ها را تشدید نمود» 🔸 بقایی آمریکا را به باد انتقاد گرفت؛ این کشور پس از آغاز یک «جنگ انتخابی» و به آتش کشیدن منطقه، اکنون در نقش «قربانی» ظاهر شده است. در حالی که آمریکا با آغاز جنگ، هرج‌ومرجی جهانی به راه انداخته است، «روبی</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102392.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102392.jpg" medium="image" />
+    </item>
     <item>
       <title>ترکیه، قطر، پاکستان و اندونزی پیمان همکاری دفاعی «بدر» را امضا کردند</title>
       <link>https://sputnikiran.github.io/news/102391-ترکیه،-قطر،-پاکستان-و-اند.html</link>
@@ -429,24 +447,6 @@
       <description>▫️دونالد ترامپ، رئیس جمهور آمریکا، افزود که کمک‌های نظامی قبلی ایالات متحده به اوکراین تنها منجر به غم و اندوه، مرگ و زیان مالی شده است. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102340.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102340.jpg" medium="image" />
-    </item>
-    <item>
-      <title>هشدار ترامپ: در صورت امتناع کی‌یف از پایان دادن به درگیری، عواقب آن «بسیار وخیم» خواهد بود</title>
-      <link>https://sputnikiran.github.io/news/102339-هشدار-ترامپ-در-صورت-امتنا.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102339-هشدار-ترامپ-در-صورت-امتنا.html</guid>
-      <pubDate>Tue, 20 Oct 2026 19:17:00 GMT</pubDate>
-      <description>سایر اظهارات دونالد ترامپ، رئیس جمهور آمریکا: ▫️ترامپ موفقیت‌های نظامی روسیه را قبول کرد. ▫️زلنسکی می‌توانست دو سال پیش با شرایط بسیار مطلوب‌تری به توافق برسد. ▫️اروپا از درگیری اوکراین خسته شده است. ▫️روسیه می‌خواهد این درگیری پایان یابد. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102339.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102339.jpg" medium="image" />
-    </item>
-    <item>
-      <title>اخبار مهم جهان تا شبانگاه</title>
-      <link>https://sputnikiran.github.io/news/102338-اخبار-مهم-جهان-تا-شبانگاه.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102338-اخبار-مهم-جهان-تا-شبانگاه.html</guid>
-      <pubDate>Tue, 20 Oct 2026 19:17:00 GMT</pubDate>
-      <description>اکتبر ▫️لاوروف: افتتاح اسپوتنیک در تانزانیا و آفریقای جنوبی به گسترش دسترسی آفریقایی‌ها به اطلاعات و اخبار عینی و عاری از تحریف و فیلترهای ایدئولوژیک کمک خواهد کرد ▫️روبیو: ترامپ از موضع اوکراین در مورد حل و فصل درگیری آزرده خاطر شده است. ▫️ویتکاف، فرستاده ویژه آمریکا روز چهارشنبه برای دیدار با رهبران روسیه به سن پترزبورگ سفر خواهد کرد. ▫️لاوروف: روسیه برای توافق با آمریکا آمادگی دارد اما نه به قیمت دادن امتیازات سیاسی ▫️قالیباف: آمریکا جز با اجرای شروط هفتگانه، نمی‌تواند اعتماد ایران را کسب کند</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102338.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102338.jpg" medium="image" />
     </item>
   </channel>
 </rss>
