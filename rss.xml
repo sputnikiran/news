@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>News Site - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Wed, 21 Oct 2026 20:18:18 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 20:48:35 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>News Site</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>امشب بارش شهابی از قطعات دنباله‌دار هالی قابل مشاهده خواهد بود</title>
+      <link>https://sputnikiran.github.io/news/102416-امشب-بارش-شهابی-از-قطعات.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102416-امشب-بارش-شهابی-از-قطعات.html</guid>
+      <pubDate>Wed, 21 Oct 2026 20:47:00 GMT</pubDate>
+      <description>▫️امشب اوج بارش شهابی جباری است. این بارش توسط دم دنباله‌دار هالی تشکیل می‌شود که ذرات آن وارد جو زمین می‌شوند. هسته دنباله‌دار تا سال 2061 دوباره به زمین نزدیک نخواهد شد. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102416.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102416.jpg" medium="image" />
+    </item>
     <item>
       <title>خانه‌های سیل‌زده و جاده‌های مسدود شده: سیل تاریخی، ردپای خود را در ایبیزا به جا گذاشته است</title>
       <link>https://sputnikiran.github.io/news/102415-خانههای-سیلزده-و-جادههای.html</link>
@@ -436,15 +445,6 @@
       <description>▪️نکات کلیدی: 🔸 دیدار میان پوتین و ویتکاف از چند روز پیش هماهنگ شده بود. 🔸 دیمیتریف در این نشست حضور خواهد داشت. 🔸 دستیابی به راه‌حلی برای وضعیت اوکراین، بخشی از دستور کار این گفتگوها…</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102362.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102362.jpg" medium="image" />
-    </item>
-    <item>
-      <title>نخست‌وزیر نروژ: ویتکاف پس از گفتگو با پوتین به اسلو بازمی‌گردد</title>
-      <link>https://sputnikiran.github.io/news/102360-نخستوزیر-نروژ-ویتکاف-پس-ا.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102360-نخستوزیر-نروژ-ویتکاف-پس-ا.html</guid>
-      <pubDate>Wed, 21 Oct 2026 08:48:00 GMT</pubDate>
-      <description>🔸یوناس گار استوره، نخست‌وزیر نروژ گفت که استیو ویتکاف، فرستاده ویژه رئیس‌جمهور آمریکا، پس از دیدار با ولادیمیر پوتین، رئیس‌جمهور روسیه، در سن‌پترزبورگ به اسلو بازخواهد گشت تا گفتگوها درباره اوکراین را ادامه دهد. 🔸وی گفت: «به گمانم دیدار دیگری در فرودگاه در پیش داریم. انتظار می‌رود بازخوردهایی دریافت شود.» 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102360.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102360.jpg" medium="image" />
     </item>
   </channel>
 </rss>
