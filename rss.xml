@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>News Site - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Wed, 21 Oct 2026 05:48:12 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 06:18:44 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>News Site</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>استیو ویتکاف وارد سن پترزبورگ شد</title>
+      <link>https://sputnikiran.github.io/news/102350-استیو-ویتکاف-وارد-سن-پترز.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102350-استیو-ویتکاف-وارد-سن-پترز.html</guid>
+      <pubDate>Wed, 21 Oct 2026 06:17:00 GMT</pubDate>
+      <description>🔸دفتر مطبوعاتی کرملین نوشت: استیو ویتکاف، فرستاده ویژه رئیس‌جمهور آمریکا، وارد سن‌پترزبورگ شد. جزئیات بیشتر درباره‌ برنامه دیدارهای او به‌زودی منتشر می‌شود. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102350.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102350.jpg" medium="image" />
+    </item>
     <item>
       <title>استیو ویتکاف، فرستاده کاخ سفید روز چهارشنبه وارد سن‌پترزبورگ&amp;nbsp;می شود</title>
       <link>https://sputnikiran.github.io/news/102349-استیو-ویتکاف،-فرستاده-کاخ.html</link>
@@ -450,15 +459,6 @@
       <description>🗣سخنگوی وزارت امور خارجه ایران: اظهارات و مواضع مداخله‌جویانه مقامات آمریکایی درباره روابط دوجانبه جمهوری اسلامی ایران با کشورهای دوست، فاقد اهمیت و عاری از نفوذ بر تصمیمات راهبردی کشور است. 🗣روابط ایران با قدرت‌هایی نظیر روسیه و چین بر پایه احترام متقابل، درک واقع‌بینانه از منافع مشترک و توافقات اساسی تعریف شده است. 🗣ایران با آگاهی کامل از معادلات بین‌المللی و صیانت از منافع ملی خود، بدون توجه به ادعاها و لفاظی‌های طرف‌های ثالث، بر توسعه و تحکیم مناسبات خود با کشورهای دوست مصمم است. 🛰 Sputn</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102292.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102292.jpg" medium="image" />
-    </item>
-    <item>
-      <title>نیروی هوایی ایالات متحده برای سال</title>
-      <link>https://sputnikiran.github.io/news/102291-نیروی-هوایی-ایالات-متحده.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102291-نیروی-هوایی-ایالات-متحده.html</guid>
-      <pubDate>Tue, 20 Oct 2026 09:17:00 GMT</pubDate>
-      <description>بیش از 806 میلیون دلار از کنگره درخواست کرده است 🛰بر اساس اسناد بودجه‌ای که توسط اسپوتنیک بررسی شده است، این درخواست برای تکمیل آزمایش موشک کروز جدید هایپرسونیک HACM و تولید انبوه آن مطرح شده است. 🚀قرار است تقریباً 273 میلیون دلار به شرکت‌ها و مراکز تولید انبوه آن اختصاص یابد. 🚀میزان412 میلیون دلار دیگر نیز به شرکت ریتیون برای آزمایش طراحی، تهیه قطعات و توسعه بیشتر پروژه اختصاص داده خواهد شد. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102291.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102291.jpg" medium="image" />
     </item>
   </channel>
 </rss>
