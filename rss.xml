@@ -5,13 +5,31 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>News Site - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Wed, 21 Oct 2026 14:48:40 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 15:18:37 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>News Site</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>حملات روسیه به غرب اوکراین، شکست پدافند هوایی اروپا را آشکار کرد - کارشناس</title>
+      <link>https://sputnikiran.github.io/news/102395-حملات-روسیه-به-غرب-اوکرای.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102395-حملات-روسیه-به-غرب-اوکرای.html</guid>
+      <pubDate>Wed, 21 Oct 2026 15:17:00 GMT</pubDate>
+      <description>🔸الکسی لئونکوف، کارشناس نظامی روس، در مصاحبه با اسپوتنیک در مورد تغییر در حملات موشک‌های بالستیک و پهپادهای روسیه به مناطق غربی اوکراین گفت: غرب اوکراین تنها بخش این کشور است که هنوز می‌توان تجهیزات نظامی را به آنجا تحویل داد و تأسیسات جدیدی برای مونتاژ موشک‌های کروز و پهپادهای دوربرد نصب کرد. 🔸وی گفت: «کی‌یف در حال انتقال سریع پدافند هوایی تأمین‌شده توسط اروپا به غرب اوکراین است و برخی از سیستم‌های کوتاه‌برد نیز مستقیماً از خطوط تولید ارسال می‌شوند. اما با تغییر حملات روسیه به حملات گسترده په</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102395.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102395.jpg" medium="image" />
+    </item>
+    <item>
+      <title>گزارش وزارت دفاع روسیه از عملیات ویژه روسیه در اوکراین در شبانه روز گذشته</title>
+      <link>https://sputnikiran.github.io/news/102394-گزارش-وزارت-دفاع-روسیه-از.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102394-گزارش-وزارت-دفاع-روسیه-از.html</guid>
+      <pubDate>Wed, 21 Oct 2026 15:17:00 GMT</pubDate>
+      <description>🔸 وزارت دفاع روسیه در گزارش شبانه روز گذشته اعلام کرد که آزادسازی چرونی یار و یولیفکا در پیرامون زاپروژیا به نیروهای روسی امکان می‌دهد جایگاه تاکتیکی خود را در این بخش از جبهه بهتر کنند و فشار بر مواضع دفاعی اوکراین را افزایش دهند. 🔸 یورش به زیربنا: نیروهای روسی به سازه‌های زیربنایی ترابری و انرژی که نیروهای اوکراینی از آنها بهره می‌بردند، یورش بردند. 🔸 برتری پدافند هوایی: پدافند هوایی روسیه 954 پهپاد بال‌ثابت اوکراینی را سرنگون کرد. 🔸 تلفات اوکراین: نیروهای اوکراینی نزدیک به 1,185 سرباز را </description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102394.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102394.jpg" medium="image" />
+    </item>
     <item>
       <title>دستیار پوتین: مسکو آمادگی دارد در بازه زمانی</title>
       <link>https://sputnikiran.github.io/news/102393-دستیار-پوتین-مسکو-آمادگی.html</link>
@@ -429,24 +447,6 @@
       <description>▫️محسن رضایی، دبیر شورای عالی امنیت ملی ایران در شبکه ایکس نوشت: تا زمانی که ایالات متحده برای جلب اعتماد گام‌هایی برندارد، هیچ مذاکره‌ای انجام نخواهد شد. ▫️ وی تأکید کرد حتی یک گرم اورانیوم غنی‌شده از ایران خارج نخواهد شد و این روند باید با اجرای کامل تمام شروط ایران آغاز شود. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102343.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102343.jpg" medium="image" />
-    </item>
-    <item>
-      <title>پهپادهای روسی &amp;quot;روبیکون&amp;quot; تجهیزات و مراکز کنترل پهپاد نیروهای مسلح اوکراین را نابود کردند</title>
-      <link>https://sputnikiran.github.io/news/102341-پهپادهای-روسی-quot-روبیکو.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102341-پهپادهای-روسی-quot-روبیکو.html</guid>
-      <pubDate>Tue, 20 Oct 2026 20:17:00 GMT</pubDate>
-      <description>▫️پهپادها در حال نابودی خودروها و زره‌پوش‌های اوکراینی هستند. اپراتورها مراکز کنترل پهپاد نیروهای مسلح اوکراین را شناسایی کردند و پرسننل نیروی هوافضای روسیه مختصات را دنبال کرده و اهداف شناسایی شده را منهدم کردند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102341.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102341.jpg" medium="image" />
-    </item>
-    <item>
-      <title>ترامپ: آمریکا کمک‌های هنگفتی به اوکراین ارائه داد اما در عوض چیزی جز قیمت بالای گازوئیل دریافت نکرد</title>
-      <link>https://sputnikiran.github.io/news/102340-ترامپ-آمریکا-کمکهای-هنگفت.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102340-ترامپ-آمریکا-کمکهای-هنگفت.html</guid>
-      <pubDate>Tue, 20 Oct 2026 19:47:00 GMT</pubDate>
-      <description>▫️دونالد ترامپ، رئیس جمهور آمریکا، افزود که کمک‌های نظامی قبلی ایالات متحده به اوکراین تنها منجر به غم و اندوه، مرگ و زیان مالی شده است. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102340.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102340.jpg" medium="image" />
     </item>
   </channel>
 </rss>
