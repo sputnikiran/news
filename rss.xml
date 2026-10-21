@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>News Site - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Wed, 21 Oct 2026 18:18:44 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 18:48:17 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>News Site</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>اعتصاب در ایتالیا؛ جنوب کشور علیرغم وعده‌های دولت فلج شده است</title>
+      <link>https://sputnikiran.github.io/news/102410-اعتصاب-در-ایتالیا؛-جنوب-ک.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102410-اعتصاب-در-ایتالیا؛-جنوب-ک.html</guid>
+      <pubDate>Wed, 21 Oct 2026 18:47:00 GMT</pubDate>
+      <description>▫️اعتراضات علیه افزایش قیمت سوخت در ایتالیا همچنان ادامه دارد. ماتئو سالوینی، وزیر حمل و نقل، قول داده است که 1 میلیارد یورو کمک مالی ارائه دهد که 590 میلیون یورو از آن برای ارتقاء ناوگان حمل و نقل استفاده خواهد شد. ▫️اما کامیون‌ها همچنان بزرگراه متصل کننده رم و ناپل را مسدود می‌کنند. به دلیل این اختلالات، قفسه‌های سوپرمارکت‌ها در حال خالی شدن هستند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102410.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102410.jpg" medium="image" />
+    </item>
     <item>
       <title>روسیه، شبکه لجستیک نظامی اوکراین را در خشکی و دریا هدف قرار می‌دهد</title>
       <link>https://sputnikiran.github.io/news/102409-روسیه،-شبکه-لجستیک-نظامی.html</link>
@@ -434,15 +443,6 @@
       <description>▪️سایر نکات کلیدی سخنگوی کرملین: 🔸 فردی در کی‌یف باید تصمیمی مسئولانه در مورد حل‌وفصل مناقشه اتخاذ کند؛ این امر ضروری است. 🔸 مشارکت الکساندر استوب، رئیس جمهور فنلاند در گفتگوها پیرامون اوکراین می‌تواند مثبت تلقی شود، مشروط بر اینکه این مشارکت، سهمی سازنده باشد، نه صرفاً تکرار موضع کلی اروپایی‌ها. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102355.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102355.jpg" medium="image" />
-    </item>
-    <item>
-      <title>آغاز مذاکرات نخست‌وزیران روسیه و چین در سن‌پترزبورگ</title>
-      <link>https://sputnikiran.github.io/news/102354-آغاز-مذاکرات-نخستوزیران-ر.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102354-آغاز-مذاکرات-نخستوزیران-ر.html</guid>
-      <pubDate>Wed, 21 Oct 2026 07:18:00 GMT</pubDate>
-      <description></description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102354.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102354.jpg" medium="image" />
     </item>
   </channel>
 </rss>
