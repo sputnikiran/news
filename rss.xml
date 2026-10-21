@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>News Site - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Wed, 21 Oct 2026 11:48:42 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 12:18:49 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>News Site</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>سخنگوی وزارت خارجه روسیه: روسیه و آمریکا در حال گفتگو پیرامون پروژه‌های اقتصادی هستند</title>
+      <link>https://sputnikiran.github.io/news/102382-سخنگوی-وزارت-خارجه-روسیه.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102382-سخنگوی-وزارت-خارجه-روسیه.html</guid>
+      <pubDate>Wed, 21 Oct 2026 12:17:00 GMT</pubDate>
+      <description>🔸ماریا زاخارووا در سخنانی گفت که پتانسیل عظیمی برای توسعه روابط واشنگتن - مسکو وجود دارد، اما باید بر اساس واقعیت‌های میدانی پیش رفت. 🔸 تأمین پهپاد برای اوکراین توسط یک شرکت ژاپنی، اقدامی خصمانه است؛ توکیو شرکت‌های خود را به انجام معامله با رژیم کی‌یف تشویق می‌کند. مسکو پاسخی قاطع به تأمین پهپاد برای اوکراین توسط این شرکت ژاپنی خواهد داد. 🔸 مسکو و مینسک فعالیت‌های ناتو در نزدیکی مرزهای «دولت اتحادیه» (Union State) را رصد می‌کنند؛ تقویت توانمندی‌های نظامی این ائتلاف، مایه نگرانی است. 🔸 هیچ گز</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102382.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102382.jpg" medium="image" />
+    </item>
     <item>
       <title>معاون نخست وزیر روسیه (نوواک): نخستین نفتکش حامل گازوئیل روسیه، فردا به مقصد ایالات متحده  آمریکا حرکت خواهد کرد</title>
       <link>https://sputnikiran.github.io/news/102381-معاون-نخست-وزیر-روسیه-نوو.html</link>
@@ -440,15 +449,6 @@
       <description>▫️در 20 اکتبر، خبرگزاری بین‌المللی و ایستگاه رادیویی اسپوتنیک دو مرکز تحریریه چند منظوره در آفریقا راه‌اندازی…</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102329.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102329.jpg" medium="image" />
-    </item>
-    <item>
-      <title>لاوروف: افتتاح اسپوتنیک در تانزانیا و آفریقای جنوبی به گسترش دسترسی آفریقایی‌ها به اطلاعات عینی و عاری از تحریف و فیلترهای ایدئولوژیک کمک خواهد کرد</title>
-      <link>https://sputnikiran.github.io/news/102328-لاوروف-افتتاح-اسپوتنیک-در.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102328-لاوروف-افتتاح-اسپوتنیک-در.html</guid>
-      <pubDate>Tue, 20 Oct 2026 16:47:00 GMT</pubDate>
-      <description>▫️در 20 اکتبر، خبرگزاری بین‌المللی و ایستگاه رادیویی اسپوتنیک دو مرکز تحریریه چند منظوره در آفریقا راه‌اندازی کرد: در دارالسلام و ژوهانسبورگ. ▫️مراسم افتتاحیه در پایتخت تانزانیا با سخنرانی ویدیویی سرگئی لاوروف، وزیر امور خارجه روسیه، آغاز شد. ▫️سرگئی لاوروف گفت: &amp;quot;افتتاح دفاتر منطقه‌ای در دارالسلام و ژوهانسبورگ به گسترش دسترسی مخاطبان آفریقایی به اطلاعات عینی و تأیید شده، عاری از تحریف و فیلترهای ایدئولوژیک کمک خواهد کرد.&amp;quot; ▫️وی همچنین از مقامات تانزانیا و آفریقای جنوبی به خاطر حمایتشان </description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102328.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102328.jpg" medium="image" />
     </item>
   </channel>
 </rss>
