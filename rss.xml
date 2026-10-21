@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>News Site - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Wed, 21 Oct 2026 16:18:09 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 16:48:35 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>News Site</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>آماده برای محافظت؛ ربات چینی با مهارت کونگ‌فو و باتری با عمر هشت ساعت</title>
+      <link>https://sputnikiran.github.io/news/102404-آماده-برای-محافظت؛-ربات-چ.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102404-آماده-برای-محافظت؛-ربات-چ.html</guid>
+      <pubDate>Wed, 21 Oct 2026 16:47:00 GMT</pubDate>
+      <description>▫️شرکت فناوری چینی «یونی‌تری» (Unitree) از رباتی به نام «H2-X Kung Fu Legend Guardian» رونمایی کرده است؛ رباتی که برای کمک به انجام وظایف گوناگون و تأمین امنیت طراحی شده است. ▫️این محافظ مکانیکی که قادر به اجرای فنون کونگ‌فو است و می‌تواند با یک بار شارژ تا 8 ساعت کار کند، برای انجام مأموریت آماده است؛ هرچند سازندگان آن توصیه می‌کنند که در کار با این ربات، احتیاط لازم به عمل آید. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102404.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102404.jpg" medium="image" />
+    </item>
     <item>
       <title>دیدار قالیباف با رهبر ایران</title>
       <link>https://sputnikiran.github.io/news/102403-دیدار-قالیباف-با-رهبر-ایر.html</link>
@@ -436,15 +445,6 @@
       <description>🔸مارکو روبیو، وزیر امور خارجه ایالات متحده، به خبرگزاری رویترز گفت که ویتکاف در مسیر سن‌پترزبورگ است. 🔸بر اساس داده‌های پروازی که توسط اسپوتنیک بررسی شده، یک هواپیمای نیروی هوایی ایالات…</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102349.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102349.jpg" medium="image" />
-    </item>
-    <item>
-      <title>رئیس دیوان عالی روسیه، برای سفری سه‌روزه وارد چین شد</title>
-      <link>https://sputnikiran.github.io/news/102348-رئیس-دیوان-عالی-روسیه،-بر.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102348-رئیس-دیوان-عالی-روسیه،-بر.html</guid>
-      <pubDate>Wed, 21 Oct 2026 05:47:00 GMT</pubDate>
-      <description>🔸به گزارش دفتر مطبوعاتی دیوان عالی روسیه، ایگور کراسنوف به دعوت «ژانگ جون»، رئیس دیوان عالی خلق جمهوری خلق چین، وارد پایتخت این کشور شده است. دفتر مطبوعاتی دیوان عالی روسیه اعلام کرد: «این سفر نقطه عطفی مهم در توسعه همکاری‌های قضایی محسوب می‌شود. رئیس دیوان عالی روسیه در جریان اقامت سه روزه خود در چین، مجموعه‌ای از دیدارهای عالی‌رتبه خواهد داشت که رویداد محوری آن، گفتگو با همتای چینی‌اش است؛ دیداری که در آن پیرامون جنبه‌های کلیدی مشارکت قضایی و حقوقی بحث و تبادل نظر خواهد شد.» 🔸طرفین به طیف گس</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102348.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102348.jpg" medium="image" />
     </item>
   </channel>
 </rss>
