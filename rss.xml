@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>News Site - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Wed, 21 Oct 2026 16:48:35 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 17:18:14 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>News Site</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>اعتراضات به مشکلات سیستم آموزشی در یونان به درگیری تبدیل شده است</title>
+      <link>https://sputnikiran.github.io/news/102405-اعتراضات-به-مشکلات-سیستم.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102405-اعتراضات-به-مشکلات-سیستم.html</guid>
+      <pubDate>Wed, 21 Oct 2026 17:17:00 GMT</pubDate>
+      <description>▫️حدود 10 هزار نفر در آتن به خیابان‌ها آمدند. شرکت‌کنندگان خواستار بهبود سیستم آموزش عمومی، افزایش دستمزدها و اقداماتی برای رسیدگی به افزایش هزینه‌های زندگی شدند. ▫️طبق گزارش رسانه‌های یونان، پس از درگیری‌ها، چهار نفر برای بازجویی بازداشت شدند و پلیس در مجموع 25 نفر را در طول روز بازداشت کرد. ▫️تظاهرات‌هایی نیز در تسالونیکی، پاتراس و سایر شهرهای یونان با حضور دانش‌آموزان، معلمان و کارمندان بخش دولتی برگزار شد. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102405.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102405.jpg" medium="image" />
+    </item>
     <item>
       <title>آماده برای محافظت؛ ربات چینی با مهارت کونگ‌فو و باتری با عمر هشت ساعت</title>
       <link>https://sputnikiran.github.io/news/102404-آماده-برای-محافظت؛-ربات-چ.html</link>
@@ -436,15 +445,6 @@
       <description>🔸دفتر مطبوعاتی کرملین نوشت: استیو ویتکاف، فرستاده ویژه رئیس‌جمهور آمریکا، وارد سن‌پترزبورگ شد. جزئیات بیشتر درباره‌ برنامه دیدارهای او به‌زودی منتشر می‌شود. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102350.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102350.jpg" medium="image" />
-    </item>
-    <item>
-      <title>استیو ویتکاف، فرستاده کاخ سفید روز چهارشنبه وارد سن‌پترزبورگ&amp;nbsp;می شود</title>
-      <link>https://sputnikiran.github.io/news/102349-استیو-ویتکاف،-فرستاده-کاخ.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102349-استیو-ویتکاف،-فرستاده-کاخ.html</guid>
-      <pubDate>Wed, 21 Oct 2026 05:47:00 GMT</pubDate>
-      <description>🔸مارکو روبیو، وزیر امور خارجه ایالات متحده، به خبرگزاری رویترز گفت که ویتکاف در مسیر سن‌پترزبورگ است. 🔸بر اساس داده‌های پروازی که توسط اسپوتنیک بررسی شده، یک هواپیمای نیروی هوایی ایالات…</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102349.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102349.jpg" medium="image" />
     </item>
   </channel>
 </rss>
