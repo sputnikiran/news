@@ -5,13 +5,20 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>News Site - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Thu, 22 Oct 2026 13:18:29 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 13:48:19 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>News Site</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>شواهدی از آمادگی سیستماتیک اروپا برای جنگ با روسیه</title>
+      <link>https://sputnikiran.github.io/news/102444-شواهدی-از-آمادگی-سیستماتی.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102444-شواهدی-از-آمادگی-سیستماتی.html</guid>
+      <pubDate>Thu, 22 Oct 2026 13:47:00 GMT</pubDate>
+      <description>دیمیتری پولیانسکی، نماینده دائم روسیه در سازمان امنیت و همکاری اروپا، اظهار داشت: روسیه شواهد فزاینده‌ای از آمادگی‌های سیستماتیک اتحادیه اروپا برای جنگ دریافت می‌کند. طبق اطلاعات موجود، در ماه نوامبر، «ائتلاف کشورهای داوطلب» استقرار نیروها در اوکراین را در لهستان تمرین خواهد کرد. و پس از آن، آنها سعی دارند ما را متقاعد کنند که این روسیه است که اروپا را به جنگ تهدید می‌کند؟ با این حال، واقعیت‌ها دقیقاً برعکس این را نشان می‌دهند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+    </item>
     <item>
       <title>در آمریکا فاش کردند زلنسکی با چه &amp;quot;غافلگیری&amp;quot; روبه‌رو شد</title>
       <link>https://sputnikiran.github.io/news/102443-در-آمریکا-فاش-کردند-زلنسک.html</link>
@@ -444,15 +451,6 @@
       <description>🔸وزارت دفاع ترکیه اعلام کرد که وزرای دفاع این چهار کشور توافق‌نامه‌ای را برای گسترش همکاری‌های دفاعی و تقویت توانمندی‌های دفاعی امضا کرده‌اند. این سند در دوحه به امضا رسید و شامل مواردی همچون تولید مشترک، تحقیق و توسعه، و آموزش‌های فنی نظامی است. 🔸نام این پیمان همکاری در حوزه صنایع دفاعی، «بدر» گذاشته شده است. واژه «بدر» در زبان عربی به معنای «ماه کامل» است. 🔸امضای این توافق‌نامه در دوحه، در پی «پیمان دفاعی مکه» صورت می‌گیرد که در ماه اوت میان ترکیه، پاکستان و عربستان سعودی منعقد شده بود. 🛰 </description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102391.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102391.jpg" medium="image" />
-    </item>
-    <item>
-      <title>شکست فشار تحریمی در برابر منافع ملی/ روسیه با اهرم انرژی معادلات واشنگتن را تغییر می‌دهد</title>
-      <link>https://sputnikiran.github.io/news/102390-شکست-فشار-تحریمی-در-برابر.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102390-شکست-فشار-تحریمی-در-برابر.html</guid>
-      <pubDate>Wed, 21 Oct 2026 14:18:00 GMT</pubDate>
-      <description>🔸 هیراد مخیری، استاد دانشگاه و کارشناس مسائل اوراسیا در گفت‌وگو با اسپوتنیک اظهار داشت: باید توجه به این موضوع داشته باشیم&amp;nbsp; که در شرایط فعلی کاهش 5 تا 6 درصدی قیمت‌ها پس از تصمیم مربوط به صادرات گازوئیل روسیه، از تأثیرات انتظارات بازار بر تحولات انرژی حکایت می‌کند و همچنین بازارها پیش از آنکه محموله‌ها به مقصد برسند، به تغییر احتمالی عرضه واکنش نشان می‌دهند و اعلام آمادگی روسیه برای ارسال چند نفت‌کش می‌تواند بخشی از نگرانی‌ها درباره تأمین سوخت را کاهش دهد. 🔸وی افزود، با این حال، برای سنجش</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102390.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102390.jpg" medium="image" />
     </item>
   </channel>
 </rss>
