@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>News Site - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Thu, 22 Oct 2026 12:18:34 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 12:48:16 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>News Site</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>به گزارش رسانه‌های محلی، در پی هدف قرار گرفتن یک خودرو توسط نیروهای اسرائیلی در محله «تل‌الهوی» واقع در جنوب غربی شهر غزه، دو نفر کشته و چندین تن دیگر زخمی شدند</title>
+      <link>https://sputnikiran.github.io/news/102440-به-گزارش-رسانههای-محلی،-د.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102440-به-گزارش-رسانههای-محلی،-د.html</guid>
+      <pubDate>Thu, 22 Oct 2026 12:47:00 GMT</pubDate>
+      <description>🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102440.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102440.jpg" medium="image" />
+    </item>
     <item>
       <title>توقف درگیری در اوکراین بدون تضمین‌های امنیتی و راه‌حل‌های مشروعیت بی‌معنی است – تحلیلگر سابق پنتاگون</title>
       <link>https://sputnikiran.github.io/news/102439-توقف-درگیری-در-اوکراین-بد.html</link>
@@ -442,15 +451,6 @@
       <guid isPermaLink="true">https://sputnikiran.github.io/news/102388-دستیار-رئیسجمهور-روسیه-طر.html</guid>
       <pubDate>Wed, 21 Oct 2026 13:48:00 GMT</pubDate>
       <description>» 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-    </item>
-    <item>
-      <title>دستیار پوتین: مسکو آمادگی دارد در بازه زمانی</title>
-      <link>https://sputnikiran.github.io/news/102387-دستیار-پوتین-مسکو-آمادگی.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102387-دستیار-پوتین-مسکو-آمادگی.html</guid>
-      <pubDate>Wed, 21 Oct 2026 13:48:00 GMT</pubDate>
-      <description>تا 19 نوامبر، مذاکرات را در قالب سه‌جانبه‌ای متشکل از روسیه، امریکا و اوکراین از سر بگیرد. 🔸اوشاکوف گفت که پوتین این موضوع را در جریان گفتگوهایش با ویتکاف به او منتقل کرد. 🔸اوشاکوف تاکید کرد که ویتکاف خاطرنشان نموده که تصمیم روسیه برای از سرگیری مذاکرات سه‌جانبه، با استقبال گرم ترامپ مواجه خواهد شد. 🔸وضعیت اوکراین، محور اصلی گفتگوی پوتین و ویتکاف بود. 🔸ویتکاف به رویکردهای جدیدی اشاره کرد که از سوی طرف اروپایی و کی‌یف در خصوص دستیابی به یک راه حل مطرح شده است؛ هرچند او یادآور شد که این رویکرد</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102387.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102387.jpg" medium="image" />
     </item>
   </channel>
 </rss>
