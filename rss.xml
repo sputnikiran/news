@@ -5,13 +5,31 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>News Site - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Thu, 22 Oct 2026 07:18:25 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 08:19:02 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>News Site</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>هواپیمای شرکت «لاتام ایرلاینز» در حین پرواز دچار صاعقه‌زدگی شد</title>
+      <link>https://sputnikiran.github.io/news/102425-هواپیمای-شرکت-لاتام-ایرلا.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102425-هواپیمای-شرکت-لاتام-ایرلا.html</guid>
+      <pubDate>Thu, 22 Oct 2026 08:18:00 GMT</pubDate>
+      <description>🔸این حادثه هیچ‌گونه آسیب جانی به همراه نداشت. روز سه‌شنبه، در جریان یک طوفان شدید، هواپیمای شرکت لاتام که از آنتوفاگاستا به سمت سانتیاگو (شیلی) در پرواز بود، مورد اصابت صاعقه قرار گرفت. این برخورد با صدای مهیبی همراه بود و درخشش نوری که کابین هواپیما را روشن کرد، باعث وحشت مسافران شد. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102425.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102425.jpg" medium="image" />
+    </item>
+    <item>
+      <title>روشی خلاقانه برای درامان ماندن از باران در خیابان‌های ریو دو ژانیرو</title>
+      <link>https://sputnikiran.github.io/news/102424-روشی-خلاقانه-برای-درامان.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102424-روشی-خلاقانه-برای-درامان.html</guid>
+      <pubDate>Thu, 22 Oct 2026 08:18:00 GMT</pubDate>
+      <description>🔸از آنجا که تین مرد چتری همراه خود نداشت، برای حل این مشکل یک برگ غول‌پیکر از گیاه «تایوبا» (تارو) را روی سرش گرفت و به راه خود ادامه داد. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102424.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102424.jpg" medium="image" />
+    </item>
     <item>
       <title>دادستان کل فدراسیون روسیه: رویکردی جامع، سازوکاری مستحکم و بی‌نقص برای همکاری‌های حقوقی روسیه و چین ایجاد شده است</title>
       <link>https://sputnikiran.github.io/news/102423-دادستان-کل-فدراسیون-روسیه.html</link>
@@ -435,20 +453,6 @@
       <description></description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102371.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102371.jpg" medium="image" />
-    </item>
-    <item>
-      <title>پوتین:  نخستین نفتکش در چارچوب توافق‌نامه گازوئیل، ظرف</title>
-      <link>https://sputnikiran.github.io/news/102370-پوتین-نخستین-نفتکش-در-چار.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102370-پوتین-نخستین-نفتکش-در-چار.html</guid>
-      <pubDate>Wed, 21 Oct 2026 09:47:00 GMT</pubDate>
-      <description>تا 3 روز آینده حرکت خواهد کرد و حامل 40 هزار تن گازوئیل خواهد بود 🔸رئیس جمهور روسیه گفت که این کشور در چارچوب توافق مربوط به گازوئیل، چندین نفتکش را برای ارسال آماده می‌کند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-    </item>
-    <item>
-      <title>پوتین: در مورد دیدار احتمالی با ترامپ در چین، با ویتکاف گفتگو خواهد کرد</title>
-      <link>https://sputnikiran.github.io/news/102369-پوتین-در-مورد-دیدار-احتما.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102369-پوتین-در-مورد-دیدار-احتما.html</guid>
-      <pubDate>Wed, 21 Oct 2026 09:47:00 GMT</pubDate>
-      <description>🔸علاوه بر این، رهبر روسیه مراتب قدردانی ویژه خود را از بانوی اول ایالات متحده به خاطر مشارکتش در رسیدگی به مسائل بشردوستانه در اوکراین ابراز کرد. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
     </item>
   </channel>
 </rss>
