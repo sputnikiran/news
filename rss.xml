@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>News Site - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Thu, 22 Oct 2026 10:48:15 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 11:18:37 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>News Site</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>دادستان کل فدراسیون روسیه: رویکردی جامع، سازوکاری مستحکم و بی‌نقص برای همکاری‌های حقوقی روسیه و چین ایجاد شده است</title>
+      <link>https://sputnikiran.github.io/news/102434-دادستان-کل-فدراسیون-روسیه.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102434-دادستان-کل-فدراسیون-روسیه.html</guid>
+      <pubDate>Thu, 22 Oct 2026 11:18:00 GMT</pubDate>
+      <description>🔸دادستان کل فدراسیون روسیه، با «هه رونگ»، وزیر دادگستری چین دیدار کرد 🔸 ایگور کراسنوف گفت که روابط روسیه و چین بر پایه‌ای استوار بنا شده و…</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102434.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102434.jpg" medium="image" />
+    </item>
     <item>
       <title>احمدی به اسپوتنیک: «آمریکا برای روسیه و ایران یک دشمن مشترک است»</title>
       <link>https://sputnikiran.github.io/news/102433-احمدی-به-اسپوتنیک-آمریکا.html</link>
@@ -444,15 +453,6 @@
       <description>🔸ماریا زاخارووا در سخنانی گفت که پتانسیل عظیمی برای توسعه روابط واشنگتن - مسکو وجود دارد، اما باید بر اساس واقعیت‌های میدانی پیش رفت. 🔸 تأمین پهپاد برای اوکراین توسط یک شرکت ژاپنی، اقدامی خصمانه است؛ توکیو شرکت‌های خود را به انجام معامله با رژیم کی‌یف تشویق می‌کند. مسکو پاسخی قاطع به تأمین پهپاد برای اوکراین توسط این شرکت ژاپنی خواهد داد. 🔸 مسکو و مینسک فعالیت‌های ناتو در نزدیکی مرزهای «دولت اتحادیه» (Union State) را رصد می‌کنند؛ تقویت توانمندی‌های نظامی این ائتلاف، مایه نگرانی است. 🔸 هیچ گز</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102382.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102382.jpg" medium="image" />
-    </item>
-    <item>
-      <title>معاون نخست وزیر روسیه (نوواک): نخستین نفتکش حامل گازوئیل روسیه، فردا به مقصد ایالات متحده  آمریکا حرکت خواهد کرد</title>
-      <link>https://sputnikiran.github.io/news/102381-معاون-نخست-وزیر-روسیه-نوو.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102381-معاون-نخست-وزیر-روسیه-نوو.html</guid>
-      <pubDate>Wed, 21 Oct 2026 11:47:00 GMT</pubDate>
-      <description>🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102381.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102381.jpg" medium="image" />
     </item>
   </channel>
 </rss>
