@@ -5,13 +5,29 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>News Site - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Thu, 22 Oct 2026 05:18:39 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 05:48:21 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>News Site</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>شهردار مسکو از سرنگونی</title>
+      <link>https://sputnikiran.github.io/news/102420-شهردار-مسکو-از-سرنگونی.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102420-شهردار-مسکو-از-سرنگونی.html</guid>
+      <pubDate>Thu, 22 Oct 2026 05:47:00 GMT</pubDate>
+      <description>پهپاد در نزدیکی پایتخت خبر داد 🔸سرگئی سوبیانین، شهردار مسکو خبر داد، 73 پهپاد شلیک شده به سمت مسکو رهگیری و منهدم شدند. 🔸به گفته وی، تیم های عملیاتی در محل سقوط بقایای پهپادها مشغول به فعالیت هستند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+    </item>
+    <item>
+      <title>گزارش رسانه‌ها درباره تعداد کشتی‌های ایالات متحده آمریکا در خاورمیانه</title>
+      <link>https://sputnikiran.github.io/news/102419-گزارش-رسانهها-درباره-تعدا.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102419-گزارش-رسانهها-درباره-تعدا.html</guid>
+      <pubDate>Thu, 22 Oct 2026 05:47:00 GMT</pubDate>
+      <description>🔸به نوشته روزنامه‌های آمریکایی، با ورود یک گروه ضربت ناو هواپیمابر دیگر، مجموع این کشتی‌ها ممکن است به بیش از 24 فروند برسد. 🔸گفته می‌شود که ایالات متحده آمریکا در حال حاضر دو گروه ضربت ناو هواپیمابر در خاورمیانه دارد و سومین گروه نیز از سمت اقیانوس آرام در حال حرکت به سوی این منطقه است. این روزنامه‌ها تأکید می‌کنند که هنوز مشخص نیست آیا هر سه گروه در منطقه باقی خواهند ماند یا خیر. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102419.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102419.jpg" medium="image" />
+    </item>
     <item>
       <title>روابط عمومی نیروی دریایی سپاه پاسداران:</title>
       <link>https://sputnikiran.github.io/news/102418-روابط-عمومی-نیروی-دریایی.html</link>
@@ -429,22 +445,6 @@
       <guid isPermaLink="true">https://sputnikiran.github.io/news/102366-ویتکاف-اظهار-داشت-که-زمین.html</guid>
       <pubDate>Wed, 21 Oct 2026 09:17:00 GMT</pubDate>
       <description>🔸ویتکاف همچنین ابراز امیدواری کرد که پوتین امکان ازسرگیری مذاکرات میان روسیه، ایالات متحده و اوکراین را مد نظر قرار دهد؛ مذاکراتی که در جریان آن می‌توان به بررسی…</description>
-    </item>
-    <item>
-      <title>ویتکاف از پوتین بابت آزادی هابارد تشکر کرد</title>
-      <link>https://sputnikiran.github.io/news/102365-ویتکاف-از-پوتین-بابت-آزاد.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102365-ویتکاف-از-پوتین-بابت-آزاد.html</guid>
-      <pubDate>Wed, 21 Oct 2026 09:17:00 GMT</pubDate>
-      <description>🔸پوتین نیز در پاسخ اعلام کرد که هابارد در فرودگاه پولکوو حضور دارد. 🔸پیش‌تر، دادگاه شهر مسکو یک شهروند 72 ساله آمریکایی را که در صفوف نیروهای مسلح اوکراین جنگیده بود، به تحمل نزدیک به هفت سال حبس در یک ندامتگاه…</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102365.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102365.jpg" medium="image" />
-    </item>
-    <item>
-      <title>پوتین دیدار خود با ویتکاف را آغاز کرد</title>
-      <link>https://sputnikiran.github.io/news/102364-پوتین-دیدار-خود-با-ویتکاف.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102364-پوتین-دیدار-خود-با-ویتکاف.html</guid>
-      <pubDate>Wed, 21 Oct 2026 09:17:00 GMT</pubDate>
-      <description>🔸پوتین در دیدار با ویتکاف، درباره نتیجه نشست نروژ پرس‌وجو کرد. 🔸پوتین همچنین از ترامپ بابت توجهش به مسئله حل‌وفصل اوضاع در اوکراین تشکر کرد. 🔸پوتین خاطرنشان کرد که ترامپ در آخرین گفتگوی خود، بر ضرورت پایان دادن به…</description>
     </item>
   </channel>
 </rss>
