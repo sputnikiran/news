@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>News Site - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Thu, 22 Oct 2026 09:18:36 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 09:48:17 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>News Site</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>اروپا از موج گسترده‌تری از حملات سایبری می‌ترسد، زیرا یک نقص «بحرانی» در کد، وب‌سایت‌های سراسر جهان را تحت تأثیر قرار می‌دهد</title>
+      <link>https://sputnikiran.github.io/news/102429-اروپا-از-موج-گستردهتری-از.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102429-اروپا-از-موج-گستردهتری-از.html</guid>
+      <pubDate>Thu, 22 Oct 2026 09:47:00 GMT</pubDate>
+      <description>🔸وب‌سایت‌های دولتی و تجاری پس از انتشار یک به‌روزرسانی امنیتی سایبری حیاتی که آسیب‌پذیری‌های PHP - کدی که بخش بزرگی از اینترنت را پشتیبانی می‌کند - را برطرف می‌کند، در سطح جهانی آفلاین شده‌اند. 🔸دولت‌های هلند، فرانسه، دانمارک و فنلاند در حال آفلاین کردن وب‌سایت‌های خود هستند زیرا هکرها از این آسیب‌پذیری‌ها سوءاستفاده می‌کنند. 🔸سازمان‌های امنیت سایبری در اروپا و آسیا از کاربران می‌خواهند که به‌روزرسانی‌ها را نصب کنند یا وب‌سایت‌های خود را فوراً آفلاین کنند. 🔸توسعه‌دهندگان PHP یک وصله منتشر کر</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102429.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102429.jpg" medium="image" />
+    </item>
     <item>
       <title>به گزارش روزنامه بریتانیایی، اوکراین قصد دارد از طریق یکی از آژانس‌های ناتو، تجهیزات نظامی تهیه کند</title>
       <link>https://sputnikiran.github.io/news/102428-به-گزارش-روزنامه-بریتانیا.html</link>
@@ -444,15 +453,6 @@
       <description>▫️پیش‌تر، استیو ویتکاف، فرستاده ویژه رئیس‌جمهور ایالات متحده، از پوتین بابت آزادی هابارد تشکر کرد؛ فردی که در سال 2024 در روسیه به اتهامات مرتبط با فعالیت‌های مزدوری محکوم شده بود. ▫️هابارد اهل ایالت میشیگان است و از سال 2014 در اوکراین زندگی می‌کرد. در فوریه 2022، این شهروند آمریکایی قراردادی با یک گردان دفاع سرزمینی در شهر ایزیوم امضا کرد که به موجب آن، ماهانه دست‌کم هزار دلار دریافت می‌کرد. هابارد دوره‌های آموزشی را گذراند و به سلاح و مهمات مجهز شد؛ او تا آوریل 2022 در نیروهای مسلح اوکراین خد</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102377.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102377.jpg" medium="image" />
-    </item>
-    <item>
-      <title>سپاسگزاری ویژه ویتکاف از رئیس جمهور روسیه</title>
-      <link>https://sputnikiran.github.io/news/102376-سپاسگزاری-ویژه-ویتکاف-از.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102376-سپاسگزاری-ویژه-ویتکاف-از.html</guid>
-      <pubDate>Wed, 21 Oct 2026 10:47:00 GMT</pubDate>
-      <description>🔸ویتکاف خطاب به پوتین گفت: «شما بسیار از رئیس‌جمهور من، پرزیدنت ترامپ، به عنوان فردی بشردوست یاد می‌کنید. شما هم فردی بشردوست هستید، قربان؛ و من به این ویژگی شما درود می‌فرستم.» 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102376.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102376.jpg" medium="image" />
     </item>
   </channel>
 </rss>
