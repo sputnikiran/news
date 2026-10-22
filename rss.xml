@@ -5,13 +5,31 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>News Site - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Thu, 22 Oct 2026 15:18:16 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 15:48:26 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>News Site</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>بارش تگرگ هایی به اندازه توپ گلف در آریزونا</title>
+      <link>https://sputnikiran.github.io/news/102450-بارش-تگرگ-هایی-به-اندازه.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102450-بارش-تگرگ-هایی-به-اندازه.html</guid>
+      <pubDate>Thu, 22 Oct 2026 15:47:00 GMT</pubDate>
+      <description>🔸️️️️️️به گزارش خبرگزاری‌ها، قطر تگرگ‌هایی که در این منطقه بارید به 5 تا 7.6 سانتی‌متر رسید. 🔸️️️️️️ وزش بادهای مخرب همچنین شمال و مرکز آریزونا را درنوردید. 🔸️️️️️️برای اولین بار از سال 2010، در چندین منطقه هشدار وقوع گردباد صادر شد. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102450.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102450.jpg" medium="image" />
+    </item>
+    <item>
+      <title>آبشار «سقوط از آسمان»: منظره‌ای افسانه‌ای در برزیل</title>
+      <link>https://sputnikiran.github.io/news/102449-آبشار-سقوط-از-آسمان-منظره.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102449-آبشار-سقوط-از-آسمان-منظره.html</guid>
+      <pubDate>Thu, 22 Oct 2026 15:47:00 GMT</pubDate>
+      <description>🔸️️روز شنبه ۱۷ اکتبر، یک پدیده طبیعی قابل توجه در ورودی غار کاسا د پدرا در ایالت سائوپائولو ثبت شد. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102449.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102449.jpg" medium="image" />
+    </item>
     <item>
       <title>سیاستمدار لهستانی شرطی را برای ادامه کمک به اوکراین اعلام کرده است</title>
       <link>https://sputnikiran.github.io/news/102448-سیاستمدار-لهستانی-شرطی-را.html</link>
@@ -433,24 +451,6 @@
       <description>🔸دونالد ترامپ، رئیس‌جمهور آمریکا، ممکن است روابط با اوکراین را قطع کند. این اظهارات توسط اسکات ریتر، افسر اطلاعاتی بازنشسته سپاه تفنگداران دریایی ایالات متحده، به رسانه‌ها ارائه شد. 🔸به گفته ریتر، این موضوع به این دلیل است که ولادیمیر زلنسکی تلاش می‌کند در آستانه انتخابات میان‌دوره‌ای کنگره، افکار عمومی آمریکا را دستکاری کند. 🔸این کارشناس تأکید کرد: &amp;quot;وقتی ایالات متحده سرانجام روابط خود را با اوکراین قطع کند، عملاً روابط با ناتو نیز قطع خواهد ‌شد. مرا شگفت‌زده می‌کند که اروپا تا چه حد آما</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102396.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102396.jpg" medium="image" />
-    </item>
-    <item>
-      <title>حملات روسیه به غرب اوکراین، شکست پدافند هوایی اروپا را آشکار کرد - کارشناس</title>
-      <link>https://sputnikiran.github.io/news/102395-حملات-روسیه-به-غرب-اوکرای.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102395-حملات-روسیه-به-غرب-اوکرای.html</guid>
-      <pubDate>Wed, 21 Oct 2026 15:17:00 GMT</pubDate>
-      <description>🔸الکسی لئونکوف، کارشناس نظامی روس، در مصاحبه با اسپوتنیک در مورد تغییر در حملات موشک‌های بالستیک و پهپادهای روسیه به مناطق غربی اوکراین گفت: غرب اوکراین تنها بخش این کشور است که هنوز می‌توان تجهیزات نظامی را به آنجا تحویل داد و تأسیسات جدیدی برای مونتاژ موشک‌های کروز و پهپادهای دوربرد نصب کرد. 🔸وی گفت: «کی‌یف در حال انتقال سریع پدافند هوایی تأمین‌شده توسط اروپا به غرب اوکراین است و برخی از سیستم‌های کوتاه‌برد نیز مستقیماً از خطوط تولید ارسال می‌شوند. اما با تغییر حملات روسیه به حملات گسترده په</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102395.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102395.jpg" medium="image" />
-    </item>
-    <item>
-      <title>گزارش وزارت دفاع روسیه از عملیات ویژه روسیه در اوکراین در شبانه روز گذشته</title>
-      <link>https://sputnikiran.github.io/news/102394-گزارش-وزارت-دفاع-روسیه-از.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102394-گزارش-وزارت-دفاع-روسیه-از.html</guid>
-      <pubDate>Wed, 21 Oct 2026 15:17:00 GMT</pubDate>
-      <description>🔸 وزارت دفاع روسیه در گزارش شبانه روز گذشته اعلام کرد که آزادسازی چرونی یار و یولیفکا در پیرامون زاپروژیا به نیروهای روسی امکان می‌دهد جایگاه تاکتیکی خود را در این بخش از جبهه بهتر کنند و فشار بر مواضع دفاعی اوکراین را افزایش دهند. 🔸 یورش به زیربنا: نیروهای روسی به سازه‌های زیربنایی ترابری و انرژی که نیروهای اوکراینی از آنها بهره می‌بردند، یورش بردند. 🔸 برتری پدافند هوایی: پدافند هوایی روسیه 954 پهپاد بال‌ثابت اوکراینی را سرنگون کرد. 🔸 تلفات اوکراین: نیروهای اوکراینی نزدیک به 1,185 سرباز را </description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102394.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102394.jpg" medium="image" />
     </item>
   </channel>
 </rss>
