@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>News Site - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Thu, 22 Oct 2026 19:48:35 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 20:18:34 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>News Site</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>زلزله‌ای به بزرگی</title>
+      <link>https://sputnikiran.github.io/news/102464-زلزلهای-به-بزرگی.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102464-زلزلهای-به-بزرگی.html</guid>
+      <pubDate>Thu, 22 Oct 2026 20:18:00 GMT</pubDate>
+      <description>ریشتر تبت را لرزاند 🔸️️️️مرکز لرزه‌نگاری اروپا-مدیترانه اعلام کرد که زمین‌لرزه‌هایی در منطقه خودمختار تبت در غرب چین ثبت شده است. 🔸️️️️مرکز این زمین لرزه تقریباً در 200 کیلومتری شمال شرقی شهرستان ناگچو، محل سکونت تقریباً 30 هزار نفر، و در عمق 35 کیلومتری زمین واقع شده است. 🔸️️️️هنوز گزارشی از تلفات یا خسارات احتمالی منتشر نشده است. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102464.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102464.jpg" medium="image" />
+    </item>
     <item>
       <title>خلبانان هندی در رزمایش «ایندرا-</title>
       <link>https://sputnikiran.github.io/news/102463-خلبانان-هندی-در-رزمایش-ای.html</link>
@@ -442,15 +451,6 @@
       <description>▫️دیمیتری سوسلوف، تحلیلگر سیاسی، به خبرگزاری اسپوتنیک گفت که دستاورد اصلی گفتگوهای ولادیمیر پوتین با استیو ویتکاف، نماینده آمریکا، تقویت اعتماد متقابل میان پوتین و دونالد ترامپ و پیشبرد همکاری‌های روسیه و ایالات متحده بوده است. ▫️به گفته سوسلوف، آزادی استیون هابارد، شهروند آمریکایی، توسط روسیه اقدامی حاکی از حسن نیت در قبال ترامپ محسوب می‌شود؛ به‌ویژه آنکه این رویداد در آستانه انتخابات میان‌دوره‌ای آمریکا رخ داده است. ▫️او افزود: «همچنین تصادفی نیست که در دیدار امروز، توجه قابل‌توجهی به اجرای تو</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102412.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102412.jpg" medium="image" />
-    </item>
-    <item>
-      <title>عناوین مهمترین اخبار تا شامگاه</title>
-      <link>https://sputnikiran.github.io/news/102411-عناوین-مهمترین-اخبار-تا-ش.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102411-عناوین-مهمترین-اخبار-تا-ش.html</guid>
-      <pubDate>Wed, 21 Oct 2026 19:18:00 GMT</pubDate>
-      <description>اکتبر ▫️پوتین خطاب به ویتکاف اعلام کرد روسیه آماده از سرگیری مذاکرات سه جانبه در مورد اوکراین در اواخر نوامبر است. ▫️ابراهیم رضایی، عضو کمیسیون امنیت ملی مجلس ایران: در حال حاضر روابط ایران و روسیه در بالاترین سطح قرار دارد ▫️اوشاکوف دستیار پوتین اظهار داشت که درگیری در اوکراین به پایان خود نزدیک می‌شود. ▫️روسای دادگاه‌های عالی روسیه و چین یک توافقنامه همکاری امضا کردند. ▫️ترکیه، قطر، پاکستان و اندونزی پیمان همکاری دفاعی &amp;quot;بدر&amp;quot; را امضا کردند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102411.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102411.jpg" medium="image" />
     </item>
   </channel>
 </rss>
