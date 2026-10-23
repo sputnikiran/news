@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>News Site - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Fri, 23 Oct 2026 20:18:15 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 20:48:23 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>News Site</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>خلبانان هندی در رزمایش «ایندرا-</title>
+      <link>https://sputnikiran.github.io/news/102535-خلبانان-هندی-در-رزمایش-ای.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102535-خلبانان-هندی-در-رزمایش-ای.html</guid>
+      <pubDate>Fri, 23 Oct 2026 20:47:00 GMT</pubDate>
+      <description>» دوش‌به‌دوش روس‌ها با جنگنده‌های سوخو-30 پرواز می‌کنند 🔸️️️️خلبانان به تمرینِ مقابله با پهپادها، نبرد هوایی در ارتفاع پایین و عملیات نیروهای ویژه پرداختند. 🔸️️️️آموزش عملی برای نیروی هوایی هند (IAF) که یکی از بزرگ‌ترین…</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102535.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102535.jpg" medium="image" />
+    </item>
     <item>
       <title>ماسک نخبگان اوکراینی را به پولشویی پول آمریکا متهم کرد</title>
       <link>https://sputnikiran.github.io/news/102534-ماسک-نخبگان-اوکراینی-را-ب.html</link>
@@ -442,15 +451,6 @@
       <description>🛰رئیس دیوان عالی روسیه در جریان سفر رسمی خود به چین، از شانگهای بازدید کرد و با فعالیت نهادهای قضایی منطقه‌ای در این شهر آشنا شد: 🛰دادگاه عالی خلق شانگهای حلقه‌ای کلیدی در نظام قضایی این کلان‌شهر محسوب می‌شود. این دادگاه در زمینه رسیدگی به تجدیدنظر و نظارت قضایی تخصص دارد و به‌طور فعال در همکاری‌های بین‌المللی مشارکت می‌کند. 🛰مجمع قضات چین و سازمان همکاری شانگهای که با همکاری این دادگاه و دانشگاه علوم سیاسی و حقوق شانگهای برگزار شد. 🛰قضات روس نیز به دستور رئیس دیوان عالی روسیه در این رویداد </description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102478.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102478.jpg" medium="image" />
-    </item>
-    <item>
-      <title>گزارش: در پی وقوع زلزله در منطقه خودمختار تبت چین، دست کم</title>
-      <link>https://sputnikiran.github.io/news/102477-گزارش-در-پی-وقوع-زلزله-در.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102477-گزارش-در-پی-وقوع-زلزله-در.html</guid>
-      <pubDate>Fri, 23 Oct 2026 06:47:00 GMT</pubDate>
-      <description>نفر کشته و 32 نفر زخمی شدند 🔸تصاویر در شبکه‌های اجتماعی به اشتراک گذاشته می‌شود. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102477.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102477.jpg" medium="image" />
     </item>
   </channel>
 </rss>
