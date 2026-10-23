@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>News Site - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Fri, 23 Oct 2026 06:18:28 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 06:48:13 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>News Site</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>گزارش: در پی وقوع زلزله در منطقه خودمختار تبت چین، دست کم</title>
+      <link>https://sputnikiran.github.io/news/102477-گزارش-در-پی-وقوع-زلزله-در.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102477-گزارش-در-پی-وقوع-زلزله-در.html</guid>
+      <pubDate>Fri, 23 Oct 2026 06:47:00 GMT</pubDate>
+      <description>نفر کشته و 32 نفر زخمی شدند 🔸تصاویر در شبکه‌های اجتماعی به اشتراک گذاشته می‌شود. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102477.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102477.jpg" medium="image" />
+    </item>
     <item>
       <title>وزارت دفاع روسیه: حملات روسیه به اپراتورهای قایق‌های بدون سرنشین و لجستیک اوکراینی در مناطق اودسا و پولتاوا آسیب رساند</title>
       <link>https://sputnikiran.github.io/news/102476-وزارت-دفاع-روسیه-حملات-رو.html</link>
@@ -444,15 +453,6 @@
       <description>به محل استقرار نیروهای اوکراین حمله کردند 🔸وزارت دفاع روسیه گزارش داد که پهپادهای تهاجمی سنگین PVKh-2 متعلق به گردان 1613 مهندسی از گروه «مرکز» ارتش روسیه، با پرتاب مین‌های ضد تانک TM-62، مواضع مستحکم نیروهای اوکراینی را مورد هدف قرار دادند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102422.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102422.jpg" medium="image" />
-    </item>
-    <item>
-      <title>روسیه شبا گذشته به زیرساخت‌های نظامی-صنعتی و حمل و نقل اوکراین حمله کرد</title>
-      <link>https://sputnikiran.github.io/news/102421-روسیه-شبا-گذشته-به-زیرساخ.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102421-روسیه-شبا-گذشته-به-زیرساخ.html</guid>
-      <pubDate>Thu, 22 Oct 2026 06:17:00 GMT</pubDate>
-      <description>🔸شب گذشته، نیروهای مسلح روسیه با سلاح‌های زمینی با دقت بالا و پهپادها حمله گسترده‌ای انجام دادند. موارد زیر مورد اصابت قرار گرفتند: 🔸 شرکت‌های نظامی-صنعتی اوکراین که در تولید و ذخیره‌سازی موشک‌های کروز و پهپادهای دوربرد و میان‌برد فعالیت دارند 🔸 تأسیسات زیرساخت حمل و نقل در کی یف 🔸 تأسیسات زیرساخت بندری در منطقه اودسا 🔸 کشتی‌های دریایی مورد استفاده در راستای منافع ارتش اوکراین</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102421.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102421.jpg" medium="image" />
     </item>
   </channel>
 </rss>
