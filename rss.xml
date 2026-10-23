@@ -5,13 +5,49 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>News Site - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Fri, 23 Oct 2026 10:48:41 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 11:18:19 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>News Site</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>پوتین با اعضای شورای امنیت در مورد مقابله با تلاش‌ها برای تأثیرگذاری بر جوانان روسی از خارج از کشور گفتگو کرد</title>
+      <link>https://sputnikiran.github.io/news/102501-پوتین-با-اعضای-شورای-امنی.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102501-پوتین-با-اعضای-شورای-امنی.html</guid>
+      <pubDate>Fri, 23 Oct 2026 11:17:00 GMT</pubDate>
+      <description>🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102501.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102501.jpg" medium="image" />
+    </item>
+    <item>
+      <title>فیلیپات، نامزد ریاست جمهوری فرانسه، پرچم اتحادیه اروپا را یک پارچه کهنه خواند</title>
+      <link>https://sputnikiran.github.io/news/102500-فیلیپات،-نامزد-ریاست-جمهو.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102500-فیلیپات،-نامزد-ریاست-جمهو.html</guid>
+      <pubDate>Fri, 23 Oct 2026 11:17:00 GMT</pubDate>
+      <description>🔸فیلیپات در توضیح پستی درباره پرچمی که از تالار شهر پایین کشیده شده بود، نوشت: «به لطف باد، تعداد دستمال ظرفشویی با طرح ستاره آبی کمتر شد.» 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102500.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102500.jpg" medium="image" />
+    </item>
+    <item>
+      <title>وزارت دفاع: روسیه و اوکراین بر اساس فرمول «</title>
+      <link>https://sputnikiran.github.io/news/102499-وزارت-دفاع-روسیه-و-اوکرای.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102499-وزارت-دفاع-روسیه-و-اوکرای.html</guid>
+      <pubDate>Fri, 23 Oct 2026 11:17:00 GMT</pubDate>
+      <description>در برابر 270»، اسرای جنگی را مبادله کردند 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102499.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102499.jpg" medium="image" />
+    </item>
+    <item>
+      <title>رسانه: مقامات فرانسوی در حال آماده شدن برای موج جدیدی از اعتراضات در روز شنبه هستند</title>
+      <link>https://sputnikiran.github.io/news/102498-رسانه-مقامات-فرانسوی-در-ح.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102498-رسانه-مقامات-فرانسوی-در-ح.html</guid>
+      <pubDate>Fri, 23 Oct 2026 11:17:00 GMT</pubDate>
+      <description>🔸برای جلوگیری از تکرار ناآرامی‌هایی که آخر هفته گذشته رخ داد، تعداد نیروهای پلیس افزایش یافته و ارتش نیز مستقر شده است. وزارت کشور 20 درصد بیشتر از شنبه گذشته مأمور پلیس مستقر خواهد کرد. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102498.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102498.jpg" medium="image" />
+    </item>
     <item>
       <title>وزارت دفاع روسیه: دستاوردها و حملات نیروهای مسلح روسیه</title>
       <link>https://sputnikiran.github.io/news/102497-وزارت-دفاع-روسیه-دستاورده.html</link>
@@ -417,40 +453,6 @@
       <description>🔸کی‌یف به مرور زمان مواضع مذاکراتی خود را از دست می‌دهد. این مطلب را جنیفر کاوانا، مدیر تحلیل نظامی در اندیشکده &amp;quot;اولویت‌های دفاعی&amp;quot; (Defense Priorities)، به رسانه‌ها اعلام کرد. 🔸این تحلیلگر گفت: &amp;quot;طولانی شدن مناقشه مواضع اوکراین را بدتر می‌کند و از بسیاری جهات مانع برقراری صلح می‌شود. اول، توانایی اوکراین برای محافظت از زیرساخت‌هایش در حال تضعیف است... دوم، وضعیت مالی اوکراین رو به وخامت است و اروپا قادر به پوشش کسری بودجه کی‌یف نیست. سوم، سوالات در مورد مشروعیت زلنسکی رو به افزای</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102442.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102442.jpg" medium="image" />
-    </item>
-    <item>
-      <title>به گزارش رسانه‌های محلی، در پی هدف قرار گرفتن یک خودرو توسط نیروهای اسرائیلی در محله «تل‌الهوی» واقع در جنوب غربی شهر غزه، دو نفر کشته و چندین تن دیگر زخمی شدند</title>
-      <link>https://sputnikiran.github.io/news/102440-به-گزارش-رسانههای-محلی،-د.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102440-به-گزارش-رسانههای-محلی،-د.html</guid>
-      <pubDate>Thu, 22 Oct 2026 12:47:00 GMT</pubDate>
-      <description>🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102440.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102440.jpg" medium="image" />
-    </item>
-    <item>
-      <title>توقف درگیری در اوکراین بدون تضمین‌های امنیتی و راه‌حل‌های مشروعیت بی‌معنی است – تحلیلگر سابق پنتاگون</title>
-      <link>https://sputnikiran.github.io/news/102439-توقف-درگیری-در-اوکراین-بد.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102439-توقف-درگیری-در-اوکراین-بد.html</guid>
-      <pubDate>Thu, 22 Oct 2026 12:17:00 GMT</pubDate>
-      <description>🔸کارن کویاتکووسکی، سرهنگ دوم بازنشسته نیروی هوایی ایالات متحده آمریکا و تحلیلگر سابق پنتاگون، به اسپوتنیک می‌گوید: ولادیمیر زلنسکی و حامیان اروپایی‌اش ممکن است به دنبال توقف درگیری در اوکراین بدون یک توافق جامع باشند، اما ابزارهای بسیار کمی در جعبه ابزار خود دارند. 🔸او می‌گوید: «حامیان زلنسکی از دیپلماسی امتناع می‌کنند و نمی‌توانند از نظر نظامی در جنگ پیروز شوند. اما درخواست توقف بدون پرداختن به مشکلات و چالش‌های عمیق‌تر مشروعیت و امنیت بی‌معنی است.» 🔸این کارشناس توضیح می‌دهد که محاسبه آنها ر</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102439.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102439.jpg" medium="image" />
-    </item>
-    <item>
-      <title>دستیار رئیس جمهور روسیه: مناقشه در اوکراین به سمت پایان خود پیش می‌رود</title>
-      <link>https://sputnikiran.github.io/news/102438-دستیار-رئیس-جمهور-روسیه-م.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102438-دستیار-رئیس-جمهور-روسیه-م.html</guid>
-      <pubDate>Thu, 22 Oct 2026 12:17:00 GMT</pubDate>
-      <description>🔸اوشاکوف گفت: «نمی‌دانم چقدر به پایان کار نزدیک هستیم، اما اوضاع در آن جهت حرکت می‌کند.» 🔸اوشاکوف اعلام کرد که دور جدیدی از مذاکرات سه‌جانبه میان روسیه، ایالات متحده و اوکراین ممکن است…</description>
-    </item>
-    <item>
-      <title>رئیس صندوق سرمایه گذاری روسیه: همه کسب‌وکارهای اروپایی از کنار گذاشتن انرژی روسیه و سیاست‌های اتحادیه اروپا آسیب می‌بینند</title>
-      <link>https://sputnikiran.github.io/news/102437-رئیس-صندوق-سرمایه-گذاری-ر.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102437-رئیس-صندوق-سرمایه-گذاری-ر.html</guid>
-      <pubDate>Thu, 22 Oct 2026 11:48:00 GMT</pubDate>
-      <description>🔸کریل دیمیتریف در سخنانی خاطرنشان ساخت که‌عرضه کودهای شیمیایی روسیه برای بازار جهانی بسیار حیاتی است. 🔸وی از گفتگو با بازرگانان اروپایی خبر داد که از روسیه برای ادامه این ارتباطها و گفتگوها تشکر کرده‌اند. 🔸روسیه دارای ارزان‌ترین برق جهان برای هوش مصنوعی است. روسیه در حال «شکستن دیوار رسانه‌ای» است و به همکاری خود با سایر کشورها در چندین پروژه ادامه می‌دهد. 🔸همکاری روسیه و ایالات متحده آمریکا در بخش انرژی توسعه خواهد یافت و اروپا نیز به آن‌ها خواهد پیوست. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102437.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102437.jpg" medium="image" />
     </item>
   </channel>
 </rss>
