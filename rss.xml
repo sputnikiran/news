@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>News Site - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Fri, 23 Oct 2026 12:18:33 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 12:48:29 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>News Site</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>نیروی هوایی ایالات متحده پس از از دست دادن</title>
+      <link>https://sputnikiran.github.io/news/102505-نیروی-هوایی-ایالات-متحده.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102505-نیروی-هوایی-ایالات-متحده.html</guid>
+      <pubDate>Fri, 23 Oct 2026 12:47:00 GMT</pubDate>
+      <description>هواپیما در بن‌بست با ایران، به کنگره اعلام کرد که تا سال 2035 به 1509 جنگنده آماده نبرد نیاز دارد 🛰در پاسخ، قراردادی 10 ساله با لاکهید مارتین برای 850 فروند اف-35 به امضا رسید، اما این قرارداد تنها تولید فعلی را دربرمی گیرد، در حالی که جدیدترین هواپیماها بدون مجوز رزمی همچنان زمین‌گیر هستند. عامل ایران، تسلیح مجدد را تسریع نکرده، بلکه وضعیت موجود مبهم را تثبیت کرده است. 🛰کمیک هوش مصنوعی اسپوتنیک. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102505.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102505.jpg" medium="image" />
+    </item>
     <item>
       <title>روستک در اجلاس روسیه-آفریقا از یک «گنبد ضد پهپاد» رونمایی خواهد کرد</title>
       <link>https://sputnikiran.github.io/news/102504-روستک-در-اجلاس-روسیه-آفری.html</link>
@@ -446,15 +455,6 @@
       <description>🔶️️️️️️نمایندگان مخالف و اکثریت حاکم روز پنجشنبه در پارلمان آلبانی در بحبوحه اعتراضات گسترده ضد دولتی با یکدیگر درگیر شدند. 🔸️️️️️️در روزهای اخیر، درگیری‌هایی بین معترضان و پلیس در تیرانا، پایتخت، رخ داده است. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102447.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102447.jpg" medium="image" />
-    </item>
-    <item>
-      <title>ادامه تظاهرات دانشجویان در پاریس</title>
-      <link>https://sputnikiran.github.io/news/102445-ادامه-تظاهرات-دانشجویان-د.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102445-ادامه-تظاهرات-دانشجویان-د.html</guid>
-      <pubDate>Thu, 22 Oct 2026 14:17:00 GMT</pubDate>
-      <description>➖دانشجویان در تظاهرات پاریس: «تنها با متحد کردن مبارزه و توده‌ای کردن جنبش می‌توانیم به تغییر سیستماتیک دست یابیم» یکی از شرکت کنندگان در تظاهرات در مصاحبه با اسپوتنیک گفت: &amp;quot;ما به عنوان دانش آموز اینجا هستیم - نه تنها برای حمایت از جنبش دانش آموزان دبیرستان، بلکه برای بیان مطالبات خود و همچنین مطالبات کارگران.&amp;quot; ➖پنجشنبه گذشته، اInterfac IDF گزارش داد که یک دادگاه اداری، برگزاری تظاهرات در خیابان‌های پاریس را مجاز دانسته است، اقدامی که در ابتدا توسط پلیس ممنوع شده بود. 🛰 Sputnik Iran |</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102445.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102445.jpg" medium="image" />
     </item>
   </channel>
 </rss>
