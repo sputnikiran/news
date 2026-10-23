@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>News Site - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Fri, 23 Oct 2026 07:48:19 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 08:18:27 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>News Site</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>ارتش هند ناوگان پهپادهای بومی خود را گسترش می‌دهد</title>
+      <link>https://sputnikiran.github.io/news/102485-ارتش-هند-ناوگان-پهپادهای.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102485-ارتش-هند-ناوگان-پهپادهای.html</guid>
+      <pubDate>Fri, 23 Oct 2026 08:17:00 GMT</pubDate>
+      <description>🔸شرکت سولار دفنس آئرواسپیس ( (SDAL تحویل پهپاد Nagastra-2 به ارتش هند را آغاز ‌کرده است. 🔸کلاهک جنگی دو مرحله‌ای 4 کیلوگرمی تا 650 میلی‌متر زره (RHA) نفوذ می‌کند. 🔸برد 50 کیلومتر در حالت شلیک با 60 دقیقه دوام پرواز. 🔸مقاوم در برابر اختلال ارتباطی و جی پی اس. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102485.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102485.jpg" medium="image" />
+    </item>
     <item>
       <title>طوفان مرگبار چمپی تایوان را درنوردید و جان یک نفر را گرفت</title>
       <link>https://sputnikiran.github.io/news/102481-طوفان-مرگبار-چمپی-تایوان.html</link>
@@ -444,15 +453,6 @@
       <description>اکتبر: 🔸روابط عمومی نیروی دریایی سپاه پاسداران: چهار شناور متخلف به‌طور همزمان هدف قرار گرفتند و اکنون در آتش می‌سوزند. 🔸رسانه‌ها: اروپا به دنبال مذاکره‌کننده‌ای است تا با روسیه در خصوص دستیابی به راه‌حلی برای مناقشه اوکراین گفتگو کند. 🔸نیروهای روسیه شبانه به مجتمع «آنتونوف» در کی‌یف حمله کردند؛ تأسیساتی که برای تولید پهپاد و موشک مورد استفاده قرار می‌گیرد. 🔸رسانه‌ها آماری از تعداد شناورهای نیروی دریایی ایالات متحده که در حال حاضر در خاورمیانه حضور دارند، منتشر کردند. 🔸ایگور کراسنوف، دادستا</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102426.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102426.jpg" medium="image" />
-    </item>
-    <item>
-      <title>هواپیمای شرکت «لاتام ایرلاینز» در حین پرواز دچار صاعقه‌زدگی شد</title>
-      <link>https://sputnikiran.github.io/news/102425-هواپیمای-شرکت-لاتام-ایرلا.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102425-هواپیمای-شرکت-لاتام-ایرلا.html</guid>
-      <pubDate>Thu, 22 Oct 2026 08:18:00 GMT</pubDate>
-      <description>🔸این حادثه هیچ‌گونه آسیب جانی به همراه نداشت. روز سه‌شنبه، در جریان یک طوفان شدید، هواپیمای شرکت لاتام که از آنتوفاگاستا به سمت سانتیاگو (شیلی) در پرواز بود، مورد اصابت صاعقه قرار گرفت. این برخورد با صدای مهیبی همراه بود و درخشش نوری که کابین هواپیما را روشن کرد، باعث وحشت مسافران شد. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102425.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102425.jpg" medium="image" />
     </item>
   </channel>
 </rss>
