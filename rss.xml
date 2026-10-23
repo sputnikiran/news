@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>News Site - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Fri, 23 Oct 2026 11:18:19 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 11:48:26 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>News Site</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>واشنگتن در تهران کسی را برای مذاکره ندارد؟</title>
+      <link>https://sputnikiran.github.io/news/102502-واشنگتن-در-تهران-کسی-را-ب.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102502-واشنگتن-در-تهران-کسی-را-ب.html</guid>
+      <pubDate>Fri, 23 Oct 2026 11:47:00 GMT</pubDate>
+      <description>🛰هشت ماه حمله دقیقاً به همان چیزی منجر شده است که واشنگتن ظاهراً می‌خواست از آن جلوگیری کند: ایران اکنون تحت کنترل سپاه پاسداران است و دیگر کسی برای امضای توافق باقی نمانده است. گزارش جدیدی از کارنگی و بروکینگز این موضوع را تأیید می‌کند: بر اساس این گزارش 17 یا 18 نفر از 20 چهره بانفوذ در تهران، تندروهای سرسختی هستند که اکثر آنها از کهنه سربازان سپاه پاسداران هستند. آنها می‌توانند دستور تشدید تنش را بدهند، اما هیچکس از اختیار تحریم امتیازدهی برخوردار نیست. رهبر معظم انقلاب که می‌توانست این کار </description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102502.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102502.jpg" medium="image" />
+    </item>
     <item>
       <title>پوتین با اعضای شورای امنیت در مورد مقابله با تلاش‌ها برای تأثیرگذاری بر جوانان روسی از خارج از کشور گفتگو کرد</title>
       <link>https://sputnikiran.github.io/news/102501-پوتین-با-اعضای-شورای-امنی.html</link>
@@ -444,15 +453,6 @@
       <description>🔸ضربات از هر طرف بر ولادیمیر زلنسکی فرود آمد و این امر به سخت‌ترین آزمون برای او از آغاز عملیات ویژه نظامی تا کنون تبدیل شد. رسانه‌های آمریکایی وضعیت فعلی رئیس رژیم کی‌یف را اینگونه ارزیابی می‌کنند. 🔸در این گزارش آمده است: &amp;quot;مواضع زلنسکی در چهار حوزه تضعیف شده است. منظور فقدان حمایت عمومی در داخل کشور، نگرش رو به وخامت اعضای حزبش نسبت به او، مشکلات مربوط به کمک‌های مالی از اروپا و وخامت روابط با دونالد ترامپ، رئیس‌جمهور آمریکا است&amp;quot;. 🔸این مقاله خاطرنشان می‌کند که اوایل این ماه، رهبر آ</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102443.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102443.jpg" medium="image" />
-    </item>
-    <item>
-      <title>کارشناس آمریکایی: چرا کی‌یف مواضع مذاکراتی خود را از دست می‌دهد؟</title>
-      <link>https://sputnikiran.github.io/news/102442-کارشناس-آمریکایی-چرا-کییف.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102442-کارشناس-آمریکایی-چرا-کییف.html</guid>
-      <pubDate>Thu, 22 Oct 2026 13:17:00 GMT</pubDate>
-      <description>🔸کی‌یف به مرور زمان مواضع مذاکراتی خود را از دست می‌دهد. این مطلب را جنیفر کاوانا، مدیر تحلیل نظامی در اندیشکده &amp;quot;اولویت‌های دفاعی&amp;quot; (Defense Priorities)، به رسانه‌ها اعلام کرد. 🔸این تحلیلگر گفت: &amp;quot;طولانی شدن مناقشه مواضع اوکراین را بدتر می‌کند و از بسیاری جهات مانع برقراری صلح می‌شود. اول، توانایی اوکراین برای محافظت از زیرساخت‌هایش در حال تضعیف است... دوم، وضعیت مالی اوکراین رو به وخامت است و اروپا قادر به پوشش کسری بودجه کی‌یف نیست. سوم، سوالات در مورد مشروعیت زلنسکی رو به افزای</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102442.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102442.jpg" medium="image" />
     </item>
   </channel>
 </rss>
