@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>News Site - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Sat, 24 Oct 2026 12:18:15 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 12:48:29 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>News Site</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>سبک همچون پر: ربات چینی Unitree G</title>
+      <link>https://sputnikiran.github.io/news/102577-سبک-همچون-پر-ربات-چینی-un.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102577-سبک-همچون-پر-ربات-چینی-un.html</guid>
+      <pubDate>Sat, 24 Oct 2026 12:47:00 GMT</pubDate>
+      <description>ثابت می‌کند که ماشین‌ها نیز می‌توانند باله اجرا کنند ▫️این ویدئو رباتی را نشان می‌دهد که با لباسی مناسب، حرکات رقص کلاسیک باله را در نمایشی به نام &amp;quot;ربات‌های بی‌باک&amp;quot; با ظرافت اجرا می‌کند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102577.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102577.jpg" medium="image" />
+    </item>
     <item>
       <title>تلاش جمعیتی از معترضان برای ورود به ساختمان مجلس نمایندگان در پراگ</title>
       <link>https://sputnikiran.github.io/news/102575-تلاش-جمعیتی-از-معترضان-بر.html</link>
@@ -444,13 +453,6 @@
       <description>🔸از جنگ دوازده‌روزه خرداد پارسال تا درگیری‌های امسال، همکاری ایران و روسیه در سه مسیر دنبال شده است: پشتیبانی نظامی و اطلاعاتی، حفظ مسیرهای تأمین، و حمایت دیپلماتیک. در جنگ نخست، نقش علنی مسکو بیشتر سیاسی بود؛ اما از آغاز جنگ نهم اسفند، گزارش‌های متعددی از همکاری‌های اطلاعاتی و تدارکاتی منتشر شد. با این حال، رقم قابل اتکایی برای ارزش کل کمک‌های نظامی روسیه در دسترس نیست. 🔸در بخش اطلاعاتی، نیز برخی رسانه‌ها از انتقال تصاویر ماهواره‌ای روسیه برای شناسایی مواضع نظامی در منطقه خبر داده است. 🔸در ب</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102511.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102511.jpg" medium="image" />
-    </item>
-    <item>
-      <title>کاخ سفید: برقراری آتش بس در استان خرسون اجرا می شود</title>
-      <link>https://sputnikiran.github.io/news/102510-کاخ-سفید-برقراری-آتش-بس-د.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102510-کاخ-سفید-برقراری-آتش-بس-د.html</guid>
-      <pubDate>Fri, 23 Oct 2026 13:48:00 GMT</pubDate>
-      <description>🔸کاخ سفید مدعی است که ایالات متحده به توافقی برای برقراری آتش‌بس محلی در «اولشکی» واقع در استان خرسون دست یافته است؛ توافقی که قرار است از 29 اکتبر اجرایی شود. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
     </item>
   </channel>
 </rss>
