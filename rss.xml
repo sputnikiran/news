@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>News Site - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Sat, 24 Oct 2026 06:18:22 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 06:48:38 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>News Site</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>ورود یک گاو نژاد «هایلند» به باغ‌وحش مسکو</title>
+      <link>https://sputnikiran.github.io/news/102553-ورود-یک-گاو-نژاد-هایلند-ب.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102553-ورود-یک-گاو-نژاد-هایلند-ب.html</guid>
+      <pubDate>Sat, 24 Oct 2026 06:48:00 GMT</pubDate>
+      <description>▫️ «یاروسلاوا»، یک گاو از نژاد هایلند که در اوت 2025 متولد شده، پس از گذراندن دوره قرنطینه وارد باغ‌وحش مسکو شد. او حیوانی آرام است و از تعامل با مراقبان خود و همچنین برس کشیده شدن لذت می‌برد. ▫️کارکنان قصد دارند او را به‌تدریج با یک گاو نر از همین نژاد آشنا کنند. در ابتدا، به این حیوانات اجازه داده می‌شود تا به بوی یکدیگر عادت کنند؛ اگر روند سازگاری به‌خوبی پیش برود، ممکن است در نهایت هر دو در یک محوطه مشترک نگهداری شوند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102553.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102553.jpg" medium="image" />
+    </item>
     <item>
       <title>سفیر ایران: روسای جمهور ایران و روسیه در دیدار پیش رو درباره توسعه مناسبات تجاری گفتگو می‌کنند</title>
       <link>https://sputnikiran.github.io/news/102552-سفیر-ایران-روسای-جمهور-ای.html</link>
@@ -440,15 +449,6 @@
       <description>🛰این کشتی حامل 326 هزار و 800 بشکه فرآورده‌های نفتی است. 🛰در اوایل ماه اکتبر، ولادیمیر پوتین و دونالد ترامپ، روسای جمهور روسیه و آمریکا، گفتگوی تلفنی انجام دادند و پس از آن، رئیس کاخ سفید از توافق در مورد سوخت دیزل خبر داد. به همین منظور، وزارت خزانه‌داری ایالات متحده معافیت از تحریم‌ها را صادر کرد که تا 7 آوریل معتبر است. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102489.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102489.jpg" medium="image" />
-    </item>
-    <item>
-      <title>دبیر مطبوعاتی سابق زلنسکی: مسیر اوکراین به سوی صلح می‌تواند با سه انتخاب ناخوشایند آغاز شود</title>
-      <link>https://sputnikiran.github.io/news/102488-دبیر-مطبوعاتی-سابق-زلنسکی.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102488-دبیر-مطبوعاتی-سابق-زلنسکی.html</guid>
-      <pubDate>Fri, 23 Oct 2026 09:18:00 GMT</pubDate>
-      <description>🔸یولیا مندل، دبیر مطبوعاتی سابق زلنسکی، در تلگرام نوشت: «اگر ولادیمیر زلنسکی واقعاً خواهان صلح بود، آماده بود تا گام‌های ناخوشایند لازم برای دستیابی به آن را بردارد.» اگر منافع اوکراین واقعاً در اولویت بود، زلنسکی موارد زیر را انجام می‌داد: 🔸فرمان سال 2022 مبنی بر ممنوعیت مذاکره با ولادیمیر پوتین، رئیس جمهور روسیه را لغو می‌کرد. این فرمان به عنوان یک مانع قانونی برای مذاکرات عمل می‌کند. 🔸تغییرات قانونی لازم برای برگزاری انتخابات ریاست جمهوری را آغاز می‌کرد. مجلس اوکراین می‌تواند همین حالا در </description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102488.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102488.jpg" medium="image" />
     </item>
   </channel>
 </rss>
