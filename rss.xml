@@ -5,13 +5,40 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>News Site - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Sat, 24 Oct 2026 20:18:16 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 20:48:07 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>News Site</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>تشدید اعتراضات در تیرانا و تبدیل آن به درگیری</title>
+      <link>https://sputnikiran.github.io/news/102601-تشدید-اعتراضات-در-تیرانا.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102601-تشدید-اعتراضات-در-تیرانا.html</guid>
+      <pubDate>Sat, 24 Oct 2026 20:47:00 GMT</pubDate>
+      <description>🔸امروز هزاران نفر در پایتخت آلبانی برای شرکت در تظاهراتی ضد دولتی به خیابان‌ها آمدند. در مقابل ساختمان وزارت آموزش آلبانی، معترضان شروع به پرتاب سنگ کردند و سطل‌های زباله را به آتش کشیدند. پلیس نیز با استفاده از ماشین‌های آب‌پاش و گاز اشک‌آور به این اقدام واکنش نشان داد. 🔸در ادامه، معترضان به سمت مقر «حزب سوسیالیست» حرکت کردند و به سوی این ساختمان مواد آتش‌زا (فشفشه و ترقه) پرتاب کردند. شرکت‌کنندگان همچنین در نزدیکی «بانک آلبانی» به سمت نیروهای امنیتی مواد آتش‌زا پرتاب کردند. 🔸به گفته مقامات،</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102601.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102601.jpg" medium="image" />
+    </item>
+    <item>
+      <title>سرقت در پخش زنده تلویزیونی کلمبیا ضبط شد</title>
+      <link>https://sputnikiran.github.io/news/102600-سرقت-در-پخش-زنده-تلویزیون.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102600-سرقت-در-پخش-زنده-تلویزیون.html</guid>
+      <pubDate>Sat, 24 Oct 2026 20:47:00 GMT</pubDate>
+      <description>🛰در پایتخت کلمبیا، یک خبرنگار دو بار از دست سارقان دوچرخه‌سواری که سعی داشتند تلفن همراهش را بدزدند، فرار کرد. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102600.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102600.jpg" medium="image" />
+    </item>
+    <item>
+      <title>تحلیلگر: دموکرات‌های آمریکا آماده‌اند برای ضربه زدن به ترامپ بر سر «توافق گازوئیل»، کشاورزان آمریکایی را قربانی کنند</title>
+      <link>https://sputnikiran.github.io/news/102599-تحلیلگر-دموکراتهای-آمریکا.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102599-تحلیلگر-دموکراتهای-آمریکا.html</guid>
+      <pubDate>Sat, 24 Oct 2026 20:47:00 GMT</pubDate>
+      <description>🔸دن لازار، مورخ قانون اساسی و مفسر سیاسی آمریکایی، هشدار می‌دهد که اگر دموکرات‌ها کنترل هر یک از مجالس کنگره آمریکا را به دست بگیرند، «قدرت قابل‌توجهی برای ایجاد مزاحمت دائمی برای ترامپ» خواهند داشت؛ از جمله در مورد توافق تأمین گازوئیل با روسیه. 🔸اگر مخالفان این توافق در آمریکا موفق شوند واردکنندگان را وادار کنند که از قراردادهای سوختی با روسیه عقب‌نشینی کنند، این امر می‌تواند تأثیر منفی سنگینی بر کشاورزان آمریکایی داشته باشد؛ کشاورزانی که همین حالا هم با قیمت‌های بی‌سابقه سوخت دست‌ و پنجه نرم</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102599.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102599.jpg" medium="image" />
+    </item>
     <item>
       <title>اظهارات ماسک درباره محدودیت‌های استارلینک: «ارتش اوکراین شرایط خدمات استارلینک را نقض کرده است»</title>
       <link>https://sputnikiran.github.io/news/102597-اظهارات-ماسک-درباره-محدود.html</link>
@@ -428,33 +455,6 @@
       <description>🔸به گفته ایلان ماسک، آنها در حال اجرای طرح‌هایی هستند که از طریق آنها پول مالیات‌دهندگان آمریکایی به ایالات متحده بازگردانده می‌شود و برای تأمین مالی کمپین‌های سیاسی در آنجا استفاده می‌شود. به همین دلیل…</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102534.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102534.jpg" medium="image" />
-    </item>
-    <item>
-      <title>انفجار دو سوپرنفتکش متخلف پس از برخورد با مین و رها شدن آن توسط خدمه در ساحل جنوبی تنگه هرمز</title>
-      <link>https://sputnikiran.github.io/news/102533-انفجار-دو-سوپرنفتکش-متخلف.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102533-انفجار-دو-سوپرنفتکش-متخلف.html</guid>
-      <pubDate>Fri, 23 Oct 2026 20:17:00 GMT</pubDate>
-      <description>🔸روابط عمومی نیروی دریایی سپاه اعلام کرد از ابتدای امروز دو سوپر نفتکش متخلف که تلاش کردند از مسیر غیر مجاز و جنوبی تنگه هرمز عبور کنند با برخورد به مین دریایی، موتورخانه آنها پس از انفجار و آتش سوزی شدید از کار افتاده و در جای خود متوقف شدند. 🔸این نفتکش ها در مجموع بیش از 4 میلیون و 500 هزار بشکه نفت خام حمل می کردند که پس از اصابت به مین دریایی در ساحل جنوبی تنگه هرمز رها شده و خدمه کشتی آن را ترک کرده اند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102533.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102533.jpg" medium="image" />
-    </item>
-    <item>
-      <title>تانکرهای حامل گازوئیل روسیه در مسیر سواحل شرقی اقیانوس اطلس هستند</title>
-      <link>https://sputnikiran.github.io/news/102532-تانکرهای-حامل-گازوئیل-روس.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102532-تانکرهای-حامل-گازوئیل-روس.html</guid>
-      <pubDate>Fri, 23 Oct 2026 19:48:00 GMT</pubDate>
-      <description>🔸الکساندر نواک، معاون نخست وزیر روسیه اظهار داشت که سه تانکر اول حامل سوخت گازوئیل روسیه در حال حاضر در مسیر سواحل شرقی اقیانوس اطلس هستند. 🔸نواک اظهار داشت که شرکت‌های روسی ممکن است در ماه اکتبر 500 هزار تن گازوئیل صادر کنند. 🔸وی تأکید کرد که حجم صادرات گازوئیل بر اساس تأمین کامل بازار داخلی محاسبه می‌شود. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102532.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102532.jpg" medium="image" />
-    </item>
-    <item>
-      <title>کارشناس: توافق پایدار اوکراین باید اصل امنیت غیرقابل تفکیک را در بر بگیرد</title>
-      <link>https://sputnikiran.github.io/news/102531-کارشناس-توافق-پایدار-اوکر.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102531-کارشناس-توافق-پایدار-اوکر.html</guid>
-      <pubDate>Fri, 23 Oct 2026 19:17:00 GMT</pubDate>
-      <description>🔸لورنزو ماریا پاچینی، دانشیار فلسفه سیاسی و ژئوپلیتیک در دانشگاه یونی دولومیتی در بلونو ایتالیا، به اسپوتنیک می‌گوید مذاکرات روسیه و آمریکا در مورد اوکراین به سمت بازنگری در معماری امنیتی اروپا در حال تغییر است. 🔸پاچینی استدلال می‌کند که یک توافق پس از درگیری باید بی‌طرفی کامل نظامی اوکراین را تضمین کند و عضویت در ناتو و پایگاه‌های خارجی را منتفی سازد. 🔸این کارشناس تأکید می‌کند که وقتی صحبت از اصول زیربنایی معماری امنیتی جدید اروپا می‌شود، «نقطه شروع در متونی که خود غرب امضا کرده است، منشور ا</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102531.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102531.jpg" medium="image" />
     </item>
   </channel>
 </rss>
