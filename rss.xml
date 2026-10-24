@@ -5,13 +5,40 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>News Site - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Sat, 24 Oct 2026 12:48:29 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 13:18:30 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>News Site</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>نماینده ویژه رئیس‌جمهور روسیه، «فروپاشی» بریتانیا را به کاهش تولید برق و افزایش مهاجرت مرتبط می‌داند</title>
+      <link>https://sputnikiran.github.io/news/102580-نماینده-ویژه-رئیسجمهور-رو.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102580-نماینده-ویژه-رئیسجمهور-رو.html</guid>
+      <pubDate>Sat, 24 Oct 2026 13:18:00 GMT</pubDate>
+      <description>🔸کریل دیمیتریف، نماینده ویژه رئیس‌جمهور روسیه در امور سرمایه‌گذاری و همکاری‌های اقتصادی با کشورهای خارجی، روند «فروپاشی» بریتانیا را به کاهش تولید برق در این کشور و افزایش ورود مهاجران نسبت داد. 🔸او در شبکه اجتماعی «ایکس» ، تصویری از پست کاربر دیگری درباره فروپاشی اجتماعی را بازنشر کرد. در این پست نموداری وجود داشت که نشان می‌داد سرانه تولید برق در بریتانیا نسبت به دهه 1970 کاهش یافته است. 🔸در پایین این نمودار، پاسخ ایلان ماسک نیز دیده می‌شد که با استفاده از ایموجی «هدف» — به نشانه «دقیقاً در</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102580.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102580.jpg" medium="image" />
+    </item>
+    <item>
+      <title>گزارش زنده از طوفان: گرفتار شدن خبرنگار اسپانیایی در میان موجی عظیم</title>
+      <link>https://sputnikiran.github.io/news/102579-گزارش-زنده-از-طوفان-گرفتا.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102579-گزارش-زنده-از-طوفان-گرفتا.html</guid>
+      <pubDate>Sat, 24 Oct 2026 13:17:00 GMT</pubDate>
+      <description>😲 رسانه‌های محلی دیروز جمعه (23 اکتبر) گزارش دادند که در اسپانیا، موجی غول‌پیکر گروهی فیلم‌برداری را که مشغول پوشش خبری یک طوفان بودند، در خود فرو برد. این موج از روی دیواره ساحلی عبور کرد و به مجری و فیلم‌بردار برخورد کرد. ▫️ سیگنال پخش برای لحظاتی قطع شد، اما خبرنگار اندکی بعد به سلامت به قاب تصویر بازگشت. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102579.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102579.jpg" medium="image" />
+    </item>
+    <item>
+      <title>حمله نیروهای اسرائیلی به اردوگاه پناهندگان «العروب» در شهر الخلیل، واقع در کرانه باختری</title>
+      <link>https://sputnikiran.github.io/news/102578-حمله-نیروهای-اسرائیلی-به.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102578-حمله-نیروهای-اسرائیلی-به.html</guid>
+      <pubDate>Sat, 24 Oct 2026 13:17:00 GMT</pubDate>
+      <description>🔊دولت فلسطین نسبت به تشدید چنین اقدامات اسرائیل در سراسر کرانه باختری — به‌ویژه در استان الخلیل — هشدار داده است؛ اقداماتی که شامل جابه‌جایی اجباری ساکنانِ محله‌های کامل، تخریب خانه‌ها و تأسیسات، و همچنین بستن و محاصره شهرها می‌شود. ▫️بر اساس این گزارش، از آغاز سال 2025 تاکنون، بیش از 40 هزار فلسطینی در شهرهای کرانه باختری و اردوگاه‌های پناهندگان در شمال این منطقه، ناچار به ترک خانه‌های خود شده‌اند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102578.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102578.jpg" medium="image" />
+    </item>
     <item>
       <title>سبک همچون پر: ربات چینی Unitree G</title>
       <link>https://sputnikiran.github.io/news/102577-سبک-همچون-پر-ربات-چینی-un.html</link>
@@ -426,33 +453,6 @@
       <guid isPermaLink="true">https://sputnikiran.github.io/news/102515-کاخ-سفید-برقراری-آتش-بس-د.html</guid>
       <pubDate>Fri, 23 Oct 2026 14:18:00 GMT</pubDate>
       <description>🔸کاخ سفید مدعی است که ایالات متحده به توافقی برای برقراری آتش‌بس محلی در «اولشکی» واقع در استان خرسون دست یافته است؛ توافقی که قرار است از 29 اکتبر اجرایی شود. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-    </item>
-    <item>
-      <title>مه غلیظ زرد رنگ در کالیمانتان مرکزی</title>
-      <link>https://sputnikiran.github.io/news/102513-مه-غلیظ-زرد-رنگ-در-کالیما.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102513-مه-غلیظ-زرد-رنگ-در-کالیما.html</guid>
-      <pubDate>Fri, 23 Oct 2026 14:17:00 GMT</pubDate>
-      <description>🔸مه غلیظ زردرنگ ناشی از آتش‌سوزی جنگلی همچنان پالانگکا رایا، در کالیمانتان مرکزی را پوشانده و کیفیت هوا را به سطوح خطرناک رسانده است، به طوری که شاخص کیفیت هوا (AQI) بین 365 تا 590 و غلظت PM2.5 از 250 تا 370 میکروگرم بر متر مکعب (مقدار محلی از 1000 میکروگرم بر متر مکعب فراتر رفته است) متغیر است. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102513.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102513.jpg" medium="image" />
-    </item>
-    <item>
-      <title>نماینده پارلمان اروپا: برلین به خاطر حمایت از کی‌یف سه برابر هزینه پرداخت کرد</title>
-      <link>https://sputnikiran.github.io/news/102512-نماینده-پارلمان-اروپا-برل.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102512-نماینده-پارلمان-اروپا-برل.html</guid>
-      <pubDate>Fri, 23 Oct 2026 13:48:00 GMT</pubDate>
-      <description>🔸در صورت اثبات در دادگاه دخالت کی‌یف در انفجار نورد استریم 2، این کشور ملزم به پرداخت غرامت به آلمان خواهد بود. این مطلب را تیری ماریانی، نماینده فرانسوی پارلمان اروپا، به رسانه‌ها اعلام کرد. 🔸وی گفت: &amp;quot;اگر دخالت کی‌یف در جریان محاکمه ثابت شود، برلین نمی‌تواند وانمود کند که هیچ اتفاقی نیفتاده است. حداقل، غرامت مالی لازم خواهد بود و مقامات مقصر در اوکراین باید معرفی شوند&amp;quot;. 🔸نماینده پارلمان اروپا خاطرنشان کرد که پیامدهای انفجار خطوط لوله گاز برای آلمان که ده‌ها میلیارد یورو در ساخت آن </description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102512.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102512.jpg" medium="image" />
-    </item>
-    <item>
-      <title>همکاری‌های راهبردی تهران و مسکو در بحران منطقه‌ای تا کجا پیش رفته است؟</title>
-      <link>https://sputnikiran.github.io/news/102511-همکاریهای-راهبردی-تهران-و.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102511-همکاریهای-راهبردی-تهران-و.html</guid>
-      <pubDate>Fri, 23 Oct 2026 13:48:00 GMT</pubDate>
-      <description>🔸از جنگ دوازده‌روزه خرداد پارسال تا درگیری‌های امسال، همکاری ایران و روسیه در سه مسیر دنبال شده است: پشتیبانی نظامی و اطلاعاتی، حفظ مسیرهای تأمین، و حمایت دیپلماتیک. در جنگ نخست، نقش علنی مسکو بیشتر سیاسی بود؛ اما از آغاز جنگ نهم اسفند، گزارش‌های متعددی از همکاری‌های اطلاعاتی و تدارکاتی منتشر شد. با این حال، رقم قابل اتکایی برای ارزش کل کمک‌های نظامی روسیه در دسترس نیست. 🔸در بخش اطلاعاتی، نیز برخی رسانه‌ها از انتقال تصاویر ماهواره‌ای روسیه برای شناسایی مواضع نظامی در منطقه خبر داده است. 🔸در ب</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102511.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102511.jpg" medium="image" />
     </item>
   </channel>
 </rss>
