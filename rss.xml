@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>News Site - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Sat, 24 Oct 2026 19:18:20 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 19:48:31 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>News Site</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>درگیری میان راهپیمایان و راست‌گرایان افراطی در نیس فرانسه</title>
+      <link>https://sputnikiran.github.io/news/102596-درگیری-میان-راهپیمایان-و.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102596-درگیری-میان-راهپیمایان-و.html</guid>
+      <pubDate>Sat, 24 Oct 2026 19:47:00 GMT</pubDate>
+      <description></description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102596.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102596.jpg" medium="image" />
+    </item>
     <item>
       <title>وزارت خارجه  روسیه: تا زمانی که ناتو سیاست مهار روسیه را دنبال می‌کند، گفتگو با این ائتلاف غیرممکن است</title>
       <link>https://sputnikiran.github.io/news/102595-وزارت-خارجه-روسیه-تا-زمان.html</link>
@@ -446,15 +455,6 @@
       <description>اکتبر 🔸گراسیموف اظهار داشت که نیروهای روسی به دلیل عملیات بشردوستانه در اولشکی، در منطقه خرسون «آتش‌بس» برقرار می‌کنند 🔸روسیه و اوکراین اسرای جنگی را تحت فرمول 270 در برابر 270 مبادله می‌کنند 🔸پسکوف با اظهار نظر در مورد مشارکت احتمالی اتحادیه اروپا در مذاکرات، اظهار داشت که مذاکرات برنامه‌ریزی شده برای نیمه اول نوامبر در ابوظبی به صورت سه جانبه با حضور روسیه، ایالات متحده و اوکراین برگزار خواهد شد 🔸ماسک نخبگان اوکراینی را به پولشویی پول آمریکا متهم کرد 🔸عراقچی: گفتگوها و رایزنی‌ها با روسیه </description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102530.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102530.jpg" medium="image" />
-    </item>
-    <item>
-      <title>ماسک نخبگان اوکراینی را به پولشویی پول آمریکا متهم کرد</title>
-      <link>https://sputnikiran.github.io/news/102529-ماسک-نخبگان-اوکراینی-را-ب.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102529-ماسک-نخبگان-اوکراینی-را-ب.html</guid>
-      <pubDate>Fri, 23 Oct 2026 18:17:00 GMT</pubDate>
-      <description>🔸به گفته ایلان ماسک، آنها در حال اجرای طرح‌هایی هستند که از طریق آنها پول مالیات‌دهندگان آمریکایی به ایالات متحده بازگردانده می‌شود و برای تأمین مالی کمپین‌های سیاسی در آنجا استفاده می‌شود. به همین دلیل است که می‌بینید برخی از سیاستمداران بیشتر از آمریکا به اوکراین اهمیت می‌دهند&amp;#33; 🔸ماسک در رسانه‌ اجتماعی خود نوشت: رژیم کی یف از این طریق ثروتمند می‌شود، در حالی که فرزندان شهروندان عادی در سنگرها رها می‌شوند تا بمیرند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102529.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102529.jpg" medium="image" />
     </item>
   </channel>
 </rss>
