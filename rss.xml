@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>News Site - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Sat, 24 Oct 2026 11:18:14 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 11:48:54 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>News Site</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>تقویت توانمندی‌های فضایی چین با یک پرتاب جدید</title>
+      <link>https://sputnikiran.github.io/news/102572-تقویت-توانمندیهای-فضایی-چ.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102572-تقویت-توانمندیهای-فضایی-چ.html</guid>
+      <pubDate>Sat, 24 Oct 2026 11:48:00 GMT</pubDate>
+      <description>▫️ک موشک «لانگ مارچ-4 بی» (Long March-4B) از مرکز پرتاب ماهواره «جیوچوان» (Jiuquan) به فضا پرتاب شد و شش ماهواره — متعلق به سری‌های «یائوگان-53» (Yaogan-53) و «یائوگان-56» (Yaogan-56) — را با موفقیت در مدارهای تعیین‌شده قرار داد. 🛰 این ماهواره‌ها با اهدافی همچون انجام آزمایش‌های علمی، پایش سطح زمین، ارزیابی میزان محصولات کشاورزی، و همچنین ارائه هشدارهای زودهنگام برای بلایای طبیعی و کاهش اثرات آن‌ها، به فضا فرستاده شده‌اند. 🔍 این پرتاب، ششصد و هفتاد و سومین مأموریت خانواده موشک‌های «لانگ مارچ» </description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102572.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102572.jpg" medium="image" />
+    </item>
     <item>
       <title>بیانیه سفارت روسیه در ایران در واکنش به شایعات و ادعاهای بی‌اساس درباره تخلیه کارکنان دیپلماتیک و متخصصان نیروگاه اتمی &amp;quot;بوشهر&amp;quot;</title>
       <link>https://sputnikiran.github.io/news/102571-بیانیه-سفارت-روسیه-در-ایر.html</link>
@@ -442,15 +451,6 @@
       <description>🔸انفجار در یک معدن خصوصی در شمال ترکیه منجر به کشته شدن دو معدنچی و زخمی شدن پنج نفر دیگر شد که حال دو نفر از آنها وخیم است. رسانه‌های محلی روز جمعه گزارش دادند که یک نفر همچنان در آوار معدن محبوس است. 🔸به گفته مقامات محلی، انفجار در معدن در شهر گلیک ناشی از متانول، یک گاز قابل اشتعال، بوده است. 🔸عثمان حاجی‌بکتاش‌اوغلو، فرماندار زونگولداک، گفت: «هشت نفر در تونل بودند که هفت نفر از آنها نجات یافتند. متأسفانه دو نفر از معدنچیان ما پس از انتقال به بیمارستان جان باختند.» 🔸دو نفر از معدنچیان نجات</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102506.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102506.jpg" medium="image" />
-    </item>
-    <item>
-      <title>نیروی هوایی ایالات متحده پس از از دست دادن</title>
-      <link>https://sputnikiran.github.io/news/102505-نیروی-هوایی-ایالات-متحده.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102505-نیروی-هوایی-ایالات-متحده.html</guid>
-      <pubDate>Fri, 23 Oct 2026 12:47:00 GMT</pubDate>
-      <description>هواپیما در بن‌بست با ایران، به کنگره اعلام کرد که تا سال 2035 به 1509 جنگنده آماده نبرد نیاز دارد 🛰در پاسخ، قراردادی 10 ساله با لاکهید مارتین برای 850 فروند اف-35 به امضا رسید، اما این قرارداد تنها تولید فعلی را دربرمی گیرد، در حالی که جدیدترین هواپیماها بدون مجوز رزمی همچنان زمین‌گیر هستند. عامل ایران، تسلیح مجدد را تسریع نکرده، بلکه وضعیت موجود مبهم را تثبیت کرده است. 🛰کمیک هوش مصنوعی اسپوتنیک. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102505.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102505.jpg" medium="image" />
     </item>
   </channel>
 </rss>
