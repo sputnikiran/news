@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>News Site - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Sat, 24 Oct 2026 19:48:31 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 20:18:16 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>News Site</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>اظهارات ماسک درباره محدودیت‌های استارلینک: «ارتش اوکراین شرایط خدمات استارلینک را نقض کرده است»</title>
+      <link>https://sputnikiran.github.io/news/102597-اظهارات-ماسک-درباره-محدود.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102597-اظهارات-ماسک-درباره-محدود.html</guid>
+      <pubDate>Sat, 24 Oct 2026 20:17:00 GMT</pubDate>
+      <description>🔸ایلان ماسک، مدیرعامل اسپیس‌اکس، گفت که ارتش اوکراین با استفاده از این سامانه غیرنظامی برای حملات پهپادی تهاجمی، شرایط خدمات استارلینک را نقض کرده است؛ وی افزود که این خلأ هفته گذشته برطرف شد. 🔸 ماسک تأکید کرد: «اگر استارلینک قطع شود، خط مقدم اوکراین بلافاصله فرو می‌پاشد. این یک تهدید نیست، بلکه صرفاً بیان یک واقعیت است.» 🔸او افزود که «استارشیلد» سامانه‌ای مجزا است که تحت کنترل دولت ایالات متحده آمریکا قرار دارد. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102597.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102597.jpg" medium="image" />
+    </item>
     <item>
       <title>درگیری میان راهپیمایان و راست‌گرایان افراطی در نیس فرانسه</title>
       <link>https://sputnikiran.github.io/news/102596-درگیری-میان-راهپیمایان-و.html</link>
@@ -446,15 +455,6 @@
       <description>🔸لورنزو ماریا پاچینی، دانشیار فلسفه سیاسی و ژئوپلیتیک در دانشگاه یونی دولومیتی در بلونو ایتالیا، به اسپوتنیک می‌گوید مذاکرات روسیه و آمریکا در مورد اوکراین به سمت بازنگری در معماری امنیتی اروپا در حال تغییر است. 🔸پاچینی استدلال می‌کند که یک توافق پس از درگیری باید بی‌طرفی کامل نظامی اوکراین را تضمین کند و عضویت در ناتو و پایگاه‌های خارجی را منتفی سازد. 🔸این کارشناس تأکید می‌کند که وقتی صحبت از اصول زیربنایی معماری امنیتی جدید اروپا می‌شود، «نقطه شروع در متونی که خود غرب امضا کرده است، منشور ا</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102531.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102531.jpg" medium="image" />
-    </item>
-    <item>
-      <title>رویدادهای مهم جهان تا شبانگاه</title>
-      <link>https://sputnikiran.github.io/news/102530-رویدادهای-مهم-جهان-تا-شبا.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102530-رویدادهای-مهم-جهان-تا-شبا.html</guid>
-      <pubDate>Fri, 23 Oct 2026 19:17:00 GMT</pubDate>
-      <description>اکتبر 🔸گراسیموف اظهار داشت که نیروهای روسی به دلیل عملیات بشردوستانه در اولشکی، در منطقه خرسون «آتش‌بس» برقرار می‌کنند 🔸روسیه و اوکراین اسرای جنگی را تحت فرمول 270 در برابر 270 مبادله می‌کنند 🔸پسکوف با اظهار نظر در مورد مشارکت احتمالی اتحادیه اروپا در مذاکرات، اظهار داشت که مذاکرات برنامه‌ریزی شده برای نیمه اول نوامبر در ابوظبی به صورت سه جانبه با حضور روسیه، ایالات متحده و اوکراین برگزار خواهد شد 🔸ماسک نخبگان اوکراینی را به پولشویی پول آمریکا متهم کرد 🔸عراقچی: گفتگوها و رایزنی‌ها با روسیه </description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102530.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102530.jpg" medium="image" />
     </item>
   </channel>
 </rss>
