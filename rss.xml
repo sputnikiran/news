@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>News Site - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Sat, 24 Oct 2026 13:18:30 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 13:48:45 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>News Site</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>فرانسه برای موج جدیدی از اعتراضات آماده می‌شود: آغاز درگیری‌ها با پلیس در شهر لیون</title>
+      <link>https://sputnikiran.github.io/news/102581-فرانسه-برای-موج-جدیدی-از.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102581-فرانسه-برای-موج-جدیدی-از.html</guid>
+      <pubDate>Sat, 24 Oct 2026 13:47:00 GMT</pubDate>
+      <description>▫️در جریان تظاهرات امروز 24 اکتبر، تنش‌ها در نزدیکی کارخانه سابق تنباکوی Manufacture des Tabacs در لیون تشدید شد. پلیس ضد شورش با استفاده از گاز اشک‌آور، معترضان را با خشونت…</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102581.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102581.jpg" medium="image" />
+    </item>
     <item>
       <title>نماینده ویژه رئیس‌جمهور روسیه، «فروپاشی» بریتانیا را به کاهش تولید برق و افزایش مهاجرت مرتبط می‌داند</title>
       <link>https://sputnikiran.github.io/news/102580-نماینده-ویژه-رئیسجمهور-رو.html</link>
@@ -446,13 +455,6 @@
       <description>طبقه در کنیا 🔸یک ساختمان 18 طبقه که در حال ساخت بود، در نایروبی، پایتخت کنیا، فرو ریخت. 🔸نیروهای امدادی در محل حضور دارند و مشغول پاکسازی آوار هستند. تعداد دقیق افرادی که زیر آوار گرفتار شده‌اند و آمار رسمی تلفات، در حال حاضر در دست بررسی است. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102516.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102516.jpg" medium="image" />
-    </item>
-    <item>
-      <title>کاخ سفید: برقراری آتش بس در استان خرسون اجرا می شود</title>
-      <link>https://sputnikiran.github.io/news/102515-کاخ-سفید-برقراری-آتش-بس-د.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102515-کاخ-سفید-برقراری-آتش-بس-د.html</guid>
-      <pubDate>Fri, 23 Oct 2026 14:18:00 GMT</pubDate>
-      <description>🔸کاخ سفید مدعی است که ایالات متحده به توافقی برای برقراری آتش‌بس محلی در «اولشکی» واقع در استان خرسون دست یافته است؛ توافقی که قرار است از 29 اکتبر اجرایی شود. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
     </item>
   </channel>
 </rss>
