@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>News Site - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Sun, 25 Oct 2026 18:48:23 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 19:18:14 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>News Site</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>حوثی‌ها حمله موشکی جدیدی به فرودگاه و پایگاه هوایی عربستان سعودی انجام دادند</title>
+      <link>https://sputnikiran.github.io/news/102662-حوثیها-حمله-موشکی-جدیدی-ب.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102662-حوثیها-حمله-موشکی-جدیدی-ب.html</guid>
+      <pubDate>Sun, 25 Oct 2026 19:17:00 GMT</pubDate>
+      <description>🔸یحیی سریع، سخنگوی انصارالله یمن، گفت که این گروه روز یکشنبه حمله موشکی بالستیک جدیدی را به فرودگاه بین‌المللی ملک خالد ریاض انجام داد. این حمله اندکی پس از بازگشایی این فرودگاه پس از حمله قبلی انجام شد. 🔸حوثی‌ها مدعی شدند که سه عملیات شامل ده‌ها موشک بالستیک انجام داده‌اند و همچنین آشیانه‌های هواپیما، انبارهای مهمات، مراکز کنترل پهپاد و سایر تأسیسات پایگاه هوایی ملک خالد در جنوب غربی عربستان سعودی را هدف قرار داده‌اند. 🔸عربستان سعودی از رهگیری موشک‌ها و پهپادها خبر داد، اما خسارت به تأسیسات </description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102662.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102662.jpg" medium="image" />
+    </item>
     <item>
       <title>کارشناس: دموکرات‌ها منافع آمریکایی‌ها را فدای سلطه جهانی ایالات متحده  آمریکا می‌کنند</title>
       <link>https://sputnikiran.github.io/news/102661-کارشناس-دموکراتها-منافع-آ.html</link>
@@ -450,15 +459,6 @@
       <description>🛰در پایتخت کلمبیا، یک خبرنگار دو بار از دست سارقان دوچرخه‌سواری که سعی داشتند تلفن همراهش را بدزدند، فرار کرد. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102600.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102600.jpg" medium="image" />
-    </item>
-    <item>
-      <title>تحلیلگر: دموکرات‌های آمریکا آماده‌اند برای ضربه زدن به ترامپ بر سر «توافق گازوئیل»، کشاورزان آمریکایی را قربانی کنند</title>
-      <link>https://sputnikiran.github.io/news/102599-تحلیلگر-دموکراتهای-آمریکا.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102599-تحلیلگر-دموکراتهای-آمریکا.html</guid>
-      <pubDate>Sat, 24 Oct 2026 20:47:00 GMT</pubDate>
-      <description>🔸دن لازار، مورخ قانون اساسی و مفسر سیاسی آمریکایی، هشدار می‌دهد که اگر دموکرات‌ها کنترل هر یک از مجالس کنگره آمریکا را به دست بگیرند، «قدرت قابل‌توجهی برای ایجاد مزاحمت دائمی برای ترامپ» خواهند داشت؛ از جمله در مورد توافق تأمین گازوئیل با روسیه. 🔸اگر مخالفان این توافق در آمریکا موفق شوند واردکنندگان را وادار کنند که از قراردادهای سوختی با روسیه عقب‌نشینی کنند، این امر می‌تواند تأثیر منفی سنگینی بر کشاورزان آمریکایی داشته باشد؛ کشاورزانی که همین حالا هم با قیمت‌های بی‌سابقه سوخت دست‌ و پنجه نرم</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102599.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102599.jpg" medium="image" />
     </item>
   </channel>
 </rss>
