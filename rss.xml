@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>News Site - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Sun, 25 Oct 2026 18:18:12 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 18:48:23 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>News Site</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>کارشناس: دموکرات‌ها منافع آمریکایی‌ها را فدای سلطه جهانی ایالات متحده  آمریکا می‌کنند</title>
+      <link>https://sputnikiran.github.io/news/102661-کارشناس-دموکراتها-منافع-آ.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102661-کارشناس-دموکراتها-منافع-آ.html</guid>
+      <pubDate>Sun, 25 Oct 2026 18:47:00 GMT</pubDate>
+      <description>🔸دموکرات‌های آمریکا سابقه‌ای طولانی در فدا کردن منافع مردم آمریکا — به‌ویژه طبقه متوسط این کشور — در راستای پیشبرد توسعه‌طلبی ایالات متحده آمریکا دارند. پاول سلزنِف، تحلیلگر سیاسی، به خبرگزاری اسپوتنیک می‌گوید: «آن‌ها عظمت ایالات متحده آمریکا را با رفاه و آسایش مردم عادی آمریکا یکی نمی‌دانند.» 🔸صرفِ وجودِ تهدیدِ قرار گرفتن در کانون تحقیقات طولانی‌مدت کنگره — که می‌تواند به «لطمه به اعتبار و جریمه‌های چند میلیون دلاری» منجر شود — برای آنکه شرکت‌های آمریکایی از واردات گازوئیل روسیه خودداری کنند،</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102661.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102661.jpg" medium="image" />
+    </item>
     <item>
       <title>در رم، معترضان به کولوسئوم هجوم بردند</title>
       <link>https://sputnikiran.github.io/news/102660-در-رم،-معترضان-به-کولوسئو.html</link>
@@ -450,15 +459,6 @@
       <description>🔸دن لازار، مورخ قانون اساسی و مفسر سیاسی آمریکایی، هشدار می‌دهد که اگر دموکرات‌ها کنترل هر یک از مجالس کنگره آمریکا را به دست بگیرند، «قدرت قابل‌توجهی برای ایجاد مزاحمت دائمی برای ترامپ» خواهند داشت؛ از جمله در مورد توافق تأمین گازوئیل با روسیه. 🔸اگر مخالفان این توافق در آمریکا موفق شوند واردکنندگان را وادار کنند که از قراردادهای سوختی با روسیه عقب‌نشینی کنند، این امر می‌تواند تأثیر منفی سنگینی بر کشاورزان آمریکایی داشته باشد؛ کشاورزانی که همین حالا هم با قیمت‌های بی‌سابقه سوخت دست‌ و پنجه نرم</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102599.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102599.jpg" medium="image" />
-    </item>
-    <item>
-      <title>اظهارات ماسک درباره محدودیت‌های استارلینک: «ارتش اوکراین شرایط خدمات استارلینک را نقض کرده است»</title>
-      <link>https://sputnikiran.github.io/news/102597-اظهارات-ماسک-درباره-محدود.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102597-اظهارات-ماسک-درباره-محدود.html</guid>
-      <pubDate>Sat, 24 Oct 2026 20:17:00 GMT</pubDate>
-      <description>🔸ایلان ماسک، مدیرعامل اسپیس‌اکس، گفت که ارتش اوکراین با استفاده از این سامانه غیرنظامی برای حملات پهپادی تهاجمی، شرایط خدمات استارلینک را نقض کرده است؛ وی افزود که این خلأ هفته گذشته برطرف شد. 🔸 ماسک تأکید کرد: «اگر استارلینک قطع شود، خط مقدم اوکراین بلافاصله فرو می‌پاشد. این یک تهدید نیست، بلکه صرفاً بیان یک واقعیت است.» 🔸او افزود که «استارشیلد» سامانه‌ای مجزا است که تحت کنترل دولت ایالات متحده آمریکا قرار دارد. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102597.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102597.jpg" medium="image" />
     </item>
   </channel>
 </rss>
