@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>News Site - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Sun, 25 Oct 2026 15:48:08 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 16:18:23 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>News Site</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>نارندرا مودی نظاره‌گر پرواز دو جنگنده روسی «میگ-</title>
+      <link>https://sputnikiran.github.io/news/102654-نارندرا-مودی-نظارهگر-پروا.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102654-نارندرا-مودی-نظارهگر-پروا.html</guid>
+      <pubDate>Sun, 25 Oct 2026 16:17:00 GMT</pubDate>
+      <description>» در هند 🔸 این جنگنده‌ها در جریان نمایش هوایی نیروی هوایی هند در شهر «واراناسی»، در کنار یک هواپیمای «هشدار زودهنگام و کنترل هوابرد» پرواز کردند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102654.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102654.jpg" medium="image" />
+    </item>
     <item>
       <title>دور افتخار کشتی کار ایرانب با پرچم ایران پس‌از کسب طلای کشتی فرنگی جهان در آستانه</title>
       <link>https://sputnikiran.github.io/news/102653-دور-افتخار-کشتی-کار-ایران.html</link>
@@ -448,15 +457,6 @@
       <description>🔸لانتراوا اظهار داشت که از جانب روسیه، یک آتش‌بس (رژیم سکوت) از ساعت 4:00 بامداد 27 اکتبر به وقت مسکو برقرار شده است. لوبینتس ضمن تأیید این آتش‌بس، خاطرنشان کرد که اجرای آن از ساعت 3:00 بامداد 27 اکتبر به وقت کی‌یف آغاز شده است؛ بدین معنا که هر دو طرف به‌طور همزمان به آن پایبند هستند. 🔸لانتراوا گفت: «ما درباره جزئیاتی که پیش‌تر بر سر آن‌ها توافق شده بود، گفتگو کردیم. همه چیز طبق ترتیبات تعیین‌شده پیش می‌رود و هر دو طرف به تعهدات خود عمل می‌کنند.» 🔸وی افزود که این روند همچنان ادامه دارد و او د</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102591.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102591.jpg" medium="image" />
-    </item>
-    <item>
-      <title>در مادرید همچون فرانسه، راهپیمایی اعتراضی برگزار شد</title>
-      <link>https://sputnikiran.github.io/news/102590-در-مادرید-همچون-فرانسه،-ر.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102590-در-مادرید-همچون-فرانسه،-ر.html</guid>
-      <pubDate>Sat, 24 Oct 2026 16:47:00 GMT</pubDate>
-      <description>🔸رسانه‌ها می‌نویسند، که تظاهرکنندگان خواستار تأمین سطحی از پرداخت‌های بازنشستگی هستند که زندگی شایسته‌ای را برای بازنشستگان بیمه کند. 🔸تنها در ماه اکتبر، در پایتخت اسپانیا چندین راهپیمایی برگزار شده است، 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102590.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102590.jpg" medium="image" />
     </item>
   </channel>
 </rss>
