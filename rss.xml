@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>News Site - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Sun, 25 Oct 2026 19:48:28 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 20:18:20 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>News Site</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>کارشناس: دموکرات‌ها دستورکار روسیه هراسی را بر منافع کارگران آمریکایی مقدم می‌دانند</title>
+      <link>https://sputnikiran.github.io/news/102664-کارشناس-دموکراتها-دستورکا.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102664-کارشناس-دموکراتها-دستورکا.html</guid>
+      <pubDate>Sun, 25 Oct 2026 20:17:00 GMT</pubDate>
+      <description>🔸دکتر جرمی کوزماروف، سردبیر نشریه «کاورِت اکشن» به خبرگزاری اسپوتنیک گفت: در حالی که توافق ایالات متحده آمریکا با روسیه در زمینه واردات گازوئیل — که با میانجی‌گری دونالد ترامپ حاصل شد — می‌تواند به کاهش قیمت نفت کمک کند، «روسیه هراسی» دموکرات‌ها باعث شده است که آن‌ها برای کارشکنی در این توافق تلاش کنند. 🔸او افزود: «این نمونه‌ای بارز است که نشان می‌دهد چگونه هیستری (جنون) ضد روسی و روس‌هراسی به حدی رسیده که دولت عملاً از مواضعی دفاع می‌کند که برای اقتصاد آمریکا و کارگران یا کشاورزان آمریکایی بس</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102664.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102664.jpg" medium="image" />
+    </item>
     <item>
       <title>مهم‌ترین خبرهای شامگاه</title>
       <link>https://sputnikiran.github.io/news/102663-مهمترین-خبرهای-شامگاه.html</link>
@@ -450,15 +459,6 @@
       <description>🔸این تظاهرات توسط گروه‌های مختلفی، از جمله «جنبش 17 اکتبر» که به‌تازگی تشکیل شده، سازمان‌دهی شده است. 🔸کاهش هزینه‌های زندگی، کاهش مخارج نظامی و افزایش بودجه بخش آموزش، از جمله مطالبات شرکت‌کنندگان است. 🔸در شهر رم رویدادهای متعددی در حال برگزاری است؛ از جمله یک راهپیمایی ضدجنگ با عنوان «ایتالیا را از جنگ خارج کنید» (*Fuori l’Italia dalla guerra*) که برگزارکنندگان آن انتظار حضور حدود 10 هزار نفر را داشتند. 🔸در پی ناآرامی‌های رخ‌داده در جریان تظاهرات هفته گذشته، مقامات ایتالیایی تدابیر امنیتی ر</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102602.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102602.jpg" medium="image" />
-    </item>
-    <item>
-      <title>تشدید اعتراضات در تیرانا و تبدیل آن به درگیری</title>
-      <link>https://sputnikiran.github.io/news/102601-تشدید-اعتراضات-در-تیرانا.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102601-تشدید-اعتراضات-در-تیرانا.html</guid>
-      <pubDate>Sat, 24 Oct 2026 20:47:00 GMT</pubDate>
-      <description>🔸امروز هزاران نفر در پایتخت آلبانی برای شرکت در تظاهراتی ضد دولتی به خیابان‌ها آمدند. در مقابل ساختمان وزارت آموزش آلبانی، معترضان شروع به پرتاب سنگ کردند و سطل‌های زباله را به آتش کشیدند. پلیس نیز با استفاده از ماشین‌های آب‌پاش و گاز اشک‌آور به این اقدام واکنش نشان داد. 🔸در ادامه، معترضان به سمت مقر «حزب سوسیالیست» حرکت کردند و به سوی این ساختمان مواد آتش‌زا (فشفشه و ترقه) پرتاب کردند. شرکت‌کنندگان همچنین در نزدیکی «بانک آلبانی» به سمت نیروهای امنیتی مواد آتش‌زا پرتاب کردند. 🔸به گفته مقامات،</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102601.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102601.jpg" medium="image" />
     </item>
   </channel>
 </rss>
