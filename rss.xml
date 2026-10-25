@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>News Site - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Sun, 25 Oct 2026 13:18:32 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 13:48:12 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>News Site</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>وزارت کشور فرانسه: بیش از</title>
+      <link>https://sputnikiran.github.io/news/102647-وزارت-کشور-فرانسه-بیش-از.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102647-وزارت-کشور-فرانسه-بیش-از.html</guid>
+      <pubDate>Sun, 25 Oct 2026 13:47:00 GMT</pubDate>
+      <description>نفر در جریان ناآرامی‌های بازداشت شده‌اند 🔸همچنین گزارش شده است که 53 مأمور پلیس مجروح شده‌اند. در مجموع 75 مورد آتش‌سوزی جداگانه نیز به اموال مختلف آسیب رسانده یا آن‌ها را از بین برده است. 🔸به گفته وزارت کشور، حدود 410 هزار نفر به خیابان‌ها آمدند؛ این در حالی است که اتحادیه‌های کارگری مدعی‌اند شمار شرکت‌کنندگان به ۸۰۰ هزار نفر رسیده است. 🔸این ویدیو نشان‌دهنده رویکرد به‌اصطلاح «دموکراتیک» دولت در قبال اعتراضات است. 🔸اعتراضات در فرانسه از اواسط سپتامبر آغاز شد؛ زمانی که دانش‌آموزان دبیرستانی د</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102647.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102647.jpg" medium="image" />
+    </item>
     <item>
       <title>یک دکل حفاری در سواحل گابن غرق شد</title>
       <link>https://sputnikiran.github.io/news/102646-یک-دکل-حفاری-در-سواحل-گاب.html</link>
@@ -446,15 +455,6 @@
       <description>🔸به گزارش این رسانه، ویتکاف فرستاده ویژه ترامپ به پوتین گفت که توافق مربوط به دیزل «بسیار مهم» است: «رئیس‌جمهور ترامپ عمیقاً سپاسگزار است؛ همان‌طور که کشاورزان ما، رانندگان کامیون و مردم سراسر جهان نیز قدردان هستند.» 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102584.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102584.jpg" medium="image" />
-    </item>
-    <item>
-      <title>پهپادهای رهگیر اف پی وی روسیه، پهپادهای بال‌ثابت اوکراینی را منهدم کردند</title>
-      <link>https://sputnikiran.github.io/news/102583-پهپادهای-رهگیر-اف-پی-وی-ر.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102583-پهپادهای-رهگیر-اف-پی-وی-ر.html</guid>
-      <pubDate>Sat, 24 Oct 2026 14:17:00 GMT</pubDate>
-      <description>🔸اپراتورهای یگان‌های پهپادیِ گروه «غرب» روسیه، این پهپادها را در آسمان منفجر کردند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102583.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102583.jpg" medium="image" />
     </item>
   </channel>
 </rss>
