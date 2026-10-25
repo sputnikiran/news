@@ -5,13 +5,31 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>News Site - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Sun, 25 Oct 2026 17:18:31 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 17:48:16 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>News Site</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>نمایش پهپاد چشمگیر در تگزاس</title>
+      <link>https://sputnikiran.github.io/news/102659-نمایش-پهپاد-چشمگیر-در-تگز.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102659-نمایش-پهپاد-چشمگیر-در-تگز.html</guid>
+      <pubDate>Sun, 25 Oct 2026 17:47:00 GMT</pubDate>
+      <description>🔸شرکت چینی «دامودا» با همکاری تیم آمریکایی «اسکای المنتس» در مجموع 71,207 پهپاد را در قالب هفت اجرای جداگانه به پرواز درآوردند. 🔸در یکی از این نمایش‌های خیره‌کننده، 10,183 پهپاد به‌طور هم‌زمان به آسمان برخاستند و شکل یک اژدهای عظیم را پدید آوردند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102659.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102659.jpg" medium="image" />
+    </item>
+    <item>
+      <title>کارشناس اقتصادی: گازوئیل روسیه تنها راه نجات بازار سوخت آمریکا است</title>
+      <link>https://sputnikiran.github.io/news/102658-کارشناس-اقتصادی-گازوئیل-ر.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102658-کارشناس-اقتصادی-گازوئیل-ر.html</guid>
+      <pubDate>Sun, 25 Oct 2026 17:47:00 GMT</pubDate>
+      <description>🔸صهیب نزال، کارشناس امور سیاسی و اقتصادی، به اسپوتنیک گفت که اگر دموکرات‌ها بخواهند از طریق کنگره مانع توافق بر سر تأمین گازوئیل روسیه شوند، با مقاومت شدید نهاد ریاست‌جمهوری مواجه خواهند شد. 🔸او خاطرنشان می‌کند که با توجه به شکاف عمیق داخلی در ایالات متحده، آمریکا ممکن است منافع حزبیِ مخالفانِ این توافق، بر درک نیازهای مردم عادی و مصلحت‌های اقتصادی پیشی بگیرد. 🔸نزال در پایان می‌گوید که این توافق گامی در جهت ثبات‌بخشی به بازار سوخت آمریکا است و از آنجا که گزینه دیگری وجود ندارد، مخالفان ناچار </description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102658.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102658.jpg" medium="image" />
+    </item>
     <item>
       <title>حضور</title>
       <link>https://sputnikiran.github.io/news/102657-حضور.html</link>
@@ -441,24 +459,6 @@
       <description></description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102596.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102596.jpg" medium="image" />
-    </item>
-    <item>
-      <title>وزارت خارجه  روسیه: تا زمانی که ناتو سیاست مهار روسیه را دنبال می‌کند، گفتگو با این ائتلاف غیرممکن است</title>
-      <link>https://sputnikiran.github.io/news/102595-وزارت-خارجه-روسیه-تا-زمان.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102595-وزارت-خارجه-روسیه-تا-زمان.html</guid>
-      <pubDate>Sat, 24 Oct 2026 19:17:00 GMT</pubDate>
-      <description>🔸در عین حال، مسکو همچنان برای تعامل سازنده با کشورهای غربی آمادگی دارد؛ مشروط بر اینکه چنین همکاری‌ای مبتنی بر برابری، احترام متقابل و در نظر گرفتن منافع مشروع روسیه در حوزه امنیت نظامی باشد. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102595.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102595.jpg" medium="image" />
-    </item>
-    <item>
-      <title>مهم‌ترین خبرهای شامگاه</title>
-      <link>https://sputnikiran.github.io/news/102594-مهمترین-خبرهای-شامگاه.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102594-مهمترین-خبرهای-شامگاه.html</guid>
-      <pubDate>Sat, 24 Oct 2026 19:17:00 GMT</pubDate>
-      <description>اکتبر: 🔸 لانترا‌تووا از برگزاری نشستی با بازرس حقوق بشر اوکراین در خصوص منطقه «اولشکی» خبر داد. 🔸 وزارت دفاع روسیه: نیروهای مسلح روسیه به تأسیسات زیرساختی انرژی و حمل‌ونقل که مورد استفاده نیروهای مسلح اوکراین قرار می‌گرفتند، حمله کردند. 🔸روسیه حمله تروریستی در اردن را محکوم کرد 🔸 دیمیتریف «فروپاشی» بریتانیا را به کاهش تولید انرژی و افزایش مهاجرت مرتبط دانست. 🔸سفیر ایران: روسای جمهور ایران و روسیه در دیدار پیش رو درباره توسعه مناسبات تجاری گفتگو می‌کنند. 🔸 معترضان در پاریس با استفاده از ماش</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102594.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102594.jpg" medium="image" />
     </item>
   </channel>
 </rss>
