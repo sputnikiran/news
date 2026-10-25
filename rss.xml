@@ -5,13 +5,31 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>News Site - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Sun, 25 Oct 2026 08:48:28 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 09:18:23 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>News Site</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>وزارت دفاع روسیه: پهپادهای Geran روسیه به یک پل کابلی در منطقه زاپاروژیه حمله کردند</title>
+      <link>https://sputnikiran.github.io/news/102628-وزارت-دفاع-روسیه-پهپادهای.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102628-وزارت-دفاع-روسیه-پهپادهای.html</guid>
+      <pubDate>Sun, 25 Oct 2026 09:17:00 GMT</pubDate>
+      <description>▫️اسپوتنیک تاریخچهٔ درگیری اوکراین را در اینجا برای شما گردآوری کرده است. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102628.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102628.jpg" medium="image" />
+    </item>
+    <item>
+      <title>در مقابل هرگونه جسارت به تمامیت ارضی ایران، پاسخی خارج از تصور می دهیم</title>
+      <link>https://sputnikiran.github.io/news/102627-در-مقابل-هرگونه-جسارت-به.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102627-در-مقابل-هرگونه-جسارت-به.html</guid>
+      <pubDate>Sun, 25 Oct 2026 09:17:00 GMT</pubDate>
+      <description>🗣محمدباقر قالیباف رئیس مجلس ایران: آمریکایی‌ها گمان میکنند با چند اهرم فشار رسانه‌ای یا تهدیدات نظامی می‌توانند این ملت بزرگ را تسلیم خود کنند؛ غافل از اینکه ایران امروز، ایران دوره‌ی تحقیر پهلوی نیست؛ بلکه دژ مستحکمی از خودباوری، اقتدار دفاعی و اراده‌ی پولادین است که هرگز اجازه نخواهد داد هیچ قدرت خارجی برای عزت این مرزوبوم تعیین تکلیف کند. 🗣ما مرعوب نمی‌شویم و آماده ایم تا در مقابل هرگونه جسارت به تمامیت ارضی ایران بزرگ، پاسخی خارج از تصورشان بدهیم؛ لذا تهدید به جنگ گسترده یا ترور، مسئله‌ای </description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102627.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102627.jpg" medium="image" />
+    </item>
     <item>
       <title>افسر سابق آمریکایی: اوکراین فارغ از دسترسی به «استارلینک»، در این مناقشه شکست خواهد خورد</title>
       <link>https://sputnikiran.github.io/news/102626-افسر-سابق-آمریکایی-اوکرای.html</link>
@@ -437,24 +455,6 @@
       <description>▫️به گزارش رسانه‌های محلی، در پی حمله نیروهای اسرائیلی به منطقه اطراف ورزشگاه «فلسطین» در محله «الرمال» واقع در غرب شهر غزه، یک نفر کشته و چندین تن دیگر زخمی شدند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102566.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102566.jpg" medium="image" />
-    </item>
-    <item>
-      <title>وزارت دفاع روسیه از حملات نیروهای روسیه به تأسیسات زیرساختی انرژی و حمل و نقل مورد استفاده ارتش اوکراین  خبر داد</title>
-      <link>https://sputnikiran.github.io/news/102565-وزارت-دفاع-روسیه-از-حملات.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102565-وزارت-دفاع-روسیه-از-حملات.html</guid>
-      <pubDate>Sat, 24 Oct 2026 09:48:00 GMT</pubDate>
-      <description>سایر اخبار منتشره توسط این وزارتخانه: ▫️سامانه‌های پدافند هوایی روسیه در 24 ساعت گذشته یک موشک &amp;quot;اسکالپ&amp;quot;، چهار موشک دوربرد &amp;quot;نپتون&amp;quot; و 1297 پهپاد دشمن را سرنگون کردند؛ ▫️نیروهای مسلح اوکراین در 24 ساعت گذشته در نتیجه اقدامات گروه‌های نظامی روسیه تقریباً 1190 سرباز خود را از دست دادند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102565.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102565.jpg" medium="image" />
-    </item>
-    <item>
-      <title>بادهای توفانی «چامپی» بازدیدکنندگان یک مرکز خرید در تایپه را نقش بر زمین کرد</title>
-      <link>https://sputnikiran.github.io/news/102564-بادهای-توفانی-چامپی-بازدی.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102564-بادهای-توفانی-چامپی-بازدی.html</guid>
-      <pubDate>Sat, 24 Oct 2026 09:17:00 GMT</pubDate>
-      <description>▫️ هم‌زمان با نزدیک شدن توفان «چامپی» به بخش شمال شرقی تایوان، وزش بادهای شدید باعث شد تعدادی از بازدیدکنندگان در یک مرکز خرید در پایتخت، یعنی شهر تایپه، تعادل خود را از دست داده…</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102564.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102564.jpg" medium="image" />
     </item>
   </channel>
 </rss>
