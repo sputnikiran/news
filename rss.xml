@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>News Site - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Sun, 25 Oct 2026 12:18:32 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 12:48:35 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>News Site</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>کارشناس: تحقیقات احتمالی درباره واردات گازوئیل از روسیه به کشاورزان آمریکایی لطمه می‌زند</title>
+      <link>https://sputnikiran.github.io/news/102645-کارشناس-تحقیقات-احتمالی-د.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102645-کارشناس-تحقیقات-احتمالی-د.html</guid>
+      <pubDate>Sun, 25 Oct 2026 12:47:00 GMT</pubDate>
+      <description>🛰دکتر «مک شارکاوی»، تحلیلگر سیاسی و عضو حزب جمهوری‌خواه آمریکا، به خبرگزاری اسپوتنیک گفت که تحقیقات احتمالی دموکرات‌ها درباره توافق دولت ترامپ با روسیه در زمینه واردات گازوئیل، می‌تواند موجب اختلال در تأمین سوخت ایالات متحده شود. 🛰اگرچه تحقیقات کنگره به خودی خود به معنای اعمال تحریم‌های اقتصادی نیست، اما می‌تواند منجر به کمبود سوخت در بازار شود؛ وضعیتی که به نفع اقتصاد آمریکا و مردم این کشور نخواهد بود. 🛰کشاورزان آمریکایی نخستین کسانی خواهند بود که از افزایش قیمت گازوئیل آسیب می‌بینند، اما آن</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102645.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102645.jpg" medium="image" />
+    </item>
     <item>
       <title>مسافران یک هواپیما هنگام پرواز یک موشک چینی که از یک پایگاه فضایی در چین پرتاب شده بود، پدیده &amp;quot;عروس دریایی فضایی&amp;quot; را ثبت کردند</title>
       <link>https://sputnikiran.github.io/news/102643-مسافران-یک-هواپیما-هنگام.html</link>
@@ -446,15 +455,6 @@
       <description>▫️در جریان تظاهرات امروز 24 اکتبر، تنش‌ها در نزدیکی کارخانه سابق تنباکوی Manufacture des Tabacs در لیون تشدید شد. پلیس ضد شورش با استفاده از گاز اشک‌آور، معترضان را با خشونت…</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102581.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102581.jpg" medium="image" />
-    </item>
-    <item>
-      <title>نماینده ویژه رئیس‌جمهور روسیه، «فروپاشی» بریتانیا را به کاهش تولید برق و افزایش مهاجرت مرتبط می‌داند</title>
-      <link>https://sputnikiran.github.io/news/102580-نماینده-ویژه-رئیسجمهور-رو.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102580-نماینده-ویژه-رئیسجمهور-رو.html</guid>
-      <pubDate>Sat, 24 Oct 2026 13:18:00 GMT</pubDate>
-      <description>🔸کریل دیمیتریف، نماینده ویژه رئیس‌جمهور روسیه در امور سرمایه‌گذاری و همکاری‌های اقتصادی با کشورهای خارجی، روند «فروپاشی» بریتانیا را به کاهش تولید برق در این کشور و افزایش ورود مهاجران نسبت داد. 🔸او در شبکه اجتماعی «ایکس» ، تصویری از پست کاربر دیگری درباره فروپاشی اجتماعی را بازنشر کرد. در این پست نموداری وجود داشت که نشان می‌داد سرانه تولید برق در بریتانیا نسبت به دهه 1970 کاهش یافته است. 🔸در پایین این نمودار، پاسخ ایلان ماسک نیز دیده می‌شد که با استفاده از ایموجی «هدف» — به نشانه «دقیقاً در</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102580.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102580.jpg" medium="image" />
     </item>
   </channel>
 </rss>
