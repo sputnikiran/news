@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>News Site - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Mon, 26 Oct 2026 06:50:07 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 07:18:27 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>News Site</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>سرویس امنیت فدرال روسیه: کی‌یف قصد داشت از پهپادها برای حمله به یکی از عناصر کلیدی سیستم دفاع موشکی مسکو استفاده کند</title>
+      <link>https://sputnikiran.github.io/news/102679-سرویس-امنیت-فدرال-روسیه-ک.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102679-سرویس-امنیت-فدرال-روسیه-ک.html</guid>
+      <pubDate>Mon, 26 Oct 2026 07:17:00 GMT</pubDate>
+      <description>▫️نیروهای امنیتی روسیه این حمله را خنثی کردند. سایر نکات این نقشه: ▫️دو مأمور سرویس امنیت اوکراین، که اصالتاً اهل قفقاز بودند، پهپادهای FPV و قطعات بمب را از مخفیگاه‌هایی در مناطق اسمولنسک و کالوگا دریافت کردند. ▫️قرار بود آنها پهپادها را از منطقه مسکو به پرواز درآورند و سپس آنها از راه دور از خاک اوکراین کنترل شوند. ▫️ماموران سرویس امنیت اوکراین در حین آماده‌سازی حمله دستگیر شدند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102679.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102679.jpg" medium="image" />
+    </item>
     <item>
       <title>وزارت دفاع روسیه: در حمله نیروهای مسلح اوکراین به وارونژ، دو نفر کشته و</title>
       <link>https://sputnikiran.github.io/news/102678-وزارت-دفاع-روسیه-در-حمله.html</link>
@@ -452,15 +461,6 @@
       <description>برای ادامه جنگ با هزینه‌های روزانه سنگینی روبرو خواهد بود 🔸بر اساس آمارهای وزارت دفاع اوکراین، تداوم درگیری‌ها در سال آینده مستلزم صرف حدود 479.4 میلیون دلار در هر روز خواهد بود. 🔸در اواخر سپتامبر، «رومان یرمولیچف»، معاون وزیر دارایی اوکراین، اعلام کرد که طبق برآورد وزارت دفاع، این کشور در سال آینده به 175 میلیارد دلار برای هزینه‌های نظامی نیاز دارد؛ این در حالی است که در حال حاضر تنها 100 میلیارد دلار برای این منظور بودجه‌ریزی شده است. 🔸با وجود کسری بودجه پیش‌بینی‌شده به مبلغ 37 میلیارد دلار</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102624.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102624.jpg" medium="image" />
-    </item>
-    <item>
-      <title>رسانه: به دلیل تهدید سیل پس از باران‌های شدید، نزدیک به</title>
-      <link>https://sputnikiran.github.io/news/102623-رسانه-به-دلیل-تهدید-سیل-پ.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102623-رسانه-به-دلیل-تهدید-سیل-پ.html</guid>
-      <pubDate>Sun, 25 Oct 2026 07:47:00 GMT</pubDate>
-      <description>نفر در این کشور مجبورند خانه‌های خود را ترک کنند 💦تلویزیون دولتی ژاپن گزارش داد که این بارندگی‌ها ناشی از طوفان قدرتمند چمپی است. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102623.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102623.jpg" medium="image" />
     </item>
   </channel>
 </rss>
