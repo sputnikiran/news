@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Mon, 26 Oct 2026 20:48:23 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 21:18:32 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>برج شیرینی ده متری در اینگوشتیا روسیه</title>
+      <link>https://sputnikiran.github.io/news/102743-برج-شیرینی-ده-متری-در-این.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102743-برج-شیرینی-ده-متری-در-این.html</guid>
+      <pubDate>Mon, 26 Oct 2026 21:17:00 GMT</pubDate>
+      <description>▫️این برج شیرینی غیرمعمول در 24 اکتبر به عنوان بخشی از رویدادی به مناسبت سال وحدت مردم روسیه رونمایی شد. این کیک در کنار برج معروف 100 متری کنکورد برپا شد. ▫️برای ساخت این کیک غول‌پیکر، بیش از پنج هزار &amp;quot;آجر&amp;quot; شکلاتی استفاده شده است. تقریباً 1.3 تن شکلات، بیش از 450 کیلوگرم شکر، تقریباً 380 کیلوگرم آرد و بیش از 11000 تخم مرغ استفاده شده است. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102743.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102743.jpg" medium="image" />
+    </item>
     <item>
       <title>رسانه محلی: باران‌های شدید باعث رانش زمین و سیل در پوکت، تایلند شده است</title>
       <link>https://sputnikiran.github.io/news/102740-رسانه-محلی-بارانهای-شدید.html</link>
@@ -450,15 +459,6 @@
       <description>🔶این تغییر رنگ به دلیل آتش‌سوزی‌های گسترده در جنگل‌ها و زمین‌های تورب‌زار که این منطقه را فرا گرفته، رخ داده است. وزارت بهداشت اندونزی گزارش داده است که از اواسط ماه اوت، بین 280 هزار تا بیش از 333 هزار مورد بیماری تنفسی در استان‌های تحت تأثیر این وضعیت به ثبت رسیده است؛ موضوعی که باعث شده دانش‌آموزان و ساکنان محلی خواستار اعلام وضعیت فاجعه ملی شوند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102683.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102683.jpg" medium="image" />
-    </item>
-    <item>
-      <title>باقری، معاون دبیر شورای عالی امنیت ملی ایران: ایده ایران ایجاد یک امنیت درون‌زا در غرب آسیاست</title>
-      <link>https://sputnikiran.github.io/news/102682-باقری،-معاون-دبیر-شورای-ع.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102682-باقری،-معاون-دبیر-شورای-ع.html</guid>
-      <pubDate>Mon, 26 Oct 2026 07:47:00 GMT</pubDate>
-      <description>🗣مقام‌های ارشد عربستان، ترکیه و پاکستان به تهران سفر خواهند کرد. خالد بن سلمان وزیر دفاع عربستان، ژنرال عاصم منیر فرمانده ارتش پاکستان و ابراهیم کالین رئیس دستگاه…</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102682.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102682.jpg" medium="image" />
     </item>
   </channel>
 </rss>
