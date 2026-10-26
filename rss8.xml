@@ -5,7 +5,7 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Mon, 26 Oct 2026 19:18:29 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 19:48:23 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss8.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
@@ -13,10 +13,28 @@
       <link>https://sputnikiran.github.io/news/</link>
     </image>
     <item>
+      <title>روسیه در رتبه اول ذخایر گاز طبیعی</title>
+      <link>https://sputnikiran.github.io/news/102737-روسیه-در-رتبه-اول-ذخایر-گ.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102737-روسیه-در-رتبه-اول-ذخایر-گ.html</guid>
+      <pubDate>Mon, 26 Oct 2026 19:48:23 GMT</pubDate>
+      <description>▫️یوری اوشاکوف، دستیار رئیس جمهور روسیه، به خبرنگاران گفت که علاوه بر این، روسیه در تولید گاز طبیعی رتبه دوم را دارد و دارای زیرساخت‌های توسعه‌یافته و پیشرفت‌های فناوری قابل توجهی در صنعت گاز است. ▫️وی اضافه کرد: در حال حاضر، روسیه به طور سیستماتیک به تنوع بخشیدن به منابع خود به شرق ادامه می‌دهد. در سال‌های اخیر، پایگاه منابع به طور قابل توجهی گسترش یافته، خطوط لوله گاز جدید راه‌اندازی شده و یک صنعت امیدوارکننده گاز طبیعی مایع (LNG) تأسیس شده است. ▫️اوشاکوف همچنین خاطرنشان کرد که گاز طبیعی بیشتر</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102737.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102737.jpg" medium="image" />
+    </item>
+    <item>
+      <title>اعتراضات کشاورزان تراکتور سوار، دامداران و دانشجویان در جنوب ایتالیا</title>
+      <link>https://sputnikiran.github.io/news/102735-اعتراضات-کشاورزان-تراکتور.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102735-اعتراضات-کشاورزان-تراکتور.html</guid>
+      <pubDate>Mon, 26 Oct 2026 16:48:23 GMT</pubDate>
+      <description>▫️معترضان از قیمت بالای سوخت و افزایش هزینه‌های زندگی ناراضی هستند. ▫️پیش از این، اعتصاب کامیون‌داران جنوب کشور را فرا گرفته و جاده‌ها و بنادر را مسدود کرده بود. این امر باعث اختلال در…</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102735.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102735.jpg" medium="image" />
+    </item>
+    <item>
       <title>مهمترین عناوین خبری جهان تا شامگاه</title>
       <link>https://sputnikiran.github.io/news/102734-مهمترین-عناوین-خبری-جهان.html</link>
       <guid isPermaLink="true">https://sputnikiran.github.io/news/102734-مهمترین-عناوین-خبری-جهان.html</guid>
-      <pubDate>Mon, 26 Oct 2026 19:18:29 GMT</pubDate>
+      <pubDate>Mon, 26 Oct 2026 13:48:23 GMT</pubDate>
       <description>اکتبر: ▫️اوشاکوف: ولادیمیر پوتین رئیس جمهور روسیه در این هفته 24 نشست بین المللی دوجانبه برگزار خواهد کرد. ▫️پسکوف گفت: مسکو امیدوار است که مقامات جدید صربستان برای روابط سازنده با روسیه تلاش کنند. ▫️وزارت دفاع روسیه گزارش داد که سربازان روسی در حال پاکسازی جاده های دسترسی به روزنامه اولشکی از تله های انفجاری نیروهای مسلح اوکراین هستند. ▫️زاخارووا: مقامات دیوانه کی یف در تلاشی بیهوده برای ارعاب پرسنل آن، تعداد حملات به انرژی‌گودار و نیروگاه برق زاپاروژیه را افزایش داده‌اند. ▫️پزشکیان: از هر تفاه</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102734.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102734.jpg" medium="image" />
@@ -25,7 +43,7 @@
       <title>پزشکیان تهران را به مقصد مسکو ترک کرد</title>
       <link>https://sputnikiran.github.io/news/102733-پزشکیان-تهران-را-به-مقصد.html</link>
       <guid isPermaLink="true">https://sputnikiran.github.io/news/102733-پزشکیان-تهران-را-به-مقصد.html</guid>
-      <pubDate>Mon, 26 Oct 2026 16:18:29 GMT</pubDate>
+      <pubDate>Mon, 26 Oct 2026 10:48:23 GMT</pubDate>
       <description>▫️رئیس جمهور&amp;nbsp;ایران دقایقی قبل، به منظور شرکت در اجلاس صادر کنندگان گاز راهی مسکو پایتخت روسیه شد. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102733.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102733.jpg" medium="image" />
@@ -34,7 +52,7 @@
       <title>پدیده الکتریکی، شیشه جلوی هواپیما را به منظره‌ای از نور تبدیل می‌کند</title>
       <link>https://sputnikiran.github.io/news/102732-پدیده-الکتریکی،-شیشه-جلوی.html</link>
       <guid isPermaLink="true">https://sputnikiran.github.io/news/102732-پدیده-الکتریکی،-شیشه-جلوی.html</guid>
-      <pubDate>Mon, 26 Oct 2026 13:18:29 GMT</pubDate>
+      <pubDate>Mon, 26 Oct 2026 07:48:23 GMT</pubDate>
       <description>▫️ یک نمایش نور چشمگیر، شیشه جلوی یک هواپیما را در طول پرواز به استرالیا روشن کرد. ▫️ این پدیده که به عنوان آتش سنت المو شناخته می‌شود، زمانی رخ می‌دهد که یک میدان الکتریکی شدید باعث تخلیه الکتریکی می‌شود که هوا را به تابش نور، شبیه به عملکرد یک لامپ نئون، وا می‌دارد. ▫️ نام آن از سنت دریانوردی سرچشمه می‌گیرد، زمانی که ملوانان نورهای مشاهده شده روی دکل کشتی‌ها را با سنت المو، قدیس حامی خود، مرتبط می‌دانستند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102732.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102732.jpg" medium="image" />
@@ -43,7 +61,7 @@
       <title>رئیس ستاد کل نیروهای مسلح ایران: هیچ شناور متخلفی امنیت ندارد</title>
       <link>https://sputnikiran.github.io/news/102730-رئیس-ستاد-کل-نیروهای-مسلح.html</link>
       <guid isPermaLink="true">https://sputnikiran.github.io/news/102730-رئیس-ستاد-کل-نیروهای-مسلح.html</guid>
-      <pubDate>Mon, 26 Oct 2026 10:18:29 GMT</pubDate>
+      <pubDate>Mon, 26 Oct 2026 04:48:23 GMT</pubDate>
       <description>▫️سرلشکر عبداللهی اظهار داشت: نیروهای دریایی و زمینی سپاه نسبت به سواحل خلیج فارس، جزایر و تنگه هرمز تسلط و اشراف کامل دارند و هرگونه تردد در این منطقه تحت مراقبت جدی قرار دارد. او اعلام کرد برخلاف ادعاهای تبلیغاتی و رسانه‌ای سران آمریکا مبنی بر باز و آزاد بودن تنگه هرمز، این آبراه راهبردی کاملاً بسته است و با تسلط و نظارت نیروی دریایی قدرتمند سپاه مدیریت می‌شود. ▫️سرلشکر عبداللهی در بازدید از سواحل دریای عمان نیز اعلام نمود: نیروهای دریایی و زمینی ارتش ضمن برخورداری از آمادگی و روحیه بالا، نسبت</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102730.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102730.jpg" medium="image" />
@@ -52,7 +70,7 @@
       <title>نابودی سنگرها و پهپادهای نیروهای مسلح اوکراین توسط ارتش روسیه</title>
       <link>https://sputnikiran.github.io/news/102728-نابودی-سنگرها-و-پهپادهای.html</link>
       <guid isPermaLink="true">https://sputnikiran.github.io/news/102728-نابودی-سنگرها-و-پهپادهای.html</guid>
-      <pubDate>Mon, 26 Oct 2026 07:18:29 GMT</pubDate>
+      <pubDate>Mon, 26 Oct 2026 01:48:23 GMT</pubDate>
       <description>🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102728.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102728.jpg" medium="image" />
@@ -61,28 +79,10 @@
       <title>مسکو: کی یف حملات به نیروگاه هسته‌ای زاپاروژیه را در تلاشی بیهوده برای ارعاب پرسنل آن افزایش داده‌ است</title>
       <link>https://sputnikiran.github.io/news/102727-مسکو-کی-یف-حملات-به-نیروگ.html</link>
       <guid isPermaLink="true">https://sputnikiran.github.io/news/102727-مسکو-کی-یف-حملات-به-نیروگ.html</guid>
-      <pubDate>Mon, 26 Oct 2026 04:18:29 GMT</pubDate>
+      <pubDate>Sun, 25 Oct 2026 22:48:23 GMT</pubDate>
       <description>▫️ماریا زاخارووا سخنگوی وزارت خارجه روسیه در سخنانی اظهار داشت: هدف زلنسکی و حکومت نظامی او افزایش تعداد تلفات و ایجاد یک منطقه آلوده به تشعشعات رادیواکتیو در زاپاروژیه است. ▫️این دیپلمات خاطرنشان کرد، در همین حال، آژانس بین‌المللی انرژی اتمی با احتیاط بسیار به تحریکات کی یف علیه نیروگاه هسته‌ای زاپاروژیه واکنش نشان می‌دهد، بدون اینکه متوجه باشد چنین نگرشی می‌تواند به فاجعه منجر شود. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102727.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102727.jpg" medium="image" />
-    </item>
-    <item>
-      <title>اعتراض رانندگان تاکسی در رم به افزایش قیمت سوخت</title>
-      <link>https://sputnikiran.github.io/news/102724-اعتراض-رانندگان-تاکسی-در.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102724-اعتراض-رانندگان-تاکسی-در.html</guid>
-      <pubDate>Mon, 26 Oct 2026 01:18:29 GMT</pubDate>
-      <description>▫️این اعتراض در مقابل وزارت زیرساخت و حمل و نقل ایتالیا برگزار می‌شود و حدود صد نفر در آن شرکت دارند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102724.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102724.jpg" medium="image" />
-    </item>
-    <item>
-      <title>نشست چهارجانبه ایران، پاکستان، ترکیه، عربستان</title>
-      <link>https://sputnikiran.github.io/news/102723-نشست-چهارجانبه-ایران،-پاک.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102723-نشست-چهارجانبه-ایران،-پاک.html</guid>
-      <pubDate>Sun, 25 Oct 2026 22:18:29 GMT</pubDate>
-      <description>▫️نشست چهارجانبه مقامات ارشد ایران، پاکستان، ترکیه، عربستان درباره امنیت و ثبات منطقه‌ای امروز به میزبانی تهران در حال برگزاری است. ▫️محسن رضایی، دبیر شورای عالی امنیت ملی ایران، خالد بن سلمان، وزیر دفاع عربستان،…</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102723.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102723.jpg" medium="image" />
     </item>
   </channel>
 </rss>
