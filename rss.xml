@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Mon, 26 Oct 2026 17:48:19 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 18:19:36 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>رئیس ستاد کل نیروهای مسلح ایران: هیچ شناور متخلفی امنیت ندارد</title>
+      <link>https://sputnikiran.github.io/news/102730-رئیس-ستاد-کل-نیروهای-مسلح.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102730-رئیس-ستاد-کل-نیروهای-مسلح.html</guid>
+      <pubDate>Mon, 26 Oct 2026 18:18:00 GMT</pubDate>
+      <description>▫️سرلشکر عبداللهی اظهار داشت: نیروهای دریایی و زمینی سپاه نسبت به سواحل خلیج فارس، جزایر و تنگه هرمز تسلط و اشراف کامل دارند و هرگونه تردد در این منطقه تحت مراقبت جدی قرار دارد. او اعلام کرد برخلاف ادعاهای تبلیغاتی و رسانه‌ای سران آمریکا مبنی بر باز و آزاد بودن تنگه هرمز، این آبراه راهبردی کاملاً بسته است و با تسلط و نظارت نیروی دریایی قدرتمند سپاه مدیریت می‌شود. ▫️سرلشکر عبداللهی در بازدید از سواحل دریای عمان نیز اعلام نمود: نیروهای دریایی و زمینی ارتش ضمن برخورداری از آمادگی و روحیه بالا، نسبت</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102730.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102730.jpg" medium="image" />
+    </item>
     <item>
       <title>نابودی سنگرها و پهپادهای نیروهای مسلح اوکراین توسط ارتش روسیه</title>
       <link>https://sputnikiran.github.io/news/102728-نابودی-سنگرها-و-پهپادهای.html</link>
@@ -452,15 +461,6 @@
       <description>🔸به گزارش رسانه‌های غربی، ائتلاف عربی به رهبری عربستان سعودی علیه جنبش انصارالله یمن (حوثی‌ها) از انهدام پنج انبار موشک بالستیک حوثی‌ها و چهار پرتابگر موشک خبر داد. 🔸این ائتلاف برای خنثی کردن منابع تهدید، عملیاتی نظامی علیه اهداف حوثی‌ها در یمن انجام داد. 🔸درگیری نظامی بین حوثی‌ها و ارتش طرفدار دولت تحت حمایت عربستان سعودی در اواسط ماه ژوئیه پس از یک وقفه چهار ساله از سر گرفته شد. در این مدت، حوثی‌ها موفق شدند کل ساحل غربی دریای سرخ و شهرهای نزدیک تنگه باب المندب را تصرف کنند. 🛰 Sputnik Iran</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102672.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102672.jpg" medium="image" />
-    </item>
-    <item>
-      <title>لولا دا سیلوا در انتخابات ریاست جمهوری برزیل پیروز شد</title>
-      <link>https://sputnikiran.github.io/news/102671-لولا-دا-سیلوا-در-انتخابات.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102671-لولا-دا-سیلوا-در-انتخابات.html</guid>
-      <pubDate>Mon, 26 Oct 2026 05:18:00 GMT</pubDate>
-      <description>🔸سیلوا 51.75 درصد آرا را به دست آورد، در حالی که فلاویو بولسونارو، سیاستمدار راست‌گرا، 48.25 درصد آرا را به دست آورد. 🔸فلاویو بولسونارو، رقیب دا سیلوا، سیاستمدار راست‌گرا، از پذیرش نتایج خودداری کرد و قصد خود را برای لغو آنها ابراز داشت. 🔸روز یکشنبه، دور دوم انتخابات ریاست جمهوری برزیل برگزار شد. فلاویو بولسونارو، پسر ژایر بولسونارو، رهبر سابق، و لوئیز ایناسیو لولا دا سیلوا، رئیس جمهور فعلی، رقبای اصلی بودند. دا سیلوا که فردا 81 ساله می‌شود، برای چهارمین بار رهبری برزیل را بر عهده خواهد گرفت.</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102671.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102671.jpg" medium="image" />
     </item>
   </channel>
 </rss>
