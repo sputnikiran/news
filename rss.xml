@@ -5,13 +5,40 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>News Site - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Mon, 26 Oct 2026 07:48:41 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 08:18:30 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>News Site</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>بقائی: نیروهای مسلح ایران با هوشیاری کامل تمام تحولات منطقه را رصد می‌کنند</title>
+      <link>https://sputnikiran.github.io/news/102686-بقائی-نیروهای-مسلح-ایران.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102686-بقائی-نیروهای-مسلح-ایران.html</guid>
+      <pubDate>Mon, 26 Oct 2026 08:17:00 GMT</pubDate>
+      <description>🗣سخنگوی وزارت امور خارجه ایران: رقابت‌های سیاسی رژیم صهیونیستی مسابقه‌ای برای ارتکاب جنایت بیشتر است. تحلیل ساختار انتخابات و رفتارهای متجاوزانه رژیم صهیونیستی نشان می‌دهد که تغییر چهره‌ها و رفت‌وآمد گروه‌های مختلف در آن رژیم ماهیت خبیث و جنایتکارانه آن‌ها را تغییر نمی‌دهد. 🗣تجربه هشتاد ساله نسل‌کشی و تجاوز در فلسطین اثبات کرده است که رقابت‌های سیاسی در آن رژیم صرفاً مسابقه‌ای برای ارتکاب جنایت بیشتر و کشتار مردم بی‌گناه است. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102686.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102686.jpg" medium="image" />
+    </item>
+    <item>
+      <title>پزشکیان امشب به روسیه می‌رود</title>
+      <link>https://sputnikiran.github.io/news/102685-پزشکیان-امشب-به-روسیه-میر.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102685-پزشکیان-امشب-به-روسیه-میر.html</guid>
+      <pubDate>Mon, 26 Oct 2026 08:17:00 GMT</pubDate>
+      <description>🔸رئیس‌جمهور ایران قرار است امشب به‌منظور شرکت در اجلاس سران کشورهای صادرکننده گاز به روسیه سفر کند. 🔸صبح فردا اجلاس در مسکو برگزار می‌شود و پزشکیان از سخنرانان این نشست خواهد بود. دیدار با سران برخی کشورهای حاضر در اجلاس نیز از برنامه‌های احتمالی سفر پزشکیان خواهد بود. 🔸سفر رئیس‌جمهور یک‌روزه است. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102685.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102685.jpg" medium="image" />
+    </item>
+    <item>
+      <title>آسمانِ «پالانکا رایا» در منطقه کالیمانتان مرکزیِ اندونزی به رنگ‌های نگران‌کننده‌ای همچون نارنجی، قرمز و زرد درآمده است</title>
+      <link>https://sputnikiran.github.io/news/102683-آسمانِ-پالانکا-رایا-در-من.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102683-آسمانِ-پالانکا-رایا-در-من.html</guid>
+      <pubDate>Mon, 26 Oct 2026 08:17:00 GMT</pubDate>
+      <description>🔶این تغییر رنگ به دلیل آتش‌سوزی‌های گسترده در جنگل‌ها و زمین‌های تورب‌زار که این منطقه را فرا گرفته، رخ داده است. وزارت بهداشت اندونزی گزارش داده است که از اواسط ماه اوت، بین 280 هزار تا بیش از 333 هزار مورد بیماری تنفسی در استان‌های تحت تأثیر این وضعیت به ثبت رسیده است؛ موضوعی که باعث شده دانش‌آموزان و ساکنان محلی خواستار اعلام وضعیت فاجعه ملی شوند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102683.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102683.jpg" medium="image" />
+    </item>
     <item>
       <title>باقری، معاون دبیر شورای عالی امنیت ملی ایران: ایده ایران ایجاد یک امنیت درون‌زا در غرب آسیاست</title>
       <link>https://sputnikiran.github.io/news/102682-باقری،-معاون-دبیر-شورای-ع.html</link>
@@ -434,33 +461,6 @@
       <description>🛰به گزارش خبرنگار اسپوتنیک در تهران، احمد راستینه، عضو کمیسیون فرهنگی مجلس شورای اسلامی، با اشاره به نمایش ایثار پزشکان و پرستاران در فیلم «آناتومی یک شب» و بازتاب پیوند میان دفاع مقدس و جنگ رمضان در برخی آثار جشنواره، بر ظرفیت سینمای کوتاه برای روایت تجربه‌های انسانی و شناسایی استعدادهای تازه تأکید کرد. 🛰در چهل‌وسومین جشنواره بین‌المللی فیلم کوتاه تهران، پویش «وطن به روایت من» فرصتی برای بازخوانی تجربه جنگ از دریچه زندگی مردم فراهم کرده است؛ رویکردی که به‌جای تمرکز صرف بر میدان نبرد و رویداده</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102630.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102630.jpg" medium="image" />
-    </item>
-    <item>
-      <title>پوتین: مقصر دانستن روسیه در ناآرامی‌های اروپا، زیاده‌روی آشکار است</title>
-      <link>https://sputnikiran.github.io/news/102629-پوتین-مقصر-دانستن-روسیه-د.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102629-پوتین-مقصر-دانستن-روسیه-د.html</guid>
-      <pubDate>Sun, 25 Oct 2026 09:47:00 GMT</pubDate>
-      <description>🛰اظهارات کلیدی رئیس‌جمهور روسیه: 💬اتهام‌زنی مبنی بر اینکه روسیه ناآرامی‌ها را در اروپا سازماندهی می‌کند، نشان‌دهنده ضعف سیاستمداران اروپایی است. 💬پوتین اذعان کرد که از مقصر دانستن آمریکا در اعتراضات اروپا تعجب کرده است: «انتظار نداشتم آن‌ها این‌گونه به متحد اصلی خود حمله کنند.» 💬در خصوص اتهامات علیه روسیه: «این هیچ چیز غیرمنتظره‌ای نیست؛ روسیه همیشه به خاطر تمام گناهان کبیره مقصر شناخته شده است.» 💬آن‌ها پس از مقصر دانستن آمریکا در ناآرامی‌ها، به‌سرعت به خود آمدند و به اتهامات همیشگی علیه رو</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102629.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102629.jpg" medium="image" />
-    </item>
-    <item>
-      <title>وزارت دفاع روسیه: پهپادهای Geran روسیه به یک پل کابلی در منطقه زاپاروژیه حمله کردند</title>
-      <link>https://sputnikiran.github.io/news/102628-وزارت-دفاع-روسیه-پهپادهای.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102628-وزارت-دفاع-روسیه-پهپادهای.html</guid>
-      <pubDate>Sun, 25 Oct 2026 09:17:00 GMT</pubDate>
-      <description>▫️اسپوتنیک تاریخچهٔ درگیری اوکراین را در اینجا برای شما گردآوری کرده است. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102628.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102628.jpg" medium="image" />
-    </item>
-    <item>
-      <title>در مقابل هرگونه جسارت به تمامیت ارضی ایران، پاسخی خارج از تصور می دهیم</title>
-      <link>https://sputnikiran.github.io/news/102627-در-مقابل-هرگونه-جسارت-به.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102627-در-مقابل-هرگونه-جسارت-به.html</guid>
-      <pubDate>Sun, 25 Oct 2026 09:17:00 GMT</pubDate>
-      <description>🗣محمدباقر قالیباف رئیس مجلس ایران: آمریکایی‌ها گمان میکنند با چند اهرم فشار رسانه‌ای یا تهدیدات نظامی می‌توانند این ملت بزرگ را تسلیم خود کنند؛ غافل از اینکه ایران امروز، ایران دوره‌ی تحقیر پهلوی نیست؛ بلکه دژ مستحکمی از خودباوری، اقتدار دفاعی و اراده‌ی پولادین است که هرگز اجازه نخواهد داد هیچ قدرت خارجی برای عزت این مرزوبوم تعیین تکلیف کند. 🗣ما مرعوب نمی‌شویم و آماده ایم تا در مقابل هرگونه جسارت به تمامیت ارضی ایران بزرگ، پاسخی خارج از تصورشان بدهیم؛ لذا تهدید به جنگ گسترده یا ترور، مسئله‌ای </description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102627.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102627.jpg" medium="image" />
     </item>
   </channel>
 </rss>
