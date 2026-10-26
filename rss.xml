@@ -5,13 +5,40 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>News Site - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Mon, 26 Oct 2026 09:18:39 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 09:48:15 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>News Site</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>بقائی: آمریکا مفهوم مذاکره را با دیکته‌کردن رویکردهای خصمانه اشتباه گرفته است</title>
+      <link>https://sputnikiran.github.io/news/102696-بقائی-آمریکا-مفهوم-مذاکره.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102696-بقائی-آمریکا-مفهوم-مذاکره.html</guid>
+      <pubDate>Mon, 26 Oct 2026 09:47:00 GMT</pubDate>
+      <description>🗣سخنگوی وزارت امور خارجه ایران: رویکرد جمهوری اسلامی ایران در قبال دیپلماسی کاملاً شفاف، منطقی و مبتنی بر عمل‌گرایی مقتدرانه است. 🗣طرف آمریکایی در طول دو سال گذشته نشان داده که مفهومی به نام «مذاکره» را با «دیکته‌کردن خواسته یک‌طرفه» اشتباه گرفته است. 🗣اعلام پیام‌های مذاکره تنها نیم‌ساعت پیش از تجاوز نظامی 23 خرداد و نقض یادداشت تفاهم اسلام‌آباد تنها سه هفته پس از امضای آن توسط رئیس‌جمهور فعلی آمریکا، اثبات می‌کند که واشنگتن هیچ حسن‌نیت و جدیت منطقی در فرایند دیپلماسی ندارد. 🗣ایران هرگز پنجر</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102696.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102696.jpg" medium="image" />
+    </item>
+    <item>
+      <title>رسانه محلی: باران‌های شدید باعث رانش زمین و سیل در پوکت، تایلند شده است</title>
+      <link>https://sputnikiran.github.io/news/102695-رسانه-محلی-بارانهای-شدید.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102695-رسانه-محلی-بارانهای-شدید.html</guid>
+      <pubDate>Mon, 26 Oct 2026 09:47:00 GMT</pubDate>
+      <description>💦جریان آب، گل و لای و سنگ به ساختمان‌ها آسیب رسانده و خیابان‌ها را آب گرفته است. ویترین چندین مغازه شکسته و ده‌ها خودرو آسیب دیده‌اند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102695.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102695.jpg" medium="image" />
+    </item>
+    <item>
+      <title>بقائی: واقعیت‌های میدانی، توهمات و ادعاهای بی‌اساس دشمنان را باطل می‌سازد</title>
+      <link>https://sputnikiran.github.io/news/102694-بقائی-واقعیتهای-میدانی،-ت.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102694-بقائی-واقعیتهای-میدانی،-ت.html</guid>
+      <pubDate>Mon, 26 Oct 2026 09:47:00 GMT</pubDate>
+      <description>🗣سخنگوی وزارت امور خارجه ایران: جمهوری اسلامی ایران حامی منافع و امنیت ملی خویش است و تصمیمی خارج از این چارچوب اتخاذ نخواهد کرد. 🗣عامل اصلی جهش قیمت جهانی نفت و اختلال در امنیت دریانوردی، اقدامات تجاوزکارانه، ناامن‌سازی تنگه هرمز و رفتارهای فرادولتی و انحرافی آمریکا است. 🗣سران واشنگتن که پیش‌تر به رفتارهای دزدان دریایی در تصاحب کشتی‌ها اذعان کرده‌اند، امروز علت اصلی فشار بر اقتصاد جهانی و مردم خود هستند. 🗣تکذیب جنایات علیه ملت‌های منطقه و انتساب آن‌ها به تصویرسازی‌های مصنوعی، ناشی از توهمات</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102694.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102694.jpg" medium="image" />
+    </item>
     <item>
       <title>بقائی: ایران با حسن‌نیت کامل به تمام تعهدات بین‌المللی خود عمل می‌کند</title>
       <link>https://sputnikiran.github.io/news/102693-بقائی-ایران-با-حسننیت-کام.html</link>
@@ -434,33 +461,6 @@
       <description>خواهد بود 🏋️‍♂️فدراسیون بین‌المللی وزنه‌برداری (IWF) تصمیم گرفته است که این مسابقات را در پایتخت روسیه برگزار کند. تاریخ دقیق مسابقات مسکو و تعداد شرکت‌کنندگان هنوز مشخص نیست. 🏋️‍♂️برای اولین بار از سال 2022، روسیه حق میزبانی یک رقابت بین‌المللی در یک رشته المپیکی را دریافت کرده است. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102642.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102642.jpg" medium="image" />
-    </item>
-    <item>
-      <title>پوتین: مقصر دانستن روسیه در ناآرامی‌های اروپا، زیاده‌روی آشکار است</title>
-      <link>https://sputnikiran.github.io/news/102641-پوتین-مقصر-دانستن-روسیه-د.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102641-پوتین-مقصر-دانستن-روسیه-د.html</guid>
-      <pubDate>Sun, 25 Oct 2026 11:48:00 GMT</pubDate>
-      <description>🛰اظهارات کلیدی رئیس‌جمهور روسیه: 💬اتهام‌زنی مبنی بر اینکه روسیه ناآرامی‌ها را در اروپا سازماندهی می‌کند، نشان‌دهنده ضعف سیاستمداران اروپایی است. 💬پوتین اذعان کرد که از مقصر دانستن آمریکا…</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102641.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102641.jpg" medium="image" />
-    </item>
-    <item>
-      <title>یک قطار پرسرعت به یک جرثقیل برخورد کرد که باعث سقوط آن روی یک مونوریل در سائوپائولو، برزیل شد</title>
-      <link>https://sputnikiran.github.io/news/102640-یک-قطار-پرسرعت-به-یک-جرثق.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102640-یک-قطار-پرسرعت-به-یک-جرثق.html</guid>
-      <pubDate>Sun, 25 Oct 2026 11:48:00 GMT</pubDate>
-      <description>🔶سپس جرثقیل روی یک بزرگراه شلوغ پر از ماشین سقوط کرد. مجروحان تحت درمان قرار گرفتند، این حادثه تلفات جانی نداشت. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102640.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102640.jpg" medium="image" />
-    </item>
-    <item>
-      <title>به‌روزرسانی وزارت دفاع روسیه: پیشروی‌های چشمگیر و تلفات سنگین اوکراین</title>
-      <link>https://sputnikiran.github.io/news/102639-بهروزرسانی-وزارت-دفاع-روس.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102639-بهروزرسانی-وزارت-دفاع-روس.html</guid>
-      <pubDate>Sun, 25 Oct 2026 11:18:00 GMT</pubDate>
-      <description>▫️ارتش روسیه زیرساخت‌های انرژی و حمل‌ونقل مورد استفاده نیروهای اوکراینی را به‌شدت هدف قرار داد. ▫️برتری در پدافند هوایی: 1072 پهپاد سرنگون شدند؛ از آغاز درگیری تاکنون بیش از 270 هزار پهپاد منهدم شده‌اند. ▫️تلفات اوکراین: حدود 1145 سرباز کشته یا زخمی شدند. ▫️اسپوتنیک تاریخچهٔ درگیری اوکراین را در اینجا برای شما گردآوری کرده است. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102639.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102639.jpg" medium="image" />
     </item>
   </channel>
 </rss>
