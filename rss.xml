@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Mon, 26 Oct 2026 18:48:49 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 19:18:29 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>مهمترین عناوین خبری جهان تا شامگاه</title>
+      <link>https://sputnikiran.github.io/news/102734-مهمترین-عناوین-خبری-جهان.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102734-مهمترین-عناوین-خبری-جهان.html</guid>
+      <pubDate>Mon, 26 Oct 2026 19:17:00 GMT</pubDate>
+      <description>اکتبر: ▫️اوشاکوف: ولادیمیر پوتین رئیس جمهور روسیه در این هفته 24 نشست بین المللی دوجانبه برگزار خواهد کرد. ▫️پسکوف گفت: مسکو امیدوار است که مقامات جدید صربستان برای روابط سازنده با روسیه تلاش کنند. ▫️وزارت دفاع روسیه گزارش داد که سربازان روسی در حال پاکسازی جاده های دسترسی به روزنامه اولشکی از تله های انفجاری نیروهای مسلح اوکراین هستند. ▫️زاخارووا: مقامات دیوانه کی یف در تلاشی بیهوده برای ارعاب پرسنل آن، تعداد حملات به انرژی‌گودار و نیروگاه برق زاپاروژیه را افزایش داده‌اند. ▫️پزشکیان: از هر تفاه</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102734.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102734.jpg" medium="image" />
+    </item>
     <item>
       <title>پزشکیان تهران را به مقصد مسکو ترک کرد</title>
       <link>https://sputnikiran.github.io/news/102733-پزشکیان-تهران-را-به-مقصد.html</link>
@@ -452,15 +461,6 @@
       <description>🔸به گزارش رسانه محلی، پس از آنکه فهرست دانشجویی، ائتلاف رئیس جمهور سابق، الکساندر ووچیچ، را در انتخابات پارلمانی شکست داد، جشن و پایکوبی در مرکز بلگراد آغاز شد. 🔸تصاویر، خودروهای در حال سوختن را نشان می‌دهد، به خودروهای پلیس اشیاء پرتاب شده و شیشه‌های آنها شکسته شده است. چادرها و مبلمان اردوگاه سابق طرفداران دولت در نزدیکی ریاست جمهوری نیز به آتش کشیده شده است. 🔸شاهدان عینی برخی از صحنه‌های بیرون پارلمان را در مرز شورش توصیف کردند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102675.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102675.jpg" medium="image" />
-    </item>
-    <item>
-      <title>رسانه: کشتی کروز «مین شیف</title>
-      <link>https://sputnikiran.github.io/news/102674-رسانه-کشتی-کروز-مین-شیف.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102674-رسانه-کشتی-کروز-مین-شیف.html</guid>
-      <pubDate>Mon, 26 Oct 2026 06:17:00 GMT</pubDate>
-      <description>» هنگام پهلوگیری در بندر برمرهافن در شمال آلمان با یک کشتی کانتینری برخورد کرد 🔸به گفته رسانه آلمانی، این برخورد به بدنه کشتی کانتینری آسیب رساند و شکافی به طول تقریبی 10 متر ایجاد کرد. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102674.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102674.jpg" medium="image" />
     </item>
   </channel>
 </rss>
