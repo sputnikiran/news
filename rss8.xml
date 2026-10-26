@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>News Site</title>
+    <title>Sputnik Iran</title>
     <link>https://sputnikiran.github.io/news/</link>
-    <description>News Site - последние новости и публикации.</description>
+    <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Mon, 26 Oct 2026 13:56:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 14:00:27 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss8.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
-      <title>News Site</title>
+      <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
     <item>
       <title>نشست چهارجانبه ایران، پاکستان، ترکیه، عربستان</title>
       <link>https://sputnikiran.github.io/news/102711-نشست-چهارجانبه-ایران،-پاک.html</link>
       <guid isPermaLink="true">https://sputnikiran.github.io/news/102711-نشست-چهارجانبه-ایران،-پاک.html</guid>
-      <pubDate>Mon, 26 Oct 2026 13:56:00 GMT</pubDate>
+      <pubDate>Mon, 26 Oct 2026 14:00:27 GMT</pubDate>
       <description>▫️نشست چهارجانبه مقامات ارشد ایران، پاکستان، ترکیه، عربستان درباره امنیت و ثبات منطقه‌ای امروز به میزبانی تهران در حال برگزاری است. ▫️محسن رضایی، دبیر شورای عالی امنیت ملی ایران، خالد بن سلمان، وزیر دفاع عربستان، عاصم منیر، فرمانده ارتش پاکستان و همچنین ابراهیم کالین، رئیس سازمان اطلاعاتی ترکیه در این نشست حضور دارند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102711.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102711.jpg" medium="image" />
@@ -25,7 +25,7 @@
       <title>کشتی فرنگی ایران بر بام دنیا ایستاد</title>
       <link>https://sputnikiran.github.io/news/102710-کشتی-فرنگی-ایران-بر-بام-د.html</link>
       <guid isPermaLink="true">https://sputnikiran.github.io/news/102710-کشتی-فرنگی-ایران-بر-بام-د.html</guid>
-      <pubDate>Mon, 26 Oct 2026 10:56:00 GMT</pubDate>
+      <pubDate>Mon, 26 Oct 2026 11:00:27 GMT</pubDate>
       <description>▫️ تیم ملی کشتی فرنگی ایران در فاصله یک روز تا پایان مسابقات قهرمانی جهان، عنوان قهرمانی این مسابقات را کسب کرد. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102710.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102710.jpg" medium="image" />
@@ -34,7 +34,7 @@
       <title>رسانه: بروکسل به هر طریق ممکن مانع صلح شده، اما اکنون منتظر دعوت به میز مذاکره است</title>
       <link>https://sputnikiran.github.io/news/102709-رسانه-بروکسل-به-هر-طریق-م.html</link>
       <guid isPermaLink="true">https://sputnikiran.github.io/news/102709-رسانه-بروکسل-به-هر-طریق-م.html</guid>
-      <pubDate>Mon, 26 Oct 2026 07:56:00 GMT</pubDate>
+      <pubDate>Mon, 26 Oct 2026 08:00:27 GMT</pubDate>
       <description>▫️اروپا مجبور به التماس جایی در مذاکرات با روسیه برای حل مناقشه اوکراین خواهد شد. این موضوع را رسانه‌ ایتالیایی در مقاله‌ای بررسی کرده است. ▫️در این مقاله آمده است: &amp;quot;سوال فقط این نیست که چه کسی برای مذاکره با کرملین فرستاده خواهد شد. یک سوال بسیار ناخوشایندتر این است که چگونه ممکن است یکی از بزرگترین اتحادیه‌های اقتصادی و سیاسی مجبور باشد از دیگران التماس کند تا جایی در میز مذاکره داشته باشند که در آن سرنوشت مناقشه‌ای که مستقیماً با امنیت این اتحادیه مرتبط است، مورد بحث قرار گیرد&amp;quot;. ▫️ب</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102709.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102709.jpg" medium="image" />
@@ -43,7 +43,7 @@
       <title>مشاور اقتصادی: اجلاس روسیه و آفریقا فرصتی برای تغییر رویکرد از صادرات منابع به تولید مشترک</title>
       <link>https://sputnikiran.github.io/news/102708-مشاور-اقتصادی-اجلاس-روسیه.html</link>
       <guid isPermaLink="true">https://sputnikiran.github.io/news/102708-مشاور-اقتصادی-اجلاس-روسیه.html</guid>
-      <pubDate>Mon, 26 Oct 2026 04:56:00 GMT</pubDate>
+      <pubDate>Mon, 26 Oct 2026 05:00:27 GMT</pubDate>
       <description>🛰احمد الشامی، مشاور اقتصادی مصر، در گفتگو با اسپوتنیک اظهار داشت که اجلاس آتی روسیه و آفریقا فرصتی برای فراتر رفتن از روابط دیپلماتیک و توافق‌نامه‌های همکاری سنتی و حرکت به سمت مشارکتی مبتنی بر تولید مشترک، اشتراک دانش و بومی‌سازی فناوری است. 🛰وی افزود که روابط بین روسیه و کشورهای آفریقایی نباید بر اساس صادرات منابع طبیعی و واردات فناوری و کالاهای نهایی باقی بماند. آفریقا به شریکی نیاز دارد که به آن در تبدیل منابع به ارزش افزوده، ایجاد پایگاه صنعتی و توسعه پتانسیل علمی و فناوری کمک کند، به طور</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102708.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102708.jpg" medium="image" />
@@ -52,7 +52,7 @@
       <title>وزارت دفاع روسیه: هواپیمای Tu-</title>
       <link>https://sputnikiran.github.io/news/102707-وزارت-دفاع-روسیه-هواپیمای.html</link>
       <guid isPermaLink="true">https://sputnikiran.github.io/news/102707-وزارت-دفاع-روسیه-هواپیمای.html</guid>
-      <pubDate>Mon, 26 Oct 2026 01:56:00 GMT</pubDate>
+      <pubDate>Mon, 26 Oct 2026 02:00:27 GMT</pubDate>
       <description>MS پرواز برنامه‌ریزی‌شده‌ای را بر فراز آب‌های بی‌طرف دریاهای برینگ و چوکچی انجام داد ▫️در مراحل خاصی از پرواز، بمب‌افکن‌های استراتژیک Tu-95MS توسط جت‌های جنگنده خارجی اسکورت شدند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102707.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102707.jpg" medium="image" />
@@ -61,7 +61,7 @@
       <title>مدودف: روسیه در جایی که قبلاً بود باقی مانده است</title>
       <link>https://sputnikiran.github.io/news/102706-مدودف-روسیه-در-جایی-که-قب.html</link>
       <guid isPermaLink="true">https://sputnikiran.github.io/news/102706-مدودف-روسیه-در-جایی-که-قب.html</guid>
-      <pubDate>Sun, 25 Oct 2026 22:56:00 GMT</pubDate>
+      <pubDate>Sun, 25 Oct 2026 23:00:27 GMT</pubDate>
       <description>🛰دمیتری مدودف نایب رئیس شورای امنیت روسیه اظهار داشت که بیش از 30،000 تحریم علیه روسیه وضع شده است، اما این کشور همچنان پابرجا مانده و به توسعه خود ادامه می‌دهد. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102706.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102706.jpg" medium="image" />
@@ -70,7 +70,7 @@
       <title>کارشناس: کی‌یف در مذاکرات چیزی برای ارائه به مسکو ندارد</title>
       <link>https://sputnikiran.github.io/news/102705-کارشناس-کییف-در-مذاکرات-چ.html</link>
       <guid isPermaLink="true">https://sputnikiran.github.io/news/102705-کارشناس-کییف-در-مذاکرات-چ.html</guid>
-      <pubDate>Sun, 25 Oct 2026 19:56:00 GMT</pubDate>
+      <pubDate>Sun, 25 Oct 2026 20:00:27 GMT</pubDate>
       <description>🔸اوکراین در مذاکرات برای حل‌وفصل مناقشه هیچ چیزی نمی‌تواند به روسیه ارائه دهد. این سخنان را دانیل دیویس، سرهنگ دوم بازنشسته ارتش ایالات متحده، اظهار داشت. 🔸او در شبکه اجتماعی ایکس ضمن تفسیر انتشار مطلبی از ولادیمیر زلنسکی نوشت: &amp;quot;واقعیت تلخ این است که هر چقدر هم تحریم علیه روسیه اعمال شده باشد، مهم نیست، زیرا اوکراین دیگر چیزی برای ارائه در روند مذاکرات ندارد&amp;quot;. 🔸زلنسکی، به نوبه خود، شکایت کرد که نمی‌خواهد تحریم‌ها علیه روسیه، قبل از نشست سه‌جانبه احتمالی با هیئت‌های آمریکایی و روسی ل</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102705.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102705.jpg" medium="image" />
@@ -79,7 +79,7 @@
       <title>کمیسر حقوق بشر در روسیه: تخلیه اجباری خانواده‌ها به همراه فرزندان از اولشکی غیرقابل قبول است</title>
       <link>https://sputnikiran.github.io/news/102704-کمیسر-حقوق-بشر-در-روسیه-ت.html</link>
       <guid isPermaLink="true">https://sputnikiran.github.io/news/102704-کمیسر-حقوق-بشر-در-روسیه-ت.html</guid>
-      <pubDate>Sun, 25 Oct 2026 16:56:00 GMT</pubDate>
+      <pubDate>Sun, 25 Oct 2026 17:00:27 GMT</pubDate>
       <description>🛰یانا لانتراتووا، کمیسر حقوق بشر در روسیه در پاسخ به اظهارات کی‌یف، اظهار داشت که طرف روسی تمام تلاش خود را می‌کند تا مردم بتوانند تا حد امکان با خیال راحت از اولشکی…</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102704.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102704.jpg" medium="image" />
