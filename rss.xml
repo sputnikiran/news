@@ -5,13 +5,40 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Tue, 27 Oct 2026 10:48:17 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 11:18:29 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>دیدار امیر قطر با رییس جمهور ایران در مسکو</title>
+      <link>https://sputnikiran.github.io/news/102780-دیدار-امیر-قطر-با-رییس-جم.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102780-دیدار-امیر-قطر-با-رییس-جم.html</guid>
+      <pubDate>Tue, 27 Oct 2026 11:17:00 GMT</pubDate>
+      <description>🛰به گزارش خبرنگار اسپوتنیک در تهران، دکتر مسعود پزشکیان، رئیس‌جمهوری اسلامی ایران، و شیخ تمیم بن حمد آل ثانی، امیر قطر، در حاشیه هشتمین اجلاس سران مجمع کشورهای صادرکننده گاز در روسیه، با یکدیگر دیدار و درباره راهکارهای توسعه روابط دوجانبه و تقویت همکاری‌های مشترک در حوزه انرژی گفت‌وگو کردند. 🛰در این دیدار، طرفین ضمن بررسی آخرین وضعیت روابط تهران و دوحه، بر اهمیت گسترش مناسبات سیاسی و اقتصادی و بهره‌گیری از ظرفیت‌های موجود برای ارتقای سطح همکاری‌های دوجانبه تأکید کردند. همکاری در حوزه انرژی، تو</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102780.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102780.jpg" medium="image" />
+    </item>
+    <item>
+      <title>هاشمی به اسپوتنیک: «آمریکا بداند ما تیم ملی هستیم که در دقیقه نود هم گل میزنیم»</title>
+      <link>https://sputnikiran.github.io/news/102779-هاشمی-به-اسپوتنیک-آمریکا.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102779-هاشمی-به-اسپوتنیک-آمریکا.html</guid>
+      <pubDate>Tue, 27 Oct 2026 11:17:00 GMT</pubDate>
+      <description>🗣حمیدرضا هاشمی گلپایگانی، مدیر عامل خانه ای‌بی، در گفتگوی اختصاصی با اسپوتنیک گفت که در 48 سال جمهوری اسلامی برای اولین بار توانسته است از دولت متخاصم آمریکا مالی را توقیف کند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102779.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102779.jpg" medium="image" />
+    </item>
+    <item>
+      <title>چرا وزیر دفاع عربستان سعودی به تهران پرواز کرد؟</title>
+      <link>https://sputnikiran.github.io/news/102778-چرا-وزیر-دفاع-عربستان-سعو.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102778-چرا-وزیر-دفاع-عربستان-سعو.html</guid>
+      <pubDate>Tue, 27 Oct 2026 11:17:00 GMT</pubDate>
+      <description>🛰در حالی که حوثی‌ها در حال انجام حملات پهپادی به فرودگاه‌های عربستان سعودی و تأسیسات آرامکو بودند، شاهزاده خالد بن سلمان، وزیر دفاع عربستان سعودی (برادر کوچکتر ولیعهد سعودی) در تهران با رئیس جمهور ایران، رئیس شورای امنیت ایران، رئیس ارتش پاکستان و رئیس اطلاعات ترکیه پای میز مذاکره نشست. این اولین باری بود که هر سه طرف «پیمان مکه» در این سطح با ایران دیدار می‌کردند. هیچ چیزی امضا نشد، هیچ چیزی اعلام نشد. فقط وعده ادامه گفتگو داده شد. 🛰این صحنه گویای همه چیز است. در همان روز، سفارت ایالات متحده </description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102778.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102778.jpg" medium="image" />
+    </item>
     <item>
       <title>نیروی دریایی فرانسه: برای اولین بار یک لیزر جنگی بر روی ناو هواپیمابر شارل دوگل فرانسه آزمایش شد</title>
       <link>https://sputnikiran.github.io/news/102777-نیروی-دریایی-فرانسه-برای.html</link>
@@ -424,33 +451,6 @@
       <description>▫️رئیس جمهور&amp;nbsp;ایران دقایقی قبل، به منظور شرکت در اجلاس صادر کنندگان گاز راهی مسکو پایتخت روسیه شد. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102717.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102717.jpg" medium="image" />
-    </item>
-    <item>
-      <title>اعتراضات کشاورزان تراکتور سوار، دامداران و دانشجویان در جنوب ایتالیا</title>
-      <link>https://sputnikiran.github.io/news/102714-اعتراضات-کشاورزان-تراکتور.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102714-اعتراضات-کشاورزان-تراکتور.html</guid>
-      <pubDate>Mon, 26 Oct 2026 14:48:00 GMT</pubDate>
-      <description>▫️معترضان از قیمت بالای سوخت و افزایش هزینه‌های زندگی ناراضی هستند. ▫️پیش از این، اعتصاب کامیون‌داران جنوب کشور را فرا گرفته و جاده‌ها و بنادر را مسدود کرده بود. این امر باعث اختلال در تأمین مواد غذایی به مناطق مختلف شد و قفسه‌های برخی از فروشگاه‌ها را خالی گذاشت. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102714.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102714.jpg" medium="image" />
-    </item>
-    <item>
-      <title>پزشکیان: از هر تفاهمی که به وحدت کشورهای اسلامی منجر شود حمایت می کنیم</title>
-      <link>https://sputnikiran.github.io/news/102713-پزشکیان-از-هر-تفاهمی-که-ب.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102713-پزشکیان-از-هر-تفاهمی-که-ب.html</guid>
-      <pubDate>Mon, 26 Oct 2026 14:17:00 GMT</pubDate>
-      <description>رئیس جمهور ایران در دیدار مقامات پاکستان، ترکیه و عربستان: ▫️کشورهای اسلامی با تکیه بر ظرفیت‌های مشترک، می‌توانند الگویی از عدالت و توسعه به جهان ارائه دهند. جمهوری اسلامی ایران از هر تفاهمی برای تقویت وحدت و انسجام کشورهای اسلامی حمایت می‌کند. ▫️جمهوری اسلامی ایران با اعتقاد راسخ و اراده‌ای جدی، آمادگی دارد در مسیر تعمیق همکاری‌های منطقه‌ای، رفع اختلافات و بهره‌گیری از ظرفیت‌های مشترک کشورهای اسلامی گام بردارد و از هر تفاهمی که به تقویت وحدت، انسجام، امنیت و توسعه منطقه منجر شود، حمایت کند. 🛰 </description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102713.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102713.jpg" medium="image" />
-    </item>
-    <item>
-      <title>کمبود سوخت در پایتخت سودان</title>
-      <link>https://sputnikiran.github.io/news/102712-کمبود-سوخت-در-پایتخت-سودا.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102712-کمبود-سوخت-در-پایتخت-سودا.html</guid>
-      <pubDate>Mon, 26 Oct 2026 14:17:00 GMT</pubDate>
-      <description>▫️به گزارش رسانه های سودانی، کمبود سوخت در پایتخت سودان منجر به اختلالات جدی در حمل و نقل، صف‌های طولانی در پمپ بنزین‌ها و افزایش کرایه‌ها شده است. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102712.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102712.jpg" medium="image" />
     </item>
   </channel>
 </rss>
