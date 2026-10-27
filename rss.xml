@@ -5,13 +5,40 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Tue, 27 Oct 2026 13:18:44 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 13:48:44 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>هاشمی به اسپوتنیک: اعتقاد راسخ دارم که تمام بزه‌دیدگان از غرامت بهرمند شوند</title>
+      <link>https://sputnikiran.github.io/news/102801-هاشمی-به-اسپوتنیک-اعتقاد.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102801-هاشمی-به-اسپوتنیک-اعتقاد.html</guid>
+      <pubDate>Tue, 27 Oct 2026 13:48:00 GMT</pubDate>
+      <description>▫️حمیدرضا هاشمی گلپایگانی، مدیر عامل خانه ای‌بی، در گفتگوی اختصاصی با اسپوتنیک در باره استفاده‌ از هزینه فروش نفت توقیف شده آمریکا گفت که قرار است این غرامت غیر از بیماران ای‌بی به بیماران هموفیلی، کودکان مدرسه میناب و خیلی از ایرانیانی برسد که بخاطر تحریم و جنگ بزه‌دیده هستند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102801.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102801.jpg" medium="image" />
+    </item>
+    <item>
+      <title>نواک: از موضع دموکرات‌های آمریکا در مورد توافق گازوئیل با روسیه شگفت‌زده شده ام</title>
+      <link>https://sputnikiran.github.io/news/102800-نواک-از-موضع-دموکراتهای-آ.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102800-نواک-از-موضع-دموکراتهای-آ.html</guid>
+      <pubDate>Tue, 27 Oct 2026 13:48:00 GMT</pubDate>
+      <description>▫️معاون نخست وزیر روسیه افزود: آخر آنها به نفع شهروندان خود عمل نمی‌کنند. پیش از این، لایحه‌ای در ایالات متحده با هدف جلوگیری از اجرای این توافق ارائه شده بود. به گزارش رسانه‌های غربی، نمایندگان کنگره در حال تهدید مشاغل هستند و خواستار خروج آنها از توافقات مربوط به تأمین دیزل از روسیه هستند. ▫️ترامپ پیش از این اعلام کرده بود که در 9 اکتبر طی تماس تلفنی با ولادیمیر پوتین، رئیس جمهور روسیه، توافقی در مورد تأمین سوخت دیزل از روسیه حاصل شده است. او اظهار داشت که ایالات متحده از دریافت سوخت دیزل روسی</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102800.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102800.jpg" medium="image" />
+    </item>
+    <item>
+      <title>هاشمی به اسپوتنیک: دشمن بویی از انسانیت و بشریت نبرده است</title>
+      <link>https://sputnikiran.github.io/news/102799-هاشمی-به-اسپوتنیک-دشمن-بو.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102799-هاشمی-به-اسپوتنیک-دشمن-بو.html</guid>
+      <pubDate>Tue, 27 Oct 2026 13:48:00 GMT</pubDate>
+      <description>▫️حمیدرضا هاشمی گلپایگانی، مدیر عامل خانه ای‌بی، در گفتگوی اختصاصی با اسپوتنیک گفت که غرامت مالی در اختیار بیمار با توجه به آسایش و آسان‌سازی دسترسی وی به لوازم پزشکی و بهداشت قرار داده شد که حق طبیعی محسوب می‌شود. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102799.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102799.jpg" medium="image" />
+    </item>
     <item>
       <title>هاشمی به اسپوتنیک: وظیفه دارم که از شبکه اسپوتنیک تشکر ویژه داشته باشم</title>
       <link>https://sputnikiran.github.io/news/102798-هاشمی-به-اسپوتنیک-وظیفه-د.html</link>
@@ -418,31 +445,6 @@
       <description>در این بیانیه آمده است: «نیروهای مسلح فدراسیون روسیه در راستای آماده‌سازی برای یک عملیات بشردوستانه در حوالی شهرک آلیوشکی در استان خرسون، در محور خرسون آتش‌بس کرده و از ساعت 04:00 به وقت مسکو در تاریخ 27 اکتبر 2026، &amp;quot;رژیم آتش‌بس&amp;quot; را به اجرا درآورده‌اند.» 🛰یانا لانتراتووا، کمیسر حقوق بشر روسیه گزارش داد که هم روسیه و هم اوکراین به تعهدات خود طبق توافق‌نامه‌های آلیوشکی عمل می‌کنند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102744.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102744.jpg" medium="image" />
-    </item>
-    <item>
-      <title>برج شیرینی ده متری در اینگوشتیا روسیه</title>
-      <link>https://sputnikiran.github.io/news/102743-برج-شیرینی-ده-متری-در-این.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102743-برج-شیرینی-ده-متری-در-این.html</guid>
-      <pubDate>Mon, 26 Oct 2026 21:17:00 GMT</pubDate>
-      <description>▫️این برج شیرینی غیرمعمول در 24 اکتبر به عنوان بخشی از رویدادی به مناسبت سال وحدت مردم روسیه رونمایی شد. این کیک در کنار برج معروف 100 متری کنکورد برپا شد. ▫️برای ساخت این کیک غول‌پیکر، بیش از پنج هزار &amp;quot;آجر&amp;quot; شکلاتی استفاده شده است. تقریباً 1.3 تن شکلات، بیش از 450 کیلوگرم شکر، تقریباً 380 کیلوگرم آرد و بیش از 11000 تخم مرغ استفاده شده است. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102743.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102743.jpg" medium="image" />
-    </item>
-    <item>
-      <title>رسانه محلی: باران‌های شدید باعث رانش زمین و سیل در پوکت، تایلند شده است</title>
-      <link>https://sputnikiran.github.io/news/102740-رسانه-محلی-بارانهای-شدید.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102740-رسانه-محلی-بارانهای-شدید.html</guid>
-      <pubDate>Mon, 26 Oct 2026 20:47:00 GMT</pubDate>
-      <description>💦جریان آب، گل و لای و سنگ به ساختمان‌ها آسیب رسانده و خیابان‌ها را آب گرفته است. ویترین چندین مغازه شکسته و ده‌ها خودرو آسیب دیده‌اند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-    </item>
-    <item>
-      <title>ابراز تردید ترامپ در مورد صحت انتخابات ریاست جمهوری برزیل</title>
-      <link>https://sputnikiran.github.io/news/102739-ابراز-تردید-ترامپ-در-مورد.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102739-ابراز-تردید-ترامپ-در-مورد.html</guid>
-      <pubDate>Mon, 26 Oct 2026 20:47:00 GMT</pubDate>
-      <description>▫️دونالد ترامپ، رئیس جمهور آمریکا، پس از پذیرش احتمال تقلب در انتخابات برزیل، اظهار داشت که برنده، لوئیز ایناسیو لولا دا سیلوا، را دوست دارد و آنها با هم خوب کنار می‌آیند. ▫️دور دوم انتخابات ریاست جمهوری برزیل در 25 اکتبر برگزار شد. رئیس جمهور فعلی پیروز شد. رقیب او، فلاویو بولسونارو، نامزد راست‌گرا، اعلام کرد که نتایج انتخابات را به رسمیت نمی‌شناسد و خواستار ابطال آن خواهد شد. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102739.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102739.jpg" medium="image" />
     </item>
   </channel>
 </rss>
