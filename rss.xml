@@ -5,13 +5,31 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Wed, 28 Oct 2026 05:18:27 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 06:18:30 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>دیمیتریف: اروپا باید به سیاست نادرست خود پایان دهد</title>
+      <link>https://sputnikiran.github.io/news/102843-دیمیتریف-اروپا-باید-به-سی.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102843-دیمیتریف-اروپا-باید-به-سی.html</guid>
+      <pubDate>Wed, 28 Oct 2026 06:17:00 GMT</pubDate>
+      <description>🔸رئیس مدیرکل صندوق سرمایه گذاری مستقیم روسیه، ویدئویی از یک مسابقه ناسکار را در رسانه‌های اجتماعی منتشر کرد که در آن یک ماشین مسابقه به مانعی برخورد می‌کند، باعث تصادف زنجیره‌ای چند ماشین می‌شود و به صورت وارونه از خط پایان عبور می‌کند. 🔸وی نوشت: «کشورهای رنج‌کشیده اروپایی باید راهی برای پایان دادن به سیاست‌های نادرست خود پیدا کنند. دقیقاً مانند خودروهای ناسکار که در اینجا از خط پایان عبور می‌کنند.» 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102843.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102843.jpg" medium="image" />
+    </item>
+    <item>
+      <title>ترامپ: به زودی با پوتین و زلنسکی دیدار خواهم کرد</title>
+      <link>https://sputnikiran.github.io/news/102842-ترامپ-به-زودی-با-پوتین-و.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102842-ترامپ-به-زودی-با-پوتین-و.html</guid>
+      <pubDate>Wed, 28 Oct 2026 06:17:00 GMT</pubDate>
+      <description>🔸رئیس‌جمهور آمریکا همچنین اظهار داشت که پیشرفت‌های چشمگیری در مسیر دستیابی به راه‌حلی در خصوص اوکراین حاصل شده است. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102842.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102842.jpg" medium="image" />
+    </item>
     <item>
       <title>رسانه ها: هزینه‌های نظامی ایالات متحده در درگیری با ایران از</title>
       <link>https://sputnikiran.github.io/news/102841-رسانه-ها-هزینههای-نظامی-ا.html</link>
@@ -437,22 +455,6 @@
       <description>🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102790.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102790.jpg" medium="image" />
-    </item>
-    <item>
-      <title>پوتین در مورد وضعیت انرژی در اروپا اظهار نظر کرد: برای کس دیگری چاه نکن، وگرنه خودت در آن خواهی افتاد</title>
-      <link>https://sputnikiran.github.io/news/102789-پوتین-در-مورد-وضعیت-انرژی.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102789-پوتین-در-مورد-وضعیت-انرژی.html</guid>
-      <pubDate>Tue, 27 Oct 2026 12:17:00 GMT</pubDate>
-      <description>&amp;quot; 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102789.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102789.jpg" medium="image" />
-    </item>
-    <item>
-      <title>پوتین بر لزوم بهینه‌سازی مسیرهای جهانی تأمین گاز تأکید کرد و پیشنهاد داد که کشورهای صادرکننده، مسیرها را توسعه دهند</title>
-      <link>https://sputnikiran.github.io/news/102788-پوتین-بر-لزوم-بهینهسازی-م.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102788-پوتین-بر-لزوم-بهینهسازی-م.html</guid>
-      <pubDate>Tue, 27 Oct 2026 12:17:00 GMT</pubDate>
-      <description>💬پوتین همچنین اظهار داشت که روسیه در حال بررسی امکان همکاری مشترک با ایالات متحده در قطب شمال است. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
     </item>
   </channel>
 </rss>
