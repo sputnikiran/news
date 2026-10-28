@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Wed, 28 Oct 2026 17:18:34 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 17:49:30 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>روابط روسیه و مصر با پیشرفت پروژه هسته‌ای الضبعه عمیق‌تر می‌شود</title>
+      <link>https://sputnikiran.github.io/news/102896-روابط-روسیه-و-مصر-با-پیشر.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102896-روابط-روسیه-و-مصر-با-پیشر.html</guid>
+      <pubDate>Wed, 28 Oct 2026 17:48:00 GMT</pubDate>
+      <description>▫️ولادیمیر پوتین، رئیس جمهور روسیه، در حاشیه اجلاس روسیه و آفریقا با عبدالفتاح السیسی، رئیس جمهور مصر، در مسکو دیدار کرد تا در مورد گسترش همکاری در تجارت، انرژی و گردشگری گفتگو کنند. ▫️پوتین در این دیدار گفت که ساخت نیروگاه هسته‌ای الضبعه ساخت روسیه طبق برنامه پیش می‌رود، در حالی که مصر سهم قابل توجهی از تجارت رو به رشد روسیه با آفریقا را به خود اختصاص داده است. او همچنین خاطرنشان کرد که بیش از 1.2 میلیون گردشگر روسی در نیمه اول سال 2026 از مصر بازدید کرده‌اند. ▫️السیسی نیز بار دیگر بر تعهد مصر </description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102896.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102896.jpg" medium="image" />
+    </item>
     <item>
       <title>پوتین: روسیه آماده است تا در مبارزه با تروریسم به آفریقا کمک کند</title>
       <link>https://sputnikiran.github.io/news/102895-پوتین-روسیه-آماده-است-تا.html</link>
@@ -444,15 +453,6 @@
       <description></description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102840.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102840.jpg" medium="image" />
-    </item>
-    <item>
-      <title>ولادیمیر پوتین، امروز در نشست سران روسیه و آفریقا شرکت می کند</title>
-      <link>https://sputnikiran.github.io/news/102839-ولادیمیر-پوتین،-امروز-در.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102839-ولادیمیر-پوتین،-امروز-در.html</guid>
-      <pubDate>Wed, 28 Oct 2026 05:17:00 GMT</pubDate>
-      <description>🔸سومین نشست سران روسیه و آفریقا امروز در مسکو آغاز می‌شود. 🔸در مجموع، 19دیدار دوجانبه برای پوتین در حاشیه این نشست برنامه‌ریزی شده است. 48 کشور آفریقایی حضور خود را تأیید کرده‌اند که 22 مورد از آن‌ها در عالی‌ترین سطح نمایندگی می‌شوند. 🔸برنامه رسمی روز چهارشنبه با برگزاری نشست عمومی «سومین مجمع اقتصادی و بشردوستانه روسیه و آفریقا» در «گوستینی دوور» آغاز خواهد شد. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102839.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102839.jpg" medium="image" />
     </item>
   </channel>
 </rss>
