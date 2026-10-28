@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Wed, 28 Oct 2026 11:48:29 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 12:18:54 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>رئیس اتحادیه آفریقا:‌ آفریقا در پی تنوع‌بخشی به روابط خود با روسیه و ایجاد امکانات جدید برای پرداخت و مسیرهای حمل‌ونقل است</title>
+      <link>https://sputnikiran.github.io/news/102875-رئیس-اتحادیه-آفریقا-آفریق.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102875-رئیس-اتحادیه-آفریقا-آفریق.html</guid>
+      <pubDate>Wed, 28 Oct 2026 12:18:00 GMT</pubDate>
+      <description>🔸 وی در سخنانی گفت که ظرفیت شراکت میان روسیه و آفریقا بسیار بالاست و باید در این زمینه به نتایج ملموس دست یافت 🔸 امیدواریم روسیه سهم شایسته‌ای در اقتصاد قاره آفریقا داشته باشد 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102875.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102875.jpg" medium="image" />
+    </item>
     <item>
       <title>جزییات‌ سخنان ولادیمیر پوتین در مجمع روسیه و آفریقا:</title>
       <link>https://sputnikiran.github.io/news/102874-جزییات-سخنان-ولادیمیر-پوت.html</link>
@@ -444,15 +453,6 @@
       <description>رئیس‌جمهور ایران در دیدار با پوتین: ▫️برگزاری موفق جشنواره‌های فرهنگی در مسکو، کازان و آستراخان دستاورد ارزشمندی در تعاملات دوجانبه به شمار می‌رود. ▫️در پی گزارش و پیشنهاد جناب آقای لاوروف، وزیر محترم امور خارجه روسیه، مجوزهای لازم برای تأسیس دفتر نمایندگی رادیو و تلویزیون دولتی روسیه در ایران صادر شده است و هماهنگی‌های اجرایی آن دنبال می‌شود. ▫️همچنین ایران از برگزاری جشنواره و نمایشگاه متقابل فرهنگی و رسانه‌ای روسیه در تهران استقبال می‌کند و این اقدامات را گامی مؤثر در جهت تعمیق مناسبات فرهنگی</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102818.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102818.jpg" medium="image" />
-    </item>
-    <item>
-      <title>پزشکیان: چندجانبه‌گرایی پاسخی به اقدامات یک‌جانبه آمریکا در منطقه است</title>
-      <link>https://sputnikiran.github.io/news/102817-پزشکیان-چندجانبهگرایی-پاس.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102817-پزشکیان-چندجانبهگرایی-پاس.html</guid>
-      <pubDate>Tue, 27 Oct 2026 16:48:00 GMT</pubDate>
-      <description>رئیس‌جمهور ایران در دیدار با پوتین: ▫️ضمن قدردانی از حسن‌میزبانی و حمایت‌های مستمر در حوزه‌های سیاسی، امنیتی و اقتصادی، ابراز خرسندی می‌شود که مبادلات تجاری دوجانبه روندی صعودی و رو به رشد دارد. ▫️اقدامات یک‌جانبه آمریکا در منطقه، ضرورت تقویت چندجانبه‌گرایی و گسترش تعاملات میان کشورهای تحت تحریم را بیش از پیش نمایان ساخته است. ▫️کشورهای منطقه بدون وابستگی به آمریکا، توانایی و اراده کامل برای حل‌وفصل درون‌منطقه‌ای چالش‌ها را دارند. ▫️با اتکا به این اراده مشترک، امکان توسعه همه‌جانبه روابط در بخش‌</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102817.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102817.jpg" medium="image" />
     </item>
   </channel>
 </rss>
