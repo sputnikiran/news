@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Wed, 28 Oct 2026 16:19:11 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 16:48:32 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>دسترسی به مسکن به طور فزاینده‌ای به یک کالای لوکس کمیاب برای اروپایی‌ها تبدیل می‌شود</title>
+      <link>https://sputnikiran.github.io/news/102891-دسترسی-به-مسکن-به-طور-فزا.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102891-دسترسی-به-مسکن-به-طور-فزا.html</guid>
+      <pubDate>Wed, 28 Oct 2026 16:47:00 GMT</pubDate>
+      <description>▫️ هزاران معترض در مقابل ساختمان پارلمان در لیسبون تجمع کردند و خواستار حفاظت از حقوق خود شدند که ناشی از افزایش هزینه‌های زندگی و قیمت‌های گزاف مسکن بود. ▫️ پرتغال با یکی از شدیدترین بحران‌های مسکن در اروپا روبرو است، به طوری که قیمت املاک و اجاره بها در این کشور از سال 2017 بیش از دو برابر شده است. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102891.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102891.jpg" medium="image" />
+    </item>
     <item>
       <title>روسیه فناوری‌های پیشرفته خود را در اجلاس روسیه و آفریقا به نمایش گذاشت</title>
       <link>https://sputnikiran.github.io/news/102890-روسیه-فناوریهای-پیشرفته-خ.html</link>
@@ -444,15 +453,6 @@
       <description>» ▫️ترامپ ویدئویی منتشر کرد که زندگی روزمره در فرانسه را در نیمه اول قرن بیستم و تصاویری از اعتراضات فعلی نشان می‌دهد. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102837.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102837.jpg" medium="image" />
-    </item>
-    <item>
-      <title>با نزدیک شدن طوفان به هند، حدود</title>
-      <link>https://sputnikiran.github.io/news/102836-با-نزدیک-شدن-طوفان-به-هند.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102836-با-نزدیک-شدن-طوفان-به-هند.html</guid>
-      <pubDate>Tue, 27 Oct 2026 20:47:00 GMT</pubDate>
-      <description>هزار نفر در حال تخلیه از مناطق خود هستند ▫️برای 7 منطقه، وضعیت هشدار قرمز اعلام شده است. در پی نزدیک شدن طوفان حاره‌ای «آرناب» — که دیروز در خلیج بنگال شکل گرفت — بیش از 30 هزار شناور صیادی به بنادر بازگشته‌اند و 53 سرویس قطار نیز لغو شده‌اند. ▫️در ایالت همجوار، «اودیشا»، بیش از 1700 پناهگاه آماده‌سازی شده است. بر اساس برآوردهای اولیه، سرعت بادهای این طوفان ممکن است پیش از رسیدن به خشکی، به 185 کیلومتر در ساعت برسد. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102836.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102836.jpg" medium="image" />
     </item>
   </channel>
 </rss>
