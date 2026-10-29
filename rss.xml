@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Thu, 29 Oct 2026 11:18:11 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 11:48:19 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>وزارت دفاع روسیه: حملات به زیرساخت‌های حمل‌ونقل اوکراین با تلفات سنگین دشمن ادامه دارد</title>
+      <link>https://sputnikiran.github.io/news/102936-وزارت-دفاع-روسیه-حملات-به.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102936-وزارت-دفاع-روسیه-حملات-به.html</guid>
+      <pubDate>Thu, 29 Oct 2026 11:47:00 GMT</pubDate>
+      <description>🔸 حملات به زیرساخت‌ها: نیروهای روسیه تأسیسات زیرساختی حمل‌ونقل اوکراین را که مورد استفاده نیروهای مسلح این کشور قرار می‌گرفت، هدف قرار دادند. 🔸 عملیات پدافند هوایی: سامانه‌های پدافند هوایی روسیه 1425 پهپاد بال‌ثابت اوکراینی را سرنگون کردند. 🔸 تلفات اوکراین: حدود 1155 نفر از نیروهای اوکراینی کشته یا زخمی شدند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102936.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102936.jpg" medium="image" />
+    </item>
     <item>
       <title>کمیسر انرژی اتحادیه اروپا: در زمستان پیشِ رو، بیش از</title>
       <link>https://sputnikiran.github.io/news/102935-کمیسر-انرژی-اتحادیه-اروپا.html</link>
@@ -444,15 +453,6 @@
       <description>🔸سامیا نکرومه، دختر نخستین رئیس‌جمهور غنا، کوامه نکرومه، در حاشیه اجلاس روسیه-آفریقا به اسپوتنیک گفت: «روسیه به بسیاری از کشورها و جنبش‌های آزادی‌بخش آفریقایی کمک کرده است.» 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102883.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102883.jpg" medium="image" />
-    </item>
-    <item>
-      <title>دستیار پوتین: روپایی‌ها به مذاکرات مربوط به اوکراین دعوت نخواهند شد</title>
-      <link>https://sputnikiran.github.io/news/102882-دستیار-پوتین-روپاییها-به.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102882-دستیار-پوتین-روپاییها-به.html</guid>
-      <pubDate>Wed, 28 Oct 2026 14:18:00 GMT</pubDate>
-      <description>🔸وی گفت: آن‌ها می‌توانند با خرید بلیت به آنجا بروند، اما هیچ‌کس قصد ندارد آن‌ها را به میز مذاکره دعوت کند. 🔸اوشاکوف در سخنانی گفت که تنها توافقی که وجود دارد، مربوط به ازسرگیری مذاکراتی است که در آن روسیه، اوکراین و ایالات متحده آمریکا حضور دارند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102882.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102882.jpg" medium="image" />
     </item>
   </channel>
 </rss>
