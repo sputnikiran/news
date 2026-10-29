@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Thu, 29 Oct 2026 15:18:54 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 15:48:26 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>عبدالرحیم الاسری، سردبیر روزنامه مراکشی هسپرس، در نشست رسانه‌ای روسیه-آفریقا در مسکو گفت: رسانه‌های غربی با استفاده از اصطلاحات تحریف‌شده هنگام پوشش رویدادهای اوکراین، مخاطبان آفریقایی را گمراه می‌کنند</title>
+      <link>https://sputnikiran.github.io/news/102946-عبدالرحیم-الاسری،-سردبیر.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102946-عبدالرحیم-الاسری،-سردبیر.html</guid>
+      <pubDate>Thu, 29 Oct 2026 15:47:00 GMT</pubDate>
+      <description>🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102946.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102946.jpg" medium="image" />
+    </item>
     <item>
       <title>پسکوف از آمادگی روسیه برای خروج اورانیوم غنی‌شده از ایران خبر داد</title>
       <link>https://sputnikiran.github.io/news/102945-پسکوف-از-آمادگی-روسیه-برا.html</link>
@@ -440,15 +449,6 @@
       <description>▫️رهبر روسیه در دیدار با رهبران سازمان‌های برجسته آفریقایی تأکید کرد که مسکو پذیرای گفتگو در مورد مسائل صلح و امنیت است. ▫️پوتین همچنین آمادگی خود را برای کمک به کشورهای آفریقایی در مبارزه با جرایم فرامرزی و قاچاق مواد مخدر تأیید کرد. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102895.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102895.jpg" medium="image" />
-    </item>
-    <item>
-      <title>نخست وزیر مراکش وارد مسکو شد</title>
-      <link>https://sputnikiran.github.io/news/102894-نخست-وزیر-مراکش-وارد-مسکو.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102894-نخست-وزیر-مراکش-وارد-مسکو.html</guid>
-      <pubDate>Wed, 28 Oct 2026 17:17:00 GMT</pubDate>
-      <description>▫️این اولین سفر خارجی فاطمه المنصوری است که در پایان ماه سپتامبر به عنوان نخست وزیر منصوب شد. او قصد دارد در سومین اجلاس روسیه و آفریقا شرکت کند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102894.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102894.jpg" medium="image" />
     </item>
   </channel>
 </rss>
