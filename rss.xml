@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Thu, 29 Oct 2026 09:48:16 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 10:18:24 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>پوتین: مأموریت در «آلیوشکی» با هدف کمک‌رسانی به جمعیت غیرنظامی انجام می‌شود</title>
+      <link>https://sputnikiran.github.io/news/102931-پوتین-مأموریت-در-آلیوشکی.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102931-پوتین-مأموریت-در-آلیوشکی.html</guid>
+      <pubDate>Thu, 29 Oct 2026 10:17:00 GMT</pubDate>
+      <description>🔸رئیس جمهور روسبه تاکید کرد که وضعیت در آلیوشکی مدت‌ها بود که به این سو پیش می‌رفت؛ طرف مقابل در آنجا در حال ایجاد یک فاجعه انسانی بود. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102931.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102931.jpg" medium="image" />
+    </item>
     <item>
       <title>کمیسر حقوق بشر روسیه به همراه خبرنگاران خارجی با ورود کاروان کمک‌های بشردوستانه، راهی «آلیوشکی» می‌شود</title>
       <link>https://sputnikiran.github.io/news/102930-کمیسر-حقوق-بشر-روسیه-به-ه.html</link>
@@ -446,15 +455,6 @@
       <description>🔸زاخارووا سخنگوی وزارت امور خارجه روسیه تأکید کرد که رهبر رژیم کی‌یف چنان شیفته‌ی تداوم درگیری است که آن را کلیدِ حفظِ قدرتِ خود می‌داند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102878.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102878.jpg" medium="image" />
-    </item>
-    <item>
-      <title>پیوند میان جیب شهروندان آمریکایی و تاب‌آوری ایران</title>
-      <link>https://sputnikiran.github.io/news/102877-پیوند-میان-جیب-شهروندان-آ.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102877-پیوند-میان-جیب-شهروندان-آ.html</guid>
-      <pubDate>Wed, 28 Oct 2026 13:18:00 GMT</pubDate>
-      <description>🔸پنتاگون به کنگره گزارش داده است که هزینه عملیات نظامی ایالات متحده علیه ایران (تا تاریخ 16 اکتبر به‌ 47,1 میلیارد دلار رسیده است. اگرچه ارقام نهایی بعداً مشخص خواهد شد، اما این مجموع همچنان رو به افزایش است. بیش از 60 درصد از این مبلغ صرف مهمات — شامل بمب‌ها، موشک‌ها و گلوله‌های توپ — شده است. تنها در بخش تسلیحات، بیش از 28 میلیارد دلار هزینه شده است که سهم نیروی هوایی 7,6 میلیارد دلار، نیروی زمینی 2.1 میلیارد دلار و نیروی دریایی 1.5 میلیارد دلار بوده است تا تداوم عملیات در منطقه تضمین شود. 🔸</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102877.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102877.jpg" medium="image" />
     </item>
   </channel>
 </rss>
