@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Thu, 29 Oct 2026 19:18:27 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 19:48:31 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>بسیاری در اروپا خود را برای جنگ با روسیه تا سال</title>
+      <link>https://sputnikiran.github.io/news/102963-بسیاری-در-اروپا-خود-را-بر.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102963-بسیاری-در-اروپا-خود-را-بر.html</guid>
+      <pubDate>Thu, 29 Oct 2026 19:47:00 GMT</pubDate>
+      <description>آماده می‌کنند 🔸️ پوتین گفت روسیه آماده است، اما جنگ نمی‌خواهد. 🔸ولادیمیر پوتین، رئیس جمهور روسیه، نیز تأکید کرد که غرب در رسیدن به هدف خود برای تحمیل شکست استراتژیک به روسیه شکست خورده است. 🔸️او افزود…</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102963.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102963.jpg" medium="image" />
+    </item>
     <item>
       <title>مهمترین عناوین خبری جهان تا شامگاه</title>
       <link>https://sputnikiran.github.io/news/102962-مهمترین-عناوین-خبری-جهان.html</link>
@@ -442,15 +451,6 @@
       <description>▫️دکتر جهانبخش سنجابی شیرازی، دبیرکل اتاق مشترک ایران و عراق، در گفتگوی اختصاصی با اسپوتنیک گفت که عواملی مانند ممنوعیت‌های صادراتی از سوی ایران و ممنوعیت‌های وارداتی از سوی…</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102909.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102909.jpg" medium="image" />
-    </item>
-    <item>
-      <title>کرملین: باید از اروپایی هایی که بدنبال گفتگو با روسیه هستند، حمایت شود</title>
-      <link>https://sputnikiran.github.io/news/102908-کرملین-باید-از-اروپایی-ها.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102908-کرملین-باید-از-اروپایی-ها.html</guid>
-      <pubDate>Wed, 28 Oct 2026 20:47:00 GMT</pubDate>
-      <description>▫️دمیتری پسکوف سخنگوی کرملین، در مورد تماس استاب و استوره با پوتین اظهار نظر کرد و گفت اگر چهره‌هایی در اروپا هستند که لزوم گفتگو با روسیه را درک می‌کنند، باید از این امر حمایت شود. ▫️او همچنین واکنش برخی از کشورهای اروپایی به این تماس را «کاملاً هیستریک» خواند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102908.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102908.jpg" medium="image" />
     </item>
   </channel>
 </rss>
