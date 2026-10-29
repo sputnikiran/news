@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Thu, 29 Oct 2026 07:48:31 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 08:18:44 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>شمار قربانیان برخورد قطار در اسپانیا به</title>
+      <link>https://sputnikiran.github.io/news/102921-شمار-قربانیان-برخورد-قطار.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102921-شمار-قربانیان-برخورد-قطار.html</guid>
+      <pubDate>Thu, 29 Oct 2026 08:17:00 GMT</pubDate>
+      <description>نفر افزایش یافت 🔸نخست‌وزیر این کشور در پی این فاجعه ریلی، سه روز عزای عمومی اعلام کرد. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102921.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102921.jpg" medium="image" />
+    </item>
     <item>
       <title>استقبال از مهمانان اجلاس روسیه و آفریقا با ترانه‌های محلی روسی که با ریتم‌های آفریقایی تلفیق شده‌اند</title>
       <link>https://sputnikiran.github.io/news/102920-استقبال-از-مهمانان-اجلاس.html</link>
@@ -444,15 +453,6 @@
       <description>🔸پوتین در سخنانی گفت که زمان آن فرا رسیده است که صندوق بین‌المللی پول و بانک جهانی اصلاح شوند و جهت‌گیری آن‌ها به سمت نیازهای اقتصادهای در حال توسعه تغییر یابد. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102869.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102869.jpg" medium="image" />
-    </item>
-    <item>
-      <title>پوتین: نفوذ و جایگاه قاره آفریقا در عرصه جهانی رو به رشد است</title>
-      <link>https://sputnikiran.github.io/news/102868-پوتین-نفوذ-و-جایگاه-قاره.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102868-پوتین-نفوذ-و-جایگاه-قاره.html</guid>
-      <pubDate>Wed, 28 Oct 2026 11:17:00 GMT</pubDate>
-      <description>🔸رئیس جمهور روسیه در سخنانی تاکید کرد که آفریقا به‌طور فزاینده‌ای خود را به‌عنوان یکی از کانون‌های اقتصاد جهانی مطرح می‌کند. 🔸وی افزود: دورانی که در آن سرنوشت قاره‌های کامل توسط بلوک محدودی از دولت‌ها تعیین می‌شد، به‌طور برگشت‌ناپذیری رو به پایان است. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102868.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102868.jpg" medium="image" />
     </item>
   </channel>
 </rss>
