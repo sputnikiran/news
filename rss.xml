@@ -5,13 +5,20 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Thu, 29 Oct 2026 12:18:18 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 12:48:19 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>پهپادهای روسی به یک مشکل جدی برای ناتو تبدیل شده است</title>
+      <link>https://sputnikiran.github.io/news/102940-پهپادهای-روسی-به-یک-مشکل.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102940-پهپادهای-روسی-به-یک-مشکل.html</guid>
+      <pubDate>Thu, 29 Oct 2026 12:47:00 GMT</pubDate>
+      <description>🔸کمپین موشکی و پهپادی روسیه در اوکراین، آسیب‌پذیری جدی پدافند هوایی غرب را آشکار کرده است. معلوم شد که زیرساخت‌های انرژی کشورهای عضو ائتلاف، به اندازه کافی محافظت نشده‌اند و ذخایر موشک‌های ضدموشک گران‌قیمت، محدود است. این موضوع را رسانه‌های آمریکایی گزارش می‌دهند. 🔸به گفته کارشناسان نظامی آمریکایی، یک پهپاد گران حدود 20 هزار دلار قیمت دارد، در حالی که یک موشک PatriotPAC-3 تقریباً چهار میلیون - 200 برابر گران تر است. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+    </item>
     <item>
       <title>سامانه‌های بدون سرنشین یگان مرکزی روسیه، تجهیزات اوکراینی را نابود کرده و سربازان را در نزدیکی دنیپروپتروسک از بین بردند</title>
       <link>https://sputnikiran.github.io/news/102939-سامانههای-بدون-سرنشین-یگا.html</link>
@@ -444,15 +451,6 @@
       <description>🔸 دورانی که سرنوشت قاره‌های کامل توسط بلوک محدودی از کشورها تعیین می‌شد، به شکلی بازگشت‌ناپذیر رو به پایان است؛ 🔸 کشورهای غربی در تلاشند تا کشورهای آفریقایی را دوباره گرفتارِ «بندِ بدهی» کنند؛ جهانِ چندقطبی…</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102887.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102887.jpg" medium="image" />
-    </item>
-    <item>
-      <title>سنجابی به اسپوتنیک: انسداد مرز چذابه طولانی نخواهد بود</title>
-      <link>https://sputnikiran.github.io/news/102886-سنجابی-به-اسپوتنیک-انسداد.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102886-سنجابی-به-اسپوتنیک-انسداد.html</guid>
-      <pubDate>Wed, 28 Oct 2026 15:47:00 GMT</pubDate>
-      <description>🔸دکتر جهانبخش سنجابی شیرازی، دبیرکل اتاق مشترک ایران و عراق، در گفتگوی اختصاصی با اسپوتنیک در پاسخ به این که آیا انسداد مرز چذابه امتیاز بغداد به وزارت خزانه‌داری آمریکا برای کاهش روابط با ایران است، این فرض را تا حدی درست خواند. &amp;nbsp; 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102886.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102886.jpg" medium="image" />
     </item>
   </channel>
 </rss>
