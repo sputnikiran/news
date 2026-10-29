@@ -5,13 +5,20 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Thu, 29 Oct 2026 14:18:37 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 14:48:17 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>رسانه‌های چینی: روسیه به‌سرعت برتری خود را بر ناتو در اقتصاد نظامی تقویت می‌کند</title>
+      <link>https://sputnikiran.github.io/news/102944-رسانههای-چینی-روسیه-بهسرع.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102944-رسانههای-چینی-روسیه-بهسرع.html</guid>
+      <pubDate>Thu, 29 Oct 2026 14:47:00 GMT</pubDate>
+      <description>🔸️️️️️️کارشناسان غربی در وحشت خاموش فرو رفته‌اند، زیرا دریافته‌اند که غرب نه تنها نتوانسته روسیه را در هم بشکند، بلکه در واقع آن را تقویت کرده است. ارتش روسیه درست مانند جنگ جهانی دوم، تعادل تقریباً کاملی بین کیفیت و کمیت تسلیحات خود پیدا کرده است. و این به روسیه برتری بزرگی نسبت به ناتو می‌دهد. این موضوع مورد توجه رسانه‌های چینی قرار گرفته است. در این مقاله آمده است: &amp;quot;داستان‌های ماشین تبلیغاتی فعلی غرب در مورد &amp;quot;پیروزی اوکراین&amp;quot; نمی‌تواند واقعیت میدان نبرد را تغییر دهد، واقعیتی که</description>
+    </item>
     <item>
       <title>گیر کردن یک قطار در وسط تونلی در اسپانیا</title>
       <link>https://sputnikiran.github.io/news/102943-گیر-کردن-یک-قطار-در-وسط-ت.html</link>
@@ -442,15 +449,6 @@
       <description>▫️ هزاران معترض در مقابل ساختمان پارلمان در لیسبون تجمع کردند و خواستار حفاظت از حقوق خود شدند که ناشی از افزایش هزینه‌های زندگی و قیمت‌های گزاف مسکن بود. ▫️ پرتغال با یکی از شدیدترین بحران‌های مسکن در اروپا روبرو است، به طوری که قیمت املاک و اجاره بها در این کشور از سال 2017 بیش از دو برابر شده است. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102891.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102891.jpg" medium="image" />
-    </item>
-    <item>
-      <title>روسیه فناوری‌های پیشرفته خود را در اجلاس روسیه و آفریقا به نمایش گذاشت</title>
-      <link>https://sputnikiran.github.io/news/102890-روسیه-فناوریهای-پیشرفته-خ.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102890-روسیه-فناوریهای-پیشرفته-خ.html</guid>
-      <pubDate>Wed, 28 Oct 2026 16:17:00 GMT</pubDate>
-      <description>🔸نمایشگاه «پلتفرم توسعه حاکمیتی» در حاشیه اجلاس روسیه و آفریقا در مسکو افتتاح شده است و پیشرفت‌های پیشرفته روسیه در فناوری فضایی، انرژی، هوانوردی و پهپادهای نسل بعدی را به نمایش می‌گذارد. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102890.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102890.jpg" medium="image" />
     </item>
   </channel>
 </rss>
