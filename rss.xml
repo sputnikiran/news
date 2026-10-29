@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Thu, 29 Oct 2026 05:48:21 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 06:18:31 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>ملانیا ترامپ: روزنامه‌نگاران آمریکایی به عنوان ناظران بی‌طرف در آلیوشکی فعالیت خواهند کرد</title>
+      <link>https://sputnikiran.github.io/news/102914-ملانیا-ترامپ-روزنامهنگارا.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102914-ملانیا-ترامپ-روزنامهنگارا.html</guid>
+      <pubDate>Thu, 29 Oct 2026 06:17:00 GMT</pubDate>
+      <description>🔸ملانیا ترامپ، بانوی اول ایالات متحده آمریکا در سخنانی، اعلام کرد که چهار خبرنگار آمریکایی به عنوان ناظران بی‌طرف در آلیوشکی فعالیت خواهند کرد. آنها رهبران بشردوستانه…</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102914.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102914.jpg" medium="image" />
+    </item>
     <item>
       <title>تحلیل اسپوتنیک: اوکراین در دوران زلنسکی</title>
       <link>https://sputnikiran.github.io/news/102913-تحلیل-اسپوتنیک-اوکراین-در.html</link>
@@ -444,15 +453,6 @@
       <description></description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102862.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102862.jpg" medium="image" />
-    </item>
-    <item>
-      <title>تخلیه بیش از صد هزار نفر به دلیل طوفان «آرناب» از مناطق ساحلی هند</title>
-      <link>https://sputnikiran.github.io/news/102861-تخلیه-بیش-از-صد-هزار-نفر.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102861-تخلیه-بیش-از-صد-هزار-نفر.html</guid>
-      <pubDate>Wed, 28 Oct 2026 10:17:00 GMT</pubDate>
-      <description>🔸این طوفان با بادهای شدید همراه است و خطر پیامدهای ویرانگری را به دنبال دارد. کارشناسان هواشناسی سرعت بادهای مداوم را حدود 150 کیلومتر در ساعت و سرعت تندبادهای لحظه‌ای را بیش از 250 کیلومتر در ساعت برآورد کرده‌اند. 🔸مقامات هند، ده‌ها مورد از خدمات ریلی را لغو، پروازها را متوقف و مراکز آموزشی را در چندین منطقه تعطیل کرده‌اند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102861.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102861.jpg" medium="image" />
     </item>
   </channel>
 </rss>
