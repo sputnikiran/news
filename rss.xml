@@ -5,13 +5,40 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Thu, 29 Oct 2026 08:48:20 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 09:18:28 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>پوتین: روسیه در بحبوحه فشارهای خارجی، علاقه‌مند به انتقال برخی تأسیسات تولیدی به آفریقا است</title>
+      <link>https://sputnikiran.github.io/news/102929-پوتین-روسیه-در-بحبوحه-فشا.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102929-پوتین-روسیه-در-بحبوحه-فشا.html</guid>
+      <pubDate>Thu, 29 Oct 2026 09:17:00 GMT</pubDate>
+      <description>🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102929.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102929.jpg" medium="image" />
+    </item>
+    <item>
+      <title>پوتین: حجم مبادلات تجاری میان روسیه و کشورهای آفریقایی</title>
+      <link>https://sputnikiran.github.io/news/102928-پوتین-حجم-مبادلات-تجاری-م.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102928-پوتین-حجم-مبادلات-تجاری-م.html</guid>
+      <pubDate>Thu, 29 Oct 2026 09:17:00 GMT</pubDate>
+      <description>درصد افزایش یافته و به 27 میلیارد دلار رسیده است 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102928.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102928.jpg" medium="image" />
+    </item>
+    <item>
+      <title>پوتین: روسیه و آفریقا متحدانی واقعی در مسیر ایجاد جهانی چندقطبی هستند</title>
+      <link>https://sputnikiran.github.io/news/102927-پوتین-روسیه-و-آفریقا-متحد.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102927-پوتین-روسیه-و-آفریقا-متحد.html</guid>
+      <pubDate>Thu, 29 Oct 2026 09:17:00 GMT</pubDate>
+      <description>🔸 رئیس‌جمهور‌ روسیه در سخنانی گفت که آفریقا صادقانه به دنبال توسعه همکاری‌ها با روسیه است. روسیه همچنان متعهد به حمایت از آفریقا در دفاع از حاکمیت این قاره و تقویت اقتصاد و حوزه اجتماعی…</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102927.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102927.jpg" medium="image" />
+    </item>
     <item>
       <title>پوتین: روسیه و آفریقا متحدانی واقعی در مسیر ایجاد جهانی چندقطبی هستند</title>
       <link>https://sputnikiran.github.io/news/102926-پوتین-روسیه-و-آفریقا-متحد.html</link>
@@ -428,33 +455,6 @@
       <description>🔸به گزارش رسانه غربی به نقل از دو مقام مسئول، یک سامانه پدافند موشکی «پاتریوت» — که پنتاگون آن را از تگزاس برای انجام عملیات‌های مرتبط با ایران خارج کرده بود — اکنون به اسرائیل فرستاده می‌شود. داده‌های ردیابی پروازها نیز این موضوع را تأیید می‌کنند. به نظر می‌رسد منطقِ پشتِ این تصمیم با برنامه‌ریزی‌های خودِ پنتاگون همسو باشد: پیش‌بینی می‌شود که پس از سوم نوامبر، یک کارزار نظامی کوتاه اما شدید در منطقه رخ دهد. ایران وعده داده است که با انجام حملاتی در سراسر خاورمیانه تلافی کند و اسرائیل به عنوان </description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102876.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102876.jpg" medium="image" />
-    </item>
-    <item>
-      <title>رئیس اتحادیه آفریقا:‌ آفریقا در پی تنوع‌بخشی به روابط خود با روسیه و ایجاد امکانات جدید برای پرداخت و مسیرهای حمل‌ونقل است</title>
-      <link>https://sputnikiran.github.io/news/102875-رئیس-اتحادیه-آفریقا-آفریق.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102875-رئیس-اتحادیه-آفریقا-آفریق.html</guid>
-      <pubDate>Wed, 28 Oct 2026 12:18:00 GMT</pubDate>
-      <description>🔸 وی در سخنانی گفت که ظرفیت شراکت میان روسیه و آفریقا بسیار بالاست و باید در این زمینه به نتایج ملموس دست یافت 🔸 امیدواریم روسیه سهم شایسته‌ای در اقتصاد قاره آفریقا داشته باشد 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102875.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102875.jpg" medium="image" />
-    </item>
-    <item>
-      <title>جزییات‌ سخنان ولادیمیر پوتین در مجمع روسیه و آفریقا:</title>
-      <link>https://sputnikiran.github.io/news/102874-جزییات-سخنان-ولادیمیر-پوت.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102874-جزییات-سخنان-ولادیمیر-پوت.html</guid>
-      <pubDate>Wed, 28 Oct 2026 11:48:00 GMT</pubDate>
-      <description>🔸 دورانی که سرنوشت قاره‌های کامل توسط بلوک محدودی از کشورها تعیین می‌شد، به شکلی بازگشت‌ناپذیر رو به پایان است؛ 🔸 کشورهای غربی در تلاشند تا کشورهای آفریقایی را دوباره گرفتارِ «بندِ بدهی» کنند؛ جهانِ چندقطبی در حال تبدیل شدن به واقعیت است؛ این روندی غیرقابل بازگشت است؛ 🔸 کشورهایی که به ذهنیت استعماری و «انباشت ثروت‌های کلان به قیمتِ زیانِ دیگران» خو گرفته‌اند، در برابر نظم جهانی چندقطبی مقاومت می‌کنند؛ 🔸 کسب‌وکارهای روسی در آفریقا به بهره‌کشی غارتگرانه از منابع طبیعی نمی‌پردازند، بلکه در عوض،</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102874.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102874.jpg" medium="image" />
-    </item>
-    <item>
-      <title>مشروح سخنان پوتین دربارهٔ مشارکت روسیه در آفریقا</title>
-      <link>https://sputnikiran.github.io/news/102873-مشروح-سخنان-پوتین-دربارهٔ.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102873-مشروح-سخنان-پوتین-دربارهٔ.html</guid>
-      <pubDate>Wed, 28 Oct 2026 11:47:00 GMT</pubDate>
-      <description>🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102873.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102873.jpg" medium="image" />
     </item>
   </channel>
 </rss>
