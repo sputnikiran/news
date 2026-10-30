@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Fri, 30 Oct 2026 08:18:39 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 09:18:14 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>رویدادهای مهم جهان تا ظهر</title>
+      <link>https://sputnikiran.github.io/news/102985-رویدادهای-مهم-جهان-تا-ظهر.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102985-رویدادهای-مهم-جهان-تا-ظهر.html</guid>
+      <pubDate>Fri, 30 Oct 2026 09:17:00 GMT</pubDate>
+      <description>اکتبر 🛰یانا لانتراتووا، کمیسر حقوق بشر روسیه گفت که حدود 50 روزنامه نگار از کشورهای مختلف برای پوشش ماموریت بشردوستانه در آلیوشکی آمده اند. 🛰قیمت بیت‌کوین پس از گزارش مشکلات امنیتی در صرافی بایننس به زیر 77000 دلار سقوط کرد. 🛰وزارت دفاع روسیه گزارش داد که نیروهای مسلح روسیه به کارخانه رادیو کی‌یف که قطعات پهپادهای تهاجمی تولید می‌کرد، حمله کردند. 🛰ایلان ماسک: مأموران «فوق‌العاده هوشمند» آینده می‌توانند از طرح‌های ارز دیجیتال برای کسب درآمد خودشان استفاده کنند، نه برای انسان. 🛰 Sputnik Iran </description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102985.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102985.jpg" medium="image" />
+    </item>
     <item>
       <title>وزیر خارجه سودان: نشست روسیه و آفریقا فرصتی برای ارائه «چشم‌انداز مرحله احیای» سودان است</title>
       <link>https://sputnikiran.github.io/news/102984-وزیر-خارجه-سودان-نشست-روس.html</link>
@@ -444,15 +453,6 @@
       <description>درصد افزایش یافته و به 27 میلیارد دلار رسیده است 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102928.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102928.jpg" medium="image" />
-    </item>
-    <item>
-      <title>پوتین: روسیه و آفریقا متحدانی واقعی در مسیر ایجاد جهانی چندقطبی هستند</title>
-      <link>https://sputnikiran.github.io/news/102927-پوتین-روسیه-و-آفریقا-متحد.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102927-پوتین-روسیه-و-آفریقا-متحد.html</guid>
-      <pubDate>Thu, 29 Oct 2026 09:17:00 GMT</pubDate>
-      <description>🔸 رئیس‌جمهور‌ روسیه در سخنانی گفت که آفریقا صادقانه به دنبال توسعه همکاری‌ها با روسیه است. روسیه همچنان متعهد به حمایت از آفریقا در دفاع از حاکمیت این قاره و تقویت اقتصاد و حوزه اجتماعی…</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102927.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102927.jpg" medium="image" />
     </item>
   </channel>
 </rss>

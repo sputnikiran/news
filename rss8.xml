@@ -5,7 +5,7 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Fri, 30 Oct 2026 08:18:39 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 09:18:14 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss8.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
@@ -13,10 +13,19 @@
       <link>https://sputnikiran.github.io/news/</link>
     </image>
     <item>
+      <title>رویدادهای مهم جهان تا ظهر</title>
+      <link>https://sputnikiran.github.io/news/102985-رویدادهای-مهم-جهان-تا-ظهر.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102985-رویدادهای-مهم-جهان-تا-ظهر.html</guid>
+      <pubDate>Fri, 30 Oct 2026 09:18:14 GMT</pubDate>
+      <description>اکتبر 🛰یانا لانتراتووا، کمیسر حقوق بشر روسیه گفت که حدود 50 روزنامه نگار از کشورهای مختلف برای پوشش ماموریت بشردوستانه در آلیوشکی آمده اند. 🛰قیمت بیت‌کوین پس از گزارش مشکلات امنیتی در صرافی بایننس به زیر 77000 دلار سقوط کرد. 🛰وزارت دفاع روسیه گزارش داد که نیروهای مسلح روسیه به کارخانه رادیو کی‌یف که قطعات پهپادهای تهاجمی تولید می‌کرد، حمله کردند. 🛰ایلان ماسک: مأموران «فوق‌العاده هوشمند» آینده می‌توانند از طرح‌های ارز دیجیتال برای کسب درآمد خودشان استفاده کنند، نه برای انسان. 🛰 Sputnik Iran </description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102985.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102985.jpg" medium="image" />
+    </item>
+    <item>
       <title>وزیر خارجه سودان: نشست روسیه و آفریقا فرصتی برای ارائه «چشم‌انداز مرحله احیای» سودان است</title>
       <link>https://sputnikiran.github.io/news/102984-وزیر-خارجه-سودان-نشست-روس.html</link>
       <guid isPermaLink="true">https://sputnikiran.github.io/news/102984-وزیر-خارجه-سودان-نشست-روس.html</guid>
-      <pubDate>Fri, 30 Oct 2026 08:18:39 GMT</pubDate>
+      <pubDate>Fri, 30 Oct 2026 06:18:14 GMT</pubDate>
       <description>🛰محی‌الدین سالم احمد ابراهیم در مصاحبه‌ای اختصاصی با اسپوتنیک گفت: «در حوزه نظامی-دفاعی، روسیه نخستین کشوری بود که با ما همراه شد و این همکاری همچنان ادامه دارد.» 🛰این وزیر افزود، با اینکه درگیری‌ها در کشور بر همه چیز از زیرساخت‌ها و برق گرفته تا آب و بیمارستان‌ها تأثیر منفی گذاشته است، اما سودان در زمینه‌های گوناگون «ظرفیت‌های بسیاری برای ارائه» دارد. 💬او از جمله برجسته‌ترین حوزه‌های همکاری با روسیه را موارد زیر برشمرد: کشاورزی و دامپروری، انرژی، هوش مصنوعی، مواد معدنی، آموزش، بهداشت و سلامت</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102984.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102984.jpg" medium="image" />
@@ -25,7 +34,7 @@
       <title>داده‌های معاملاتی: سقوط شدید بیت‌کوین پس از هک بزرگترین صرافی ارزهای دیجیتال</title>
       <link>https://sputnikiran.github.io/news/102983-دادههای-معاملاتی-سقوط-شدی.html</link>
       <guid isPermaLink="true">https://sputnikiran.github.io/news/102983-دادههای-معاملاتی-سقوط-شدی.html</guid>
-      <pubDate>Fri, 30 Oct 2026 05:18:39 GMT</pubDate>
+      <pubDate>Fri, 30 Oct 2026 03:18:14 GMT</pubDate>
       <description>🔸قیمت بیت‌کوین پس از گزارش مشکلات امنیتی در صرافی بایننس، به زیر 77000 دلار رسید. 🔸قیمت طی 24 ساعت 4.23 درصد کاهش یافت و به 76953 دلار رسید. 🔸پیش از این، چانگ‌پنگ ژائو، بنیانگذار…</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102983.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102983.jpg" medium="image" />
@@ -34,7 +43,7 @@
       <title>یک تولیدکننده مهمات بلغاری از مشکلاتی در تولید پوکه فشنگ در اتحادیه اروپا خبر داده است</title>
       <link>https://sputnikiran.github.io/news/102982-یک-تولیدکننده-مهمات-بلغار.html</link>
       <guid isPermaLink="true">https://sputnikiran.github.io/news/102982-یک-تولیدکننده-مهمات-بلغار.html</guid>
-      <pubDate>Fri, 30 Oct 2026 02:18:39 GMT</pubDate>
+      <pubDate>Fri, 30 Oct 2026 00:18:14 GMT</pubDate>
       <description>🔸به دلیل فقدان استانداردهای یکسان در اتحادیه اروپا، پوکه‌های تولید شده در یک کشور ممکن است از نظر فیزیکی با سلاح‌های کشور دیگر سازگار نباشند و برنامه‌های افزایش سریع عرضه را خنثی کنند. این مطلب را هریستو ایبوشف، مدیرعامل شرکت دفاعی بلغارستانی آرسنال بیان کرد. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102982.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102982.jpg" medium="image" />
@@ -43,7 +52,7 @@
       <title>نرخ ارز، سکه و طلا تا ساعت</title>
       <link>https://sputnikiran.github.io/news/102981-نرخ-ارز،-سکه-و-طلا-تا-ساع.html</link>
       <guid isPermaLink="true">https://sputnikiran.github.io/news/102981-نرخ-ارز،-سکه-و-طلا-تا-ساع.html</guid>
-      <pubDate>Thu, 29 Oct 2026 23:18:39 GMT</pubDate>
+      <pubDate>Thu, 29 Oct 2026 21:18:14 GMT</pubDate>
       <description>:00 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102981.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102981.jpg" medium="image" />
@@ -52,7 +61,7 @@
       <title>یک قطار مترو با بدنه فیبر کربنی در ووهان چین راه‌اندازی شد</title>
       <link>https://sputnikiran.github.io/news/102980-یک-قطار-مترو-با-بدنه-فیبر.html</link>
       <guid isPermaLink="true">https://sputnikiran.github.io/news/102980-یک-قطار-مترو-با-بدنه-فیبر.html</guid>
-      <pubDate>Thu, 29 Oct 2026 20:18:39 GMT</pubDate>
+      <pubDate>Thu, 29 Oct 2026 18:18:14 GMT</pubDate>
       <description>🚇این ماده کامپوزیتی در بدنه دو واگن جلویی و جزئیات کلیدی داخلی استفاده شده است. این امر باعث می‌شود قطار 3 تن سبک‌تر شود و مصرف انرژی آن کاهش یابد. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102980.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102980.jpg" medium="image" />
@@ -61,7 +70,7 @@
       <title>رسانه‌های جهانی مأموریت بشردوستانه در «آلیوشکی» را پوشش می‌دهند</title>
       <link>https://sputnikiran.github.io/news/102977-رسانههای-جهانی-مأموریت-بش.html</link>
       <guid isPermaLink="true">https://sputnikiran.github.io/news/102977-رسانههای-جهانی-مأموریت-بش.html</guid>
-      <pubDate>Thu, 29 Oct 2026 17:18:39 GMT</pubDate>
+      <pubDate>Thu, 29 Oct 2026 15:18:14 GMT</pubDate>
       <description>▫️یانا لانترا‌تووا، مسئول رسیدگی به حقوق بشر در روسیه، اعلام کرد که حدود 50 روزنامه‌نگار از کشورهای مختلف برای پوشش خبری یک مأموریت بشردوستانه وارد «آلیوشکی» شده‌اند. ▫️این مأموریت با حمایت…</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102977.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102977.jpg" medium="image" />
@@ -70,19 +79,10 @@
       <title>وزارت دفاع روسیه: نیروهای مسلح روسیه شب گذشته حمله‌ای گسترده علیه اوکراین انجام داد</title>
       <link>https://sputnikiran.github.io/news/102976-وزارت-دفاع-روسیه-نیروهای.html</link>
       <guid isPermaLink="true">https://sputnikiran.github.io/news/102976-وزارت-دفاع-روسیه-نیروهای.html</guid>
-      <pubDate>Thu, 29 Oct 2026 14:18:39 GMT</pubDate>
+      <pubDate>Thu, 29 Oct 2026 12:18:14 GMT</pubDate>
       <description>▫️این حملات، تأسیسات صنایع دفاعی و زیرساخت‌های انرژی را در شهر کی‌یف و همچنین در مناطق کی‌یف و دنیپروپتروفسک هدف قرار دادند. ▫️علاوه بر این، به زیرساخت‌های بندری در منطقه اودسا و شناورهایی که در خدمت ارتش اوکراین بودند نیز حمله شد. ▫️تصویر از شبکه‌های اجتماعی. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102976.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102976.jpg" medium="image" />
-    </item>
-    <item>
-      <title>رسانه‌های جهانی مأموریت بشردوستانه در «آلیوشکی» را پوشش می‌دهند</title>
-      <link>https://sputnikiran.github.io/news/102975-رسانههای-جهانی-مأموریت-بش.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102975-رسانههای-جهانی-مأموریت-بش.html</guid>
-      <pubDate>Thu, 29 Oct 2026 11:18:39 GMT</pubDate>
-      <description>▫️یانا لانترا‌تووا، مسئول رسیدگی به حقوق بشر در روسیه، اعلام کرد که حدود 50 روزنامه‌نگار از کشورهای مختلف برای پوشش خبری یک مأموریت بشردوستانه وارد «آلیوشکی» شده‌اند. ▫️این مأموریت با حمایت ملانیا ترامپ، بانوی اول ایالات متحده، شکل گرفته است. برای نخستین بار 4 روزنامه‌نگار آمریکایی به عنوان ناظران بی‌طرف به این منطقه اعزام شده‌اند. ▫️یک هفته پیش، والری گراسیموف، رئیس ستاد کل نیروهای مسلح روسیه، اعلام کرد که در ارتباط با عملیات بشردوستانه در منطقه آلشیک، ارتش روسیه از ساعت 4 صبح به وقت مسکو در 27</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102975.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102975.jpg" medium="image" />
     </item>
   </channel>
 </rss>
