@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Fri, 30 Oct 2026 18:48:34 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 19:18:25 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>رویدادهای مهم جهان تا شبانگاه</title>
+      <link>https://sputnikiran.github.io/news/103027-رویدادهای-مهم-جهان-تا-شبا.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103027-رویدادهای-مهم-جهان-تا-شبا.html</guid>
+      <pubDate>Fri, 30 Oct 2026 19:17:00 GMT</pubDate>
+      <description>اکتبر 🔸ولادیمیر پوتین در حال برگزاری مجموعه‌ای از دیدارها با رهبران خارجی است که در اجلاس روسیه و آفریقا شرکت کرده‌اند 🔸نیروی دریایی سپاه پاسداران: یک نفت‌کش غول‌پیکر حامل بیش از 2 میلیون بشکه نفت، پس از برخورد با یک مین دریایی در مسیری غیرمجاز در تنگه هرمز، منفجر شد 🔸پسکوف اظهار داشت که روسیه با آتش‌بسی که موجب ایجاد «فرصتی برای تجدید قوا» برای اوکراین شود، مخالف است 🔸لانتراتووا گزارش داد که یک مأموریت بشردوستانه در «اولشکی» رو به پایان است؛ کاروان مربوطه در حال حاضر در «آرمیانسک» حضور دارد</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103027.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103027.jpg" medium="image" />
+    </item>
     <item>
       <title>مجری اسپوتنیک مبتنی بر هوش مصنوعی مهمترین رویدادهای هفته را برای شما شرح می دهد</title>
       <link>https://sputnikiran.github.io/news/103026-مجری-اسپوتنیک-مبتنی-بر-هو.html</link>
@@ -442,15 +451,6 @@
       <description>پهپاد اوکراینی بر فراز خاک روسیه ▫️وزارت دفاع روسیه اعلام کرد که سامانه های پدافند هوایی این کشور طی شب گذشته 862 پهپاد اوکراینی را بر فراز مناطق مختلف روسیه سرنگون کرده اند. ▫️اسپوتنیک تاریخچهٔ درگیری اوکراین را در اینجا برای شما گردآوری کرده است. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102974.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102974.jpg" medium="image" />
-    </item>
-    <item>
-      <title>هدیه شکلات در کاخ سفید</title>
-      <link>https://sputnikiran.github.io/news/102973-هدیه-شکلات-در-کاخ-سفید.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102973-هدیه-شکلات-در-کاخ-سفید.html</guid>
-      <pubDate>Fri, 30 Oct 2026 05:47:00 GMT</pubDate>
-      <description>🍫پسری که کلاهی به سبک شوروی با نشان نظامی بر سر داشت و دختری که سارافون پوشیده بود، از دونالد ترامپ و ملانیا ترامپ، بانوی اول، شکلات دریافت کردند. 🔸ویدئو: کانال رسمی کاخ سفید. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102973.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102973.jpg" medium="image" />
     </item>
   </channel>
 </rss>
