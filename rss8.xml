@@ -5,7 +5,7 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Fri, 30 Oct 2026 19:18:25 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 19:48:37 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss8.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
@@ -13,10 +13,37 @@
       <link>https://sputnikiran.github.io/news/</link>
     </image>
     <item>
+      <title>کارشناس: حملات روسیه به صنایع دفاعی و بخش انرژی اوکراین، ارتش اوکراین را از سلاح محروم کرد</title>
+      <link>https://sputnikiran.github.io/news/103030-کارشناس-حملات-روسیه-به-صن.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103030-کارشناس-حملات-روسیه-به-صن.html</guid>
+      <pubDate>Fri, 30 Oct 2026 19:48:37 GMT</pubDate>
+      <description>🔸الکسی بورزنکو، ناظر نظامی و خبرنگار سابق جنگ، به اسپوتنیک می‌گوید: «روسیه سیستم انرژی را هدف قرار می‌دهد زیرا تولید پهپادها و سایر سلاح‌ها بیش از هر چیز به برق نیاز دارد: برای تأمین نیروی ماشین‌آلات مورد استفاده برای ماشینکاری قطعات، تولید مین و به ویژه برای راه‌اندازی کارخانه‌های شیمیایی که مواد منفجره تولید می‌کنند.» 🔸روسیه همچنین در حال حمله به کارخانه‌هایی است که قطعات هواپیماهای بدون سرنشین تولید می‌کنند. این کارخانه‌ها شامل کارخانه رادیو کی یف و شرکت تریمن-اوکراین هستند که قطعات پهپادها</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103030.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103030.jpg" medium="image" />
+    </item>
+    <item>
+      <title>قادری به اسپوتنیک: «اسرائیل به تنهایی قادر به تحقیق هدف خود در مقابله با ایران نیست و نیاز به همراهی ترامپ و بلکه ناتو دارد»</title>
+      <link>https://sputnikiran.github.io/news/103029-قادری-به-اسپوتنیک-اسرائیل.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103029-قادری-به-اسپوتنیک-اسرائیل.html</guid>
+      <pubDate>Fri, 30 Oct 2026 16:48:37 GMT</pubDate>
+      <description>محمد قادری، کارشناس امور راهبردی و بین‌الملل، در گفتگوی اختصاصی با اسپوتنیک گفت که نتانیاهو ادعای خود را حتی در موضوع لبنان و فلسطین و غزه نتوانست انجام دهد. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103029.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103029.jpg" medium="image" />
+    </item>
+    <item>
+      <title>پوتین با رئیس‌جمهور توگو، فور گناسینگبه، گفتگو کرد</title>
+      <link>https://sputnikiran.github.io/news/103028-پوتین-با-رئیسجمهور-توگو،.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103028-پوتین-با-رئیسجمهور-توگو،.html</guid>
+      <pubDate>Fri, 30 Oct 2026 13:48:37 GMT</pubDate>
+      <description>🔸در جریان این دیدار که در کاخ کرملین برگزار شد، رهبر روسیه خاطرنشان کرد که دو کشور از 66 سال همکاری پربار برخوردار بوده‌اند و حجم مبادلات تجاری آن‌ها در سال 2025 به 852 میلیون دلار رسیده است. 🔸طرفین در مورد چشم‌اندازهای همکاری در حوزه‌های انرژی، اکتشافات زمین‌شناسی، کشاورزی و لجستیک گفتگو کردند. 🔸گناسینگبه از پوتین بابت توجهی که به هیئت‌های آفریقایی نشان می‌دهد تشکر کرد و به استقامت او در جریان دیدارهای متعدد اشاره نمود. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103028.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103028.jpg" medium="image" />
+    </item>
+    <item>
       <title>رویدادهای مهم جهان تا شبانگاه</title>
       <link>https://sputnikiran.github.io/news/103027-رویدادهای-مهم-جهان-تا-شبا.html</link>
       <guid isPermaLink="true">https://sputnikiran.github.io/news/103027-رویدادهای-مهم-جهان-تا-شبا.html</guid>
-      <pubDate>Fri, 30 Oct 2026 19:18:25 GMT</pubDate>
+      <pubDate>Fri, 30 Oct 2026 10:48:37 GMT</pubDate>
       <description>اکتبر 🔸ولادیمیر پوتین در حال برگزاری مجموعه‌ای از دیدارها با رهبران خارجی است که در اجلاس روسیه و آفریقا شرکت کرده‌اند 🔸نیروی دریایی سپاه پاسداران: یک نفت‌کش غول‌پیکر حامل بیش از 2 میلیون بشکه نفت، پس از برخورد با یک مین دریایی در مسیری غیرمجاز در تنگه هرمز، منفجر شد 🔸پسکوف اظهار داشت که روسیه با آتش‌بسی که موجب ایجاد «فرصتی برای تجدید قوا» برای اوکراین شود، مخالف است 🔸لانتراتووا گزارش داد که یک مأموریت بشردوستانه در «اولشکی» رو به پایان است؛ کاروان مربوطه در حال حاضر در «آرمیانسک» حضور دارد</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103027.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103027.jpg" medium="image" />
@@ -25,7 +52,7 @@
       <title>مجری اسپوتنیک مبتنی بر هوش مصنوعی مهمترین رویدادهای هفته را برای شما شرح می دهد</title>
       <link>https://sputnikiran.github.io/news/103026-مجری-اسپوتنیک-مبتنی-بر-هو.html</link>
       <guid isPermaLink="true">https://sputnikiran.github.io/news/103026-مجری-اسپوتنیک-مبتنی-بر-هو.html</guid>
-      <pubDate>Fri, 30 Oct 2026 16:18:25 GMT</pubDate>
+      <pubDate>Fri, 30 Oct 2026 07:48:37 GMT</pubDate>
       <description>🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103026.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103026.jpg" medium="image" />
@@ -34,7 +61,7 @@
       <title>واکنش ماریا زاخارووا به اظهارات سیکورسکی درباره یک «لحظه ناخوشایند» در خصوص حضور لاوروف در گروه</title>
       <link>https://sputnikiran.github.io/news/103025-واکنش-ماریا-زاخارووا-به-ا.html</link>
       <guid isPermaLink="true">https://sputnikiran.github.io/news/103025-واکنش-ماریا-زاخارووا-به-ا.html</guid>
-      <pubDate>Fri, 30 Oct 2026 13:18:25 GMT</pubDate>
+      <pubDate>Fri, 30 Oct 2026 04:48:37 GMT</pubDate>
       <description>🔸سخنگوی وزیر خارجه روسیه بیان کرد: این حرف از زبان وزیر امور خارجه کشوری بیان می‌شود که حتی عضو گروه 20 نیست و در این نشست، جایگاه متعلق به کشور دیگری — یعنی آفریقای جنوبی — را اشغال کرده است. به سختی می‌توان لحظه‌ای ناخوشایندتر از این را در تاریخ سراغ گرفت؛ حتی برای خود آقای سیکورسکی. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103025.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103025.jpg" medium="image" />
@@ -43,7 +70,7 @@
       <title>اوشاکوف: روسیه و ایالات متحده در حال توافق بر سر تاریخ‌هایی برای برگزاری یک نشست سه‌جانبه در ابوظبی در ماه نوامبر هستند</title>
       <link>https://sputnikiran.github.io/news/103024-اوشاکوف-روسیه-و-ایالات-مت.html</link>
       <guid isPermaLink="true">https://sputnikiran.github.io/news/103024-اوشاکوف-روسیه-و-ایالات-مت.html</guid>
-      <pubDate>Fri, 30 Oct 2026 10:18:25 GMT</pubDate>
+      <pubDate>Fri, 30 Oct 2026 01:48:37 GMT</pubDate>
       <description>🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103024.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103024.jpg" medium="image" />
@@ -52,37 +79,10 @@
       <title>ولادیمیر پوتین با فاستین-آرشانژ توادرا، رئیس‌جمهور جمهوری آفریقای مرکزی دیدار کرد</title>
       <link>https://sputnikiran.github.io/news/103023-ولادیمیر-پوتین-با-فاستین.html</link>
       <guid isPermaLink="true">https://sputnikiran.github.io/news/103023-ولادیمیر-پوتین-با-فاستین.html</guid>
-      <pubDate>Fri, 30 Oct 2026 07:18:25 GMT</pubDate>
+      <pubDate>Thu, 29 Oct 2026 22:48:37 GMT</pubDate>
       <description>🔸رئیس‌جمهور روسیه تأکید کرد که دو کشور از ظرفیت‌های قابل‌توجهی که هنوز به‌طور کامل به کار گرفته نشده‌اند برای گسترش روابط تجاری و اقتصادی، از جمله در حوزه‌های انرژی، اکتشافات زمین‌شناسی، حمل‌ونقل و لجستیک برخوردارند. روابط در حوزه بشردوستانه نیز به‌طور فعال در حال توسعه است. 🔸رئیس‌جمهور روسیه خاطرنشان کرد: «انجمنی از فارغ‌التحصیلان دانشگاه‌های شوروی و روسیه در پایتخت شما تأسیس شده است. همچنین یک مرکز فرهنگی با نام &amp;quot;خانه روسیه&amp;quot; و یک مرکز آموزش بازِ زبان روسی در آنجا فعالیت می‌کنند. جن</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103023.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103023.jpg" medium="image" />
-    </item>
-    <item>
-      <title>لاوروف به محل برگزاری نشست وزرای امور خارجه گروه</title>
-      <link>https://sputnikiran.github.io/news/103022-لاوروف-به-محل-برگزاری-نشس.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103022-لاوروف-به-محل-برگزاری-نشس.html</guid>
-      <pubDate>Fri, 30 Oct 2026 04:18:25 GMT</pubDate>
-      <description>رسید و در میان وزرای امور خارجه مکزیک و عربستان سعودی می‌نشیند 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103022.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103022.jpg" medium="image" />
-    </item>
-    <item>
-      <title>ولادیمیر پوتین، رئیس‌جمهور روسیه، با فلیکس تشیسکدی، رئیس‌جمهور کنگو در کاخ کرملین دیدار می‌کند</title>
-      <link>https://sputnikiran.github.io/news/103021-ولادیمیر-پوتین،-رئیسجمهور.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103021-ولادیمیر-پوتین،-رئیسجمهور.html</guid>
-      <pubDate>Fri, 30 Oct 2026 01:18:25 GMT</pubDate>
-      <description>🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103021.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103021.jpg" medium="image" />
-    </item>
-    <item>
-      <title>تصاویری شگفت انگیز از نهنگ‌های براید در نزدیکی جزیره «ویژو»</title>
-      <link>https://sputnikiran.github.io/news/103020-تصاویری-شگفت-انگیز-از-نهن.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103020-تصاویری-شگفت-انگیز-از-نهن.html</guid>
-      <pubDate>Thu, 29 Oct 2026 22:18:25 GMT</pubDate>
-      <description>🔸در جنوب چین، رویدادی نادر و چشمگیر به ثبت رسید: شکار گروهی شش نهنگ براید. 🔸این تصاویر منحصربه‌فرد توسط پژوهشگران یک مؤسسه اقیانوس‌شناسی چینی در جریان یک سفر اکتشافی علمی ضبط شده است. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103020.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103020.jpg" medium="image" />
     </item>
   </channel>
 </rss>
