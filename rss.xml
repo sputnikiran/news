@@ -5,13 +5,31 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Fri, 30 Oct 2026 05:48:29 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 06:18:38 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>رسانه‌های جهانی مأموریت بشردوستانه در «آلیوشکی» را پوشش می‌دهند</title>
+      <link>https://sputnikiran.github.io/news/102975-رسانههای-جهانی-مأموریت-بش.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102975-رسانههای-جهانی-مأموریت-بش.html</guid>
+      <pubDate>Fri, 30 Oct 2026 06:17:00 GMT</pubDate>
+      <description>▫️یانا لانترا‌تووا، مسئول رسیدگی به حقوق بشر در روسیه، اعلام کرد که حدود 50 روزنامه‌نگار از کشورهای مختلف برای پوشش خبری یک مأموریت بشردوستانه وارد «آلیوشکی» شده‌اند. ▫️این مأموریت با حمایت ملانیا ترامپ، بانوی اول ایالات متحده، شکل گرفته است. برای نخستین بار 4 روزنامه‌نگار آمریکایی به عنوان ناظران بی‌طرف به این منطقه اعزام شده‌اند. ▫️یک هفته پیش، والری گراسیموف، رئیس ستاد کل نیروهای مسلح روسیه، اعلام کرد که در ارتباط با عملیات بشردوستانه در منطقه آلشیک، ارتش روسیه از ساعت 4 صبح به وقت مسکو در 27</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102975.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102975.jpg" medium="image" />
+    </item>
+    <item>
+      <title>رهگیری و انهدام</title>
+      <link>https://sputnikiran.github.io/news/102974-رهگیری-و-انهدام.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102974-رهگیری-و-انهدام.html</guid>
+      <pubDate>Fri, 30 Oct 2026 06:17:00 GMT</pubDate>
+      <description>پهپاد اوکراینی بر فراز خاک روسیه ▫️وزارت دفاع روسیه اعلام کرد که سامانه های پدافند هوایی این کشور طی شب گذشته 862 پهپاد اوکراینی را بر فراز مناطق مختلف روسیه سرنگون کرده اند. ▫️اسپوتنیک تاریخچهٔ درگیری اوکراین را در اینجا برای شما گردآوری کرده است. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102974.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102974.jpg" medium="image" />
+    </item>
     <item>
       <title>هدیه شکلات در کاخ سفید</title>
       <link>https://sputnikiran.github.io/news/102973-هدیه-شکلات-در-کاخ-سفید.html</link>
@@ -433,24 +451,6 @@
       <description>🔸به‌ گزارش روزنامه «دِ نیشن»، بالا آمدن شدید سطح آب ناشی از بارندگی‌های سنگین و مداوم، و همچنین ورود حجم قابل‌توجهی از آب از مناطق همجوار موجب سیل شده است. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102918.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102918.jpg" medium="image" />
-    </item>
-    <item>
-      <title>شرکت‌کنندگان در اجلاس روسیه و آفریقا برای حضور در نشست عمومی وارد کرملین شدند</title>
-      <link>https://sputnikiran.github.io/news/102917-شرکتکنندگان-در-اجلاس-روسی.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102917-شرکتکنندگان-در-اجلاس-روسی.html</guid>
-      <pubDate>Thu, 29 Oct 2026 06:47:00 GMT</pubDate>
-      <description>🔸قرار است ولادیمیر پوتین، رئیس‌جمهور روسیه، در این نشست سخنرانی کند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102917.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102917.jpg" medium="image" />
-    </item>
-    <item>
-      <title>استقبال پوتین از رهبران اجلاس روسیه و آفریقا در کرملین</title>
-      <link>https://sputnikiran.github.io/news/102916-استقبال-پوتین-از-رهبران-ا.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102916-استقبال-پوتین-از-رهبران-ا.html</guid>
-      <pubDate>Thu, 29 Oct 2026 06:47:00 GMT</pubDate>
-      <description>▫️رئیس جمهور روسیه در مراسمی در کاخ بزرگ کرملین از هیئت‌های آفریقایی استقبال کرد، 48 کشور در این اجلاس شرکت داشتند، از جمله 22 کشور با بالاترین سطح نمایندگی. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102916.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102916.jpg" medium="image" />
     </item>
   </channel>
 </rss>
