@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Fri, 30 Oct 2026 18:18:34 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 18:48:34 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>مجری اسپوتنیک مبتنی بر هوش مصنوعی مهمترین رویدادهای هفته را برای شما شرح می دهد</title>
+      <link>https://sputnikiran.github.io/news/103026-مجری-اسپوتنیک-مبتنی-بر-هو.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103026-مجری-اسپوتنیک-مبتنی-بر-هو.html</guid>
+      <pubDate>Fri, 30 Oct 2026 18:47:00 GMT</pubDate>
+      <description>🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103026.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103026.jpg" medium="image" />
+    </item>
     <item>
       <title>واکنش ماریا زاخارووا به اظهارات سیکورسکی درباره یک «لحظه ناخوشایند» در خصوص حضور لاوروف در گروه</title>
       <link>https://sputnikiran.github.io/news/103025-واکنش-ماریا-زاخارووا-به-ا.html</link>
@@ -442,15 +451,6 @@
       <description>🍫پسری که کلاهی به سبک شوروی با نشان نظامی بر سر داشت و دختری که سارافون پوشیده بود، از دونالد ترامپ و ملانیا ترامپ، بانوی اول، شکلات دریافت کردند. 🔸ویدئو: کانال رسمی کاخ سفید. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102973.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102973.jpg" medium="image" />
-    </item>
-    <item>
-      <title>کرملین موضع روسیه در مورد صلح با اوکراین را تشریح کرد</title>
-      <link>https://sputnikiran.github.io/news/102972-کرملین-موضع-روسیه-در-مورد.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102972-کرملین-موضع-روسیه-در-مورد.html</guid>
-      <pubDate>Fri, 30 Oct 2026 05:17:00 GMT</pubDate>
-      <description>🛰دمیتری پسکوف، دبیر مطبوعاتی ریاست جمهوری، گفت که روسیه خواهان دستیابی به صلح پایدار در اوکراین برای نسل‌های آینده است. 🛰سخنگوی کرملین تأکید کرد که مسکو نه به دنبال آتش‌بس، بلکه به دنبال پایان کامل درگیری است. 🛰روز سه‌شنبه، رهبر روسیه از طریق تلفن با استاب و استوره در مورد روند صلح گفتگو کرد. ولادیمیر پوتین خاطرنشان کرد که توافق بلندمدت تنها با در نظر گرفتن کامل منافع مشروع مسکو امکان‌پذیر است. او همچنین به سیاست‌های تقابلی کشورهای اتحادیه اروپا و ناتو که منجر به طولانی شدن خصومت‌ها می‌شود، ت</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102972.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102972.jpg" medium="image" />
     </item>
   </channel>
 </rss>
