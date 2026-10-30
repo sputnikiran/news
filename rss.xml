@@ -5,13 +5,40 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Fri, 30 Oct 2026 07:48:31 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 08:18:39 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>وزیر خارجه سودان: نشست روسیه و آفریقا فرصتی برای ارائه «چشم‌انداز مرحله احیای» سودان است</title>
+      <link>https://sputnikiran.github.io/news/102984-وزیر-خارجه-سودان-نشست-روس.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102984-وزیر-خارجه-سودان-نشست-روس.html</guid>
+      <pubDate>Fri, 30 Oct 2026 08:17:00 GMT</pubDate>
+      <description>🛰محی‌الدین سالم احمد ابراهیم در مصاحبه‌ای اختصاصی با اسپوتنیک گفت: «در حوزه نظامی-دفاعی، روسیه نخستین کشوری بود که با ما همراه شد و این همکاری همچنان ادامه دارد.» 🛰این وزیر افزود، با اینکه درگیری‌ها در کشور بر همه چیز از زیرساخت‌ها و برق گرفته تا آب و بیمارستان‌ها تأثیر منفی گذاشته است، اما سودان در زمینه‌های گوناگون «ظرفیت‌های بسیاری برای ارائه» دارد. 💬او از جمله برجسته‌ترین حوزه‌های همکاری با روسیه را موارد زیر برشمرد: کشاورزی و دامپروری، انرژی، هوش مصنوعی، مواد معدنی، آموزش، بهداشت و سلامت</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102984.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102984.jpg" medium="image" />
+    </item>
+    <item>
+      <title>داده‌های معاملاتی: سقوط شدید بیت‌کوین پس از هک بزرگترین صرافی ارزهای دیجیتال</title>
+      <link>https://sputnikiran.github.io/news/102983-دادههای-معاملاتی-سقوط-شدی.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102983-دادههای-معاملاتی-سقوط-شدی.html</guid>
+      <pubDate>Fri, 30 Oct 2026 08:17:00 GMT</pubDate>
+      <description>🔸قیمت بیت‌کوین پس از گزارش مشکلات امنیتی در صرافی بایننس، به زیر 77000 دلار رسید. 🔸قیمت طی 24 ساعت 4.23 درصد کاهش یافت و به 76953 دلار رسید. 🔸پیش از این، چانگ‌پنگ ژائو، بنیانگذار…</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102983.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102983.jpg" medium="image" />
+    </item>
+    <item>
+      <title>یک تولیدکننده مهمات بلغاری از مشکلاتی در تولید پوکه فشنگ در اتحادیه اروپا خبر داده است</title>
+      <link>https://sputnikiran.github.io/news/102982-یک-تولیدکننده-مهمات-بلغار.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/102982-یک-تولیدکننده-مهمات-بلغار.html</guid>
+      <pubDate>Fri, 30 Oct 2026 08:17:00 GMT</pubDate>
+      <description>🔸به دلیل فقدان استانداردهای یکسان در اتحادیه اروپا، پوکه‌های تولید شده در یک کشور ممکن است از نظر فیزیکی با سلاح‌های کشور دیگر سازگار نباشند و برنامه‌های افزایش سریع عرضه را خنثی کنند. این مطلب را هریستو ایبوشف، مدیرعامل شرکت دفاعی بلغارستانی آرسنال بیان کرد. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102982.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102982.jpg" medium="image" />
+    </item>
     <item>
       <title>نرخ ارز، سکه و طلا تا ساعت</title>
       <link>https://sputnikiran.github.io/news/102981-نرخ-ارز،-سکه-و-طلا-تا-ساع.html</link>
@@ -426,31 +453,6 @@
       <description>🔸 رئیس‌جمهور‌ روسیه در سخنانی گفت که آفریقا صادقانه به دنبال توسعه همکاری‌ها با روسیه است. روسیه همچنان متعهد به حمایت از آفریقا در دفاع از حاکمیت این قاره و تقویت اقتصاد و حوزه اجتماعی…</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102927.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102927.jpg" medium="image" />
-    </item>
-    <item>
-      <title>پوتین: روسیه و آفریقا متحدانی واقعی در مسیر ایجاد جهانی چندقطبی هستند</title>
-      <link>https://sputnikiran.github.io/news/102926-پوتین-روسیه-و-آفریقا-متحد.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102926-پوتین-روسیه-و-آفریقا-متحد.html</guid>
-      <pubDate>Thu, 29 Oct 2026 08:47:00 GMT</pubDate>
-      <description>🔸 رئیس‌جمهور‌ روسیه در سخنانی گفت که آفریقا صادقانه به دنبال توسعه همکاری‌ها با روسیه است. روسیه همچنان متعهد به حمایت از آفریقا در دفاع از حاکمیت این قاره و تقویت اقتصاد و حوزه اجتماعی آن است. 🔸 شرکت‌های روسی در آفریقا بر اساس شرایط برابر فعالیت می‌کنند، نه اینکه همچون دوران استعمار، صرفاً به استخراج منابع بپردازند. 🔸پوتین اظهار داشت: سهم روبل در مبادلات تجاری روسیه و آفریقا به 85 درصد می‌رسد. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102926.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102926.jpg" medium="image" />
-    </item>
-    <item>
-      <title>سخنگوی کرملین: حملات پهپادی به مسکو در طی نشست سران روسیه و آفریقا، بیش‌ازپیش بر ضرورت ادامه «عملیات نظامی ویژه روسیه در اوکراین» تأکید دارد</title>
-      <link>https://sputnikiran.github.io/news/102925-سخنگوی-کرملین-حملات-پهپاد.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102925-سخنگوی-کرملین-حملات-پهپاد.html</guid>
-      <pubDate>Thu, 29 Oct 2026 08:47:00 GMT</pubDate>
-      <description>🔸دیمیتری پسکوف در واکنش به حملات نیروهای مسلح اوکراین به مسکو گفت که سامانه پدافند هوایی به‌طور مؤثر عمل می‌کند. 🔸پسکوف در ادامه اظهار داشت که روسیه انتظار دارد ساکنان «آلیوشکی» بتوانند امروز یا فردا کمک‌های بشردوستانه دریافت کنند و کسانی که مایل به ترک این منطقه هستند، بتوانند آنجا را ترک نمایند. 🔸وی تأکید کرد که مأموریت بشردوستانه در اولشکی حائز اهمیت است و تلاش‌های ایالات متحده آمریکا در راستای برقراری صلح، بسیار ارزشمند تلقی می‌شود. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-    </item>
-    <item>
-      <title>دومین روز از نشست سران روسیه و آفریقا در مسکو در جریان است</title>
-      <link>https://sputnikiran.github.io/news/102924-دومین-روز-از-نشست-سران-رو.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102924-دومین-روز-از-نشست-سران-رو.html</guid>
-      <pubDate>Thu, 29 Oct 2026 08:47:00 GMT</pubDate>
-      <description>🔸شمار زیادی از روزنامه‌نگاران، نمایندگان رسانه‌ها و مقامات عالی‌رتبه آفریقایی از سراسر این قاره در این رویداد حضور یافته‌اند تا این مناسبت مهم را پوشش دهند؛ رویدادی که دستاورد کلیدی آن، تصویب بیانیه…</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102924.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102924.jpg" medium="image" />
     </item>
   </channel>
 </rss>
