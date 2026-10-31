@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Sat, 31 Oct 2026 19:48:10 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 20:18:17 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>دبیر شورای عالی امنیت ملی ایران: دیپلماسی میانجی‌ها برای دریافت پیشنهادهای جدید در تهران ادامه دارد</title>
+      <link>https://sputnikiran.github.io/news/103096-دبیر-شورای-عالی-امنیت-ملی.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103096-دبیر-شورای-عالی-امنیت-ملی.html</guid>
+      <pubDate>Sat, 31 Oct 2026 20:17:00 GMT</pubDate>
+      <description>🔸سرلشگر رضایی گفت: در پی پیگیری‌های مکرر طرف آمریکایی برای ورود به مذاکره، جمهوری اسلامی ایران اعلام کرد هیچ گفتگوی مستقیمی انجام نخواهد شد، مگر آنکه شروط هفت‌گانه ایران به‌طور کامل به اجرا درآیند. 🔸این شروط از طریق واسطه‌هایی (از جمله پاکستان و قطر) منتقل شد و تأکید گردید که بدون عمل به این شروط، نه تنگه هرمز بازگشایی می‌شود و نه مذاکره‌ای شکل خواهد گرفت. 🔸ایران شیوه‌ای متفاوت از دیپلماسی گذشته را در پیش گرفته و شرط هرگونه گفتگو در مراحل بعدی را تغییر رفتار واقعی آمریکا از طریق پذیرش این شرو</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103096.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103096.jpg" medium="image" />
+    </item>
     <item>
       <title>کدو تنبل‌های غول‌پیکر درخشان و ارواح، بندر ویکتوریای هنگ کنگ را در طول نمایش پهپادهای هالووین روشن کردند</title>
       <link>https://sputnikiran.github.io/news/103095-کدو-تنبلهای-غولپیکر-درخشا.html</link>
@@ -448,15 +457,6 @@
       <description>محمد قادری، کارشناس امور راهبردی و بین‌الملل، در گفتگوی اختصاصی با اسپوتنیک گفت که ترامپ توجیهی برای ادامه حمله نظامی نمی‌بیند و از مشاورین خود سؤال می‌کند گام بعدی در این رابطه چه خواهد بود. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103034.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103034.jpg" medium="image" />
-    </item>
-    <item>
-      <title>لاوروف: روسیه از تمایل طرف آمریکایی برای سیاست زدایی در گفتگوهای گروه</title>
-      <link>https://sputnikiran.github.io/news/103033-لاوروف-روسیه-از-تمایل-طرف.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103033-لاوروف-روسیه-از-تمایل-طرف.html</guid>
-      <pubDate>Fri, 30 Oct 2026 20:47:00 GMT</pubDate>
-      <description>حمایت می‌کند ▪️نکات کلیدی اظهارات وزیر خارجه روسیه: 🔸 کار بر روی سند نهایی اجلاس گروه 20 هم‌اکنون آغاز شده و مسائل متعددی در آن مطرح است. 🔸 روسیه هیچ‌گونه ممنوعیتی برای فروش سوخت به هیچ‌کس ندارد و اینکه ایالات متحده چگونه با محدودیت‌های خود برخورد می‌کند، مسئله خود آن‌هاست. 🔸وی در جریان سفر خود برای شرکت در نشست وزرای گروه 20 در آتلانتا، با روبیو، وزیر امور خارجه ایالات متحده، در تماس بوده است. 🔸میان روسیه و ایالات متحده همواره مسائلی وجود داشته و خواهد داشت، اما مسکو از تمایل واشنگتن به گفت</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103033.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103033.jpg" medium="image" />
     </item>
   </channel>
 </rss>
