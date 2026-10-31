@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Sat, 31 Oct 2026 08:48:20 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 09:18:16 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>سیل‌های خروشان در مکزیک خودروها را به دریا می‌برند</title>
+      <link>https://sputnikiran.github.io/news/103051-سیلهای-خروشان-در-مکزیک-خو.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103051-سیلهای-خروشان-در-مکزیک-خو.html</guid>
+      <pubDate>Sat, 31 Oct 2026 09:17:00 GMT</pubDate>
+      <description>▫️ایالت «باخا کالیفرنیا سور» در شمال غربی مکزیک شاهد بارندگی‌های سنگینی بود — با میزان بارشی که به 100 تا 175میلی‌متر رسید — که منجر به وقوع سیل‌های ناگهانی و شدید در مناطق مختلف شد. ▫️ویدیوهایی که در شبکه‌های اجتماعی دست‌به‌دست می‌شوند، نشان می‌دهند که جریان‌های سیل‌آسا چندین خودرو را به سمت دریا می‌برند؛ جایی که این خودروها میان امواج گرفتار شدند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103051.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103051.jpg" medium="image" />
+    </item>
     <item>
       <title>رئیس جمهور لهستان جلسه‌ای فوری با شرکت همه نیروهای سیاسی تشکیل داد</title>
       <link>https://sputnikiran.github.io/news/103050-رئیس-جمهور-لهستان-جلسهای.html</link>
@@ -442,15 +451,6 @@
       <description>🗣محمد قادری، کارشناس امور راهبردی و بین‌الملل، در گفتگوی اختصاصی با اسپوتنیک گفت که ائتلافی که نتانیاهو با جریان‌های مذهبی افراطی ایجاد کرده است نبض قابل توجه‌ای را از شهروندان اسرائیلی در اختیار دارد. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103002.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103002.jpg" medium="image" />
-    </item>
-    <item>
-      <title>قادری به اسپوتنیک: «ابعاد پاسخ ایران دیگر منطقه‌ای نیست، فرا منطقه‌ایست»</title>
-      <link>https://sputnikiran.github.io/news/103001-قادری-به-اسپوتنیک-ابعاد-پ.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103001-قادری-به-اسپوتنیک-ابعاد-پ.html</guid>
-      <pubDate>Fri, 30 Oct 2026 12:48:00 GMT</pubDate>
-      <description>🗣محمد قادری، کارشناس امور راهبردی و بین‌الملل، در گفتگوی اختصاصی با اسپوتنیک گفت که با وجود تلاش‌های متعدد، بخاطر معرفی استراتژی جدید دفاعی ایران، نتانیاهو جرئت این را که بدون دلیل عملیاتی را انجام بدهد، نداشت. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103001.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103001.jpg" medium="image" />
     </item>
   </channel>
 </rss>
