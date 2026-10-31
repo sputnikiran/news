@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Sat, 31 Oct 2026 11:18:26 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 11:48:40 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>تصاویر اسپوتنیک: معترضان در پاریس با استفاده از ماشین‌های آب‌پاش و باتون متفرق شدند</title>
+      <link>https://sputnikiran.github.io/news/103062-تصاویر-اسپوتنیک-معترضان-د.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103062-تصاویر-اسپوتنیک-معترضان-د.html</guid>
+      <pubDate>Sat, 31 Oct 2026 11:47:00 GMT</pubDate>
+      <description>🔸حدود 110 هزار نفر به خیابان‌های پایتخت فرانسه آمدند. به گفته وزارت کشور، 410 هزار شهروند در سراسر کشور دست به اعتراض زدند، در حالی که اتحادیه‌های کارگری این رقم را 800 هزار…</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103062.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103062.jpg" medium="image" />
+    </item>
     <item>
       <title>ماجرایی در دل سیل؛ آتش‌نشانان سرنشینان یک وانت را در آمریکا نجات دادند</title>
       <link>https://sputnikiran.github.io/news/103061-ماجرایی-در-دل-سیل؛-آتشنشا.html</link>
@@ -442,15 +451,6 @@
       <guid isPermaLink="true">https://sputnikiran.github.io/news/103010-وزیر-سیرالئون-ویژگی-منحصر.html</guid>
       <pubDate>Fri, 30 Oct 2026 14:47:00 GMT</pubDate>
       <description>🔸جولیوس ماتای، وزیر معادن و منابع معدنی سیرالئون، به «اسپوتنیک» گفت که تعامل روسیه با آفریقا بر پایه احترام متقابل، حاکمیت ملی و عدم مداخله اکید در امور داخلی استوار است. 🔸وی اظهار داشت که تمرکز این مشارکت صرفاً بر توسعه عملی در حوزه‌های اقتصادی، اجتماعی و زیست‌محیطی است و تأکید کرد که «مشارکت با روسیه، به معنای واقعی کلمه، عاری از هرگونه میراث استعماری است.» 🔸ماتای ​​با توصیف همکاری میان روسیه و سیرالئون به عنوان یک شراکت بلندمدت، خاطرنشان کرد که هر دو کشور به جای صرفاً به دنبال نتایج سریع ب</description>
-    </item>
-    <item>
-      <title>انتخابات پارلمانی اسرائیل و آینده سیاستهای تل آویو در برابر ایران</title>
-      <link>https://sputnikiran.github.io/news/103009-انتخابات-پارلمانی-اسرائیل.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103009-انتخابات-پارلمانی-اسرائیل.html</guid>
-      <pubDate>Fri, 30 Oct 2026 14:17:00 GMT</pubDate>
-      <description>🔸انتخابات اسرائیل در حالی برگزار شده که شاید مهم‌ترین پرسش برای منطقه، نه صرفاً نام نخست‌وزیر آینده، بلکه این باشد که آیا تغییر دولت در اسرائیل می‌تواند به معنای تغییر سیاست این کشور در قبال ایران باشد؟ رقیب اصلی بنیامین نتانیاهو، گادی آیزنکوت است؛ ژنرال 66 ساله، رئیس پیشین ستاد ارتش اسرائیل و رهبر حزب میانه‌روی «یاشار»؛ کسی که خودش زمانی عضو کابینه جنگ نتانیاهو بود، اما بعدها از آن جدا شد و به یکی از منتقدان جدی او تبدیل شد. اما نکته جالب اینجاست: آیزنکوت برخلاف تصوری که ممکن است از یک چهره مخ</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103009.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103009.jpg" medium="image" />
     </item>
   </channel>
 </rss>
