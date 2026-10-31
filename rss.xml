@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Sat, 31 Oct 2026 18:48:54 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 19:18:45 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>نیروهای روسی یک انبار مهمات میدانی نیروهای مسلح اوکراین را منهدم کردند</title>
+      <link>https://sputnikiran.github.io/news/103094-نیروهای-روسی-یک-انبار-مهم.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103094-نیروهای-روسی-یک-انبار-مهم.html</guid>
+      <pubDate>Sat, 31 Oct 2026 19:18:00 GMT</pubDate>
+      <description>در بخش کراماتورسک، توپخانه و خدمه پهپادهای FPV از گروه یوژنایا نیز خودروهای اوکراینی را منهدم کردند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103094.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103094.jpg" medium="image" />
+    </item>
     <item>
       <title>مهم‌ترین خبرهای شامگاه</title>
       <link>https://sputnikiran.github.io/news/103093-مهمترین-خبرهای-شامگاه.html</link>
@@ -448,15 +457,6 @@
       <description>🔸نیروی دریایی سپاه پاسداران اعلام کرد: یک نفت‌کش غول‌پیکر حامل بیش از 2 میلیون بشکه نفت، پس از برخورد با یک مین دریایی در مسیری غیرمجاز در تنگه هرمز، منفجر شد. 🔸این سومین نفت‌کشی است که امروز به دلیل عبور از…</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103032.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103032.jpg" medium="image" />
-    </item>
-    <item>
-      <title>قادری به اسپوتنیک: «اگر در اسرائیل قدرت از گروه‌های راست افراطی گرفته شود، گروه‌های مخالف با وجوه دیگری تنش جاری رو مدیریت خواهد کرد»</title>
-      <link>https://sputnikiran.github.io/news/103031-قادری-به-اسپوتنیک-اگر-در.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103031-قادری-به-اسپوتنیک-اگر-در.html</guid>
-      <pubDate>Fri, 30 Oct 2026 20:17:00 GMT</pubDate>
-      <description>محمد قادری، کارشناس امور راهبردی و بین‌الملل، در گفتگوی اختصاصی با اسپوتنیک گفت که جریان‌های مخالف نتانیاهو در مسئله ایران فقط تاکتیک‌های متفاوتی دارد، ولی به این معنی نیست که ایران را بخواهند از دایره اهداف خارج کنند 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103031.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103031.jpg" medium="image" />
     </item>
   </channel>
 </rss>
