@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Sat, 31 Oct 2026 06:50:44 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 07:18:58 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>کشتی گیر ایرانی حریفش را مقتدرانه برد</title>
+      <link>https://sputnikiran.github.io/news/103044-کشتی-گیر-ایرانی-حریفش-را.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103044-کشتی-گیر-ایرانی-حریفش-را.html</guid>
+      <pubDate>Sat, 31 Oct 2026 07:18:00 GMT</pubDate>
+      <description>▫️محمد نخودی در دور اول وزن 79 کیلوگرم مسابقات کشتی آزاد قهرمانی جهان با نتیجه 10 بر صفر مقابل سومونجون ایکراموف از تاجیکستان به پیروزی رسید و راهی مرحله یک‌هشتم نهایی شد. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103044.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103044.jpg" medium="image" />
+    </item>
     <item>
       <title>لانتر‌اتووا: مأموریت بشردوستانه در اولشکی رو به پایان است و کاروان هم‌اکنون در آرمیانسک حضور دارد</title>
       <link>https://sputnikiran.github.io/news/103043-لانتراتووا-مأموریت-بشردوس.html</link>
@@ -440,15 +449,6 @@
       <guid isPermaLink="true">https://sputnikiran.github.io/news/102993-مسئول-رسیدگی-به-حقوق-بشر.html</guid>
       <pubDate>Fri, 30 Oct 2026 11:17:00 GMT</pubDate>
       <description>▫️سایر نکات اظهارات یانا لانترا‌تووا، مسئول رسیدگی به حقوق بشر در روسیه: 💬آتش‌بس برقرار است و هیچ حادثه‌ای گزارش نشده است. …</description>
-    </item>
-    <item>
-      <title>پوتین پس از سومین اجلاس روسیه و آفریقا با عبدالفتاح البرهان، رئیس شورای حاکمیتی سودان دیدار کرد</title>
-      <link>https://sputnikiran.github.io/news/102992-پوتین-پس-از-سومین-اجلاس-ر.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/102992-پوتین-پس-از-سومین-اجلاس-ر.html</guid>
-      <pubDate>Fri, 30 Oct 2026 10:47:00 GMT</pubDate>
-      <description>🛰رئیس جمهور روسیه گفت سودان شریک مهمی برای روسیه در قاره آفریقا است و دو کشور امسال هفتادمین سالگرد روابط دیپلماتیک خود را جشن می‌گیرند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102992.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/102992.jpg" medium="image" />
     </item>
   </channel>
 </rss>
