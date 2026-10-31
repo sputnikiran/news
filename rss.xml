@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Sat, 31 Oct 2026 14:48:27 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 15:18:21 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>فروشگاه‌های لوکس در برلین برای اعتراضات امروز جوانان آماده می شوند</title>
+      <link>https://sputnikiran.github.io/news/103077-فروشگاههای-لوکس-در-برلین.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103077-فروشگاههای-لوکس-در-برلین.html</guid>
+      <pubDate>Sat, 31 Oct 2026 15:17:00 GMT</pubDate>
+      <description>▫️خرده‌فروشان در خیابان معروف &amp;quot;کورفورستندام&amp;quot; شروع به تخته کوبی ویترین مغازه‌های خود کرده‌اند، در حالی که برخی دیگر قصد دارند در انتظار تظاهراتی که توسط جنبش موسوم به «نسل زد تصمیم می‌گیرد»…</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103077.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103077.jpg" medium="image" />
+    </item>
     <item>
       <title>توپخانه روسیه اهداف متعلق به ارتش اوکراین را در منطقه دنیپروپتروفسک هدف قرار داد</title>
       <link>https://sputnikiran.github.io/news/103076-توپخانه-روسیه-اهداف-متعلق.html</link>
@@ -448,15 +457,6 @@
       <description>🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103021.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103021.jpg" medium="image" />
-    </item>
-    <item>
-      <title>تصاویری شگفت انگیز از نهنگ‌های براید در نزدیکی جزیره «ویژو»</title>
-      <link>https://sputnikiran.github.io/news/103020-تصاویری-شگفت-انگیز-از-نهن.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103020-تصاویری-شگفت-انگیز-از-نهن.html</guid>
-      <pubDate>Fri, 30 Oct 2026 17:17:00 GMT</pubDate>
-      <description>🔸در جنوب چین، رویدادی نادر و چشمگیر به ثبت رسید: شکار گروهی شش نهنگ براید. 🔸این تصاویر منحصربه‌فرد توسط پژوهشگران یک مؤسسه اقیانوس‌شناسی چینی در جریان یک سفر اکتشافی علمی ضبط شده است. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103020.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103020.jpg" medium="image" />
     </item>
   </channel>
 </rss>
