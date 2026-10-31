@@ -5,13 +5,31 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Sat, 31 Oct 2026 18:18:25 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 18:48:54 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>مهم‌ترین خبرهای شامگاه</title>
+      <link>https://sputnikiran.github.io/news/103093-مهمترین-خبرهای-شامگاه.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103093-مهمترین-خبرهای-شامگاه.html</guid>
+      <pubDate>Sat, 31 Oct 2026 18:48:00 GMT</pubDate>
+      <description>اکتبر: 🔸دیدار فرماندهان ارشد نیروهای مسلح ایران با آیت الله سیدمجتبی خامنه ای رهبر این کشور 🔸عراقچی: یک هیأت ایرانی به سمت دوحه حرکت کرده است 🔸دبیر شورای‌عالی امنیت ملی: نامۀ ونس، معاون ترامپ، را مطالعه کردم و هنوز پاسخی به آن نداده‌ام 🔸 به گزارش سرویس امنیت فدرال روسیه، ایالات متحده آمریکا اطلاعاتی را در مورد یک حمله تروریستی برنامه‌ریزی‌شده در مسکو در اختیار این نهاد قرار داده است. 🔸 روبیو: ترامپ معتقد است که حضور فدراسیون روسیه در گفتگوهای گروه 20 حائز اهمیت است. 🔸 چهار نفر در نزدیکی دا</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103093.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103093.jpg" medium="image" />
+    </item>
+    <item>
+      <title>اعتراضات از بعدازظهر امروز در بسیاری از شهرهای آلمان آغاز شد</title>
+      <link>https://sputnikiran.github.io/news/103089-اعتراضات-از-بعدازظهر-امرو.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103089-اعتراضات-از-بعدازظهر-امرو.html</guid>
+      <pubDate>Sat, 31 Oct 2026 18:48:00 GMT</pubDate>
+      <description>🔸اعضای جنبش «نسل زد تصمیم می‌گیرد» (Generation Z Decides) علیه افزایش هزینه‌های زندگی و احتمال برقراری مجدد خدمت اجباری سربازی موضع گرفته و همچنین خواستار اصلاحات آموزشی هستند. 🔸برگزاری تظاهرات…</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103089.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103089.jpg" medium="image" />
+    </item>
     <item>
       <title>وزیر خارجه آمریکا: به باور ترامپ، حضور فدراسیون روسیه در گفتگوهای گروه</title>
       <link>https://sputnikiran.github.io/news/103088-وزیر-خارجه-آمریکا-به-باور.html</link>
@@ -439,24 +457,6 @@
       <description>محمد قادری، کارشناس امور راهبردی و بین‌الملل، در گفتگوی اختصاصی با اسپوتنیک گفت که جریان‌های مخالف نتانیاهو در مسئله ایران فقط تاکتیک‌های متفاوتی دارد، ولی به این معنی نیست که ایران را بخواهند از دایره اهداف خارج کنند 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103031.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103031.jpg" medium="image" />
-    </item>
-    <item>
-      <title>کارشناس: حملات روسیه به صنایع دفاعی و بخش انرژی اوکراین، ارتش اوکراین را از سلاح محروم کرد</title>
-      <link>https://sputnikiran.github.io/news/103030-کارشناس-حملات-روسیه-به-صن.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103030-کارشناس-حملات-روسیه-به-صن.html</guid>
-      <pubDate>Fri, 30 Oct 2026 19:47:00 GMT</pubDate>
-      <description>🔸الکسی بورزنکو، ناظر نظامی و خبرنگار سابق جنگ، به اسپوتنیک می‌گوید: «روسیه سیستم انرژی را هدف قرار می‌دهد زیرا تولید پهپادها و سایر سلاح‌ها بیش از هر چیز به برق نیاز دارد: برای تأمین نیروی ماشین‌آلات مورد استفاده برای ماشینکاری قطعات، تولید مین و به ویژه برای راه‌اندازی کارخانه‌های شیمیایی که مواد منفجره تولید می‌کنند.» 🔸روسیه همچنین در حال حمله به کارخانه‌هایی است که قطعات هواپیماهای بدون سرنشین تولید می‌کنند. این کارخانه‌ها شامل کارخانه رادیو کی یف و شرکت تریمن-اوکراین هستند که قطعات پهپادها</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103030.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103030.jpg" medium="image" />
-    </item>
-    <item>
-      <title>قادری به اسپوتنیک: «اسرائیل به تنهایی قادر به تحقیق هدف خود در مقابله با ایران نیست و نیاز به همراهی ترامپ و بلکه ناتو دارد»</title>
-      <link>https://sputnikiran.github.io/news/103029-قادری-به-اسپوتنیک-اسرائیل.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103029-قادری-به-اسپوتنیک-اسرائیل.html</guid>
-      <pubDate>Fri, 30 Oct 2026 19:47:00 GMT</pubDate>
-      <description>محمد قادری، کارشناس امور راهبردی و بین‌الملل، در گفتگوی اختصاصی با اسپوتنیک گفت که نتانیاهو ادعای خود را حتی در موضوع لبنان و فلسطین و غزه نتوانست انجام دهد. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103029.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103029.jpg" medium="image" />
     </item>
   </channel>
 </rss>
