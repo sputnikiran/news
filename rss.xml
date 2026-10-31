@@ -5,13 +5,40 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Sat, 31 Oct 2026 13:18:17 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 13:48:46 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>وزیر خارجه ایران : یک هیأت ایرانی به سمت دوحه حرکت کرده است</title>
+      <link>https://sputnikiran.github.io/news/103074-وزیر-خارجه-ایران-یک-هیأت.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103074-وزیر-خارجه-ایران-یک-هیأت.html</guid>
+      <pubDate>Sat, 31 Oct 2026 13:47:00 GMT</pubDate>
+      <description>🔸عراقچی تأکید کرد: در حال حاضر هیچ نیازی به ملاقات با آمریکایی‌ها نمی‌بینیم و شرایط ما کاملاً مشخص است. میانجی‌ها همچنان در حال مشورت در مورد این شرایط هستند. 🔸وزیر خارجه ایران گفت که اگر آمریکا…</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103074.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103074.jpg" medium="image" />
+    </item>
+    <item>
+      <title>وزیر خارجه ایران: فعلاً برنامه‌ای برای دیدار با مقام‌های آمریکایی نداریم</title>
+      <link>https://sputnikiran.github.io/news/103073-وزیر-خارجه-ایران-فعلاً-بر.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103073-وزیر-خارجه-ایران-فعلاً-بر.html</guid>
+      <pubDate>Sat, 31 Oct 2026 13:47:00 GMT</pubDate>
+      <description>🗣 عراقچی در گفت‌وگو با شبکه الجزیره اعلام کرد که پیام جی‌دی ونس، معاون رئیس‌جمهور آمریکا، با دقت بررسی شده و در نشست‌های سطح عالی مورد بحث قرار گرفته است. 🔶وی تلاش طرف آمریکایی برای…</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103073.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103073.jpg" medium="image" />
+    </item>
+    <item>
+      <title>وزیر خارجه ایران: فعلاً برنامه‌ای برای دیدار با مقام‌های آمریکایی نداریم</title>
+      <link>https://sputnikiran.github.io/news/103072-وزیر-خارجه-ایران-فعلاً-بر.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103072-وزیر-خارجه-ایران-فعلاً-بر.html</guid>
+      <pubDate>Sat, 31 Oct 2026 13:47:00 GMT</pubDate>
+      <description>🗣 عراقچی در گفت‌وگو با شبکه الجزیره اعلام کرد که پیام جی‌دی ونس، معاون رئیس‌جمهور آمریکا، با دقت بررسی شده و در نشست‌های سطح عالی مورد بحث قرار گرفته است. 🔶وی تلاش طرف آمریکایی برای گشودن فضایی گسترده‌تر برای گفت‌وگو و تفاهم را گامی مثبت توصیف کرد و افزود: اگر هدف واشنگتن از ارسال پیام ونس، ایجاد اختلاف باشد، این اقدام اشتباه تازه‌ای خواهد بود که به خطاهای پیشین آمریکا اضافه می‌شود. 🔶عراقچی همچنین تأکید کرد که در حال حاضر هیچ برنامه‌ای برای دیدار با مقام‌های آمریکایی وجود ندارد و گمانه‌زنی‌ها</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103072.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103072.jpg" medium="image" />
+    </item>
     <item>
       <title>تحولات بحران قانون اساسی در لهستان</title>
       <link>https://sputnikiran.github.io/news/103071-تحولات-بحران-قانون-اساسی.html</link>
@@ -430,31 +457,6 @@
       <description>▫️دیمیتری پسکوف، سخنگوی کرملین، به رسانه‌های روسیه گفت که موضوع تضمین‌های امنیتی برای روسیه و اوکراین، محور اصلی مذاکرات سه‌جانبه‌ای خواهد بود که قرار است در ابوظبی برگزار…</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103018.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103018.jpg" medium="image" />
-    </item>
-    <item>
-      <title>کمیک تولیدشده با هوش مصنوعی در اسپوتنیک ایران/شکست در آزمون دروغ‌سنجی و رسوایی جاسوسی در پنتاگون: چگونه یک ژنرال ارشد آمریکایی اسرار را به مطبوعات لو داد</title>
-      <link>https://sputnikiran.github.io/news/103017-کمیک-تولیدشده-با-هوش-مصنو.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103017-کمیک-تولیدشده-با-هوش-مصنو.html</guid>
-      <pubDate>Fri, 30 Oct 2026 16:17:00 GMT</pubDate>
-      <description>🔸سپهبد برت سیلویا، استراتژیست نظامی ارشد پیشین ایالات متحده، رسماً اعتراف کرد که به مدت بیش از یک سال، اطلاعات طبقه‌بندی‌شده‌ای را در مورد اوکراین و ایران در اختیار روزنامه‌نگاران قرار می‌داده است. این مقام نظامی عالی‌رتبه پس از آنکه چهار بار پیاپی در آزمون دروغ‌سنجی (پلی‌گراف) مردود شد، لو رفت. 🔸تحقیقات نشان داد که این ژنرال برای انتقال اطلاعات مربوط به ایران از پیام‌رسان «سیگنال» استفاده کرده (و متعاقباً کل مکاتبات را «به‌طور تصادفی» پاک کرده است)؛ همچنین او اسرار مربوط به اوکراین را با خوان</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103017.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103017.jpg" medium="image" />
-    </item>
-    <item>
-      <title>گردهمایی وزرای امور خارجه گروه</title>
-      <link>https://sputnikiran.github.io/news/103016-گردهمایی-وزرای-امور-خارجه.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103016-گردهمایی-وزرای-امور-خارجه.html</guid>
-      <pubDate>Fri, 30 Oct 2026 16:17:00 GMT</pubDate>
-      <description>در آتلانتا 🔸وزرای امور خارجه کشورهای عضو گروه 20 برای شرکت در مذاکراتی که قرار است در روزهای 30 و 31 اکتبر برگزار شود، در حال ورود به محل برگزاری نشست در آتلانتا هستند. 🔸سرگئی لاوروف، وزیر امور خارجه روسیه، ریاست هیئت نمایندگی این کشور را در این نشست بر عهده دارد؛ نشستی که بر چالش‌های اقتصادی جهانی، امنیت انرژی و همکاری‌های بین‌المللی متمرکز خواهد بود. 🔸این نشست یک رویداد دیپلماتیک کلیدی در آستانه اجلاس سران گروه 20 است که قرار است در روزهای 14 و 15 دسامبر در میامی برگزار شود. 🛰 Sputnik Iran</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103016.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103016.jpg" medium="image" />
-    </item>
-    <item>
-      <title>لانتر‌اتووا: مأموریت بشردوستانه در اولشکی رو به پایان است و کاروان هم‌اکنون در آرمیانسک حضور دارد</title>
-      <link>https://sputnikiran.github.io/news/103015-لانتراتووا-مأموریت-بشردوس.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103015-لانتراتووا-مأموریت-بشردوس.html</guid>
-      <pubDate>Fri, 30 Oct 2026 15:47:00 GMT</pubDate>
-      <description>▪️نکات کلیدی: 🔸این مأموریت بدون هیچ‌گونه حادثه‌ای انجام شد. 🔸هر دو طرف به سطح بالای سازماندهی این مأموریت بشردوستانه اشاره کردند. 🔸کمیسر حقوق بشر روسیه مراتب قدردانی خود را از ملانیا ترامپ و تمامی کسانی که در این مأموریت بشردوستانه مشارکت داشتند، ابراز کرد. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
     </item>
   </channel>
 </rss>
