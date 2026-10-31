@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Sat, 31 Oct 2026 09:49:07 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 10:18:33 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>حمله پهپادی  آمریکا به دو قایق صیادی در</title>
+      <link>https://sputnikiran.github.io/news/103057-حمله-پهپادی-آمریکا-به-دو.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103057-حمله-پهپادی-آمریکا-به-دو.html</guid>
+      <pubDate>Sat, 31 Oct 2026 10:17:00 GMT</pubDate>
+      <description>مایلی روستای مسن استان هرمزگان ایران ▫️نفیسی، معاون سیاسی، امنیتی و اجتماعی استاندار هرمزگان، از حمله &amp;quot;دشمن آمریکایی&amp;quot; به دو فروند قایق صیادی در محدوده 18 مایلی مسن خبر داد. ▫️این حادثه حوالی ساعت 11 و 30 دقیقه &amp;nbsp;امروز برای دو فروند قایق صیادی در محدوده 18 مایلی روستای مسن از توابع شهرستان قشم رخ داده است که هر یک از قایق‌ها دارای دو سرنشین بودند. ▫️در پی این حادثه، دو نفر از سرنشینان به قشم منتقل شدند که یکی از آنان به دلیل مصدومیت برای دریافت خدمات درمانی به بیمارستان انتقال یافت.</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103057.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103057.jpg" medium="image" />
+    </item>
     <item>
       <title>دیمیتریف: وضعیت در اروپا خوب نیست</title>
       <link>https://sputnikiran.github.io/news/103053-دیمیتریف-وضعیت-در-اروپا-خ.html</link>
@@ -442,15 +451,6 @@
       <description>🔸نیروی دریایی سپاه پاسداران اعلام کرد: یک نفت‌کش غول‌پیکر حامل بیش از 2 میلیون بشکه نفت، پس از برخورد با یک مین دریایی در مسیری غیرمجاز در تنگه هرمز، منفجر شد. 🔸این سومین نفت‌کشی است که امروز به دلیل عبور از مسیرهای دریایی غیرمجاز، دچار انفجار می‌شود. 🔸این شناور پس از آنکه دچار حریق شد، توسط خدمه رها شده است. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103005.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103005.jpg" medium="image" />
-    </item>
-    <item>
-      <title>رسانه های آمریکایی: ایالات متحده در تدارک برای احتمال وقوع حملات جدید مرتبط با ایران، در حال اعزام نیرو به خاورمیانه است</title>
-      <link>https://sputnikiran.github.io/news/103004-رسانه-های-آمریکایی-ایالات.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103004-رسانه-های-آمریکایی-ایالات.html</guid>
-      <pubDate>Fri, 30 Oct 2026 13:17:00 GMT</pubDate>
-      <description>🔸به گفته این منابع، استقرار مجدد نیروهای آمریکایی در منطقه با هدف آمادگی برای سناریوهای احتمالی مختلف صورت می‌گیرد. 🔸پیش‌تر، ترامپ اظهار داشته بود که جنگ با ایران در آینده‌ای نزدیک به پایان خواهد رسید؛ فارغ از اینکه این پایان چگونه رقم بخورد. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103004.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103004.jpg" medium="image" />
     </item>
   </channel>
 </rss>
