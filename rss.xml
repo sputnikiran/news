@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Sat, 31 Oct 2026 17:18:27 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 17:48:36 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>تصاویر اسپوتنیک: جمعیت در پاریس برای شرکت در یک تظاهرات در حال گردآمدن است</title>
+      <link>https://sputnikiran.github.io/news/103086-تصاویر-اسپوتنیک-جمعیت-در.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103086-تصاویر-اسپوتنیک-جمعیت-در.html</guid>
+      <pubDate>Sat, 31 Oct 2026 17:47:00 GMT</pubDate>
+      <description>🔸معترضان فرانسوی از مقامات می‌خواهند که به مشکلات بخش آموزش رسیدگی کنند؛ همچنین شعارهای درخواست برای استعفای مکرون شنیده می‌شود. 🔸بر اساس گزارش‌های رسانه‌ای، حدود 70 هزار نیروی امنیتی…</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103086.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103086.jpg" medium="image" />
+    </item>
     <item>
       <title>وزیر خارجه آمریکا: ترامپ ترجیح می‌دهد از اقدام نظامی علیه ایران پرهیز کند</title>
       <link>https://sputnikiran.github.io/news/103085-وزیر-خارجه-آمریکا-ترامپ-ت.html</link>
@@ -448,15 +457,6 @@
       <description>اکتبر 🔸ولادیمیر پوتین در حال برگزاری مجموعه‌ای از دیدارها با رهبران خارجی است که در اجلاس روسیه و آفریقا شرکت کرده‌اند 🔸نیروی دریایی سپاه پاسداران: یک نفت‌کش غول‌پیکر حامل بیش از 2 میلیون بشکه نفت، پس از برخورد با یک مین دریایی در مسیری غیرمجاز در تنگه هرمز، منفجر شد 🔸پسکوف اظهار داشت که روسیه با آتش‌بسی که موجب ایجاد «فرصتی برای تجدید قوا» برای اوکراین شود، مخالف است 🔸لانتراتووا گزارش داد که یک مأموریت بشردوستانه در «اولشکی» رو به پایان است؛ کاروان مربوطه در حال حاضر در «آرمیانسک» حضور دارد</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103027.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103027.jpg" medium="image" />
-    </item>
-    <item>
-      <title>مجری اسپوتنیک مبتنی بر هوش مصنوعی مهمترین رویدادهای هفته را برای شما شرح می دهد</title>
-      <link>https://sputnikiran.github.io/news/103026-مجری-اسپوتنیک-مبتنی-بر-هو.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103026-مجری-اسپوتنیک-مبتنی-بر-هو.html</guid>
-      <pubDate>Fri, 30 Oct 2026 18:47:00 GMT</pubDate>
-      <description>🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103026.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103026.jpg" medium="image" />
     </item>
   </channel>
 </rss>
