@@ -5,13 +5,31 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Sun, 01 Nov 2026 05:48:22 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 06:18:24 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>گزارش‌ها: بیش از</title>
+      <link>https://sputnikiran.github.io/news/103106-گزارشها-بیش-از.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103106-گزارشها-بیش-از.html</guid>
+      <pubDate>Sun, 01 Nov 2026 06:17:00 GMT</pubDate>
+      <description>نفر در جریان اعتراضات در فرانسه دستگیر شده‌اند 🔸طبق گزارش رسانه‌های داخلی، که به وزارت کشور فرانسه استناد داشتند، نیروهای امنیتی بیش از 510 نفر را که در اعتراض به افزایش قیمت‌ها شرکت داشتند، دستگیر کردند. 🔸این اعتراضات در اواسط سپتامبر در این کشور اروپایی آغاز شد، زمانی که دانش‌آموزان دبیرستانی در خیابان‌های پاریس و حومه آن به خیابان‌ها آمدند و خواستار بهبود وضعیت مدارس شدند. بعدها، افراد ناراضی از افزایش هزینه‌های زندگی در سراسر کشور به این اعتراضات پیوستند. 🔸در جریان اعتراضات امروز، درگیری‌</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103106.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103106.jpg" medium="image" />
+    </item>
+    <item>
+      <title>وزارت دفاع روسیه: نیروهای مسلح روسیه به یک کشتی حامل بار برای نیروهای مسلح اوکراین در جنوب غربی اودسا حمله کردند</title>
+      <link>https://sputnikiran.github.io/news/103105-وزارت-دفاع-روسیه-نیروهای.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103105-وزارت-دفاع-روسیه-نیروهای.html</guid>
+      <pubDate>Sun, 01 Nov 2026 06:17:00 GMT</pubDate>
+      <description>▫️همچنین تأسیسات کنترل ترافیک در ایستگاه راه‌آهن کونوتوپ در منطقه «سومی» مورد هدف قرار گرفتند. ▫️وزارت دفاع گزارش داد که نیروهای پدافند هوایی 235 پهپاد را در طول شب بر فراز خاک روسیه سرنگون کردند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103105.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103105.jpg" medium="image" />
+    </item>
     <item>
       <title>پاسخ تهران به تحرکات خصمانه لندن/ MI</title>
       <link>https://sputnikiran.github.io/news/103104-پاسخ-تهران-به-تحرکات-خصما.html</link>
@@ -441,24 +459,6 @@
       <description>نفر در جریان تیراندازی در یک مرکز خرید در کالیفرنیا مجروح شدند ▫️به گزارش رسانه‌های آمریکایی، در حالی که نیروهای پلیس حضور گسترده‌ای در محل دارند، آسیب دیدگانی که بر اثر اصابت گلوله مجروح شده بودند، در سه نقطه مجزا در داخل مرکز خرید «سولانو تاون سنتر» (Solano Town Center) در شهر «فیرفیلد» پیدا شدند. ▫️در حال حاضر، جزئیات مربوط به این حادثه و هویت مظنونان همچنان نامشخص است. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103042.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103042.jpg" medium="image" />
-    </item>
-    <item>
-      <title>رهگیری و انهدام</title>
-      <link>https://sputnikiran.github.io/news/103041-رهگیری-و-انهدام.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103041-رهگیری-و-انهدام.html</guid>
-      <pubDate>Sat, 31 Oct 2026 06:48:00 GMT</pubDate>
-      <description>پهپاد اوکراینی بر فراز خاک روسیه ▫️وزارت دفاع روسیه اعلام کرد که سامانه های پدافند هوایی این کشور طی شب گذشته 433 پهپاد اوکراینی را بر فراز مناطق مختلف روسیه سرنگون کرده اند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103041.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103041.jpg" medium="image" />
-    </item>
-    <item>
-      <title>سقوط مرگبار تریلی از پل در جاده کمربندی بومهن در  ایران</title>
-      <link>https://sputnikiran.github.io/news/103040-سقوط-مرگبار-تریلی-از-پل-د.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103040-سقوط-مرگبار-تریلی-از-پل-د.html</guid>
-      <pubDate>Sat, 31 Oct 2026 06:17:00 GMT</pubDate>
-      <description>▫️بامداد امروز در محور جاده کمربندی بومهن به سمت تهران، یک دستگاه تریلی پس از قیچی کردن بر روی پل، به پایین آن سقوط کرد. ▫️در این حادثه دلخراش، هر دو سرنشین تریلی در اثر شدت ضربه جان باختند. ▫️بر اساس گزارش‌های اولیه، لغزنده بودن جاده، سرعت زیاد و عدم توانایی راننده در کنترل وسیله نقلیه از عوامل احتمالی وقوع این حادثه است؛ اما پلیس راهور با بررسی‌های دقیق‌تر، علت قطعی این سانحه رانندگی را اعلام خواهد کرد. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103040.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103040.jpg" medium="image" />
     </item>
   </channel>
 </rss>

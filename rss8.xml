@@ -5,7 +5,7 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Sun, 01 Nov 2026 05:48:22 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 06:18:24 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss8.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
@@ -13,10 +13,28 @@
       <link>https://sputnikiran.github.io/news/</link>
     </image>
     <item>
+      <title>گزارش‌ها: بیش از</title>
+      <link>https://sputnikiran.github.io/news/103106-گزارشها-بیش-از.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103106-گزارشها-بیش-از.html</guid>
+      <pubDate>Sun, 01 Nov 2026 06:18:24 GMT</pubDate>
+      <description>نفر در جریان اعتراضات در فرانسه دستگیر شده‌اند 🔸طبق گزارش رسانه‌های داخلی، که به وزارت کشور فرانسه استناد داشتند، نیروهای امنیتی بیش از 510 نفر را که در اعتراض به افزایش قیمت‌ها شرکت داشتند، دستگیر کردند. 🔸این اعتراضات در اواسط سپتامبر در این کشور اروپایی آغاز شد، زمانی که دانش‌آموزان دبیرستانی در خیابان‌های پاریس و حومه آن به خیابان‌ها آمدند و خواستار بهبود وضعیت مدارس شدند. بعدها، افراد ناراضی از افزایش هزینه‌های زندگی در سراسر کشور به این اعتراضات پیوستند. 🔸در جریان اعتراضات امروز، درگیری‌</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103106.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103106.jpg" medium="image" />
+    </item>
+    <item>
+      <title>وزارت دفاع روسیه: نیروهای مسلح روسیه به یک کشتی حامل بار برای نیروهای مسلح اوکراین در جنوب غربی اودسا حمله کردند</title>
+      <link>https://sputnikiran.github.io/news/103105-وزارت-دفاع-روسیه-نیروهای.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103105-وزارت-دفاع-روسیه-نیروهای.html</guid>
+      <pubDate>Sun, 01 Nov 2026 03:18:24 GMT</pubDate>
+      <description>▫️همچنین تأسیسات کنترل ترافیک در ایستگاه راه‌آهن کونوتوپ در منطقه «سومی» مورد هدف قرار گرفتند. ▫️وزارت دفاع گزارش داد که نیروهای پدافند هوایی 235 پهپاد را در طول شب بر فراز خاک روسیه سرنگون کردند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103105.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103105.jpg" medium="image" />
+    </item>
+    <item>
       <title>پاسخ تهران به تحرکات خصمانه لندن/ MI</title>
       <link>https://sputnikiran.github.io/news/103104-پاسخ-تهران-به-تحرکات-خصما.html</link>
       <guid isPermaLink="true">https://sputnikiran.github.io/news/103104-پاسخ-تهران-به-تحرکات-خصما.html</guid>
-      <pubDate>Sun, 01 Nov 2026 05:48:22 GMT</pubDate>
+      <pubDate>Sun, 01 Nov 2026 00:18:24 GMT</pubDate>
       <description>گروه متخاصم اعلام شد 🔸وزارت امور خارجه ایران در واکنش به اقدامات خصمانه انگلیس، سرویس اطلاعات خارجی این کشور (MI6) را گروه متخاصم اعلام کرد و نیروی دریایی و هوایی سلطنتی انگلیس را نیز مشمول عنوان سازمان تروریستی دانست. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103104.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103104.jpg" medium="image" />
@@ -25,7 +43,7 @@
       <title>رسانه محلی: بمب خوشه‌ای جدید کره شمالی؛ قادر به انهدام منطقه‌ای به وسعت</title>
       <link>https://sputnikiran.github.io/news/103103-رسانه-محلی-بمب-خوشهای-جدی.html</link>
       <guid isPermaLink="true">https://sputnikiran.github.io/news/103103-رسانه-محلی-بمب-خوشهای-جدی.html</guid>
-      <pubDate>Sun, 01 Nov 2026 02:48:22 GMT</pubDate>
+      <pubDate>Sat, 31 Oct 2026 21:18:24 GMT</pubDate>
       <description></description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103103.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103103.jpg" medium="image" />
@@ -34,7 +52,7 @@
       <title>تحلیل اسپوتنیک: روسیه در ماه اکتبر به پنج مرکز داده مرتبط با ارتش در اوکراین حمله کرد</title>
       <link>https://sputnikiran.github.io/news/103102-تحلیل-اسپوتنیک-روسیه-در-م.html</link>
       <guid isPermaLink="true">https://sputnikiran.github.io/news/103102-تحلیل-اسپوتنیک-روسیه-در-م.html</guid>
-      <pubDate>Sat, 31 Oct 2026 23:48:22 GMT</pubDate>
+      <pubDate>Sat, 31 Oct 2026 18:18:24 GMT</pubDate>
       <description>🛰بر اساس محاسبات «اسپوتنیک» که مبتنی بر گزارش‌های وزارت دفاع روسیه است، نیروهای مسلح روسیه در ماه اکتبر به پنج مرکز داده در اوکراین حمله کردند که در پشتیبانی از نیروهای مسلح این کشور مورد استفاده قرار می‌گرفتند. 🛰داده‌های بررسی‌شده نشان می‌دهند که در بازه زمانی اول تا 31 اکتبر، وزارت دفاع روسیه از انجام حملاتی به پنج مرکز داده مختلف در شش نوبت جداگانه خبر داده است؛ این مراکز شامل تأسیسات مهمی در شهرهای کی‌یف، اودسا و نیکولایف می‌شوند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103102.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103102.jpg" medium="image" />
@@ -43,7 +61,7 @@
       <title>اعتراضات به آلمان رسید</title>
       <link>https://sputnikiran.github.io/news/103099-اعتراضات-به-آلمان-رسید.html</link>
       <guid isPermaLink="true">https://sputnikiran.github.io/news/103099-اعتراضات-به-آلمان-رسید.html</guid>
-      <pubDate>Sat, 31 Oct 2026 20:48:22 GMT</pubDate>
+      <pubDate>Sat, 31 Oct 2026 15:18:24 GMT</pubDate>
       <description>🔸هزاران نفر در خیابانهای برلین به راهپیمایی پرداختند تا استعفای صدراعظم فردریک مرتس را خواستار شوند، و همچنین به نظامی سازی کشور، هزینه های دفاعی، و حمایت مالی و نظامی از اوکراین اعتراض کردند. 🔸کاجا شوآب، هماهنگکننده جنبش جوانان &amp;quot;Gen Z regelt&amp;quot;، اظهار داشت که افزایش هزینههای نظامی تهدیدی برای آینده جوانان است و به تضعیف دولت رفاه منجر میشود. 🔸این تجمعات در بیش از 30 شهر آلمان تکرار شدند، و در آنها به احتمال بازگشت خدمت سربازی اجباری نیز انتقاد شد. 🔸آیا تمام اعضای خانواده ما را دیدها</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103099.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103099.jpg" medium="image" />
@@ -52,7 +70,7 @@
       <title>پوششی سفید: کولاک جاده‌ها و خیابان‌های شمال‌شرقی چین را فرا گرفت</title>
       <link>https://sputnikiran.github.io/news/103098-پوششی-سفید-کولاک-جادهها-و.html</link>
       <guid isPermaLink="true">https://sputnikiran.github.io/news/103098-پوششی-سفید-کولاک-جادهها-و.html</guid>
-      <pubDate>Sat, 31 Oct 2026 17:48:22 GMT</pubDate>
+      <pubDate>Sat, 31 Oct 2026 12:18:24 GMT</pubDate>
       <description>🔸 پنج‌شنبه گذشته (۲۹ام)، بارش سنگین برف منطقه «خینگان بزرگ» در استان «هیلونگ‌جیانگ» چین را درنوردید که منجر به اختلال موقت در رفت‌وآمد و توقف خدمات اتوبوس‌رانی شد. 🔸 در حالی که خیابان‌ها زیر لایه ضخیمی از برف مدفون شده بودند، نیروهای شهرداری مشغول پاکسازی جاده‌ها شدند و پلیس نیز به مدیریت ترافیک و یاری‌رسانی به رانندگان پرداخت. 🔸 در شرایط سرمای شدید و دمای منفی 8 درجه سانتی‌گراد، کارشناسان هواشناسی نسبت به یخ‌زدگی جاده‌ها و احتمال بارش‌های جدید برف — با پیش‌بینی انباشت 5 تا 10 سانتی‌متری — هش</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103098.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103098.jpg" medium="image" />
@@ -61,28 +79,10 @@
       <title>در میلان، یک خودروی مرسدس بنز کلاس G که به‌طور غیرمجاز پارک شده بود، مسیر حرکت یک تراموا را مسدود کرد</title>
       <link>https://sputnikiran.github.io/news/103097-در-میلان،-یک-خودروی-مرسدس.html</link>
       <guid isPermaLink="true">https://sputnikiran.github.io/news/103097-در-میلان،-یک-خودروی-مرسدس.html</guid>
-      <pubDate>Sat, 31 Oct 2026 14:48:22 GMT</pubDate>
+      <pubDate>Sat, 31 Oct 2026 09:18:24 GMT</pubDate>
       <description>🔸راننده تراموا تلاش کرد با مانور دادن از کنار این خودروی شاسی‌بلند عبور کند، اما فضای کافی وجود نداشت. در نتیجه، تراموا نتوانست به مسیر خود ادامه دهد. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103097.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103097.jpg" medium="image" />
-    </item>
-    <item>
-      <title>دبیر شورای عالی امنیت ملی ایران: دیپلماسی میانجی‌ها برای دریافت پیشنهادهای جدید در تهران ادامه دارد</title>
-      <link>https://sputnikiran.github.io/news/103096-دبیر-شورای-عالی-امنیت-ملی.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103096-دبیر-شورای-عالی-امنیت-ملی.html</guid>
-      <pubDate>Sat, 31 Oct 2026 11:48:22 GMT</pubDate>
-      <description>🔸سرلشگر رضایی گفت: در پی پیگیری‌های مکرر طرف آمریکایی برای ورود به مذاکره، جمهوری اسلامی ایران اعلام کرد هیچ گفتگوی مستقیمی انجام نخواهد شد، مگر آنکه شروط هفت‌گانه ایران به‌طور کامل به اجرا درآیند. 🔸این شروط از طریق واسطه‌هایی (از جمله پاکستان و قطر) منتقل شد و تأکید گردید که بدون عمل به این شروط، نه تنگه هرمز بازگشایی می‌شود و نه مذاکره‌ای شکل خواهد گرفت. 🔸ایران شیوه‌ای متفاوت از دیپلماسی گذشته را در پیش گرفته و شرط هرگونه گفتگو در مراحل بعدی را تغییر رفتار واقعی آمریکا از طریق پذیرش این شرو</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103096.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103096.jpg" medium="image" />
-    </item>
-    <item>
-      <title>کدو تنبل‌های غول‌پیکر درخشان و ارواح، بندر ویکتوریای هنگ کنگ را در طول نمایش پهپادهای هالووین روشن کردند</title>
-      <link>https://sputnikiran.github.io/news/103095-کدو-تنبلهای-غولپیکر-درخشا.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103095-کدو-تنبلهای-غولپیکر-درخشا.html</guid>
-      <pubDate>Sat, 31 Oct 2026 08:48:22 GMT</pubDate>
-      <description>🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103095.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103095.jpg" medium="image" />
     </item>
   </channel>
 </rss>
