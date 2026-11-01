@@ -5,13 +5,31 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Sun, 01 Nov 2026 11:48:24 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 12:18:24 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>گزارش: پلیس سوئیس برای سرکوب اعتراضات از گلوله‌های لاستیکی، ماشین‌های آب‌پاش و گاز اشک‌آور استفاده کرد</title>
+      <link>https://sputnikiran.github.io/news/103128-گزارش-پلیس-سوئیس-برای-سرک.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103128-گزارش-پلیس-سوئیس-برای-سرک.html</guid>
+      <pubDate>Sun, 01 Nov 2026 12:17:00 GMT</pubDate>
+      <description>🔶شورش‌ها شب گذشته در زوریخ آغاز شد. معترضان با استفاده از فشفشه، سنگ و بطری، آتش روشن کردند و به نیروهای امدادی حمله کردند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103128.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103128.jpg" medium="image" />
+    </item>
+    <item>
+      <title>برای تامین امنیت ماراتن هانگژو، از</title>
+      <link>https://sputnikiran.github.io/news/103127-برای-تامین-امنیت-ماراتن-ه.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103127-برای-تامین-امنیت-ماراتن-ه.html</guid>
+      <pubDate>Sun, 01 Nov 2026 12:17:00 GMT</pubDate>
+      <description>دستگاه رباتیک استفاده شد 🔶در این رویداد، ربات‌های انسان‌نما، ربات‌های سگ‌مانند، خودروهای گشت‌زنی بدون راننده و پهپادها شرکت داشتند. 🔶مسابقه ماراتن کامل در استادیوم المپیک هانگژو و مسابقه نیمه ماراتن در میدان شی‌مین برگزار خواهد شد. 🔶دستگاه‌های رباتیک به پلیس در گشت‌زنی در مناطق مختلف، هم از سطح زمین و هم از هوا، در یافتن مواد منفجره و در تنظیم جریان جمعیت کمک خواهند کرد. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103127.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103127.jpg" medium="image" />
+    </item>
     <item>
       <title>نوواک: دیزل روسیه همچنان به اروپا می‌رسد، حتی با وجود ممنوعیت خودتحمیلی اتحادیه اروپا</title>
       <link>https://sputnikiran.github.io/news/103126-نوواک-دیزل-روسیه-همچنان-ب.html</link>
@@ -441,24 +459,6 @@
       <description>را برای توسعه سیستم ناوبری ماهواره‌ای ملی خود به فضا پرتاب کرد ▫️این پرتاب بخشی از برنامه NavIC است که هدف آن جایگزینی سیستم موقعیت یابی جی پی اس (GPS) تحت کنترل ایالات متحده آمریکا با یک راهکار داخلی است. 🔍منطقه تحت پوشش NavIC در حال حاضر هند و مناطق اطراف آن را در شعاع 1500 کیلومتری پوشش می‌دهد؛ هدف برنامه‌ جدید گسترش این پوشش به 3000 کیلومتر است. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103063.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103063.jpg" medium="image" />
-    </item>
-    <item>
-      <title>تصاویر اسپوتنیک: معترضان در پاریس با استفاده از ماشین‌های آب‌پاش و باتون متفرق شدند</title>
-      <link>https://sputnikiran.github.io/news/103062-تصاویر-اسپوتنیک-معترضان-د.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103062-تصاویر-اسپوتنیک-معترضان-د.html</guid>
-      <pubDate>Sat, 31 Oct 2026 11:47:00 GMT</pubDate>
-      <description>🔸حدود 110 هزار نفر به خیابان‌های پایتخت فرانسه آمدند. به گفته وزارت کشور، 410 هزار شهروند در سراسر کشور دست به اعتراض زدند، در حالی که اتحادیه‌های کارگری این رقم را 800 هزار…</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103062.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103062.jpg" medium="image" />
-    </item>
-    <item>
-      <title>ماجرایی در دل سیل؛ آتش‌نشانان سرنشینان یک وانت را در آمریکا نجات دادند</title>
-      <link>https://sputnikiran.github.io/news/103061-ماجرایی-در-دل-سیل؛-آتشنشا.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103061-ماجرایی-در-دل-سیل؛-آتشنشا.html</guid>
-      <pubDate>Sat, 31 Oct 2026 11:17:00 GMT</pubDate>
-      <description>⛈طوفان‌های شدید شامگاه جمعه 30 اکتبر در شهر فینیکسِ آریزونا موجب وقوع سیل شد و شش نفر را در چهار خودرو گرفتار کرد. 🛟 به گفته سازمان آتش‌نشانی، نیروهای امدادی با استفاده از تکنیک ورود به آب‌های کم‌عمق، خود را به خودروها رساندند و تمام سرنشینان را به مکان امن منتقل کردند؛ گزارشی مبنی بر بروز جراحت دریافت نشده است. 📍 رسانه‌های محلی گزارش دادند که در برخی مناطق، طی کمتر از یک ساعت بیش از 25 میلی‌متر باران باریده که منجر به صدور هشدار وقوع سیل ناگهانی شده است. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103061.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103061.jpg" medium="image" />
     </item>
   </channel>
 </rss>
