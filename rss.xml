@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Sun, 01 Nov 2026 16:48:13 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 17:19:01 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>ارتش روسیه مراکز دشمن را در منطقه دنیپروپتروسک منهدم کردند</title>
+      <link>https://sputnikiran.github.io/news/103143-ارتش-روسیه-مراکز-دشمن-را.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103143-ارتش-روسیه-مراکز-دشمن-را.html</guid>
+      <pubDate>Sun, 01 Nov 2026 17:18:00 GMT</pubDate>
+      <description>🔸 اپراتورهای پهپاد روسی با حملات دقیق به پست‌های فرماندهی پهپادهای اوکراینی حمله کردند و هیچ چیزی از آنها را باقی نگذاشت. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103143.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103143.jpg" medium="image" />
+    </item>
     <item>
       <title>تصاویری از فعالیت دستگاه‌های برف‌ساز در منطقه دولومیت ایتالیا</title>
       <link>https://sputnikiran.github.io/news/103141-تصاویری-از-فعالیت-دستگاهه.html</link>
@@ -450,15 +459,6 @@
       <description>🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103084.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103084.jpg" medium="image" />
-    </item>
-    <item>
-      <title>کره شمالی برای نخستین بار، رزمایشی از یک سامانه پرتاب راکت چندگانه با کالیبر بسیار بزرگ به نمایش گذاشت</title>
-      <link>https://sputnikiran.github.io/news/103081-کره-شمالی-برای-نخستین-بار.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103081-کره-شمالی-برای-نخستین-بار.html</guid>
-      <pubDate>Sat, 31 Oct 2026 16:18:00 GMT</pubDate>
-      <description>🔸به گزارش خبرگزاری مرکزی کره، کیم جونگ اون بر آزمایش این سامانه پرتاب راکت چندگانه 600 میلی‌متری نظارت کرد. 🔸در این رویداد همچنین موشک‌های کروز تاکتیکی پرتاب شدند و پهپادهای انتحاری (کامیکازه) و پهپادهای چندمنظوره نیز اهدافی را مورد حمله قرار دادند. این خبرگزاری گزارش داد که موشک‌ها با دقت 100 درصد به اهداف خود اصابت کردند. 🔸این نمایش در چارچوب نمایشگاهی با عنوان «توسعه سامانه‌های هوایی بدون سرنشین» برگزار شد که در آن پهپادهای راهبردی، عملیاتی-تاکتیکی و تهاجمی به نمایش درآمده بودند. 🔸کیم جون</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103081.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103081.jpg" medium="image" />
     </item>
   </channel>
 </rss>
