@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Sun, 01 Nov 2026 05:18:34 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 05:48:22 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>پاسخ تهران به تحرکات خصمانه لندن/ MI</title>
+      <link>https://sputnikiran.github.io/news/103104-پاسخ-تهران-به-تحرکات-خصما.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103104-پاسخ-تهران-به-تحرکات-خصما.html</guid>
+      <pubDate>Sun, 01 Nov 2026 05:47:00 GMT</pubDate>
+      <description>گروه متخاصم اعلام شد 🔸وزارت امور خارجه ایران در واکنش به اقدامات خصمانه انگلیس، سرویس اطلاعات خارجی این کشور (MI6) را گروه متخاصم اعلام کرد و نیروی دریایی و هوایی سلطنتی انگلیس را نیز مشمول عنوان سازمان تروریستی دانست. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103104.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103104.jpg" medium="image" />
+    </item>
     <item>
       <title>رسانه محلی: بمب خوشه‌ای جدید کره شمالی؛ قادر به انهدام منطقه‌ای به وسعت</title>
       <link>https://sputnikiran.github.io/news/103103-رسانه-محلی-بمب-خوشهای-جدی.html</link>
@@ -450,15 +459,6 @@
       <description>▫️بامداد امروز در محور جاده کمربندی بومهن به سمت تهران، یک دستگاه تریلی پس از قیچی کردن بر روی پل، به پایین آن سقوط کرد. ▫️در این حادثه دلخراش، هر دو سرنشین تریلی در اثر شدت ضربه جان باختند. ▫️بر اساس گزارش‌های اولیه، لغزنده بودن جاده، سرعت زیاد و عدم توانایی راننده در کنترل وسیله نقلیه از عوامل احتمالی وقوع این حادثه است؛ اما پلیس راهور با بررسی‌های دقیق‌تر، علت قطعی این سانحه رانندگی را اعلام خواهد کرد. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103040.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103040.jpg" medium="image" />
-    </item>
-    <item>
-      <title>ادامه حملات ارتش روسیه به تاسیسات نظامی اوکراین</title>
-      <link>https://sputnikiran.github.io/news/103039-ادامه-حملات-ارتش-روسیه-به.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103039-ادامه-حملات-ارتش-روسیه-به.html</guid>
-      <pubDate>Sat, 31 Oct 2026 06:17:00 GMT</pubDate>
-      <description>▫️در کی یف، نیروگاه حرارتی شماره 6 که برق تأسیسات لجستیک نظامی و انبارهای سلاح و تجهیزات نظامی را تأمین می‌کند، شبانه مورد حمله قرار گرفت. ▫️وزارت دفاع روسیه این خبر را گزارش داد. ▫️حملات همچنین به تاسیسات زیر انجام شد: 🔸کارگاه‌های منطقه صنعتی پروتون در خارکف، جایی که قطعات سلاح و تجهیزات نظامی نیروهای مسلح اوکراین تولید می‌شد؛ 🔸انبارهایی در خارکف که به تأسیسات مونتاژ و ذخیره‌سازی پهپاد تبدیل شده بودند؛ 🔸یک کشتی فله‌بر که در 18 کیلومتری جنوب اودسا از طریق دریا در حال حرکت بود. این کشتی محموله</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103039.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103039.jpg" medium="image" />
     </item>
   </channel>
 </rss>
