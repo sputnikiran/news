@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Mon, 02 Nov 2026 06:18:28 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 06:48:31 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>گزارش: ایالات متحده پیشنهاد از سرگیری جریان گاز روسیه به اروپا از طریق اوکراین را مطرح کرده است</title>
+      <link>https://sputnikiran.github.io/news/103163-گزارش-ایالات-متحده-پیشنها.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103163-گزارش-ایالات-متحده-پیشنها.html</guid>
+      <pubDate>Mon, 02 Nov 2026 06:47:00 GMT</pubDate>
+      <description>🔸به نقل از مقامات آمریکایی، اروپایی و اوکراینی، دولت ترامپ امیدوار است از تجدید روابط تجاری انرژی به عنوان اهرمی برای دستیابی به آتش‌بس بین روسیه و اوکراین استفاده کند. 🔸سفیران آمریکایی، جارد کوشنر و استیو ویتکوف، این پیشنهاد را در جریان دیدارهایی که در ماه سپتامبر به روسیه و اوکراین داشتند، مطرح کردند. عناصر کلیدی این پیشنهاد: 🔸یک واسطه آمریکایی، فروش گاز روسیه به اروپا را تسهیل می‌کند و تحریم‌ها را دور می‌زند. انتقال گاز از طریق شبکه خطوط لوله موجود دوران شوروی که از اوکراین عبور می‌کند، ان</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103163.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103163.jpg" medium="image" />
+    </item>
     <item>
       <title>رهگیری و انهدام</title>
       <link>https://sputnikiran.github.io/news/103162-رهگیری-و-انهدام.html</link>
@@ -450,15 +459,6 @@
       <description>🔸جزئیات ابعاد راهبردی دیدار فرماندهان ارشد نیروهای مسلح با رهبر انقلاب از زبان سخنگوی ارتش: 💬در صورت وقوع جنگ جدید، جغرافیای درگیری به منطقه غرب آسیا محدود نخواهد ماند. 💬در صورت وقوع تجاوز جدید، جنگ احتمالی آینده می‌تواند به‌مراتب طولانی‌تر از جنگ گذشته باشد. 💬روند تغییر دکترین جمهوری اسلامی ایران از رویکرد صرفاً تدافعی به سمت رویکرد تهاجمی از گذشته آغاز شده و در جنگ اخیر نیز نمود عملی پیدا کرده است. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103111.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103111.jpg" medium="image" />
-    </item>
-    <item>
-      <title>ارتش روسیه، زیرساخت‌های لجستیکی خط مقدم اوکراین را نابود کرد</title>
-      <link>https://sputnikiran.github.io/news/103110-ارتش-روسیه،-زیرساختهای-لج.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103110-ارتش-روسیه،-زیرساختهای-لج.html</guid>
-      <pubDate>Sun, 01 Nov 2026 07:17:00 GMT</pubDate>
-      <description>▫️به گزارش وزارت دفاع روسیه، یک گروه از نیروهای موشکی &amp;quot;تندر-اس&amp;quot; از گروه جنگی &amp;quot;شمال&amp;quot;، یک انبار مهمات و یک مرکز لجستیکی را در منطقه خارکف منهدم کرد. ▫️اسپوتنیک تاریخچهٔ درگیری اوکراین را در اینجا برای شما گردآوری کرده است. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103110.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103110.jpg" medium="image" />
     </item>
   </channel>
 </rss>
