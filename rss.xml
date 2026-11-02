@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Mon, 02 Nov 2026 18:51:10 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 19:18:49 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>عناوین مهم خبری جهان تا شامگاه</title>
+      <link>https://sputnikiran.github.io/news/103223-عناوین-مهم-خبری-جهان-تا-ش.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103223-عناوین-مهم-خبری-جهان-تا-ش.html</guid>
+      <pubDate>Mon, 02 Nov 2026 19:17:00 GMT</pubDate>
+      <description>نوامبر ▫️پسکوف: مسکو این احتمال را که کی یف از آتش‌بس بشردوستانه در اولشکی، استان خرسون، برای تجدید قوا استفاده کرده باشد، رد نمی کند. ▫️ذخایر جهانی گازوئیل به دلیل درگیری در خاورمیانه به پایین‌ترین حد خود در 35 سال گذشته رسیده است. ▫️دبیر شورای عالی امنیت ملی ایران با پوتین گفتگو تلفنی کرد. ▫️وزارت خارجه روسیه اعلام کرد که گزارش‌ها درباره احتمال اقدامات نظامی جدید علیه ایران، موجب نگرانی است. ▫️ایلیانا یوتووا در انتخابات ریاست جمهوری بلغارستان پیروز شد. ▫️رسانه‌ها: فروشگاه‌های زنجیره‌ای بزرگ تح</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103223.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103223.jpg" medium="image" />
+    </item>
     <item>
       <title>حملات پهپادهای روسی «گران» به اهداف نیروهای مسلح اوکراین</title>
       <link>https://sputnikiran.github.io/news/103222-حملات-پهپادهای-روسی-گران.html</link>
@@ -446,15 +455,6 @@
       <description>🔸وزیر خارجه ایران با مقام‌های ارشد ترکمنستان دیدار و دربارۀ تقویت همکاری‌ها و گسترش مناسبات دوجانبه در زمینه‌های مختلف سیاسی و اقتصادی رایزنی خواهد کرد. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103161.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103161.jpg" medium="image" />
-    </item>
-    <item>
-      <title>هیئتی از شورای فدراسیون به رهبری والنتینا ماتوینکو، رئیس مجلس، به دعوت ژائو لجی، رئیس کمیته دائمی کنگره ملی خلق، سفری رسمی به چین خواهد داشت</title>
-      <link>https://sputnikiran.github.io/news/103160-هیئتی-از-شورای-فدراسیون-ب.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103160-هیئتی-از-شورای-فدراسیون-ب.html</guid>
-      <pubDate>Mon, 02 Nov 2026 05:48:00 GMT</pubDate>
-      <description>🛰ماتوینکو با ژائو لجی و وانگ هونینگ، رئیس کنفرانس مشورتی سیاسی خلق چین، از دوم تا سوم نوامبر، دیدار خواهد کرد. موارد اصلی دستور کار شامل تعمیق بیشتر گفتگوهای بین پارلمانی، گسترش همکاری‌های تجاری و اقتصادی و توسعه روابط بشردوستانه است. به گفته کنستانتین کوساچف، نایب رئیس شورای فدراسیون، انتظار می‌رود این سفر شامل امضای &amp;quot;بسته قابل توجهی&amp;quot; از توافق‌نامه‌های همکاری بین مناطق روسیه و استان‌های چین باشد که وزن سیاسی بیشتری به روابط بین منطقه‌ای خواهد بخشید. 🛰 Sputnik Iran | Rubika | Bale | </description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103160.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103160.jpg" medium="image" />
     </item>
   </channel>
 </rss>
