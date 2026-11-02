@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Mon, 02 Nov 2026 16:49:59 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 17:19:28 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>آتش سوزی گسترده در مرکز بانکوک</title>
+      <link>https://sputnikiran.github.io/news/103219-آتش-سوزی-گسترده-در-مرکز-ب.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103219-آتش-سوزی-گسترده-در-مرکز-ب.html</guid>
+      <pubDate>Mon, 02 Nov 2026 17:18:00 GMT</pubDate>
+      <description>▫️رسانه های تایلند گزارش دادند که حداقل 79 خانه در اثر آتش‌سوزی در مرکز بانکوک ویران شده‌اند. آتش‌سوزی به دلیل مناطق پرجمعیت به سرعت گسترش یافت. ▫️رسانه ها گزارش می‌دهند که هیچ کس کشته، زخمی و مفقود نشده است. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103219.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103219.jpg" medium="image" />
+    </item>
     <item>
       <title>پسکوف: وضعیت میدانی نشان می‌دهد که اجرای برنامه‌های از سرگیری عرضه گاز به اروپا از طریق اوکراین در حال حاضر غیرممکن است</title>
       <link>https://sputnikiran.github.io/news/103218-پسکوف-وضعیت-میدانی-نشان-م.html</link>
@@ -446,15 +455,6 @@
       <description>🔸یک منبع در دولت ترکیه به خبرگزاری اسپوتنیک گفت: «ترکیه آماده است تا میزبان مذاکرات مربوط به اوکراین، چه در سطح فنی و چه در عالی‌ترین سطوح باشد. این پیام در حالی به ایالات متحده منتقل شده که واشنگتن همچنان در حال انجام اقداماتی برای حل‌وفصل مناقشه اوکراین است.» 🔸به گفته این منبع، آنکارا آمادگی دارد تا بسته به قالب و سطح مذاکرات پیشنهادی، مکانی را برای انجام تماس‌های دیپلماتیک فراهم کند. 🔸ولادیمیر پوتین، رئیس‌جمهور روسیه، پیش‌تر از آمادگی روسیه برای ازسرگیری مذاکرات جهت حل‌وفصل بحران اوکراین د</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103157.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103157.jpg" medium="image" />
-    </item>
-    <item>
-      <title>پاییز زیبا در چین: دامنه‌های کوهستانی در شرق چین غرق در رنگ سرخ پاییزی</title>
-      <link>https://sputnikiran.github.io/news/103156-پاییز-زیبا-در-چین-دامنهها.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103156-پاییز-زیبا-در-چین-دامنهها.html</guid>
-      <pubDate>Sun, 01 Nov 2026 21:17:00 GMT</pubDate>
-      <description>🔸دره‌های کوهستانی در نزدیکی شهر جینان، واقع در استان شاندونگ در شرق چین در تصاویر زیر آمده است. 🔸تصاویر ثبت‌شده توسط پهپاد، خط‌الرأس‌های پرپیچ‌وخمی را نشان می‌دهد که در میان شاخ‌وبرگ‌های پاییز تصاویر زیبایی ایجاد کرده اند. 🔸اواخر ماه اکتبر بهترین زمان برای تجربه زیبایی‌های طبیعی این منطقه به شمار می‌رود. با خنک‌تر شدن هوا، جنگل‌های اطراف به‌تدریج به رنگ‌های غنی و زنده‌ای از سرخ، نارنجی و طلایی درمی‌آیند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103156.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103156.jpg" medium="image" />
     </item>
   </channel>
 </rss>
