@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Mon, 02 Nov 2026 12:48:40 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 13:18:29 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>جت‌های رادارگریز J-</title>
+      <link>https://sputnikiran.github.io/news/103194-جتهای-رادارگریز-j.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103194-جتهای-رادارگریز-j.html</guid>
+      <pubDate>Mon, 02 Nov 2026 13:17:00 GMT</pubDate>
+      <description>چین به قطب‌های فرماندهی هوابرد تبدیل می‌شوند 🔸به گزارش گلوبال تایمز، چین با ارتقاء J-20A و معرفی J-20S دو سرنشینه، قابلیت‌های ناوگان جنگنده‌های نسل پنجم خود را به طور قابل توجهی گسترش داده است. 🔸 موتورهای داخلی اکنون نیروی رانش بالاتر، پرواز مافوق صوت پایدار و مانورهای G بالا را ارائه می‌دهند، در حالی که وابستگی به فناوری خارجی را کاهش می‌دهند. 🔸این جنگنده دارای انتقال نرم‌تر کابین خلبان به بدنه برای آیرودینامیک بهتر در سرعت بالا به علاوه هشت حسگر نوری (افزایش از شش حسگر) برای قابلیت‌های شناس</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103194.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103194.jpg" medium="image" />
+    </item>
     <item>
       <title>وزیر خارجه چین در دیدار با علی باقری و هیئت همراه: چین به تلاش‌های خود برای برقراری صلح و ثبات در منطقه ادامه خواهد داد</title>
       <link>https://sputnikiran.github.io/news/103193-وزیر-خارجه-چین-در-دیدار-ب.html</link>
@@ -448,15 +457,6 @@
       <description>🔸 پیست‌های اسکی در دره «وال گاردنا» واقع در منطقه دولومیت ایتالیا، برای آماده‌سازی دامنه‌ها و مسیرهای خود پیش از آغاز فصل زمستان، استفاده از دستگاه‌های تولید برف مصنوعی را آغاز کرده‌اند. 🔸 زمستان گذشته، برخی از مناطق دولومیت به دلیل کمبود بارش و دمای نسبتاً بالا، با کمبود برف طبیعی مواجه شدند. 🔸 در پی تغییرات اقلیمی، پیست‌های اسکی ایتالیا بیش از پیش به تولید برف مصنوعی وابسته شده‌اند؛ فرآیندی که نیازمند مقادیر قابل‌توجهی آب و انرژی الکتریکی است. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103141.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103141.jpg" medium="image" />
-    </item>
-    <item>
-      <title>فرستاده ویژه رئیس جمهور روسیه، ناآرامی‌های آلمان را به افزایش قیمت انرژی در اتحادیه اروپا مرتبط می‌داند</title>
-      <link>https://sputnikiran.github.io/news/103140-فرستاده-ویژه-رئیس-جمهور-ر.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103140-فرستاده-ویژه-رئیس-جمهور-ر.html</guid>
-      <pubDate>Sun, 01 Nov 2026 16:17:00 GMT</pubDate>
-      <description>🔶 کریل دیمیتریف، فرستاده ویژه رئیس جمهور روسیه، در واکنش به گزارش‌هایی مبنی بر غارت مغازه‌ها در فرانکفورت آلمان در عصر شنبه در جریان تظاهرات علیه افزایش هزینه‌های زندگی نوشت: قیمت‌های بالای انرژی در اتحادیه اروپا ناشی از قطع غیرمسئولانه گاز روسیه به معنای صنعتی‌زدایی، شورش و غارت است. 🔶 گفتنی است که تظاهرات جوانان روز شنبه در 34 شهر آلمان برگزار شد و 184400 شرکت‌کننده ثبت‌نام‌شده خواستار اصلاحات آموزشی، اقدام علیه افزایش هزینه‌های زندگی و عدم بازگشت به خدمت اجباری سربازی شدند. 🛰 Sputnik Iran </description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103140.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103140.jpg" medium="image" />
     </item>
   </channel>
 </rss>
