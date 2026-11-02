@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Mon, 02 Nov 2026 12:18:21 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 12:48:40 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>وزیر خارجه چین در دیدار با علی باقری و هیئت همراه: چین به تلاش‌های خود برای برقراری صلح و ثبات در منطقه ادامه خواهد داد</title>
+      <link>https://sputnikiran.github.io/news/103193-وزیر-خارجه-چین-در-دیدار-ب.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103193-وزیر-خارجه-چین-در-دیدار-ب.html</guid>
+      <pubDate>Mon, 02 Nov 2026 12:47:00 GMT</pubDate>
+      <description>🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103193.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103193.jpg" medium="image" />
+    </item>
     <item>
       <title>“مبارزه تا فروپاشی”: اتحادیه اروپا درک خود از اهدافش در اوکراین را کاملاً از دست داده است</title>
       <link>https://sputnikiran.github.io/news/103192-مبارزه-تا-فروپاشی-اتحادیه.html</link>
@@ -448,15 +457,6 @@
       <description>🔶 کریل دیمیتریف، فرستاده ویژه رئیس جمهور روسیه، در واکنش به گزارش‌هایی مبنی بر غارت مغازه‌ها در فرانکفورت آلمان در عصر شنبه در جریان تظاهرات علیه افزایش هزینه‌های زندگی نوشت: قیمت‌های بالای انرژی در اتحادیه اروپا ناشی از قطع غیرمسئولانه گاز روسیه به معنای صنعتی‌زدایی، شورش و غارت است. 🔶 گفتنی است که تظاهرات جوانان روز شنبه در 34 شهر آلمان برگزار شد و 184400 شرکت‌کننده ثبت‌نام‌شده خواستار اصلاحات آموزشی، اقدام علیه افزایش هزینه‌های زندگی و عدم بازگشت به خدمت اجباری سربازی شدند. 🛰 Sputnik Iran </description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103140.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103140.jpg" medium="image" />
-    </item>
-    <item>
-      <title>حمید علیدوستی درگذشت</title>
-      <link>https://sputnikiran.github.io/news/103139-حمید-علیدوستی-درگذشت.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103139-حمید-علیدوستی-درگذشت.html</guid>
-      <pubDate>Sun, 01 Nov 2026 16:17:00 GMT</pubDate>
-      <description>🔸مهاجم پیشکسوت فوتبال ایران پس از مدت‌ها مبارزه با بیماری سرطان درگذشت. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103139.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103139.jpg" medium="image" />
     </item>
   </channel>
 </rss>
