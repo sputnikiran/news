@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Mon, 02 Nov 2026 19:18:49 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 19:48:33 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>گزارش ویدیویی اسپوتنیک؛ افتتاح مرکز آموزش جانفدا در میدان تجریش تهران</title>
+      <link>https://sputnikiran.github.io/news/103224-گزارش-ویدیویی-اسپوتنیک؛-ا.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103224-گزارش-ویدیویی-اسپوتنیک؛-ا.html</guid>
+      <pubDate>Mon, 02 Nov 2026 19:47:00 GMT</pubDate>
+      <description>▫️سومین مرکز نظامی آموزش عمومی جانفدا امروز در میدان تجریش با حضور فرماندهان و مسئولین سپاه محمدرسول‌الله و جمعی از مسئولان لشکری و کشوری آغاز به کار کرد. 🎥سردار حسن‌زاده، فرمانده سپاه محمد رسول‌الله تهران بزرگ: مردم ایران تصمیم خود ‌برای مقابله با زیاده خواهی های استکبار را گرفته اند. اراده آنها از هر سلاح هسته ای و غیر هسته ای بالاتر است. 🎥سرهنگ علی کوثری معاون آموزش سازمان بسیج مستضعفین: هدف اصلی از راه‌اندازی پایگاه های آموزشی جانفدا تربیت جمعیت میلیونی جانفدا و آموزش آنها برای مقابله با د</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103224.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103224.jpg" medium="image" />
+    </item>
     <item>
       <title>عناوین مهم خبری جهان تا شامگاه</title>
       <link>https://sputnikiran.github.io/news/103223-عناوین-مهم-خبری-جهان-تا-ش.html</link>
@@ -446,15 +455,6 @@
       <description>پهپاد اوکراینی بر فراز خاک روسیه ▫️وزارت دفاع روسیه اعلام کرد که سامانه های پدافند هوایی این کشور طی شب گذشته 212 پهپاد اوکراینی را بر فراز مناطق مختلف روسیه سرنگون کرده اند. ▫️اسپوتنیک تاریخچهٔ درگیری اوکراین را در اینجا برای شما گردآوری کرده است. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103162.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103162.jpg" medium="image" />
-    </item>
-    <item>
-      <title>عراقچی به ترکمنستان رفت</title>
-      <link>https://sputnikiran.github.io/news/103161-عراقچی-به-ترکمنستان-رفت.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103161-عراقچی-به-ترکمنستان-رفت.html</guid>
-      <pubDate>Mon, 02 Nov 2026 05:48:00 GMT</pubDate>
-      <description>🔸وزیر خارجه ایران با مقام‌های ارشد ترکمنستان دیدار و دربارۀ تقویت همکاری‌ها و گسترش مناسبات دوجانبه در زمینه‌های مختلف سیاسی و اقتصادی رایزنی خواهد کرد. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103161.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103161.jpg" medium="image" />
     </item>
   </channel>
 </rss>
