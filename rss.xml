@@ -5,13 +5,38 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Tue, 03 Nov 2026 10:48:31 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 11:18:39 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>موسوی به اسپوتنیک: «ملت ایران بیدار و هوشیار و دشمن‌شناس است»</title>
+      <link>https://sputnikiran.github.io/news/103261-موسوی-به-اسپوتنیک-ملت-ایر.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103261-موسوی-به-اسپوتنیک-ملت-ایر.html</guid>
+      <pubDate>Tue, 03 Nov 2026 11:17:00 GMT</pubDate>
+      <description>🗣کاظم موسوی نماینده مجلس، در کفتگوی اختصاصی با اسپوتنیک در باره تأثیر تصرف سفارت آمریکا بر مسیر تثبیت نظام جمهوری اسلامی گفت که دنیا الان مبهوت بر این است که مردم ایران چه زود به این اقتدار دفاعی و بازدارندگی رسیده است که در دنیا مشابه ندارد. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+    </item>
+    <item>
+      <title>لاوروف: اگر ایالات متحده از یک حمله تروریستی قریب الوقوع مطلع شود و این موضوع را به ما اطلاع دهد، این یک رویه معمول برای سازمان‌های اطلاعاتی است</title>
+      <link>https://sputnikiran.github.io/news/103260-لاوروف-اگر-ایالات-متحده-ا.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103260-لاوروف-اگر-ایالات-متحده-ا.html</guid>
+      <pubDate>Tue, 03 Nov 2026 11:17:00 GMT</pubDate>
+      <description>🛰وزیر امور خارجه روسیه در مورد عملیات خنثی‌سازی یک حمله تروریستی در منطقه تساریتسیو اظهار نظر کرد. 💬تماس‌ها بین روسیه و ایالات متحده آمریکا در زمینه مبارزه با تروریسم همچنان ادامه دارد. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103260.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103260.jpg" medium="image" />
+    </item>
+    <item>
+      <title>سخنگوی وزارت امور خارجه قطر: جلسات و گفتگوهای دیروز نشان دادند که ایران و آمریکا همچنان به روند مذاکرات متعهد هستند</title>
+      <link>https://sputnikiran.github.io/news/103259-سخنگوی-وزارت-امور-خارجه-ق.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103259-سخنگوی-وزارت-امور-خارجه-ق.html</guid>
+      <pubDate>Tue, 03 Nov 2026 11:17:00 GMT</pubDate>
+      <description>🔸هیئت قطری شب گذشته پس از جلسه ای در تهران، به دوحه بازگشت. 🔸ما به طور مداوم پیشنهادات را بین دو طرف رد و بدل می کنیم و به تلاش خود برای نزدیک کردن مواضع آنها ادامه می دهیم. 🔸در حال حاضر، طرفین آمریکایی و ایرانی، ایده ها و پیشنهاداتی را که ما ارائه کرده ایم، بررسی می کنند. 🔸در بین کشورهای خلیج فارس، توافقی وجود دارد مبنی بر جلوگیری از تشدید تنش در منطقه، زیرا این امر به نفع هیچ یک از طرفین نیست. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103259.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103259.jpg" medium="image" />
+    </item>
     <item>
       <title>آمریکایی ها از پاسخ ایران واهمه دارند</title>
       <link>https://sputnikiran.github.io/news/103258-آمریکایی-ها-از-پاسخ-ایران.html</link>
@@ -426,33 +451,6 @@
       <description>🗣دکتر عماد آبشناس، تحلیلگر مسائل سیاسی: پس از خروج ایالات متحده از برجام و خودداری کشورهای اروپایی از انجام تعهدات خود در برجام، ایران برای اینکه ابزار فشار و چانه زنی بیشتر داشته باشد…</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103206.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103206.jpg" medium="image" />
-    </item>
-    <item>
-      <title>آتش‌سوزی گسترده در انبار مواد آتش‌بازی در لبنان</title>
-      <link>https://sputnikiran.github.io/news/103202-آتشسوزی-گسترده-در-انبار-م.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103202-آتشسوزی-گسترده-در-انبار-م.html</guid>
-      <pubDate>Mon, 02 Nov 2026 15:17:00 GMT</pubDate>
-      <description>🔸آتش‌سوزی در یک انبار مواد آتش‌بازی که در داخل یک ساختمان مسکونی در روستای «جورة البلوط» در استان جبل لبنان رخ داد. 🔸به گفته منابع محلی، این آتش‌سوزی منجر به وقوع انفجارهای پی‌درپی شد و ستون‌های غلیظ دود را به آسمان فرستاد. شعله‌های آتش به‌سرعت گسترش یافت و چندین آپارتمان مجاور در همان ساختمان را در بر گرفت. 🔶نیروهای دفاع مدنی بلافاصله در محل حاضر شدند و عملیات مهار و خاموش کردن آتش را آغاز کردند. 🔸این حادثه تلفات جانی به همراه نداشت و تنها خسارات مالی گزارش شده است. 🛰 Sputnik Iran | Rubika</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103202.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103202.jpg" medium="image" />
-    </item>
-    <item>
-      <title>دبیر شورای عالی امنیت ملی ایران با پوتین گفتگو تلفنی نمود</title>
-      <link>https://sputnikiran.github.io/news/103201-دبیر-شورای-عالی-امنیت-ملی.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103201-دبیر-شورای-عالی-امنیت-ملی.html</guid>
-      <pubDate>Mon, 02 Nov 2026 15:17:00 GMT</pubDate>
-      <description>🔸سرلشکر رضایی و رئیس جمهور روسیه، طی تماس تلفنی وضعیت جاری منطقه و جهان را با تاکید ویژه بر منطقۀ غرب آسیا مورد بحث و گفت‌وگو قرار دادند. 🔸در این گفت‌وگو از مواضع صریح پوتین و سایر مقامات روسیه در تمجید از نقش رهبر شهید انقلاب( ره) و سایر قهرمانان بزرگ ملی و حمایت از استقامت و پایداری مردم ایران تشکر و قدردانی شد. 🔸طرفین بر ادامۀ همکاری‌های راهبردی بر اساس نقشۀ راه ترسیم شده توسط رهبران عالی دو کشور تأکید کردند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103201.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103201.jpg" medium="image" />
-    </item>
-    <item>
-      <title>حملات سایبری گسترده‌ای سیستم‌های برودتی را در اروپا هدف قرار داده است</title>
-      <link>https://sputnikiran.github.io/news/103200-حملات-سایبری-گستردهای-سیس.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103200-حملات-سایبری-گستردهای-سیس.html</guid>
-      <pubDate>Mon, 02 Nov 2026 14:18:00 GMT</pubDate>
-      <description>🔸این حملات بر فروشگاه‌های زنجیره‌ای بزرگ در کشورهای سوئد، بلژیک، استونی و لوکزامبورگ تأثیر گذاشته است. 🔸به گزارش رسانه غربی، دمای این دستگاه‌ها به‌شدت بالا رفته و به 55 درجه سانتی‌گراد رسیده است که منجر به فاسد شدن مواد غذایی به ارزش میلیون‌ها یورو شده است. شرکت دانمارکی «دانفوس» (Danfoss) که نرم‌افزار مورد استفاده در این سیستم‌ها را تأمین کرده، اعلام کرد که دستگاه‌های هدف‌گذاری‌شده از نسخه‌های قدیمی و به‌روزرسانی‌نشده‌ی نرم‌افزار استفاده می‌کردند. 🔸ماه گذشته نیز موج مشابهی از حملات در فرانسه</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103200.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103200.jpg" medium="image" />
     </item>
   </channel>
 </rss>
