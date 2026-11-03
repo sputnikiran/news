@@ -5,7 +5,7 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Tue, 03 Nov 2026 19:19:18 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 19:49:28 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss8.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
@@ -13,10 +13,26 @@
       <link>https://sputnikiran.github.io/news/</link>
     </image>
     <item>
+      <title>روح الله مدبر: ریشه‌ی بحران اوکراین اقدامات خصمان محور آنگلوساکسونی هست که ملت اوکراین را گروگان خواسته‌های غرب کردند</title>
+      <link>https://sputnikiran.github.io/news/103304-روح-الله-مدبر-ریشهی-بحران.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103304-روح-الله-مدبر-ریشهی-بحران.html</guid>
+      <pubDate>Tue, 03 Nov 2026 19:49:28 GMT</pubDate>
+      <description>▫️روح الله مدبر، کارشناس مسائل بین الملل می گوید: در آستانه چهارم نوامبر که یکی از مهم‌ترین مناسبت‌های مذهبی، ملی، تاریخی و هویتی روسیه و نماد انسجام و ائتلاف ملت روسیه در شکست دادن محور متجاوز به خاک این کشور در حادثه تاریخی سال 1612 در برابر لهستان (پولونی متجاوز وقت) محسوب می‌شود، آقای پوتین سخنرانی بسیار مهمی را در جمع نمایندگان قومیت‌های مختلف ایراد کرد. او اشاره کرد که در طول هزار سال تاریخ روسیه، محور متجاوز آنگلوساکسونی همواره تلاش کرده است اقدامات خصمانه‌ای را علیه روسیه پیش بگیرد، اما </description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103304.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103304.jpg" medium="image" />
+    </item>
+    <item>
+      <title>بالای برج یک معبد بودایی در تایلند فرو ریخت</title>
+      <link>https://sputnikiran.github.io/news/103301-بالای-برج-یک-معبد-بودایی.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103301-بالای-برج-یک-معبد-بودایی.html</guid>
+      <pubDate>Tue, 03 Nov 2026 16:49:28 GMT</pubDate>
+      <description>▫️این حادثه در استان چیانگ مای در شمال این کشور رخ داده است. ▫️به گزارش رسانه‌های محلی، در این حادثه هیچکس کشته یا زخمی نشده است. منطقه اطراف این سازه محاصره شده و کارشناسان در حال بررسی علت ریزش برج هستند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+    </item>
+    <item>
       <title>اخبار مهم جهان تا شبانگاه</title>
       <link>https://sputnikiran.github.io/news/103300-اخبار-مهم-جهان-تا-شبانگاه.html</link>
       <guid isPermaLink="true">https://sputnikiran.github.io/news/103300-اخبار-مهم-جهان-تا-شبانگاه.html</guid>
-      <pubDate>Tue, 03 Nov 2026 19:19:18 GMT</pubDate>
+      <pubDate>Tue, 03 Nov 2026 13:49:28 GMT</pubDate>
       <description>نوامبر ▫️پوتین: نیروهای خارجی همیشه سعی در ایجاد تفرقه در جامعه روسیه داشته‌اند. ▫️پسکوف: مذاکرات سه جانبه بین روسیه، آمریکا و اوکراین در تاریخ 10 و 11 نوامبر در ابوظبی برگزار خواهد شد. ▫️ملانیا ترامپ قصد دارد نمایندگان روسیه و اوکراین را برای دیدار حضوری به کاخ سفید دعوت کند. ▫️لاوروف، وزیر خارجه روسیه: اگر ایالات متحده از یک حمله تروریستی قریب الوقوع مطلع شود و این موضوع را به ما اطلاع دهد، این یک رویه معمول برای سازمان‌های اطلاعاتی است. ▫️سخنگوی وزارت امور خارجه قطر: جلسات و گفتگوهای دیروز نش</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103300.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103300.jpg" medium="image" />
@@ -25,7 +41,7 @@
       <title>در مجلس دومای روسیه به نقش پوتین در مقابله با تلاش‌ها برای تفرقه‌افکنی در جامعه اشاره کردند</title>
       <link>https://sputnikiran.github.io/news/103299-در-مجلس-دومای-روسیه-به-نق.html</link>
       <guid isPermaLink="true">https://sputnikiran.github.io/news/103299-در-مجلس-دومای-روسیه-به-نق.html</guid>
-      <pubDate>Tue, 03 Nov 2026 16:19:18 GMT</pubDate>
+      <pubDate>Tue, 03 Nov 2026 10:49:28 GMT</pubDate>
       <description>▫️لئونید کلاشینکف، رئیس کمیته امور کشورهای مستقل مشترک‌المنافع، همگرایی اوراسیایی و روابط با هموطنان در مجلس دومای روسیه به اسپوتنیک گفت: تلاش‌ها برای تفرقه‌افکنی در جامعه روسیه شکست خورده است و باید به ولادیمیر پوتین، رئیس جمهور روسیه، که سال‌ها برای دستیابی به این هدف تلاش کرد، ادای احترام کرده و ارج نهاد. ▫️او یادآوری کرد که در فوریه 1917، کشور &amp;quot; تکه تکه&amp;quot; شده و حاشیه‌های قومی از هم پاشید تا اینکه بلشویک‌ها آنها را با زور اسلحه و پیام‌ها و باورهای خاص خود دوباره گرد هم آوردند. به گفت</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103299.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103299.jpg" medium="image" />
@@ -34,7 +50,7 @@
       <title>زاتولین، نماینده پارلمان: ملت روس قادر به متحد کردن و حفظ فرهنگ‌ها است</title>
       <link>https://sputnikiran.github.io/news/103298-زاتولین،-نماینده-پارلمان.html</link>
       <guid isPermaLink="true">https://sputnikiran.github.io/news/103298-زاتولین،-نماینده-پارلمان.html</guid>
-      <pubDate>Tue, 03 Nov 2026 13:19:18 GMT</pubDate>
+      <pubDate>Tue, 03 Nov 2026 07:49:28 GMT</pubDate>
       <description>▫️ولادیمیر پوتین، رئیس جمهور روسیه، روز سه‌شنبه در جلسه شورای روابط بین قومی خاطرنشان کرد که نیروهای خارجی در طول تاریخ تلاش کرده‌اند تا جامعه روسیه را دچار تفرقه و روسیه را تجزیه کنند تا از رقیب خود در صحنه بین‌المللی خلاص شوند. با این حال، همانطور که رئیس جمهور روسیه تأکید کرد، وحدت مردم به مهمترین عامل در تقویت حاکمیت ملی و حفظ خود روسیه تبدیل شده است. کنستانتین زاتولین، عضو کمیته امور کشورهای مستقل مشترک المنافع ، همگرایی اوراسیایی و روابط با هموطنان در مجلس دومای روسیه ، به اسپوتنیک گفت: &amp;q</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103298.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103298.jpg" medium="image" />
@@ -43,7 +59,7 @@
       <title>در حالی که رأی‌گیری انتخابات میان‌دوره‌ای آمریکا به روز پایانی خود رسیده، رأی‌دهندگان چه می‌گویند؟</title>
       <link>https://sputnikiran.github.io/news/103295-در-حالی-که-رأیگیری-انتخاب.html</link>
       <guid isPermaLink="true">https://sputnikiran.github.io/news/103295-در-حالی-که-رأیگیری-انتخاب.html</guid>
-      <pubDate>Tue, 03 Nov 2026 10:19:18 GMT</pubDate>
+      <pubDate>Tue, 03 Nov 2026 04:49:28 GMT</pubDate>
       <description>اسپوتنیک بررسی می‌کند: «نگران آینده فرزندانم، وضعیت اقتصادی و بازار کار هستم.» «حزب جمهوری‌خواه واقعاً به سمت نفرت‌ورزی رفته است. من نمی‌خواهم نامزدهایم اهل نفرت‌پراکنی باشند.» «هوای بد موقتی است، اما سوسیالیسم همیشگی است.» 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103295.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103295.jpg" medium="image" />
@@ -52,7 +68,7 @@
       <title>کارشناس سیاسی محافظه‌ کار: پیروزی جمهوری ‌خواهان در انتخابات میان‌ دوره‌ای به ترامپ اجازه می‌دهد تا نفوذ ایالات متحده را در آمریکای لاتین تقویت کند و مبارزه با قاچاق مواد مخدر و مهاجرت غیرقانونی را تشدید کند</title>
       <link>https://sputnikiran.github.io/news/103294-کارشناس-سیاسی-محافظه-کار.html</link>
       <guid isPermaLink="true">https://sputnikiran.github.io/news/103294-کارشناس-سیاسی-محافظه-کار.html</guid>
-      <pubDate>Tue, 03 Nov 2026 07:19:18 GMT</pubDate>
+      <pubDate>Tue, 03 Nov 2026 01:49:28 GMT</pubDate>
       <description>▫️مارک لیتل، کارشناس سیاسی محافظه‌کار و مدیر اجرایی سازمان اجتماعی ـ سیاسی CURE America Action، در مصاحبه‌ای با اسپوتنیک اظهار داشت که اگر جمهوری‌خواهان قدرت را در واشنگتن دی سی حفظ کنند، انتخابات میان‌دوره‌ای بر مکزیک، آمریکای لاتین و صادقانه بگویم آمریکای جنوبی تأثیر خواهد گذاشت، زیرا اثرات دکترین ترامپ، که بسیار گسترده‌تر از آن چیزی است که اکثر مردم می‌بینند یا می‌فهمند، بر آنها تأثیر خواهد گذاشت. دکترین ترامپ نقش مواد معدنی، تأثیر قاچاق مواد مخدر و قاچاق انسان مورد حمایت جهانی‌گرایان - که از</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103294.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103294.jpg" medium="image" />
@@ -61,28 +77,10 @@
       <title>پوتین: نیروهای خارجی همیشه سعی در ایجاد تفرقه در جامعه روسیه داشته‌اند</title>
       <link>https://sputnikiran.github.io/news/103293-پوتین-نیروهای-خارجی-همیشه.html</link>
       <guid isPermaLink="true">https://sputnikiran.github.io/news/103293-پوتین-نیروهای-خارجی-همیشه.html</guid>
-      <pubDate>Tue, 03 Nov 2026 04:19:18 GMT</pubDate>
+      <pubDate>Mon, 02 Nov 2026 22:49:28 GMT</pubDate>
       <description>▫️ولادیمیر پوتین، رئیس جمهور روسیه، در شورای روابط بین قومی کشور گفت: «امروز، نیروهای خارجی سعی در ایجاد تفرقه در جامعه روسیه دارند. دوستان عزیز، این موضوع در طول تاریخ بیش از 1000 ساله ما همیشه وجود داشته است.» پوتین همچنین خاطرنشان کرد: «و دلیل آن قابل درک است: روسیه در نهایت به یک قدرت بزرگ، قدرتمند و تأثیرگذار تبدیل شده است و همه دشمنان و مخالفان ژئوپلیتیکی ما - به طرق مختلف در زمان‌های مختلف - زمانی دشمن بودند، همه آنها عملاً سعی در کاهش، تضعیف پتانسیل استراتژیک روسیه و از همه بهتر، تجزیه خ</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103293.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103293.jpg" medium="image" />
-    </item>
-    <item>
-      <title>چین با موفقیت</title>
-      <link>https://sputnikiran.github.io/news/103292-چین-با-موفقیت.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103292-چین-با-موفقیت.html</guid>
-      <pubDate>Tue, 03 Nov 2026 01:19:18 GMT</pubDate>
-      <description>ماهواره اینترنتی دیگر از سری &amp;quot;چیانفان&amp;quot; را به فضا پرتاب کرد ▫️آکادمی نوآوری ریزماهواره وابسته به آکادمی علوم چین از پرتاب موفقیت‌آمیز دسته جدیدی از ماهواره‌ها برای اینترنت مدار پایین به نام &amp;quot;چیانفان&amp;quot; خبر داد. این پرتاب از منطقه آزمایشی پرتاب فضایی تجاری &amp;quot;دونگ‌فنگ&amp;quot; در صحرای گبی انجام شد. ▫️این پرتاب، نود و نهمین پرتاب مرکز مهندسی ریزماهواره شانگهای بود. تا به امروز، این مرکز با موفقیت 404 ماهواره، از جمله ماهواره‌های طراحی شده برای ارتباطات، علوم، سنجش از دور و ناوبری</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103292.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103292.jpg" medium="image" />
-    </item>
-    <item>
-      <title>چرا این انتخابات کنگره آمریکا می‌تواند تعیین‌کننده و سرنوشت‌ساز باشد؟</title>
-      <link>https://sputnikiran.github.io/news/103288-چرا-این-انتخابات-کنگره-آم.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103288-چرا-این-انتخابات-کنگره-آم.html</guid>
-      <pubDate>Mon, 02 Nov 2026 22:19:18 GMT</pubDate>
-      <description></description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103288.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103288.jpg" medium="image" />
     </item>
   </channel>
 </rss>
