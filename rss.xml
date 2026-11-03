@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Tue, 03 Nov 2026 20:48:34 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 21:19:25 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>کارشناس ترک: برای رفع تنش‌ها، ایجاد یک بنیان دیپلماتیک با در نظر گرفتن منافع امنیتی روسیه ضروری است</title>
+      <link>https://sputnikiran.github.io/news/103308-کارشناس-ترک-برای-رفع-تنشه.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103308-کارشناس-ترک-برای-رفع-تنشه.html</guid>
+      <pubDate>Tue, 03 Nov 2026 21:18:00 GMT</pubDate>
+      <description>▫️طوبا چبی، کارشناس سیاست خارجی ترکیه، در مصاحبه‌ای با اسپوتنیک اظهار داشت که شکل‌گیری معماری امنیتی اروپا پس از جنگ سرد، گسترش ناتو و توجه ناکافی به نگرانی‌های امنیتی روسیه را می‌توان از عواملی دانست که زمینه‌ساز تنش‌های فعلی شده‌اند. ▫️طوبا چبی همچنین خاطرنشان کرد: با این حال، در سیاست بین‌الملل، تمایل یک طرف به امنیت، که به درک تهدید طرف دیگر دامن می‌زند، از نظر تاریخی منجر به بحران‌های جدی شده است. در این راستا، نکته کلیدی که پوتین بر آن تأکید کرد، مهم است: حساسیت روسیه به تلاش‌ها برای تضعیف</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103308.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103308.jpg" medium="image" />
+    </item>
     <item>
       <title>اعتراضات در مقابل ساختمان پارلمان ژاپن به مناسبت هشتادمین سالگرد تصویب قانون اساسی این کشور</title>
       <link>https://sputnikiran.github.io/news/103307-اعتراضات-در-مقابل-ساختمان.html</link>
@@ -446,15 +455,6 @@
       <description>🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103249.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103249.jpg" medium="image" />
-    </item>
-    <item>
-      <title>تصادف وحشتناک دو هلیکوپتر در نپال، جان یک نفر را گرفت</title>
-      <link>https://sputnikiran.github.io/news/103248-تصادف-وحشتناک-دو-هلیکوپتر.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103248-تصادف-وحشتناک-دو-هلیکوپتر.html</guid>
-      <pubDate>Tue, 03 Nov 2026 08:47:00 GMT</pubDate>
-      <description>🔶یک حادثه هوایی فاجعه‌بار در یک فرودگاه در نپال رخ داد. دو فروند هلیکوپتر متعلق به شرکت‌های Fishtail Air و Dynasty Air در هنگام فرود با یکدیگر برخورد کردند. 🔶در این حادثه، یک نفر جان خود را از دست داد و یک نفر دیگر مجروح شد. مقامات انتظامی تحقیقات خود را برای شناسایی هویت قربانیان و روشن شدن جزئیات دقیق حادثه آغاز کرده‌اند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103248.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103248.jpg" medium="image" />
     </item>
   </channel>
 </rss>
