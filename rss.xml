@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Tue, 03 Nov 2026 15:48:46 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 16:18:30 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>آمریکایی ها از پاسخ ایران واهمه دارند</title>
+      <link>https://sputnikiran.github.io/news/103283-آمریکایی-ها-از-پاسخ-ایران.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103283-آمریکایی-ها-از-پاسخ-ایران.html</guid>
+      <pubDate>Tue, 03 Nov 2026 16:17:00 GMT</pubDate>
+      <description>🛰سید حسین نقوی حسینی، نماینده ادوار مجلس شورای اسلامی و سخنگوی پیشین کمیسیون ویژه برجام، در خصوص تنش ها میان ایران و آمریکا به خبرنگار اسپوتنیک گفت: جمهوری اسلامی ایران هیچ‌گاه میز مذاکره را ترک نکرده و همواره به دنبال…</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103283.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103283.jpg" medium="image" />
+    </item>
     <item>
       <title>رودهای آتش در هاوایی: «کیلاویا» با فورانی تازه بیدار شد</title>
       <link>https://sputnikiran.github.io/news/103282-رودهای-آتش-در-هاوایی-کیلا.html</link>
@@ -444,15 +453,6 @@
       <description>🔸استیون ویتکاف، نماینده ویژه رئیس جمهور ایالات متحده، در شبکه اجتماعی ایکس نوشت: «ایالات متحده به عنوان میانجی در مذاکرات بین اوکراین و روسیه، که قرار است در تاریخ‌های 10 و 11 نوامبر در ابوظبی برگزار شود، شرکت خواهد کرد.» 🔸نماینده ویژه همچنین افزود که قبل از این دیدار، مذاکره‌کنندگان آمریکایی در بروکسل با نمایندگان فرانسه، آلمان، بریتانیا، اتحادیه اروپا و ناتو، در مورد تضمین‌های لازم برای اوکراین و چارچوب‌های کلی ساختار امنیتی آینده، گفتگو خواهند کرد. 🔸همچنین، دمیتری پسکوف، سخنگوی کرملین، اشا</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103232.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103232.jpg" medium="image" />
-    </item>
-    <item>
-      <title>زنده گیری یک خرس قطبی در شمال روسیه</title>
-      <link>https://sputnikiran.github.io/news/103231-زنده-گیری-یک-خرس-قطبی-در.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103231-زنده-گیری-یک-خرس-قطبی-در.html</guid>
-      <pubDate>Mon, 02 Nov 2026 21:18:00 GMT</pubDate>
-      <description>▫️متخصصان این خرس را در یک ساختمان متروکه پیدا کردند، آن را بی‌هوش کردند و معاینه‌اش کردند. سپس خرس با هلیکوپتر به جزیره مورزوویه، حدود ۱۵۰ کیلومتری شهر دیکسون در شمال روسیه، منتقل شد. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103231.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103231.jpg" medium="image" />
     </item>
   </channel>
 </rss>
