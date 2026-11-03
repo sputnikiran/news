@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Tue, 03 Nov 2026 11:18:39 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 11:48:32 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>بقائی: پرونده هسته‌ای ایران بزرگ‌ترین دروغ قرن و ابزار فشار استکبار است</title>
+      <link>https://sputnikiran.github.io/news/103262-بقائی-پرونده-هستهای-ایران.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103262-بقائی-پرونده-هستهای-ایران.html</guid>
+      <pubDate>Tue, 03 Nov 2026 11:47:00 GMT</pubDate>
+      <description>🗣سخنگوی وزارت امور خارجه ایران در رویداد مواجهه با آمریکا: ایالات متحده آمریکا با حمایت مداوم از بزرگ‌ترین مصادیق نقض حق تعیین سرنوشت در جهان، خود به مظهر این تناقض تبدیل شده است. 🗣پرونده هسته‌ای ایران به عنوان بزرگ‌ترین و پرهزینه‌ترین دروغ قرن، مبنایی برای اعمال شدیدترین فشارها و تنگناها علیه ملت ایران قرار گرفت. 🗣اتهامی دروغین که با وجود عدم ارائه حتی یک سند دال بر انحراف از مسیر صلح‌آمیز، همچنان به عنوان ابزاری در سیاست خارجی ایالات متحده و در راستای منافـع رژیم صهیونیستی تکرار می‌شود. 🛰 </description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103262.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103262.jpg" medium="image" />
+    </item>
     <item>
       <title>موسوی به اسپوتنیک: «ملت ایران بیدار و هوشیار و دشمن‌شناس است»</title>
       <link>https://sputnikiran.github.io/news/103261-موسوی-به-اسپوتنیک-ملت-ایر.html</link>
@@ -442,15 +451,6 @@
       <description>🔸تمدن غرب دوره‌ای از “افول شکوه” سرسام‌آور را تجربه می‌کند. هر آنچه در جهانی که ایالات متحده رهبری آن را بر عهده دارد، تنها با رنگ‌های رنگین‌کمانی تصویر می‌شد، به دلیل فقدان کامل اعتماد، دارد فرو می‌ریزد. رسانه‌های اسلواکی این را می‌نویسند. 🔸آزادی، حقوق بشر، دموکراسی - همه اینها چیزی بیش از یک توهم چندلایه با ابعاد عظیم نبوده است. نشانه‌های این فریب آشکار است: کمیته المپیک آشکارا جانبدارانه و سیاسی، تحریم‌های غیرقانونی، اعمال اصل گناه جمعی بر کل ملت‌ها، و به عنوان “گیلاس روی کیک”، خروج شرم‌آور</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103207.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103207.jpg" medium="image" />
-    </item>
-    <item>
-      <title>کارشناس: اورانيوم غني سازی شده برای ایران حیثیتی بود حالا موجودیتی شده</title>
-      <link>https://sputnikiran.github.io/news/103206-کارشناس-اورانيوم-غني-سازی.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103206-کارشناس-اورانيوم-غني-سازی.html</guid>
-      <pubDate>Mon, 02 Nov 2026 15:17:00 GMT</pubDate>
-      <description>🗣دکتر عماد آبشناس، تحلیلگر مسائل سیاسی: پس از خروج ایالات متحده از برجام و خودداری کشورهای اروپایی از انجام تعهدات خود در برجام، ایران برای اینکه ابزار فشار و چانه زنی بیشتر داشته باشد…</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103206.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103206.jpg" medium="image" />
     </item>
   </channel>
 </rss>
