@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Tue, 03 Nov 2026 05:48:24 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 06:18:34 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>رهگیری و انهدام</title>
+      <link>https://sputnikiran.github.io/news/103237-رهگیری-و-انهدام.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103237-رهگیری-و-انهدام.html</guid>
+      <pubDate>Tue, 03 Nov 2026 06:17:00 GMT</pubDate>
+      <description>پهپاد اوکراینی بر فراز خاک روسیه ▫️وزارت دفاع روسیه اعلام کرد که سامانه های پدافند هوایی این کشور طی شب گذشته 856 پهپاد اوکراینی را بر فراز مناطق مختلف روسیه سرنگون کرده اند. ▫️اسپوتنیک تاریخچهٔ درگیری اوکراین را در اینجا برای شما گردآوری کرده است. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103237.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103237.jpg" medium="image" />
+    </item>
     <item>
       <title>نیروهای مسلح روسیه، شبکه مراکز کنترل پهپادهای اوکراین را نابود کردند</title>
       <link>https://sputnikiran.github.io/news/103236-نیروهای-مسلح-روسیه،-شبکه.html</link>
@@ -448,15 +457,6 @@
       <description>🔸تاکر کارلسون، روزنامه‌نگار، استدلال می‌کند که یکی از اهداف احتمالی می‌تواند کوه پیکاکس باشد، جایی که اطلاعات اسرائیل ادعا می‌کند ایران ممکن است غنی‌سازی اورانیوم را…</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103177.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103177.jpg" medium="image" />
-    </item>
-    <item>
-      <title>پس از محاصره</title>
-      <link>https://sputnikiran.github.io/news/103175-پس-از-محاصره.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103175-پس-از-محاصره.html</guid>
-      <pubDate>Mon, 02 Nov 2026 09:17:00 GMT</pubDate>
-      <description>روزه، ارتش اسرائیل از الخلیل در کرانه باختری عقب‌نشینی کرد 🔸خالد دودین، فرماندار الخلیل، از عقب‌نشینی نیروهای اسرائیلی از کل شهر در جنوب کرانه باختری خبر داد. این عملیات نظامی 10 روز به طول انجامید. وی گفت که نیروهای امنیتی فلسطین اکنون کل منطقه را کنترل می‌کنند. 🔸او همچنین اعلام کرد که به خانواده‌هایی که مجبور به فرار از خانه‌های خود شده بودند، اجازه بازگشت داده شده است. مقامات ذیصلاح در حال نظارت بر اوضاع در محل و تضمین بازگشت ایمن ساکنان هستند. پیامدهای این عملیات: 🔸ارتش اسرائیل این عملیات</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103175.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103175.jpg" medium="image" />
     </item>
   </channel>
 </rss>
