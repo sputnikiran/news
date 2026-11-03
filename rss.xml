@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Tue, 03 Nov 2026 09:48:24 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 10:18:42 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>لاوروف: اظهارات اتحادیه اروپا مبنی بر لزوم آتش‌بس در اوکراین، نه برای صلح، بلکه برای ایجاد فرصتی برای کی‌یف است</title>
+      <link>https://sputnikiran.github.io/news/103256-لاوروف-اظهارات-اتحادیه-ار.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103256-لاوروف-اظهارات-اتحادیه-ار.html</guid>
+      <pubDate>Tue, 03 Nov 2026 10:18:00 GMT</pubDate>
+      <description>🛰مهم‌ترین نکات مطرح شده توسط لاوروف در نشست عمومی سطح بالا چهارمین کنفرانس بین‌المللی مینسک در مورد امنیت اوراسیا: 🗣لندن و پاریس به دنبال تثبیت رژیم کی‌یف هستند، و همین امر باعث درخواست‌های آنها برای توقف در خط تماس شده است. 🗣اتحادیه اروپا خواستار ایجاد یک سیستم امنیتی علیه روسیه و بلاروس است. 🗣روسیه از تعامل با کسانی که از منطق تضاد فاصله می‌گیرند، خودداری نخواهد کرد، اما به دنبال کسی نخواهد بود. در حال حاضر، چشم‌اندازی برای گفت‌وگوی واقع‌بینانه با اروپا وجود ندارد. 🗣ژاپن در حال تسلیح‌سازی</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103256.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103256.jpg" medium="image" />
+    </item>
     <item>
       <title>روزنامه بریتانیایی: به نیروهای صلح‌بان بریتانیایی و اروپایی اجازه داده خواهد شد تا در صورت حمله، به نیروهای روسی پاسخ دهند</title>
       <link>https://sputnikiran.github.io/news/103255-روزنامه-بریتانیایی-به-نیر.html</link>
@@ -444,15 +453,6 @@
       <description>آکروبات‌باز با تشکیل یک برج انسانی، از پله‌های یک کلیسای جامع در اسپانیا بالا رفتند 🔸شرکت‌کنندگان باید تمام 90 پله را بدون از دست دادن تعادل و در حالی که در تمام طول مسیر آرایش کار خود را حفظ کرده بودند، بالا می‌رفتند. 🔸این صعود معنایی نمادین نیز دارد: هر پله نشان‌دهنده بخشیده شدن یک گناه است. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103197.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103197.jpg" medium="image" />
-    </item>
-    <item>
-      <title>نمایش نوری پهپادی در آسمان شبِ چین، سالگرد تاسیس نیروی هوایی ارتش آزادی‌بخش خلق را گرامی داشتند</title>
-      <link>https://sputnikiran.github.io/news/103196-نمایش-نوری-پهپادی-در-آسما.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103196-نمایش-نوری-پهپادی-در-آسما.html</guid>
-      <pubDate>Mon, 02 Nov 2026 13:48:00 GMT</pubDate>
-      <description>🔸روز یکشنبه، حدود 3000 پهپاد آسمان شهر «ژوهای» چین را روشن کردند و بدین‌وسیله جشن‌های هفتاد و هفتمین سالگرد تأسیس «نیروی هوایی ارتش آزادی‌بخش خلق» (PLAAF) — که در 11 نوامبر 1949 پایه‌گذاری شده بود — آغاز شد. 🔸این نمایش شامل 15 بخش موضوعی بود که هواپیماهای نمادین و تجهیزات نظامیِ مورد استفاده در نیروی هوایی ارتش آزادی‌بخش خلق، و همچنین دستاوردهای چین در توسعه توانمندی‌های رزمیِ جامع برای نیروهای هوایی‌اش را به تصویر می‌کشیدند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103196.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103196.jpg" medium="image" />
     </item>
   </channel>
 </rss>
