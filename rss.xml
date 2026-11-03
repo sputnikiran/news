@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Tue, 03 Nov 2026 17:48:23 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 18:19:00 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>کارشناس سیاسی محافظه‌ کار: پیروزی جمهوری ‌خواهان در انتخابات میان‌ دوره‌ای به ترامپ اجازه می‌دهد تا نفوذ ایالات متحده را در آمریکای لاتین تقویت کند و مبارزه با قاچاق مواد مخدر و مهاجرت غیرقانونی را تشدید کند</title>
+      <link>https://sputnikiran.github.io/news/103294-کارشناس-سیاسی-محافظه-کار.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103294-کارشناس-سیاسی-محافظه-کار.html</guid>
+      <pubDate>Tue, 03 Nov 2026 18:18:00 GMT</pubDate>
+      <description>▫️مارک لیتل، کارشناس سیاسی محافظه‌کار و مدیر اجرایی سازمان اجتماعی ـ سیاسی CURE America Action، در مصاحبه‌ای با اسپوتنیک اظهار داشت که اگر جمهوری‌خواهان قدرت را در واشنگتن دی سی حفظ کنند، انتخابات میان‌دوره‌ای بر مکزیک، آمریکای لاتین و صادقانه بگویم آمریکای جنوبی تأثیر خواهد گذاشت، زیرا اثرات دکترین ترامپ، که بسیار گسترده‌تر از آن چیزی است که اکثر مردم می‌بینند یا می‌فهمند، بر آنها تأثیر خواهد گذاشت. دکترین ترامپ نقش مواد معدنی، تأثیر قاچاق مواد مخدر و قاچاق انسان مورد حمایت جهانی‌گرایان - که از</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103294.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103294.jpg" medium="image" />
+    </item>
     <item>
       <title>پوتین: نیروهای خارجی همیشه سعی در ایجاد تفرقه در جامعه روسیه داشته‌اند</title>
       <link>https://sputnikiran.github.io/news/103293-پوتین-نیروهای-خارجی-همیشه.html</link>
@@ -444,15 +453,6 @@
       <guid isPermaLink="true">https://sputnikiran.github.io/news/103239-رسانه-آمریکایی-شلیک-پدافن.html</guid>
       <pubDate>Tue, 03 Nov 2026 06:47:00 GMT</pubDate>
       <description>🔸رسانه آمریکایی به نقل از یک مقام مطلع فاش کرد که نیروهای دفاعی ایران شامگاه دوشنبه به سمت یک فروند هواپیمای جنگی آمریکا موشک شلیک کرده‌اند 🔸 این رسانه مدعی شده، پس از این اقدام، آمریکا نقطه‌ای را در جزیره قشم مورد هدف قرار داده است. 🔸طرف ایرانی این خبر را تایید نمی‌کند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-    </item>
-    <item>
-      <title>زاخارووا: «در اوکراین مراکز شکنجه زیادی از این دست وجود دارد</title>
-      <link>https://sputnikiran.github.io/news/103238-زاخارووا-در-اوکراین-مراکز.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103238-زاخارووا-در-اوکراین-مراکز.html</guid>
-      <pubDate>Tue, 03 Nov 2026 06:47:00 GMT</pubDate>
-      <description>قدرت زلنسکی بر آنها استوار است» 🛰ماریا زاخارووا، سخنگوی وزارت خارجه روسیه اینگونه در مورد وضعیت «زندان غیررسمی» در نزدیکی کی‌یف که در آن مردم شکنجه می‌شدند، اظهار نظر کرد، سربازان و یک نوجوان 14 ساله زخمی در آنجا پیدا شدند. 🛰پیش از این، رسانه‌های اوکراینی گزارش دادند که نوجوان 14 ساله زخمی از زیرزمینی در منطقه کی‌یف که در آن مردم به زور نگهداری می‌شدند، پیدا شده است. 🛰این زندان غیررسمی در زیرزمین توسط گروه آزوف* تأسیس شده است. 🛰* یک سازمان تروریستی ممنوعه در روسیه است. 🛰 Sputnik Iran | Rubi</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103238.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103238.jpg" medium="image" />
     </item>
   </channel>
 </rss>
