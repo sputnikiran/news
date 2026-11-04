@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Tue, 03 Nov 2026 21:19:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 05:18:24 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>روسیه از سیستم چندلایه ضد پهپاد برای تقویت دفاع رونمایی کرد</title>
+      <link>https://sputnikiran.github.io/news/103309-روسیه-از-سیستم-چندلایه-ضد.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103309-روسیه-از-سیستم-چندلایه-ضد.html</guid>
+      <pubDate>Wed, 04 Nov 2026 05:17:00 GMT</pubDate>
+      <description>🔶شرکت کلاشنیکوف روسیه از یک سیستم یکپارچه جدید که برای محافظت از زیرساخت‌های استراتژیک و حیاتی در برابر حملات گسترده پهپادها طراحی شده است، رونمایی کرد. این نمایش شامل چندین راهکار ضد پهپاد بود: 🔶سیستم خودکار Kalitka-KA قدرت آتش خود را در برابر اهداف هوایی نشان داد 🔶سیستم دفاع هوایی Zveroboy، با پهپاد رهگیر Kraken FPV 🔶مهمات چند پرتابه ویژه 5.45 میلی‌متری که از یک تفنگ تهاجمی AK-12 برای مقابله با پهپادهای FPV شلیک می‌شود. 🔶یک پایه تاکتیکی سفارشی مجهز به مسلسل‌های 7.62 میلی‌متری کلاشنیکوف PK</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103309.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103309.jpg" medium="image" />
+    </item>
     <item>
       <title>کارشناس ترک: برای رفع تنش‌ها، ایجاد یک بنیان دیپلماتیک با در نظر گرفتن منافع امنیتی روسیه ضروری است</title>
       <link>https://sputnikiran.github.io/news/103308-کارشناس-ترک-برای-رفع-تنشه.html</link>
@@ -446,15 +455,6 @@
       <description>نوامبر 🛰قالیباف: پاسخ مقتدرانه و عقلانی ایران به طرف آمریکایی داده شده و اکنون توپ در زمین آمریکاست. 🛰ویتکاف از مذاکرات مربوط به اوکراین در امارات متحده عربی خبر داد. 🛰پِسکوف اعلام کرد که کار برای برگزاری نشستی بین ترامپ، پوتین و شی جینپینگ در اجلاس آ‌پک در حال انجام است. 🛰ماریا زاخاروا در مورد وضعیت &amp;quot;زندان غیررسمی&amp;quot; در نزدیکی کی‌یف، جایی که افراد مورد شکنجه قرار می‌گرفتند، اظهار نظر کرد. 🛰رسانه‌ها: ایالات متحده از ناتو خواهد خواست تا کسری بودجه در یک برنامه کلیدی برای تامین سلاح ب</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103250.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103250.jpg" medium="image" />
-    </item>
-    <item>
-      <title>دمیتری پسکوف: کار برای سازماندهی ملاقات بین ترامپ، پوتین و شی جینپینگ در اجلاس سازمان همکاری شانگهای  آغاز شده است</title>
-      <link>https://sputnikiran.github.io/news/103249-دمیتری-پسکوف-کار-برای-ساز.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103249-دمیتری-پسکوف-کار-برای-ساز.html</guid>
-      <pubDate>Tue, 03 Nov 2026 08:47:00 GMT</pubDate>
-      <description>🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103249.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103249.jpg" medium="image" />
     </item>
   </channel>
 </rss>
