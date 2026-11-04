@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Wed, 04 Nov 2026 13:18:59 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 13:48:42 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>سومالیایی‌ها پیروزی نماینده خود در انتخابات آمریکا را جشن می‌گیرند</title>
+      <link>https://sputnikiran.github.io/news/103339-سومالیاییها-پیروزی-نمایند.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103339-سومالیاییها-پیروزی-نمایند.html</guid>
+      <pubDate>Wed, 04 Nov 2026 13:47:00 GMT</pubDate>
+      <description>▫️ایلهان عمر، سیاستمدار سومالیایی تبار روی صحنه‌ای در مینه‌سوتا می‌رقصد. 🔶او توانست با کسب حدود 76.5 درصد آرا، رقیب جمهوری‌خواه خود (جان نیگل) را به راحتی شکست دهد و برای پنجمین دوره پیاپی به مجلس نمایندگان آمریکا راه یابد. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103339.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103339.jpg" medium="image" />
+    </item>
     <item>
       <title>پوتین روز وحدت ملی را به شهروندان روسیه  تبریک گفت</title>
       <link>https://sputnikiran.github.io/news/103338-پوتین-روز-وحدت-ملی-را-به.html</link>
@@ -438,15 +447,6 @@
       <description>▫️مارکو کارنلوس، دیپلمات سابق ایتالیایی و مشاور امور خاورمیانه در دوران نخست‌وزیری رومانو پرودی و سیلویو برلوسکونی، به خبرگزاری اسپوتنیک می‌گوید: حتی اگر دموکرات‌ها در انتخابات میان‌دوره‌ای 3 نوامبر، کنترل مجلس نمایندگان یا هر دو مجلس کنگره را به دست بگیرند، سیاست آمریکا در قبال خاورمیانه احتمالاً تا حد زیادی بدون تغییر باقی خواهد ماند. ▫️کارنلوس استدلال می‌کند که حزب دموکرات دچار شکاف عمیقی است؛ شکافی میان جناح چپِ حامی فلسطین — که از «نفوذ اسرائیل در فرآیند سیاسی آمریکا به ستوه آمده» و با جنگ </description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103281.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103281.jpg" medium="image" />
-    </item>
-    <item>
-      <title>سرلشکر رضایی: پاسخ آمریکا به مطالبات ایران قانع‌کننده نبود</title>
-      <link>https://sputnikiran.github.io/news/103280-سرلشکر-رضایی-پاسخ-آمریکا.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103280-سرلشکر-رضایی-پاسخ-آمریکا.html</guid>
-      <pubDate>Tue, 03 Nov 2026 15:17:00 GMT</pubDate>
-      <description>دبیر شورای عالی امنیت ملی ایران: ▫️پاسخ آمریکا به حقوق و مطالبات ایران قانع‌کننده نبود و آن‌ها باید کامل و صریح هفت شرط ایران را پاسخ داده و به آن عمل کنند؛ تنها در این صورت تنگه هرمز باز خواهد شد. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103280.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103280.jpg" medium="image" />
     </item>
   </channel>
 </rss>
