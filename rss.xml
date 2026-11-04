@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Wed, 04 Nov 2026 06:18:41 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 06:48:25 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>فضانوردان روسکاسموس از ایستگاه فضایی بین‌المللی روز وحدت ملی را به روس‌ها تبریک گفتند</title>
+      <link>https://sputnikiran.github.io/news/103313-فضانوردان-روسکاسموس-از-ای.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103313-فضانوردان-روسکاسموس-از-ای.html</guid>
+      <pubDate>Wed, 04 Nov 2026 06:47:00 GMT</pubDate>
+      <description>🔶پیتر دوبروف، قهرمان روسیه و فضانورد روسکاسموس، از ایستگاه فضایی بین‌المللی گفت: «از اینجا، از مدار، به وضوح می‌توان دید که کشور ما چقدر زیباست. این خانه مشترک ماست که هر یک از ما باید آن را دوست داشته باشد و از آن محافظت کند.» 🛰Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103313.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103313.jpg" medium="image" />
+    </item>
     <item>
       <title>واکنش قالیباف به انتخابات آمریکا: مردم آمریکا جنگ نمی خواهند</title>
       <link>https://sputnikiran.github.io/news/103312-واکنش-قالیباف-به-انتخابات.html</link>
@@ -444,15 +453,6 @@
       <description>و 11 نوامبر در ابوظبی برگزار خواهد شد 🛰دمیتری پسکوف، سخنگوی کرملین اظهار داشت مدینسکی، دستیار رئیس جمهور، همچنان مذاکره کننده ارشد روسیه در مذاکرات سه جانبه با آمریکا و اوکراین است. 🛰پسکوف: جنجال مربوط به کشف یک مرکز شکنجه در نزدیکی کی‌یف، ابعاد جهانی به خود گرفته است سایر اظهارات سخنگوی رئیس‌جمهور روسیه: 🛰نهادهای اروپایی تمام تلاش خود را می‌کنند تا از اوکراین در برابر هرگونه جنجال محافظت کنند. 🛰کی‌یف نیروی کافی برای بسیج ندارد،- حجم مشکلات مربوط به پرسنل تنها افزایش خواهد یافت. 🛰کسانی که ن</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103254.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103254.jpg" medium="image" />
-    </item>
-    <item>
-      <title>لاوروف: جنگ غرب علیه روسیه، سرنوشت &amp;quot;اتحاد غرب-آتلانتیک&amp;quot; را رقم زد</title>
-      <link>https://sputnikiran.github.io/news/103253-لاوروف-جنگ-غرب-علیه-روسیه.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103253-لاوروف-جنگ-غرب-علیه-روسیه.html</guid>
-      <pubDate>Tue, 03 Nov 2026 09:47:00 GMT</pubDate>
-      <description>🛰اتحادیه اروپا به سرعت در حال تبدیل شدن به یک بلوک نظامی تهاجمی است. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103253.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103253.jpg" medium="image" />
     </item>
   </channel>
 </rss>
