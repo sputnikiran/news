@@ -5,13 +5,40 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Wed, 04 Nov 2026 12:48:45 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 13:18:59 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>پوتین روز وحدت ملی را به شهروندان روسیه  تبریک گفت</title>
+      <link>https://sputnikiran.github.io/news/103338-پوتین-روز-وحدت-ملی-را-به.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103338-پوتین-روز-وحدت-ملی-را-به.html</guid>
+      <pubDate>Wed, 04 Nov 2026 13:18:00 GMT</pubDate>
+      <description>▫️رئیس جمهور به نقش وحدت‌بخش و خلاقانه زبان روسی و مردم روس اشاره کرد و گفت حمایت از فرهنگ و زبان روسی از اهمیت استراتژیک برخوردار است. ▫️رئیس جمهور در نشست عمومی هفته بین‌المللی &amp;quot;ملت های روسیه&amp;quot; چه چیزهای دیگری گفت: 🔹وحدت مردم نقش کلیدی در روسیه ایفا می‌کند. 🔹هرگونه تلاش برای تحریک نفرت بین قومی باید سرکوب شود. 🔹روسیه از نظر تاریخی از طریق تعامل مردم، گروه‌های قومی، زبان‌ها و آداب و رسوم توسعه یافته است. 🔹هنر اصیل همه ملت ها و اقوام روسیه برای تمام جهانیان، روسی است. 🔹تنوع روسیه ن</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103338.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103338.jpg" medium="image" />
+    </item>
+    <item>
+      <title>نجات یک آهوی کوهی در کمسومولسک-نا-آموره روسیه</title>
+      <link>https://sputnikiran.github.io/news/103337-نجات-یک-آهوی-کوهی-در-کمسو.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103337-نجات-یک-آهوی-کوهی-در-کمسو.html</guid>
+      <pubDate>Wed, 04 Nov 2026 13:18:00 GMT</pubDate>
+      <description>🔹عابران این حیوان را در فاصله 5 متری از ساحل روی یخ مشاهده کردند. این آهوی جوان تقریباً تمام توان خود را از دست داده و در شرایط سختی قرار داشت. 🔹یک امدادگر از روی یخ نازک به سمت او رفت و او را به ساحل کشید. این حیوان ناتوان به مرکز نگهداری حیوانات منتقل شد و مکانی برای گرم شدن و بهبودی به او اختصاص یافت. 🔹کمسومولسک-نا-آموره نام شهری در خاور دور روسیه است، در استان خاباروفسک، واقع در ساحل رود آمور. این شهر از مراکز صنعتی و کشتی‌سازی منطقه به شمار می‌رود. 🛰Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103337.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103337.jpg" medium="image" />
+    </item>
+    <item>
+      <title>تعداد هرچه بیشتری از مأموران پلیس در حال ورود به دادگاه قانون اساسی و دفتر نخست وزیر لهستان هستند</title>
+      <link>https://sputnikiran.github.io/news/103336-تعداد-هرچه-بیشتری-از-مأمو.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103336-تعداد-هرچه-بیشتری-از-مأمو.html</guid>
+      <pubDate>Wed, 04 Nov 2026 13:18:00 GMT</pubDate>
+      <description>▫️جلسه قضات دادگاه قانون اساسی و همچنین جلسه شورای امنیت ملی در حال برگزاری است که در آن کارول ناوروکی، رئیس جمهور لهستان، اظهار داشت که دونالد توسک، نخست وزیر،…</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103336.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103336.jpg" medium="image" />
+    </item>
     <item>
       <title>دموکرات آمریکایی: جنگ علیه ایران و حمایت از اسرائیل، موضع سیاسی ترامپ را تضعیف کرد</title>
       <link>https://sputnikiran.github.io/news/103335-دموکرات-آمریکایی-جنگ-علیه.html</link>
@@ -420,33 +447,6 @@
       <description>دبیر شورای عالی امنیت ملی ایران: ▫️پاسخ آمریکا به حقوق و مطالبات ایران قانع‌کننده نبود و آن‌ها باید کامل و صریح هفت شرط ایران را پاسخ داده و به آن عمل کنند؛ تنها در این صورت تنگه هرمز باز خواهد شد. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103280.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103280.jpg" medium="image" />
-    </item>
-    <item>
-      <title>کارشناس: نتیجه انتخابات در آمریکا تغییری در مسیر جنگ با ایران ایجاد نخواهد کرد</title>
-      <link>https://sputnikiran.github.io/news/103279-کارشناس-نتیجه-انتخابات-در.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103279-کارشناس-نتیجه-انتخابات-در.html</guid>
-      <pubDate>Tue, 03 Nov 2026 15:17:00 GMT</pubDate>
-      <description>🛰کوم کارپانتیر دو گوردون، تحلیلگر سیاسی فرانسوی، در مصاحبه با اسپوتنیک، اظهار داشت که نتیجه انتخابات میان‌دوره‌ای در آمریکا، تغییری چندانی در سیاست‌ها نسبت به جنگ با ایران ایجاد نخواهد کرد. به نظر او، احتمالاً یک مصالحه ناموفق - به سبک آمریکایی - حاصل خواهد شد که تنها &amp;quot;حل مشکل را به تعویق خواهد انداخت&amp;quot;. 🛰او خاطرنشان کرد: اگر دموکرات‌ها کنترل مجلس نمایندگان را به دست آورند، می‌توانند برخی از اقدامات دولت ترامپ را محدود کنند، اما تأثیر تعیین‌کننده‌ای نخواهند داشت. اگر دموکرات‌ها هم کنت</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103279.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103279.jpg" medium="image" />
-    </item>
-    <item>
-      <title>زلنسکی از مذاکره تلفنی با روسیه در مورد حل و فصل بحران اوکراین خودداری کرد</title>
-      <link>https://sputnikiran.github.io/news/103278-زلنسکی-از-مذاکره-تلفنی-با.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103278-زلنسکی-از-مذاکره-تلفنی-با.html</guid>
-      <pubDate>Tue, 03 Nov 2026 15:17:00 GMT</pubDate>
-      <description>▫️زلنسکی همچنین بار دیگر از سفر به مسکو برای مذاکره خودداری کرد. او گفت: «هیچ‌کس از سفر به مسکو حمایت نخواهد کرد.» 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103278.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103278.jpg" medium="image" />
-    </item>
-    <item>
-      <title>دوگین مبتنی بر هوش مصنوعی: اگر جمهوری‌خواهان آمریکا انتخابات کنگره را ببازند، انتظار یک دیکتاتوری لیبرال واقعی را داشته باشید</title>
-      <link>https://sputnikiran.github.io/news/103277-دوگین-مبتنی-بر-هوش-مصنوعی.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103277-دوگین-مبتنی-بر-هوش-مصنوعی.html</guid>
-      <pubDate>Tue, 03 Nov 2026 14:48:00 GMT</pubDate>
-      <description>&amp;nbsp; ▫️ترامپ امید محافظه‌کاران در آمریکا، اروپا و فراتر از آن بود - و او همچنان کسی است که جهان را از فروپاشی حفظ می‌کند. &amp;nbsp; ▫️اگر این اتفاق بیفتد، انتقام دموکرات‌ها برخلاف هر چیزی خواهد بود که قبلاً دیده‌ایم. آنها هنوز تشکیل &amp;nbsp;DOGE (وزارت کارآمدی دولت Department of Government Efficiency) و انحلال USAID (آژانس توسعه بین‌المللی آمریکا) را نبخشیده‌اند - لحظه‌ای که متوجه شدند ترامپ ممکن است واقعاً &amp;quot;دولت پنهان&amp;quot; را هدف قرار دهد. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103277.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103277.jpg" medium="image" />
     </item>
   </channel>
 </rss>
