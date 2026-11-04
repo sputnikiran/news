@@ -5,13 +5,20 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Wed, 04 Nov 2026 13:48:42 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 14:18:30 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>کارشناس: قدرت‌های غربی به دنبال تبدیل اوکراینی‌ها به «ضد روس ها» هستند تا مسکو را تضعیف کنند</title>
+      <link>https://sputnikiran.github.io/news/103341-کارشناس-قدرتهای-غربی-به-د.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103341-کارشناس-قدرتهای-غربی-به-د.html</guid>
+      <pubDate>Wed, 04 Nov 2026 14:17:00 GMT</pubDate>
+      <description>▫️نیکولا میرکوویچ به اسپوتنیک گفت: «این تلاش برای تحریک بخشی از اوکراینی‌ها علیه بخش دیگر و همچنین علیه روسیه چیز جدیدی نیست.» ▫️این کارشناس فرانسوی-صربستانی خاطرنشان می‌کند: «حتی اتریشی‌ها و بعداً آلمانی‌ها با استفاده از استدلال‌های تاریخی سعی کردند اوکراینی‌ها را متقاعد کنند که روس نیستند.» ▫️به گفته وی، آنها به دنبال ایجاد یک منطقه حائل در مرز با روسیه بودند. ▫️و امروز چه اتفاقی می‌افتد؟ ▫️به گفته این کارشناس، محافل آتلانتیک‌گرایان سیاست مشابهی را با هدف تقویت احساسات ضد روسی در اوکراین، به و</description>
+    </item>
     <item>
       <title>سومالیایی‌ها پیروزی نماینده خود در انتخابات آمریکا را جشن می‌گیرند</title>
       <link>https://sputnikiran.github.io/news/103339-سومالیاییها-پیروزی-نمایند.html</link>
@@ -438,15 +445,6 @@
       <description>▫️آتشفشان «کیلاویا» بار دیگر در دوره‌ای جدید از فعالیت خود، گدازه‌های مذاب بیرون می‌ریزد. مقامات، سطح هشدار هوانوردی را از زرد به نارنجی ارتقا داده و نسبت به خطراتی همچون گازهای آتشفشانی و ناپایداری زمین در نزدیکی منطقه فوران، هشدار داده‌اند. 👉 به گزارش «رصدخانه آتشفشان‌های هاوایی» وابسته به سازمان زمین‌شناسی ایالات متحده آمریکا (USGS)، آتشفشان کیلاویا از تاریخ 23 دسامبر 2024 به‌طور متناوب در حال فوران بوده است. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103282.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103282.jpg" medium="image" />
-    </item>
-    <item>
-      <title>دیپلمات سابق ایتالیایی: پیروزی دموکرات‌ها بعید است تغییری در حمایت آمریکا از اسرائیل ایجاد کند</title>
-      <link>https://sputnikiran.github.io/news/103281-دیپلمات-سابق-ایتالیایی-پی.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103281-دیپلمات-سابق-ایتالیایی-پی.html</guid>
-      <pubDate>Tue, 03 Nov 2026 15:48:00 GMT</pubDate>
-      <description>▫️مارکو کارنلوس، دیپلمات سابق ایتالیایی و مشاور امور خاورمیانه در دوران نخست‌وزیری رومانو پرودی و سیلویو برلوسکونی، به خبرگزاری اسپوتنیک می‌گوید: حتی اگر دموکرات‌ها در انتخابات میان‌دوره‌ای 3 نوامبر، کنترل مجلس نمایندگان یا هر دو مجلس کنگره را به دست بگیرند، سیاست آمریکا در قبال خاورمیانه احتمالاً تا حد زیادی بدون تغییر باقی خواهد ماند. ▫️کارنلوس استدلال می‌کند که حزب دموکرات دچار شکاف عمیقی است؛ شکافی میان جناح چپِ حامی فلسطین — که از «نفوذ اسرائیل در فرآیند سیاسی آمریکا به ستوه آمده» و با جنگ </description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103281.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103281.jpg" medium="image" />
     </item>
   </channel>
 </rss>
