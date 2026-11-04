@@ -5,13 +5,40 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Wed, 04 Nov 2026 20:48:39 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 21:19:30 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>گردباد قدرتمند فرودگاهی در برزیل را ویران کرد</title>
+      <link>https://sputnikiran.github.io/news/103366-گردباد-قدرتمند-فرودگاهی-د.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103366-گردباد-قدرتمند-فرودگاهی-د.html</guid>
+      <pubDate>Wed, 04 Nov 2026 21:18:00 GMT</pubDate>
+      <description>▫️آوارها در سراسر باند فرودگاه پراکنده و شیشه‌های ترمینال خرد شدند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103366.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103366.jpg" medium="image" />
+    </item>
+    <item>
+      <title>سیستم رباتیک Xiaomi-Robotics-</title>
+      <link>https://sputnikiran.github.io/news/103365-سیستم-رباتیک-xiaomi-robot.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103365-سیستم-رباتیک-xiaomi-robot.html</guid>
+      <pubDate>Wed, 04 Nov 2026 21:18:00 GMT</pubDate>
+      <description>انجام وظایف جدید را در محیط‌ های دنیای واقعی فرا می گیرد ▫️به لطف یادگیری افزایشی چند مرحله‌ای و معماری عامل هوش مصنوعی بهبود یافته، سیستم رباتیک مبتنی بر Xiaomi-Robotics-1 («شیائومی-روباتیکس-1») عملیات آزمایشی را در مجتمع مسکونی Xiaomi Youth Apartments آغاز کرده است. ▫️در عرض 30 دقیقه، این سیستم بیش از 50 توالی وظایف را در سه اتاق تکمیل کرد و توانایی خود را در انجام وظایف متنوع در محیط‌های دنیای واقعی نشان داد. ▫️علاوه بر این، «شیائومی-روباتیکس-1» به دلیل دستاوردهای علمی و فناوری پیشرفته خود در</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103365.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103365.jpg" medium="image" />
+    </item>
+    <item>
+      <title>کارشناس: حاکمیت آمریکا در شرایط  کنترل حزب دموکرات بر کنگره دچار تفرقه خواهد شد</title>
+      <link>https://sputnikiran.github.io/news/103364-کارشناس-حاکمیت-آمریکا-در.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103364-کارشناس-حاکمیت-آمریکا-در.html</guid>
+      <pubDate>Wed, 04 Nov 2026 21:18:00 GMT</pubDate>
+      <description>▫️نگوین آنه پونگ، اقتصاددان ویتنامی، در یادداشتی برای اسپوتنیک در مورد افتادن کنترل کنگره آمریکا به دست حزب دموکرات و پیامدهای جهانی آن اظهار نظر کرد: ▫️کنترل حزب دموکرات بر کنگره، در حالی که حزب جمهوری‌خواه قوه مجریه را کنترل می‌کند، باعث ایجاد یک حاکمیت دچار تفرقه و مسدود شدن تصمیمات مالی داخلی مهم می‌شود. این کارشناس معتقد است که دولت آمریکا برای کاهش فشار سیاسی داخلی، به طور فزاینده‌ای به ابزارهای سیاست خارجی، تعرفه‌ها و انرژی متوسل خواهد شد - و این امر تأثیر مستقیمی بر فضای کسب و کار جهانی </description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103364.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103364.jpg" medium="image" />
+    </item>
     <item>
       <title>یک &amp;quot;فرش&amp;quot; عظیم  از ماهی در ساحل سرزمین پریموریه روسیه مشاهده شد</title>
       <link>https://sputnikiran.github.io/news/103363-یک-quot-فرش-quot-عظیم-از.html</link>
@@ -418,33 +445,6 @@
       <description>🗣ماریا زاخارووا، سخنگوی وزارت خارجه روسیه، در واکنش به کشف یک زندان مخفی شکنجه در حومه کی‌یف گفت که این موضوع برای اوکراین «روتین» است و تنها نکته غیرعادی این حادثه، رسوایی آن است که به فضای اطلاعاتی کشورهای غربی راه یافته و تصاویر آن در سراسر جهان منتشر شده است. 🔶وی افزود: «در اوکراین چنین چیزهایی هر روز اتفاق می‌افتد – جایی با تعداد کمتر و جایی با تعداد بیشتر. آنها سال‌هاست این‌گونه زندگی می‌کنند.» 🔶پیش از این گزارش شده بود که گارد ملی اوکراین یک زندان مخفی در حومه کی‌یف راه‌اندازی کرده است</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103315.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103315.jpg" medium="image" />
-    </item>
-    <item>
-      <title>وزارت دفاع روسیه: ادامه حملات روسیه به تأسیسات انرژی اوکراین</title>
-      <link>https://sputnikiran.github.io/news/103314-وزارت-دفاع-روسیه-ادامه-حم.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103314-وزارت-دفاع-روسیه-ادامه-حم.html</guid>
-      <pubDate>Wed, 04 Nov 2026 07:18:00 GMT</pubDate>
-      <description>🔶وزارت دفاع روسیه اعلام کرد که نیروهای مسلح روسیه در آب‌های دریای سیاه، یک فروند کشتی باری حامل تجهیزات نظامی برای نیروهای مسلح اوکراین را منهدم کردند. همچنین پست‌های برق «نالیوایکوفکا» در استان کی‌یف و «چیژوفکا» در استان ژیتومیر مورد اصابت قرار گرفتند. در ویدئوی منتشرشده، خاموشی شبانه در ژیتومیر دیده می‌شود. 🔶سامانه‌های پدافند هوایی روسیه در طول شب 709 پهپاد اوکراینی را بر فراز مناطق روسیه سرنگون کردند. 🛰Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103314.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103314.jpg" medium="image" />
-    </item>
-    <item>
-      <title>فضانوردان روسکاسموس از ایستگاه فضایی بین‌المللی روز وحدت ملی را به روس‌ها تبریک گفتند</title>
-      <link>https://sputnikiran.github.io/news/103313-فضانوردان-روسکاسموس-از-ای.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103313-فضانوردان-روسکاسموس-از-ای.html</guid>
-      <pubDate>Wed, 04 Nov 2026 06:47:00 GMT</pubDate>
-      <description>🔶پیتر دوبروف، قهرمان روسیه و فضانورد روسکاسموس، از ایستگاه فضایی بین‌المللی گفت: «از اینجا، از مدار، به وضوح می‌توان دید که کشور ما چقدر زیباست. این خانه مشترک ماست که هر یک از ما باید آن را دوست داشته باشد و از آن محافظت کند.» 🛰Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103313.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103313.jpg" medium="image" />
-    </item>
-    <item>
-      <title>واکنش قالیباف به انتخابات آمریکا: مردم آمریکا جنگ نمی خواهند</title>
-      <link>https://sputnikiran.github.io/news/103312-واکنش-قالیباف-به-انتخابات.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103312-واکنش-قالیباف-به-انتخابات.html</guid>
-      <pubDate>Wed, 04 Nov 2026 06:18:00 GMT</pubDate>
-      <description>🔶محمدباقر قالیباف، رئیس مجلس شورای اسلامی ایران، در واکنش به نتایج انتخابات آمریکا اعلام کرد: «مردم آمریکا به جنگ &amp;quot;نه&amp;quot; گفتند و ما این پیام را تأیید می‌کنیم. اگر دولت آمریکا اراده مردمش را نادیده بگیرد و به دنبال منافع قدرت‌های بین‌المللی و گروه‌های باج‌گیر باشد، متوجه خواهد شد که مخالفت ما با عواقب ناخوشایندی همراه است.» 🛰Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103312.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103312.jpg" medium="image" />
     </item>
   </channel>
 </rss>
