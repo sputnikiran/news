@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Wed, 04 Nov 2026 14:49:18 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 15:18:36 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>نماینده سابق مجلس:</title>
+      <link>https://sputnikiran.github.io/news/103345-نماینده-سابق-مجلس.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103345-نماینده-سابق-مجلس.html</guid>
+      <pubDate>Wed, 04 Nov 2026 15:17:00 GMT</pubDate>
+      <description>آبان ماهیت آمریکا را برای ایرانیان روشن کرد ▫️غلامرضا منتظری، نماینده ی مجلس یازدهم شورای اسلامی و نایب رییس پیشین کمیسیون فرهنگی مجلس ایران، در خصوص واقعه ی 13 آبان و تسخیر سفارت آمریکا در ایران، به شیوا آبشناس، خبرنگار اسپوتنیک در تهران گفت: پیش از 13 آبان، شناخت و آگاهی مردم نسبت به ماهیت و هویت واقعی آمریکا به این اندازه نبود. ▫️وی خاطرنشان کرد: اما پس از تسخیر &amp;quot;لانه جاسوسی&amp;quot; (سفارت سابق آمریکا در تهران)، واقعیت‌های بیشتری از هویت استکباری آمریکا برای مردم آشکار شد، این اتفاق به نوع</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103345.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103345.jpg" medium="image" />
+    </item>
     <item>
       <title>زاخارووا: زلنسکی اوکراین را به یک چرخ گوشت غول‌پیکر تبدیل کرده است</title>
       <link>https://sputnikiran.github.io/news/103344-زاخارووا-زلنسکی-اوکراین-ر.html</link>
@@ -436,15 +445,6 @@
       <description>▫️کارول ناوروکی، رئیس جمهور لهستان بدون دستیابی به توافق، ساختمان دادگاه قانون اساسی را ترک کرد؛ این در حالی است که قضات همچنان در داخل این ساختمان حضور دارند. ▫️رئیس دفتر ریاست‌جمهوری لهستان از انجام رایزنی‌های فوری…</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103286.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103286.jpg" medium="image" />
-    </item>
-    <item>
-      <title>میروشنیک: شورش علیه شکنجه‌گاه‌ها در اوکراین فقط مسئله زمان بود</title>
-      <link>https://sputnikiran.github.io/news/103285-میروشنیک-شورش-علیه-شکنجهگ.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103285-میروشنیک-شورش-علیه-شکنجهگ.html</guid>
-      <pubDate>Tue, 03 Nov 2026 16:47:00 GMT</pubDate>
-      <description>▫️شورش در اوکراین علیه شکنجه‌گاه‌ها، اتفاقی که دیر یا زود باید رخ می‌داد: این شکنجه‌گاه‌ها یک پدیده سیستمی است که مقامات اوکراینی به خوبی از آن آگاهند. رودیون میروشنیک، سفیر مأموریت‌های ویژه وزارت خارجه روسیه، این را در گفتگو با خبرنگاران اعلام کرد. میروشنیک گفت: &amp;quot;مسئله شورش بستگان افراد بسیج‌شده و محافل اجتماعی اوکراین فقط مسئله زمان بود، زیرا این یک پدیده سیستمی است که سرانجام توانست به قلمرو کی‌یف نفوذ کند. این واقعیت که رئیس گارد ملی اوکراین و رئیس دفتر زلنسکی ظرف چند ساعت به آنجا شتافت</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103285.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103285.jpg" medium="image" />
     </item>
   </channel>
 </rss>
