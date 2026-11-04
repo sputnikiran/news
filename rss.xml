@@ -5,13 +5,20 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Wed, 04 Nov 2026 11:19:27 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 11:48:40 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>واژگونی کامیون حامل تنه‌های درخت در هند</title>
+      <link>https://sputnikiran.github.io/news/103330-واژگونی-کامیون-حامل-تنهها.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103330-واژگونی-کامیون-حامل-تنهها.html</guid>
+      <pubDate>Wed, 04 Nov 2026 11:48:00 GMT</pubDate>
+      <description>🔶در منطقه کاتابتو (جنوب هند)، یک کامیون حامل تنه‌های سنگین درخت اوکالیپتوس دچار حادثه‌ای هولناک شد و تقریباً 30 متر به سمت یک مزرعه چای سقوط کرد. زمین در این منطقه به دلیل باران‌های شدید سست شده بود و وزن خودرو هنگام گیر کردن چرخ‌ها در گل و لای باعث این حادثه شد. بر اساس گزارش‌ها، راننده چند ثانیه قبل از سقوط خودرو به دره، از آن خارج شده و آسیبی ندیده است. 🛰Sputnik Iran | Rubika | Bale | Web</description>
+    </item>
     <item>
       <title>سپاه تصاویری از انهدام پهپاد MQ</title>
       <link>https://sputnikiran.github.io/news/103329-سپاه-تصاویری-از-انهدام-په.html</link>
@@ -446,15 +453,6 @@
       <description>▫️سازمان عملیات تجارت دریایی بریتانیا از وقوع حمله به یک شناور در آب‌های تنگه هرمز و نجات خدمه آن توسط عمان خبر داد. ▫️این سازمان اعلام کرد این لنج سنتی حامل خدمه هندی در حال خروج از تنگه هرمز بوده که مورد اصابت و حمله قرار گرفته است. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103272.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103272.jpg" medium="image" />
-    </item>
-    <item>
-      <title>ملانیا ترامپ قصد دارد نمایندگان روسیه و اوکراین را برای دیدار حضوری به کاخ سفید دعوت کند</title>
-      <link>https://sputnikiran.github.io/news/103271-ملانیا-ترامپ-قصد-دارد-نما.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103271-ملانیا-ترامپ-قصد-دارد-نما.html</guid>
-      <pubDate>Tue, 03 Nov 2026 13:48:00 GMT</pubDate>
-      <description>▫️این خبر را سرویس مطبوعاتی کاخ سفید منتشر کرده است. ▫️پیش از این با نقش هماهنگ‌کننده ملانیا ترامپ، بانوی اول ایالات متحده آمریکا، توافق شده بود که یک مأموریت بشردوستانه در شهر آلشکی انجام شود. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103271.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103271.jpg" medium="image" />
     </item>
   </channel>
 </rss>
