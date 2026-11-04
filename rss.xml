@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Wed, 04 Nov 2026 15:18:36 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 15:48:42 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>پوتین: مردم روسیه بطور متحد از سربازان خود در عملیات نظامی ویژه حمایت می کنند</title>
+      <link>https://sputnikiran.github.io/news/103346-پوتین-مردم-روسیه-بطور-متح.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103346-پوتین-مردم-روسیه-بطور-متح.html</guid>
+      <pubDate>Wed, 04 Nov 2026 15:48:00 GMT</pubDate>
+      <description>مهم ترین نکات در سخنرانی رئیس جمهور روسیه: ▫️روس‌ها همیشه با اتحاد و اراده‌ای شکست‌ناپذیر به چالش‌ها پاسخ داده‌اند. ▫️امروز، رزمندگان با شجاعت از منافع و استقلال روسیه در عملیات ویژه نظامی دفاع می‌کنند. ▫️فرهنگ، سنت‌ها و ارزش‌های روسیه، مردم سراسر جهان را متحد می‌کند. ▫️پوتین اظهار داشت که بسیار مهم است که مردم بسیاری از کشورها ببینند روسیه هرگز کسی را تهدید نکرده و نمی‌کند. ▫️رئیس جمهور روسیه ابراز امیدواری کرد که مقامات خارجی به دنبال رویارویی با مسکو نباشند. 🛰 Sputnik Iran | Rubika | Bale | </description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103346.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103346.jpg" medium="image" />
+    </item>
     <item>
       <title>نماینده سابق مجلس:</title>
       <link>https://sputnikiran.github.io/news/103345-نماینده-سابق-مجلس.html</link>
@@ -436,15 +445,6 @@
       <description></description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103288.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103288.jpg" medium="image" />
-    </item>
-    <item>
-      <title>تحولات بحران قانون اساسی در لهستان</title>
-      <link>https://sputnikiran.github.io/news/103286-تحولات-بحران-قانون-اساسی.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103286-تحولات-بحران-قانون-اساسی.html</guid>
-      <pubDate>Tue, 03 Nov 2026 17:17:00 GMT</pubDate>
-      <description>▫️کارول ناوروکی، رئیس جمهور لهستان بدون دستیابی به توافق، ساختمان دادگاه قانون اساسی را ترک کرد؛ این در حالی است که قضات همچنان در داخل این ساختمان حضور دارند. ▫️رئیس دفتر ریاست‌جمهوری لهستان از انجام رایزنی‌های فوری…</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103286.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103286.jpg" medium="image" />
     </item>
   </channel>
 </rss>
