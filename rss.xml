@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Wed, 04 Nov 2026 18:48:27 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 19:22:43 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>اخبار مهم جهان تا شبانگاه</title>
+      <link>https://sputnikiran.github.io/news/103358-اخبار-مهم-جهان-تا-شبانگاه.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103358-اخبار-مهم-جهان-تا-شبانگاه.html</guid>
+      <pubDate>Wed, 04 Nov 2026 19:17:00 GMT</pubDate>
+      <description>نوامبر ▫️پوتین اظهار داشت که روسیه هرگز کسی را تهدید نکرده و همیشه پذیرای همکاری است. ▫️چین آمادگی برای دیدار شی جین پینگ، پوتین و ترامپ را تأیید کرد. ▫️ونس اظهار داشت که معتقد است جنگ با ایران دلیل شکست جمهوری‌خواهان در انتخابات بوده است. ▫️نیروهای روسیه به تأسیسات زیرساخت حمل و نقل مورد استفاده نیروهای مسلح اوکراین حمله کردند. ▫️ترامپ در حال بررسی جایگزینی پیت هگست، وزیر دفاع است. ▫️مراسمی به مناسبت سالگرد تصرف سفارت آمریکا در تهران برگزار شد. ▫️در صربستان خواستار توافق بلندمدت گازی با روسیه ش</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103358.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103358.jpg" medium="image" />
+    </item>
     <item>
       <title>در صربستان از ضرورت ادامه دریافت گاز از روسیه سخن گفتند</title>
       <link>https://sputnikiran.github.io/news/103357-در-صربستان-از-ضرورت-ادامه.html</link>
@@ -436,15 +445,6 @@
       <description>▫️حدود 14000 نفر (طبق تخمین برگزارکنندگان) علیه بازنگری احتمالی قانون اساسی، به ویژه ماده 9 که ژاپن را از داشتن ارتش و انجام عمایات تهاجمی منع می‌کند، تظاهرات کردند. ▫️در طول این رویداد، دنی تاماکی، فرماندار سابق استان اوکیناوا، سخنرانی کرد. او در دوران تصدی خود بارها علیه استقرار پایگاه‌های آمریکایی در این استان ژاپن صحبت کرده بود. ▫️گروه جداگانه‌ای از معترضان نیز مستقیماً پشت صحنه قرار گرفتند و مدام به سخنرانان توهین می‌کردند (صدای بلندگو در پس‌زمینه هر ویدیو شنیده می‌شود). 🛰 Sputnik Iran | R</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103307.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103307.jpg" medium="image" />
-    </item>
-    <item>
-      <title>تظاهرات حمایت از اعتصاب کارکنان تلویزیون و رادیوی دولتی در جمهوری چک</title>
-      <link>https://sputnikiran.github.io/news/103306-تظاهرات-حمایت-از-اعتصاب-ک.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103306-تظاهرات-حمایت-از-اعتصاب-ک.html</guid>
-      <pubDate>Tue, 03 Nov 2026 20:47:00 GMT</pubDate>
-      <description>▫️خبرگزاری CTK گزارش داد که در جمهوری چک، تجمعاتی در حمایت از ایستگاه‌های تلویزیونی و رادیویی دولتی که کارمندانشان در اعتصاب هستند، در حال برگزاری است. ▫️این اعتصاب و اعتراضات همراه با آن، پس از این آغاز شد که مجلس نمایندگان (مجلس سفلی) پارلمان چک، لایحه‌ای را در اولین قرائت تصویب کرد که بر اساس آن، قرار است رادیو و تلویزیون جمهوری چک به بودجه دولتی منتقل شوند. به گفته اعتصاب‌کنندگان، این امر منجر به کاهش 15 درصدی بودجه و سلب استقلال آنها از دولت خواهد شد. ▫️ویدئو: شبکه های اجتماعی 🛰 Sputnik Ir</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103306.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103306.jpg" medium="image" />
     </item>
   </channel>
 </rss>
