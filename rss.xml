@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Wed, 04 Nov 2026 19:48:30 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 20:20:13 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>ایلان ماسک پس از اعلام نتایج اولیه انتخابات میان‌دوره‌ای آمریکا تقریباً</title>
+      <link>https://sputnikiran.github.io/news/103361-ایلان-ماسک-پس-از-اعلام-نت.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103361-ایلان-ماسک-پس-از-اعلام-نت.html</guid>
+      <pubDate>Wed, 04 Nov 2026 20:18:00 GMT</pubDate>
+      <description>میلیارد دلار ضرر کرد ▫️به گزارش رسانه ها، در آغاز معاملات بازار سهام ایالات متحده، سهام اسپیس‌اکس و تسلا به ترتیب 3.5 درصد و 2.8 درصد کاهش یافت. گفته می شود این کارآفرین مبلغ بی‌سابقه 446 میلیون دلار به کمیته‌های اقدام سیاسی جمهوری‌خواهان کمک کرده است. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103361.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103361.jpg" medium="image" />
+    </item>
     <item>
       <title>در آمریکا خانه‌ای که سیل آنرا با خود برده بود، به یک پل برخورد کرد و فرو پاشید</title>
       <link>https://sputnikiran.github.io/news/103360-در-آمریکا-خانهای-که-سیل-آ.html</link>
@@ -434,15 +443,6 @@
       <description>شناور 🔶روابط عمومی سپاه پاسداران انقلاب اسلامی اعلام کرد: 4 فروند شناور نفتکش متخلف که قصد عبور از معبر ممنوعه جنوب تنگه هرمز را داشتند، بر اثر اصابت به مین دریایی منهدم شدند و همچنان در آتش می‌سوزند. 2 فروند دیگر از کشتی‌ها یا شناورهای متخلف نیز متوقف شده‌اند. 🔶سپاه پاسداران اعلام کرد که در عملیاتی، پنجاه و ششمین فروند هواپیمای بدون سرنشین MQ-9 را بامداد امروز بر فراز تنگه هرمز با سامانه پدافند نوین مورد اصابت قرار داده و سرنگون کرد. 🛰Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103310.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103310.jpg" medium="image" />
-    </item>
-    <item>
-      <title>روسیه از سیستم چندلایه ضد پهپاد برای تقویت دفاع رونمایی کرد</title>
-      <link>https://sputnikiran.github.io/news/103309-روسیه-از-سیستم-چندلایه-ضد.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103309-روسیه-از-سیستم-چندلایه-ضد.html</guid>
-      <pubDate>Wed, 04 Nov 2026 05:17:00 GMT</pubDate>
-      <description>🔶شرکت کلاشنیکوف روسیه از یک سیستم یکپارچه جدید که برای محافظت از زیرساخت‌های استراتژیک و حیاتی در برابر حملات گسترده پهپادها طراحی شده است، رونمایی کرد. این نمایش شامل چندین راهکار ضد پهپاد بود: 🔶سیستم خودکار Kalitka-KA قدرت آتش خود را در برابر اهداف هوایی نشان داد 🔶سیستم دفاع هوایی Zveroboy، با پهپاد رهگیر Kraken FPV 🔶مهمات چند پرتابه ویژه 5.45 میلی‌متری که از یک تفنگ تهاجمی AK-12 برای مقابله با پهپادهای FPV شلیک می‌شود. 🔶یک پایه تاکتیکی سفارشی مجهز به مسلسل‌های 7.62 میلی‌متری کلاشنیکوف PK</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103309.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103309.jpg" medium="image" />
     </item>
   </channel>
 </rss>
