@@ -5,13 +5,20 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Thu, 05 Nov 2026 06:18:31 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 06:48:21 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>نیروهای روسیه از انهدام هویتزرهای اوکراینی با استفاده از حملات دقیق خبر دادند</title>
+      <link>https://sputnikiran.github.io/news/103375-نیروهای-روسیه-از-انهدام-ه.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103375-نیروهای-روسیه-از-انهدام-ه.html</guid>
+      <pubDate>Thu, 05 Nov 2026 06:47:00 GMT</pubDate>
+      <description>🔸 وزارت دفاع روسیه اعلام کرد که نیروهای یگان «زاپاد» (غرب) با انجام حملاتی، توپخانه‌های متعلق به نیروهای مسلح اوکراین را هدف قرار دادند؛ اقدامی که موجب شد نیروهای اوکراینی به مواضعی دورتر عقب‌نشینی کنند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+    </item>
     <item>
       <title>تلسکوپ آمریکایی سوئیفت از مدار خارج شد و در جو زمین بر فراز اندونزی سوخت</title>
       <link>https://sputnikiran.github.io/news/103374-تلسکوپ-آمریکایی-سوئیفت-از.html</link>
@@ -436,15 +443,6 @@
       <description>🔶در تصاویر منتشر شده دیده می شود که نیروهای اسرائیلی کشاورزان فلسطینی را از روستای بورین در جنوب نابلس در کرانه باختری اخراج کرده و آنها را از جمع‌آوری محصول زیتون منع می‌کنند‌. 🛰Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103320.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103320.jpg" medium="image" />
-    </item>
-    <item>
-      <title>مهم‌ترین رویدادهای جهان تا ظهر</title>
-      <link>https://sputnikiran.github.io/news/103319-مهمترین-رویدادهای-جهان-تا.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103319-مهمترین-رویدادهای-جهان-تا.html</guid>
-      <pubDate>Wed, 04 Nov 2026 08:47:00 GMT</pubDate>
-      <description>نوامبر 🔹ماریا زاخارووا، سخنگوی وزارت امور خارجه روسیه، زندان شکنجه در حومه کی‌یف را «روتین» اوکراین خواند. 🔹سپاه: انهدام 2 نفتکش متخلف با مین، توقف 2 شناور متخلف و سرنگونی پنجاه و ششمین پهپاد MQ-9. 🔹ترامپ آمادگی خود را برای پذیرش نتایج انتخابات کنگره و همکاری با دموکرات‌ها اعلام کرد. 🔹فضانوردان روسکاسموس از ایستگاه فضایی بین‌المللی روز وحدت ملی روسیه را تبریک گفتند. 🔹وزارت دفاع روسیه از ادامه حملات به تأسیسات انرژی اوکراین خبر داد. 🔹رافائل گروسی، مدیرکل آژانس بین‌المللی انرژی اتمی، اعلام ک</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103319.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103319.jpg" medium="image" />
     </item>
   </channel>
 </rss>
