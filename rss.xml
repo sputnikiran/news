@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Thu, 05 Nov 2026 07:50:58 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 08:18:15 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>جمهوری‌خواهان هزینه ناامیدی رأی‌دهندگان را در انتخابات میان‌دوره‌ای آمریکا می‌پردازند – تحلیلگر</title>
+      <link>https://sputnikiran.github.io/news/103380-جمهوریخواهان-هزینه-ناامید.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103380-جمهوریخواهان-هزینه-ناامید.html</guid>
+      <pubDate>Thu, 05 Nov 2026 08:17:00 GMT</pubDate>
+      <description>🔸روبرتو ویسکا، تحلیلگر سیاسی در دانشگاه خودمختار ملی مکزیک، در گفتو با اسپوتنیک تصریح کرد که رأی‌دهندگان آمریکایی به دلیل برخی مسائل فوری، از جمله مسائل مربوط به تورم و قیمت مواد غذایی، نوعی «رأی اعتراضی» علیه جمهوری‌خواهان و به‌ویژه ترامپ دادند. 🔸او خاطرنشان می‌کند که یکی از شگفتی‌های بزرگ در این انتخابات «تغییر رنگ سیاسی در ایالت‌های آمریکا مانند کارولینای شمالی و تگزاس بود، جایی که رأی‌دهندگان از جمهوری‌خواهان به دموکرات‌ها روی آوردند». 🔸 او می‌افزاید که رتبه پایین محبوبیت ترامپ عامل مهمی </description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103380.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103380.jpg" medium="image" />
+    </item>
     <item>
       <title>در کوه وانسویی در استان هنان چین، باغبانانی با لباس زنبورهای غول‌پیکر به گلها آب می دهند</title>
       <link>https://sputnikiran.github.io/news/103379-در-کوه-وانسویی-در-استان-ه.html</link>
@@ -436,15 +445,6 @@
       <description>🔶در این مرحله از قرارداد، 37 کیلومتر از مسیر ریلی به شرکت «کاسپین سرویسز» روسیه تحویل شد. با احتساب پیشرفت‌های سال گذشته که 125 کیلومتر از پروژه به امضا رسید، مجموع مسیر تحویل‌شده به 162 کیلومتر رسید. 🔶این روند گام‌به‌گام، مسیر را برای نهایی‌سازی قراردادهای تجاری بزرگ‌تر در آینده نزدیک و سفرهای دیپلماتیک-اقتصادی جهت امضای توافقات نهایی فراهم می‌کند. 🛰Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103326.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103326.jpg" medium="image" />
-    </item>
-    <item>
-      <title>نماینده رهبر ایران از تولید سلاح‌های شگفت‌انگیزی برای نبرد جدید با آمریکا و اسرائیل خبر داد</title>
-      <link>https://sputnikiran.github.io/news/103325-نماینده-رهبر-ایران-از-تول.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103325-نماینده-رهبر-ایران-از-تول.html</guid>
-      <pubDate>Wed, 04 Nov 2026 10:18:00 GMT</pubDate>
-      <description>🔶نماینده رهبر ایران در وزارت دفاع ایران اعلام کرد: «دانشمندان، نخبگان و فرهیختگان وزارت دفاع و نیروهای مسلح برای نبرد جدید با آمریکا و اسرائیل سلاح‌های شگفت‌انگیزی تولید کرده‌اند.» 🔶وی افزود: «به آمریکایی‌ها هشدار دادیم که اگر دست از شرارت برندارند، تمام منافع آمریکا را در منطقه هدف قرار می‌دهیم و دیدید که این کار را انجام دادیم.» 🔶وی با اشاره به دیدار فرماندهان عالی نیروهای مسلح با رهبر ایران گفت: «ایشان دستور دادند؛ هیچ محدودیت جغرافیایی نداریم، موشک‌هایی که تولید کرده‌ایم می‌توانند خارج از</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103325.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103325.jpg" medium="image" />
     </item>
   </channel>
 </rss>
