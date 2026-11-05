@@ -5,13 +5,38 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Thu, 05 Nov 2026 15:18:31 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 15:49:08 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>کرملین: پوتین در کاخ کرملین با محسن رضایی، دبیر شورای امنیت ایران، دیدار کرد</title>
+      <link>https://sputnikiran.github.io/news/103415-کرملین-پوتین-در-کاخ-کرملی.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103415-کرملین-پوتین-در-کاخ-کرملی.html</guid>
+      <pubDate>Thu, 05 Nov 2026 15:48:00 GMT</pubDate>
+      <description>🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103415.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103415.jpg" medium="image" />
+    </item>
+    <item>
+      <title>&amp;quot;به شرط روسیه&amp;quot;؛ تلاش‌های کی‌یف برای چسبیدن به کمک‌های اتحادیه اروپا، آن را از شکست نجات نخواهد داد</title>
+      <link>https://sputnikiran.github.io/news/103414-quot-به-شرط-روسیه-quot-؛.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103414-quot-به-شرط-روسیه-quot-؛.html</guid>
+      <pubDate>Thu, 05 Nov 2026 15:48:00 GMT</pubDate>
+      <description>🔶تلاش‌های اوکراین برای توسل به کمک‌های نظامی متحدان غربی‌اش، به این کشور در اجتناب از صلح با شرایط روسیه کمکی نخواهد کرد. رسانه‌های آلمانی به این موضوع اشاره کرده اند. 🔶در مطلب مربوطه آمده است: &amp;quot;با آغاز پنجمین زمستان نظامی، اوکراین عملاً چاره‌ای جز چسبیدن به &amp;quot;شریک شماره یک&amp;quot; خود (در آوریل، ولادیمیر زلنسکی، آلمان را شریک شماره یک خود در دفاع از اوکراین نامید) و متحدان اروپایی آن، ندارد. با این حال، جای تردید است که آیا این امر، بدون حمایت قاطع واشنگتن، برای جلوگیری از صلح پیشنهادی</description>
+    </item>
+    <item>
+      <title>پرونده ایران آزمون سیاسی ترامپ پس از شکست جمهوری‌خواهان</title>
+      <link>https://sputnikiran.github.io/news/103413-پرونده-ایران-آزمون-سیاسی.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103413-پرونده-ایران-آزمون-سیاسی.html</guid>
+      <pubDate>Thu, 05 Nov 2026 15:48:00 GMT</pubDate>
+      <description>🔶محمدرضا صادقی، کارشناس مسائل بین‌الملل، در گفت‌وگو با اسپوتنیک اعلام کرد که پیروزی دموکرات‌ها در انتخابات میان‌دوره‌ای فضای مانور دولت ترامپ را محدودتر می‌کند، اما به معنای تغییر فوری راهبرد آمریکا در قبال ایران نیست. دموکرات‌ها با کنترل کنگره ابزار نظارت بر هزینه‌های جنگ و محدود کردن ابتکارات کاخ سفید را در اختیار دارند، اما ترامپ همچنان به عنوان فرمانده کل نیروهای مسلح اختیارات قابل‌توجهی دارد. 🔶در داخل دولت او نیز دو رویکرد متقابل وجود دارد: گروهی خواستار افزایش فشار نظامی برای وادار کردن </description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103413.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103413.jpg" medium="image" />
+    </item>
     <item>
       <title>زاخارووا: زندان‌های شکنجه در اوکراین نشان داد میلیاردها دلار غرب کجا هزینه می‌شود</title>
       <link>https://sputnikiran.github.io/news/103412-زاخارووا-زندانهای-شکنجه-د.html</link>
@@ -422,33 +447,6 @@
       <description>جی‌دی ونس، معاون رئیس‌جمهور آمریکا، در شبکه اجتماعی ایکس نوشت: «دلیل شکست ما جنگ بود.» او اذعان کرد که درگیری با ایران، حامیان سابق ترامپ را در انتخابات میان‌دوره‌ای 3 نوامبر به سمت دموکرات‌ها سوق داد. ▫️ونس گفت که میزان مشارکت جمهوری‌خواهان همچنان نسبتاً قوی است، اما بسیاری از رأی‌دهندگانی که در سال 2024 از ترامپ حمایت کردند، به جای ماندن در خانه، حزب خود را تغییر دادند. ▫️طبق نظرسنجی که معاون رئیس‌جمهور به آن استناد کرد، رأی‌دهندگان ناامید به ترامپ چهار اولویت را شناسایی کردند که می‌توانست آنه</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103353.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103353.jpg" medium="image" />
-    </item>
-    <item>
-      <title>دبیر شورای‌عالی امنیت ملی ایران: هر کس با ایران درگیر شود، تاوان آن را پس خواهد داد؛ چه در میدان نبرد و چه در خانه خودش</title>
-      <link>https://sputnikiran.github.io/news/103352-دبیر-شورایعالی-امنیت-ملی.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103352-دبیر-شورایعالی-امنیت-ملی.html</guid>
-      <pubDate>Wed, 04 Nov 2026 17:48:00 GMT</pubDate>
-      <description>محسن رضایی: ▫️ملت ایران یک شکستی راهبردی در میدان نبرد و در منطقۀ هرمز، و یک شکستی سیاسی را در واشنگتن به ترامپ تحمیل کرد. ▫️در طرف دیگر، آمریکایی‌ها ناچار شدند هزینه جنگ او را بپردازند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103352.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103352.jpg" medium="image" />
-    </item>
-    <item>
-      <title>بیش از</title>
-      <link>https://sputnikiran.github.io/news/103351-بیش-از.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103351-بیش-از.html</guid>
-      <pubDate>Wed, 04 Nov 2026 17:18:00 GMT</pubDate>
-      <description>کارت قرمز در یک مسابقه فوتبال جوانان در برزیل&amp;#33; ▫️داور در یک مسابقه بین تیم های جوانان در برزیل، 51 بار کارت قرمز یا به گفته برخی منابع 53 بار کارت قرمز نشان داد. این یک رکورد جهانی جدید است. ▫️بازیکنان تیم های &amp;quot;اوبرلندیا&amp;quot; و &amp;quot;ماموره&amp;quot; در زمین مسابقه درگیری شدیدی را آغاز کردند که خیلی زود مربیان نیز به آنها پیوستند. داور بی‌رحم بود و در نهایت بیش از 50 نفر را از زمین اخراج کرد. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103351.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103351.jpg" medium="image" />
-    </item>
-    <item>
-      <title>رسانه: ترامپ در بحبوحه شکست‌های قابل توجه جمهوری‌خواهان در انتخابات میان‌دوره‌ای در حال بررسی جایگزینی پیت هگست، وزیر دفاع است</title>
-      <link>https://sputnikiran.github.io/news/103350-رسانه-ترامپ-در-بحبوحه-شکس.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103350-رسانه-ترامپ-در-بحبوحه-شکس.html</guid>
-      <pubDate>Wed, 04 Nov 2026 17:18:00 GMT</pubDate>
-      <description>▫️به گفته چندین منبع آگاه، در پی شکست‌های فاجعه‌بار جمهوری‌خواهان در شامگاه سه‌شنبه، دونالد ترامپ از مشاوران خود — چه به‌صورت حضوری و چه تلفنی — پرس‌وجو کرده است که آیا «پیت هگست»، وزیر دفاع، باید در سمت خود باقی بماند یا خیر. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103350.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103350.jpg" medium="image" />
     </item>
   </channel>
 </rss>
