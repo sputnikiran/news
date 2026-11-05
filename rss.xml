@@ -5,13 +5,49 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Thu, 05 Nov 2026 20:18:35 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 20:48:29 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>تصادف اتوبوس گردشگران خارجی در ترکیه</title>
+      <link>https://sputnikiran.github.io/news/103437-تصادف-اتوبوس-گردشگران-خار.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103437-تصادف-اتوبوس-گردشگران-خار.html</guid>
+      <pubDate>Thu, 05 Nov 2026 20:47:00 GMT</pubDate>
+      <description>🔶در استان آکسارای ترکیه، یک اتوبوس حامل گردشگران خارجی دچار سانحه شد. در این حادثه دست‌کم 16 نفر مجروح شدند که 2 نفر از آنها در وضعیت وخیم قرار دارند. هنوز مشخص نیست که چرا راننده کنترل خودرو را از دست داده است. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103437.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103437.jpg" medium="image" />
+    </item>
+    <item>
+      <title>انحراف مینی‌بوس در محور قائم‌شهر به بابل؛ عابر پیاده جان سالم به در برد</title>
+      <link>https://sputnikiran.github.io/news/103436-انحراف-مینیبوس-در-محور-قا.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103436-انحراف-مینیبوس-در-محور-قا.html</guid>
+      <pubDate>Thu, 05 Nov 2026 20:47:00 GMT</pubDate>
+      <description>🔶یک دستگاه مینی‌بوس در محور قائم‌شهر به بابل ناگهان از مسیر منحرف شد و با فاصله بسیار کمی از کنار یک عابر پیاده عبور کرد. این حادثه که تصاویر آن توسط دوربین مداربسته ثبت شده، خوشبختانه هیچ تلفات جانی نداشته است. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103436.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103436.jpg" medium="image" />
+    </item>
+    <item>
+      <title>&amp;nbsp;انهدام اهداف اوکراینی در محور کراسنولیمان</title>
+      <link>https://sputnikiran.github.io/news/103435-nbsp-انهدام-اهداف-اوکراین.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103435-nbsp-انهدام-اهداف-اوکراین.html</guid>
+      <pubDate>Thu, 05 Nov 2026 20:47:00 GMT</pubDate>
+      <description>🔶خدمه سامانه «سوکول-پدافند هوایی» گروه رزمی «غرب» روسیه، پهپادهای یگان‌های اوکراینی را در محور کراسنولیمان هدف قرار داده و منهدم کردند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103435.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103435.jpg" medium="image" />
+    </item>
+    <item>
+      <title>درخشش خورشید بر قله برفی نيلکانت در هند؛ پدیده «درخشش آلپی»</title>
+      <link>https://sputnikiran.github.io/news/103434-درخشش-خورشید-بر-قله-برفی.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103434-درخشش-خورشید-بر-قله-برفی.html</guid>
+      <pubDate>Thu, 05 Nov 2026 20:47:00 GMT</pubDate>
+      <description>🔶در طلوع یا غروب، قله‌های کوهستانی به رنگ‌های صورتی و طلایی درمی‌آیند.» 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103434.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103434.jpg" medium="image" />
+    </item>
     <item>
       <title>تظاهرات در پاریس: در منطقه میدان ناسیون، یک سطل زباله به آتش کشیده شد</title>
       <link>https://sputnikiran.github.io/news/103433-تظاهرات-در-پاریس-در-منطقه.html</link>
@@ -415,40 +451,6 @@
       <description>🔸به گزارش روزنامه فرانسوی و با استناد به مکاتبات میان رهبر فرانسه و یک‌روزنامه‌نگاری، ماکرون اذعان کرده است که جای خالی مرکل و دراگی را در نشست‌های سران اتحادیه اروپا احساس می‌کند:«حوصله‌ام سر رفته است. همه‌چیز کسل‌کننده و تهی از انرژی خلاقانه است.» 🔸رئیس‌جمهور فرانسه خاطرنشان کرد که گاهی این وضعیت بر او سنگینی می‌کند، اما با این حال روحیه‌اش همچنان خوب است. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103377.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103377.jpg" medium="image" />
-    </item>
-    <item>
-      <title>نیروهای روسیه از انهدام هویتزرهای اوکراینی با استفاده از حملات دقیق خبر دادند</title>
-      <link>https://sputnikiran.github.io/news/103376-نیروهای-روسیه-از-انهدام-ه.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103376-نیروهای-روسیه-از-انهدام-ه.html</guid>
-      <pubDate>Thu, 05 Nov 2026 07:17:00 GMT</pubDate>
-      <description>🔸 اپراتورهای پهپاد روسی شروع به قرار دادن پهپادهای اف پی وی به عنوان “واحدهای کمین” در خطوط برق کرده‌اند. 🔸 کانال‌های متمرکز بر امور نظامی، تصاویری را به اشتراک گذاشته‌اند که نشان می‌دهد پهپادها با قلاب از خطوط برق ولتاژ بالا آویزان شده‌اند. طبق گزارش‌ها، این قرارگیری، پنهان‌سازی بسیار خوبی را برای دستگاه‌ها فراهم می‌کند و در عین حال برد نظارتی آنها را افزایش می‌دهد. 🔸 معمولاً این “کمین‌گاه‌ها” مستقیماً روی یا در کنار جاده قرار می‌گیرند؛ اپراتور از طریق دوربین پهپاد، وضعیت را رصد می‌کند و پس </description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103376.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103376.jpg" medium="image" />
-    </item>
-    <item>
-      <title>نیروهای روسیه از انهدام هویتزرهای اوکراینی با استفاده از حملات دقیق خبر دادند</title>
-      <link>https://sputnikiran.github.io/news/103375-نیروهای-روسیه-از-انهدام-ه.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103375-نیروهای-روسیه-از-انهدام-ه.html</guid>
-      <pubDate>Thu, 05 Nov 2026 06:47:00 GMT</pubDate>
-      <description>🔸 وزارت دفاع روسیه اعلام کرد که نیروهای یگان «زاپاد» (غرب) با انجام حملاتی، توپخانه‌های متعلق به نیروهای مسلح اوکراین را هدف قرار دادند؛ اقدامی که موجب شد نیروهای اوکراینی به مواضعی دورتر عقب‌نشینی کنند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-    </item>
-    <item>
-      <title>تلسکوپ آمریکایی سوئیفت از مدار خارج شد و در جو زمین بر فراز اندونزی سوخت</title>
-      <link>https://sputnikiran.github.io/news/103374-تلسکوپ-آمریکایی-سوئیفت-از.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103374-تلسکوپ-آمریکایی-سوئیفت-از.html</guid>
-      <pubDate>Thu, 05 Nov 2026 06:17:00 GMT</pubDate>
-      <description>🔸 تلسکوپ سوئیفت به مدت 22 سال در مدار زمین قرار داشت. 🔸 ناسا اوایل امسال تلاش کرده بود این تلسکوپ را نجات دهد، آن‌ها یک شرکت آمریکایی را استخدام کردند تا فضاپیمای ویژه‌ای را پرتاب کند که قرار بود تلسکوپ را بگیرد و به مدار بالاتری منتقل کند، اما کنترل آن فضاپیما از دست رفت. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103374.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103374.jpg" medium="image" />
-    </item>
-    <item>
-      <title>رسانه‌: کاخ سفید نمی‌تواند در مورد اقدامات بعدی خود در قبال ایران تصمیم‌گیری کند</title>
-      <link>https://sputnikiran.github.io/news/103373-رسانه-کاخ-سفید-نمیتواند-د.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103373-رسانه-کاخ-سفید-نمیتواند-د.html</guid>
-      <pubDate>Thu, 05 Nov 2026 05:47:00 GMT</pubDate>
-      <description>🔸طبق گزارش، برخی از مقامات دولت، دونالد ترامپ، رئیس‌جمهور آمریکا را به انجام حملات جدید علیه ایران ترغیب می‌کنند تا قبل از پایان دوره ریاست‌جمهوری‌اش به صلح دست یابد. 🔸در این گزارش آمده است: «برخی دیگر معتقدند که ترامپ باید خسارات را بپذیرد و عملیات نظامی را متوقف کند.» 🔸دیروز چاک شومر، رهبر دموکرات‌ها در سنا، وعده داد که پس از پیروزی هم‌حزبی‌هایش در انتخابات، به درگیری با ایران پایان خواهد داد. به گفته وی، برخی از جمهوری‌خواهان نیز با این تصمیم موافق هستند. 🔸امتخابات میان دوره ای روز گذشته </description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103373.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103373.jpg" medium="image" />
     </item>
   </channel>
 </rss>
