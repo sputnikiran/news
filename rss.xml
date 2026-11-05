@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Thu, 05 Nov 2026 15:49:08 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 16:18:44 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>موشک فائز، آنچه درباره نخستین موشک هوا-به-هوای پاکستان می‌دانیم</title>
+      <link>https://sputnikiran.github.io/news/103416-موشک-فائز،-آنچه-درباره-نخ.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103416-موشک-فائز،-آنچه-درباره-نخ.html</guid>
+      <pubDate>Thu, 05 Nov 2026 16:17:00 GMT</pubDate>
+      <description>🔶به گزارش دفتر مطبوعاتی نیروی هوایی پاکستان، این کشور نخستین موشک هوا-به-هوای ساخت داخل خود با نام فائز ( واژه فائز در زبان اردو و عربی به معنای «پیروز و رستگار» است) را با موفقیت آزمایش پروازی کرده است. این موشک از یک جنگنده «جی‌اف-17 بلاک-1» (JF-17 Block-1) شلیک شد. آنچه درباره این موشک می‌دانیم: 👉 برد: بیش از 100 کیلومتر؛ طبق گزارش‌ها، نسخه ارتقا یافته آن با نام فائز2 نیز در دست توسعه است که بردی تا 180 کیلومتر دارد. 👉 سرعت: حدود 3.5 ماخ 👉 سامانه جستجوگر: مادون قرمز (IIR) یا راداری فعال (</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103416.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103416.jpg" medium="image" />
+    </item>
     <item>
       <title>کرملین: پوتین در کاخ کرملین با محسن رضایی، دبیر شورای امنیت ایران، دیدار کرد</title>
       <link>https://sputnikiran.github.io/news/103415-کرملین-پوتین-در-کاخ-کرملی.html</link>
@@ -438,15 +447,6 @@
       <description>▫️چاک شومر، رهبر دموکرات‌های سنا، پس از پیروزی هم‌حزبی‌هایش در انتخابات میان‌دوره‌ای ایالات متحده، قول داد که به درگیری با ایران پایان دهد. ▫️شومر به خبرنگاران گفت: «این جنگ باید پایان یابد.» او تأکید کرد که برخی از جمهوری‌خواهان در حال حاضر به دموکرات‌ها در تعهدشان برای پایان دادن به جنگ پیوسته‌اند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103354.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103354.jpg" medium="image" />
-    </item>
-    <item>
-      <title>اعتراف ونس: جنگ ایران برای جمهوری‌خواهان در انتخابات میان‌دوره‌ای هزینه داشت زیرا رأی‌دهندگان به ترامپ تغییر موضع دادند</title>
-      <link>https://sputnikiran.github.io/news/103353-اعتراف-ونس-جنگ-ایران-برای.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103353-اعتراف-ونس-جنگ-ایران-برای.html</guid>
-      <pubDate>Wed, 04 Nov 2026 17:48:00 GMT</pubDate>
-      <description>جی‌دی ونس، معاون رئیس‌جمهور آمریکا، در شبکه اجتماعی ایکس نوشت: «دلیل شکست ما جنگ بود.» او اذعان کرد که درگیری با ایران، حامیان سابق ترامپ را در انتخابات میان‌دوره‌ای 3 نوامبر به سمت دموکرات‌ها سوق داد. ▫️ونس گفت که میزان مشارکت جمهوری‌خواهان همچنان نسبتاً قوی است، اما بسیاری از رأی‌دهندگانی که در سال 2024 از ترامپ حمایت کردند، به جای ماندن در خانه، حزب خود را تغییر دادند. ▫️طبق نظرسنجی که معاون رئیس‌جمهور به آن استناد کرد، رأی‌دهندگان ناامید به ترامپ چهار اولویت را شناسایی کردند که می‌توانست آنه</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103353.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103353.jpg" medium="image" />
     </item>
   </channel>
 </rss>
