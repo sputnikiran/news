@@ -5,7 +5,7 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Thu, 05 Nov 2026 11:18:50 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 11:48:50 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss8.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
@@ -13,10 +13,28 @@
       <link>https://sputnikiran.github.io/news/</link>
     </image>
     <item>
+      <title>چرخش ایران به سوی شمال</title>
+      <link>https://sputnikiran.github.io/news/103393-چرخش-ایران-به-سوی-شمال.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103393-چرخش-ایران-به-سوی-شمال.html</guid>
+      <pubDate>Thu, 05 Nov 2026 11:48:50 GMT</pubDate>
+      <description>⭕️در حالی که واشنگتن همچنان بر ایران فشار می‌آورد و وضعیت در تنگه هرمز ناپایدار باقی مانده است، تهران در حال نشان دادن انعطاف‌پذیری راهبردی است. عباس عراقچی، وزیر امور خارجه، اخیراً به عشق‌آباد سفر کرد. هدف از این سفر چیست؟ 🔥عامل انرژی و تجارت: در هیئت ایرانی، نمایندگانی از بخش نفت نیز حضور داشتند. گفتگوها با وزیر امور خارجه ترکمنستان، طیف وسیعی از مسائل مربوط به همکاری‌های اقتصادی را در بر می‌گرفت. 📍عامل لجستیک: ایران و ترکمنستان دارای مرز زمینی مشترک هستند. در شرایطی که مسیرهای دریایی با تهد</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103393.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103393.jpg" medium="image" />
+    </item>
+    <item>
+      <title>اوکراین به دلیل افشای وجود شکنجه‌گاه‌های جهنمی برای کنترل زندان‌های مخفی در خارکیف عجله دارد</title>
+      <link>https://sputnikiran.github.io/news/103392-اوکراین-به-دلیل-افشای-وجو.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103392-اوکراین-به-دلیل-افشای-وجو.html</guid>
+      <pubDate>Thu, 05 Nov 2026 08:48:50 GMT</pubDate>
+      <description>🔸 منابع امنیتی روسیه به خبرگزاری اسپوتنیک گفتند: «تعداد قابل‌توجهی از نیروهای “هنگ 23 مستقل تهاجمی” گارد ملی اوکراین به خارکیف اعزام شده‌اند تا امنیت بازداشتگاه‌های…</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103392.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103392.jpg" medium="image" />
+    </item>
+    <item>
       <title>شبه‌نظامیان اوکراینی برای حراست از زندان‌های غیررسمی به خارکوف منتقل می‌شوند</title>
       <link>https://sputnikiran.github.io/news/103391-شبهنظامیان-اوکراینی-برای.html</link>
       <guid isPermaLink="true">https://sputnikiran.github.io/news/103391-شبهنظامیان-اوکراینی-برای.html</guid>
-      <pubDate>Thu, 05 Nov 2026 11:18:50 GMT</pubDate>
+      <pubDate>Thu, 05 Nov 2026 05:48:50 GMT</pubDate>
       <description>🔸یک منبع آگاه به اسپوتنیک گفت: فرماندهی ارتش اوکراین بخش قابل‌توجهی از شبه‌نظامیان گردان 23 پیاده‌نظام گارد ملی اوکراین را به شهر خارکوف اعزام کرده است تا تدابیر امنیتی را در زندان‌های…</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103391.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103391.jpg" medium="image" />
@@ -25,7 +43,7 @@
       <title>اعتصاب سراسری: نارضایتی اجتماعی از پاریس تا مارسی رو به افزایش است؛</title>
       <link>https://sputnikiran.github.io/news/103386-اعتصاب-سراسری-نارضایتی-اج.html</link>
       <guid isPermaLink="true">https://sputnikiran.github.io/news/103386-اعتصاب-سراسری-نارضایتی-اج.html</guid>
-      <pubDate>Thu, 05 Nov 2026 08:18:50 GMT</pubDate>
+      <pubDate>Thu, 05 Nov 2026 02:48:50 GMT</pubDate>
       <description>هزار نیروی پلیس به کار گرفته شده‌اند 🔸مطالبات اصلی معترضان، افزایش دستمزدها، حفظ قدرت خرید و اختصاص منابع به خدمات عمومی است. تصاویری از شبکه‌های اجتماعی 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103386.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103386.jpg" medium="image" />
@@ -34,7 +52,7 @@
       <title>سخنگوی کرملین: طبق توافق‌های حاصل‌شده با ایالات متحده آمریکا، تمام سوخت دیزل روسیه خریدار پیدا خواهد کرد</title>
       <link>https://sputnikiran.github.io/news/103385-سخنگوی-کرملین-طبق-توافقها.html</link>
       <guid isPermaLink="true">https://sputnikiran.github.io/news/103385-سخنگوی-کرملین-طبق-توافقها.html</guid>
-      <pubDate>Thu, 05 Nov 2026 05:18:50 GMT</pubDate>
+      <pubDate>Wed, 04 Nov 2026 23:48:50 GMT</pubDate>
       <description>🔸سخنگوی مطبوعاتی رئیس‌جمهور روسیه در سخنانی تصریح کرد: پس از انتخابات کنگره، ترامپ سیاست خارجی خود را ادامه خواهد داد؛ سایر مسائل، صرفاً امور داخلی ایالات متحده آمریکا هستند. 🔸 در حال حاضر هیچ برنامه مشخصی برای تماس میان پوتین و اردوغان وجود ندارد. 🔸 تدارکات برای جلسه پرسش و پاسخ «خط مستقیم» رئیس‌جمهور در جریان است؛ این برنامه پیش از پایان سال برگزار خواهد شد. 🔸 اتهامات مبنی بر دست داشتن روسیه در هک کردن یخچال‌های فروشگاه‌های زنجیره‌ای در اروپا، مضحک هستند. 🔸 پسکوف اعلام کرد که تدارکات برای</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103385.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103385.jpg" medium="image" />
@@ -43,14 +61,14 @@
       <title>وزارت دفاع روسیه: تانک‌های T-</title>
       <link>https://sputnikiran.github.io/news/103384-وزارت-دفاع-روسیه-تانکهای.html</link>
       <guid isPermaLink="true">https://sputnikiran.github.io/news/103384-وزارت-دفاع-روسیه-تانکهای.html</guid>
-      <pubDate>Thu, 05 Nov 2026 02:18:50 GMT</pubDate>
+      <pubDate>Wed, 04 Nov 2026 20:48:50 GMT</pubDate>
       <description>B از گروه یگان «شرق» (واستوک) روسیه، مواضع مقدم نیروهای مسلح اوکراین را در منطقه زاپروژیا منهدم کردند 🛰 Sputnik Iran | Rubika | Bale | Web</description>
     </item>
     <item>
       <title>اردوغان: به زودی با پوتین گفتگو خواهم کرد</title>
       <link>https://sputnikiran.github.io/news/103383-اردوغان-به-زودی-با-پوتین.html</link>
       <guid isPermaLink="true">https://sputnikiran.github.io/news/103383-اردوغان-به-زودی-با-پوتین.html</guid>
-      <pubDate>Wed, 04 Nov 2026 23:18:50 GMT</pubDate>
+      <pubDate>Wed, 04 Nov 2026 17:48:50 GMT</pubDate>
       <description>🔸رجب طیب اردوغان، رئیس‌جمهور ترکیه، اعلام کرد که قصد دارد در آینده‌ای نزدیک با ولادیمیر پوتین، رهبر روسیه، گفتگو کند تا ضمن بحث درباره مناقشه اوکراین، طرف روسی را در جریان نتایج گفتگوی اخیر خود با ولودیمیر زلنسکی در ترکیه قرار دهد. 🔸اردوغان در هواپیمای خود، هنگام بازگشت از کره جنوبی، به خبرنگاران گفت: «پس از دیدار با آقای زلنسکی (که در تاریخ 31 اکتبر در استانبول برگزار شد)، می‌خواهیم با آقای پوتین نیز گفتگو کنیم تا دیدگاه طرف روسی را در این خصوص بررسی نماییم.» 🛰 Sputnik Iran | Rubika | Bale |</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103383.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103383.jpg" medium="image" />
@@ -59,28 +77,10 @@
       <title>در پی سقوط یک بالگرد در خلیجی در نزدیکی میامی، یک نفر جان باخت و دو نفر دیگر مجروح شدند</title>
       <link>https://sputnikiran.github.io/news/103382-در-پی-سقوط-یک-بالگرد-در-خ.html</link>
       <guid isPermaLink="true">https://sputnikiran.github.io/news/103382-در-پی-سقوط-یک-بالگرد-در-خ.html</guid>
-      <pubDate>Wed, 04 Nov 2026 20:18:50 GMT</pubDate>
+      <pubDate>Wed, 04 Nov 2026 14:48:50 GMT</pubDate>
       <description>🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103382.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103382.jpg" medium="image" />
-    </item>
-    <item>
-      <title>پاکستان در جنگ با پشه‌ها</title>
-      <link>https://sputnikiran.github.io/news/103381-پاکستان-در-جنگ-با-پشهها.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103381-پاکستان-در-جنگ-با-پشهها.html</guid>
-      <pubDate>Wed, 04 Nov 2026 17:18:50 GMT</pubDate>
-      <description>🔸مقامات بهداشتی پاکستان، کمپین‌هایی را برای مبارزه با تب دنگی تشدید کرده‌اند، محله‌ها را مه‌پاشی کرده‌اند و مخازن آب و کولرها را برای یافتن لارو در استان پنجاب بررسی می‌کنند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103381.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103381.jpg" medium="image" />
-    </item>
-    <item>
-      <title>جمهوری‌خواهان هزینه ناامیدی رأی‌دهندگان را در انتخابات میان‌دوره‌ای آمریکا می‌پردازند – تحلیلگر</title>
-      <link>https://sputnikiran.github.io/news/103380-جمهوریخواهان-هزینه-ناامید.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103380-جمهوریخواهان-هزینه-ناامید.html</guid>
-      <pubDate>Wed, 04 Nov 2026 14:18:50 GMT</pubDate>
-      <description>🔸روبرتو ویسکا، تحلیلگر سیاسی در دانشگاه خودمختار ملی مکزیک، در گفتو با اسپوتنیک تصریح کرد که رأی‌دهندگان آمریکایی به دلیل برخی مسائل فوری، از جمله مسائل مربوط به تورم و قیمت مواد غذایی، نوعی «رأی اعتراضی» علیه جمهوری‌خواهان و به‌ویژه ترامپ دادند. 🔸او خاطرنشان می‌کند که یکی از شگفتی‌های بزرگ در این انتخابات «تغییر رنگ سیاسی در ایالت‌های آمریکا مانند کارولینای شمالی و تگزاس بود، جایی که رأی‌دهندگان از جمهوری‌خواهان به دموکرات‌ها روی آوردند». 🔸 او می‌افزاید که رتبه پایین محبوبیت ترامپ عامل مهمی </description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103380.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103380.jpg" medium="image" />
     </item>
   </channel>
 </rss>

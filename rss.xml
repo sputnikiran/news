@@ -5,13 +5,31 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Thu, 05 Nov 2026 11:18:50 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 11:48:50 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>چرخش ایران به سوی شمال</title>
+      <link>https://sputnikiran.github.io/news/103393-چرخش-ایران-به-سوی-شمال.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103393-چرخش-ایران-به-سوی-شمال.html</guid>
+      <pubDate>Thu, 05 Nov 2026 11:47:00 GMT</pubDate>
+      <description>⭕️در حالی که واشنگتن همچنان بر ایران فشار می‌آورد و وضعیت در تنگه هرمز ناپایدار باقی مانده است، تهران در حال نشان دادن انعطاف‌پذیری راهبردی است. عباس عراقچی، وزیر امور خارجه، اخیراً به عشق‌آباد سفر کرد. هدف از این سفر چیست؟ 🔥عامل انرژی و تجارت: در هیئت ایرانی، نمایندگانی از بخش نفت نیز حضور داشتند. گفتگوها با وزیر امور خارجه ترکمنستان، طیف وسیعی از مسائل مربوط به همکاری‌های اقتصادی را در بر می‌گرفت. 📍عامل لجستیک: ایران و ترکمنستان دارای مرز زمینی مشترک هستند. در شرایطی که مسیرهای دریایی با تهد</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103393.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103393.jpg" medium="image" />
+    </item>
+    <item>
+      <title>اوکراین به دلیل افشای وجود شکنجه‌گاه‌های جهنمی برای کنترل زندان‌های مخفی در خارکیف عجله دارد</title>
+      <link>https://sputnikiran.github.io/news/103392-اوکراین-به-دلیل-افشای-وجو.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103392-اوکراین-به-دلیل-افشای-وجو.html</guid>
+      <pubDate>Thu, 05 Nov 2026 11:47:00 GMT</pubDate>
+      <description>🔸 منابع امنیتی روسیه به خبرگزاری اسپوتنیک گفتند: «تعداد قابل‌توجهی از نیروهای “هنگ 23 مستقل تهاجمی” گارد ملی اوکراین به خارکیف اعزام شده‌اند تا امنیت بازداشتگاه‌های…</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103392.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103392.jpg" medium="image" />
+    </item>
     <item>
       <title>شبه‌نظامیان اوکراینی برای حراست از زندان‌های غیررسمی به خارکوف منتقل می‌شوند</title>
       <link>https://sputnikiran.github.io/news/103391-شبهنظامیان-اوکراینی-برای.html</link>
@@ -431,22 +449,6 @@
       <guid isPermaLink="true">https://sputnikiran.github.io/news/103335-دموکرات-آمریکایی-جنگ-علیه.html</guid>
       <pubDate>Wed, 04 Nov 2026 12:47:00 GMT</pubDate>
       <description>🗣مهدی عفیفی، عضو حزب دموکرات آمریکا، در گفت‌وگو با اسپوتنیک اعلام کرد که شکست جمهوری‌خواهان در انتخابات میان‌دوره‌ای و موفقیت قابل توجه دموکرات‌ها، تأثیر مستقیمی بر دستور کار سیاسی دونالد ترامپ و توانایی او برای پیشبرد طرح‌هایش در مرحله بعد خواهد داشت. 👉به گفته وی، ترامپ لحن خود را از رویارویی به انعطاف‌پذیری تغییر داده و اکنون برای پیشبرد طرح‌های قانونی خود در کنگره، ناچار به یافتن سازش با دموکرات‌هاست. 🔶عفیفی تأکید کرد که ترامپ و رهبران جمهوری‌خواه حامی سیاست‌های او، بهای انتخاباتی تشدید نظ</description>
-    </item>
-    <item>
-      <title>ترامپ: نیازی به حمله هسته‌ای به ایران نمی‌بینم</title>
-      <link>https://sputnikiran.github.io/news/103334-ترامپ-نیازی-به-حمله-هستها.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103334-ترامپ-نیازی-به-حمله-هستها.html</guid>
-      <pubDate>Wed, 04 Nov 2026 12:47:00 GMT</pubDate>
-      <description>🔶دونالد ترامپ، رئیس‌جمهور آمریکا، در مصاحبه با رسانه‌ها اعلام کرد: «من نیازی به این کار نمی‌بینم. ما آنها را 90 درصد شکست داده‌ایم، بنابراین نیازی به این کار ندارم.» 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103334.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103334.jpg" medium="image" />
-    </item>
-    <item>
-      <title>کارشناس: مردم روسیه امیدهای غرب را ناامید کردند و پوتین توانست حاکمیت و وحدت کشور را حفظ کند</title>
-      <link>https://sputnikiran.github.io/news/103333-کارشناس-مردم-روسیه-امیدها.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103333-کارشناس-مردم-روسیه-امیدها.html</guid>
-      <pubDate>Wed, 04 Nov 2026 12:18:00 GMT</pubDate>
-      <description>🗣حسن حردان، کارشناس مسائل راهبردی لبنانی، در گفت‌وگو با اسپوتنیک اعلام کرد که سخنان ولادیمیر پوتین درباره اهمیت وحدت ملت‌های روسیه، نشان‌دهنده درک ماهیت چالش‌های ژئوپلیتیکی است که این کشور با آن مواجه بوده و همچنین تلاش‌ها برای استفاده از تنوع ملی و فرهنگی روسیه جهت دامن زدن به اختلافات داخلی. 🟠وی افزود که روسیه در دوره‌های تاریخی مختلف با فشارها و چالش‌هایی برای محدود کردن پتانسیل راهبردی و تضعیف انسجام داخلی خود روبرو بوده است. 🔶به گفته این کارشناس، یکی از بارزترین نمونه‌های این رقابت، وخام</description>
     </item>
   </channel>
 </rss>
