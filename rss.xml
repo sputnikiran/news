@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Thu, 05 Nov 2026 09:18:30 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 09:49:16 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>اردوغان: به زودی با پوتین گفتگو خواهم کرد</title>
+      <link>https://sputnikiran.github.io/news/103383-اردوغان-به-زودی-با-پوتین.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103383-اردوغان-به-زودی-با-پوتین.html</guid>
+      <pubDate>Thu, 05 Nov 2026 09:48:00 GMT</pubDate>
+      <description>🔸رجب طیب اردوغان، رئیس‌جمهور ترکیه، اعلام کرد که قصد دارد در آینده‌ای نزدیک با ولادیمیر پوتین، رهبر روسیه، گفتگو کند تا ضمن بحث درباره مناقشه اوکراین، طرف روسی را در جریان نتایج گفتگوی اخیر خود با ولودیمیر زلنسکی در ترکیه قرار دهد. 🔸اردوغان در هواپیمای خود، هنگام بازگشت از کره جنوبی، به خبرنگاران گفت: «پس از دیدار با آقای زلنسکی (که در تاریخ 31 اکتبر در استانبول برگزار شد)، می‌خواهیم با آقای پوتین نیز گفتگو کنیم تا دیدگاه طرف روسی را در این خصوص بررسی نماییم.» 🛰 Sputnik Iran | Rubika | Bale |</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103383.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103383.jpg" medium="image" />
+    </item>
     <item>
       <title>در پی سقوط یک بالگرد در خلیجی در نزدیکی میامی، یک نفر جان باخت و دو نفر دیگر مجروح شدند</title>
       <link>https://sputnikiran.github.io/news/103382-در-پی-سقوط-یک-بالگرد-در-خ.html</link>
@@ -436,15 +445,6 @@
       <description>در سحرگاه امروز در آسمان تنگهٔ هرمز را منتشر کرد 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103329.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103329.jpg" medium="image" />
-    </item>
-    <item>
-      <title>رهبر ایران: اسطوره شکست‌ناپذیری آمریکا در خلیج فارس و تنگه هرمز فرو ریخت</title>
-      <link>https://sputnikiran.github.io/news/103328-رهبر-ایران-اسطوره-شکستناپ.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103328-رهبر-ایران-اسطوره-شکستناپ.html</guid>
-      <pubDate>Wed, 04 Nov 2026 11:18:00 GMT</pubDate>
-      <description>آیت‌الله مجتبی خامنه‌ای، رهبر ایران: 🔶اسطوره شکست‌ناپذیری آمریکا با تحولات خلیج فارس و تنگه هرمز فرو ریخته است. 🔶4 نوامبر دیگر تنها روز مقاومت نیست؛ هر روز به روز مبارزه تبدیل شده است. 🔶هرگونه تکرار تجاوز آمریکا با پاسخ بسیار گسترده‌تر ایران در سراسر منطقه مواجه خواهد شد. 🔶تلاش‌های جبهه مقاومت و ایران از طریق قدرت و اتحاد، راه را برای نظم جهانی جدید هموار می‌کند. 🔶کسانی که تصور می‌کنند با امتیاز دادن به واشنگتن می‌توانند خصومت آن را علیه ملت ایران پایان دهند، در اشتباه هستند. 🔶قدرت و نفوذ </description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103328.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103328.jpg" medium="image" />
     </item>
   </channel>
 </rss>
