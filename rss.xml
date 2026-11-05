@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Thu, 05 Nov 2026 17:18:32 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 17:48:50 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>پشتیبانی اپراتورهای پهپادی روسیه از پیشروی در محور اسلاویانسک و کراماتورسک</title>
+      <link>https://sputnikiran.github.io/news/103424-پشتیبانی-اپراتورهای-پهپاد.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103424-پشتیبانی-اپراتورهای-پهپاد.html</guid>
+      <pubDate>Thu, 05 Nov 2026 17:47:00 GMT</pubDate>
+      <description>وزارت دفاع روسیه از انهدام تجهیزات زیر خبر داد: ✅ یک خودروی رزمی زرهی «هاموی» ساخت ایالات متحده؛ ✅ دو مرکز کنترل پهپاد. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103424.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103424.jpg" medium="image" />
+    </item>
     <item>
       <title>اعتراضات گسترده در پاراگوئه به دلیل بحران شدید بانکی</title>
       <link>https://sputnikiran.github.io/news/103423-اعتراضات-گسترده-در-پاراگو.html</link>
@@ -442,15 +451,6 @@
       <description>▫️دکتر جرمی کوزماروف، سردبیر نشریه «کاورِت‌اکشن» (CovertAction)، به خبرگزاری اسپوتنیک گفت: «میلیون‌ها ایرانی در مراسم تشییع جنازه آیت‌الله شرکت کردند؛ مراسمی که یکی از پرجمعیت‌ترین تشییع‌جنازه‌های تاریخ جهان به شمار می‌رود. این مردم در صورت لزوم بسیج خواهند شد تا از کشورشان در برابر متجاوزان خارجی دفاع کنند.» ▫️او در این باره به روسیه نیز اشاره کرد و گفت که این کشور نیز در صورت لزوم برای دفاع از خود در برابر «تهاجم اوکراین که مورد حمایت ایالات متحده است»، بسیج خواهد شد. این کارشناس در پایان گفت:</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103362.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103362.jpg" medium="image" />
-    </item>
-    <item>
-      <title>ایلان ماسک پس از اعلام نتایج اولیه انتخابات میان‌دوره‌ای آمریکا تقریباً</title>
-      <link>https://sputnikiran.github.io/news/103361-ایلان-ماسک-پس-از-اعلام-نت.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103361-ایلان-ماسک-پس-از-اعلام-نت.html</guid>
-      <pubDate>Wed, 04 Nov 2026 20:18:00 GMT</pubDate>
-      <description>میلیارد دلار ضرر کرد ▫️به گزارش رسانه ها، در آغاز معاملات بازار سهام ایالات متحده، سهام اسپیس‌اکس و تسلا به ترتیب 3.5 درصد و 2.8 درصد کاهش یافت. گفته می شود این کارآفرین مبلغ بی‌سابقه 446 میلیون دلار به کمیته‌های اقدام سیاسی جمهوری‌خواهان کمک کرده است. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103361.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103361.jpg" medium="image" />
     </item>
   </channel>
 </rss>
