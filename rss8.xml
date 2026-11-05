@@ -5,7 +5,7 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Thu, 05 Nov 2026 14:18:50 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 14:48:58 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss8.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
@@ -13,10 +13,35 @@
       <link>https://sputnikiran.github.io/news/</link>
     </image>
     <item>
+      <title>ماجرای رسوایی شکنجه‌گاه در نزدیکی کی‌یف: آنچه تاکنون می‌دانیم</title>
+      <link>https://sputnikiran.github.io/news/103410-ماجرای-رسوایی-شکنجهگاه-در.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103410-ماجرای-رسوایی-شکنجهگاه-در.html</guid>
+      <pubDate>Thu, 05 Nov 2026 14:48:58 GMT</pubDate>
+      <description>🛰در تاریخ 2 نوامبر، با انتشار گزارش‌هایی مبنی بر ضرب‌وشتم و حبس اجباری نظامیان اوکراینی در یک خانه شخصی در «پتروپاولوفسکایا بورشاگووکا» (در نزدیکی کی‌یف)، رسوایی مربوط به شکنجه و بازداشت غیرقانونی…</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103410.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103410.jpg" medium="image" />
+    </item>
+    <item>
+      <title>وزارت دفاع روسیه: پهپادهای تهاجمی گران روسیه یک پایانه کامیون‌ها را در وینیتسیا، واقع در غرب اوکراین، منهدم کردند</title>
+      <link>https://sputnikiran.github.io/news/103409-وزارت-دفاع-روسیه-پهپادهای.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103409-وزارت-دفاع-روسیه-پهپادهای.html</guid>
+      <pubDate>Thu, 05 Nov 2026 11:48:58 GMT</pubDate>
+      <description>🔶 پست برق یوژنایا که یکی از اجزای کلیدی زیرساخت‌های انرژی این شهر محسوب می‌شود نیز هدف حمله قرار گرفت. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103409.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103409.jpg" medium="image" />
+    </item>
+    <item>
+      <title>کرملین: پوتین در کاخ کرملین با محسن رضایی، دبیر شورای امنیت ایران، دیدار کرد</title>
+      <link>https://sputnikiran.github.io/news/103408-کرملین-پوتین-در-کاخ-کرملی.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103408-کرملین-پوتین-در-کاخ-کرملی.html</guid>
+      <pubDate>Thu, 05 Nov 2026 08:48:58 GMT</pubDate>
+      <description>🛰 Sputnik Iran | Rubika | Bale | Web</description>
+    </item>
+    <item>
       <title>پوتین: ممانعت از شرکت ورزشکاران روس که برخلاف حکم دادگاه حکمیت ورزش صورت گرفت نقض فاحش قانون و «خودِ نهادهای دموکراسی» است</title>
       <link>https://sputnikiran.github.io/news/103407-پوتین-ممانعت-از-شرکت-ورزش.html</link>
       <guid isPermaLink="true">https://sputnikiran.github.io/news/103407-پوتین-ممانعت-از-شرکت-ورزش.html</guid>
-      <pubDate>Thu, 05 Nov 2026 14:18:50 GMT</pubDate>
+      <pubDate>Thu, 05 Nov 2026 05:48:58 GMT</pubDate>
       <description>🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103407.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103407.jpg" medium="image" />
@@ -25,7 +50,7 @@
       <title>گزارش اسپوتنیک: این نشان می‌دهد که مردم آمریکا خواهان جنگ نیستند</title>
       <link>https://sputnikiran.github.io/news/103406-گزارش-اسپوتنیک-این-نشان-م.html</link>
       <guid isPermaLink="true">https://sputnikiran.github.io/news/103406-گزارش-اسپوتنیک-این-نشان-م.html</guid>
-      <pubDate>Thu, 05 Nov 2026 11:18:50 GMT</pubDate>
+      <pubDate>Thu, 05 Nov 2026 02:48:58 GMT</pubDate>
       <description>🔍خبرگزاری اسپوتنیک ایران، واکنش ساکنان تهران به نتایج انتخابات ریاست‌جمهوری آمریکا را که در آن نامزد حزب دموکرات پیروز شد (و جمهوری‌خواهان شکست خوردند) جمع‌آوری کرده است. در شرایط تغییر قدرت در واشنگتن، شهروندان ایرانی نظرات خود را درباره اینکه آیا روابط بین دو کشور تغییر خواهد کرد، آیا تهدید جنگ گسترده در منطقه کاهش یافته است و نتایج رأی‌گیری چگونه بر آینده ایران و خاورمیانه تأثیر خواهد گذاشت، بیان می‌کنند. 🎤تغییر خاصی حاصل نمی‌شود. آمریکا اساساً شیطان بزرگ است که سال‌ها خون مردم این کشور و ح</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103406.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103406.jpg" medium="image" />
@@ -34,7 +59,7 @@
       <title>فون در لاین: اتحادیه اروپا موضع خود را درباره اوکراین تغییر نمی‌دهد و به تسلیح کی‌یف ادامه می‌دهد</title>
       <link>https://sputnikiran.github.io/news/103405-فون-در-لاین-اتحادیه-اروپا.html</link>
       <guid isPermaLink="true">https://sputnikiran.github.io/news/103405-فون-در-لاین-اتحادیه-اروپا.html</guid>
-      <pubDate>Thu, 05 Nov 2026 08:18:50 GMT</pubDate>
+      <pubDate>Wed, 04 Nov 2026 23:48:58 GMT</pubDate>
       <description>🔶اورسولا فون در لاین، رئیس کمیسیون اروپا، اعلام کرد که این کمیسیون علیرغم درخواست‌ها برای حضور در مذاکرات مربوط به اوکراین، موضع خود را در قبال حل و فصل این درگیری تغییر نداده و قصد دارد به تسلیح اوکراین ادامه دهد. 🔶همچنین کمیسیون اروپا امروز اعلام کرد که یک بسته جدید کمک نظامی به ارزش 658 میلیون یورو و کمک مالی بودجه‌ای به ارزش 3.7 میلیارد یورو به کی‌یف اختصاص خواهد داد. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103405.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103405.jpg" medium="image" />
@@ -43,7 +68,7 @@
       <title>اعتراضات گسترده در پاراگوئه به دلیل بحران شدید بانکی</title>
       <link>https://sputnikiran.github.io/news/103403-اعتراضات-گسترده-در-پاراگو.html</link>
       <guid isPermaLink="true">https://sputnikiran.github.io/news/103403-اعتراضات-گسترده-در-پاراگو.html</guid>
-      <pubDate>Thu, 05 Nov 2026 05:18:50 GMT</pubDate>
+      <pubDate>Wed, 04 Nov 2026 20:48:58 GMT</pubDate>
       <description>🔶در پاراگوئه شب گذشته، درگیری‌ها پس از آن آغاز شد که برخی معترضان تلاش کردند موانع پلیس را در نزدیکی ساختمان کنگره ملی بشکنند. پس از شکستن محاصره پلیس، نیروهای انتظامی از ماشین آب‌پاش، گاز اشک‌آور و گلوله‌های لاستیکی برای متفرق کردن معترضان استفاده کردند. 👉معترضان خواستار بازگرداندن وجوه مسدودشده در حساب‌های «بانک اوئنو» و استعفای رئیس‌جمهور پاراگوئه هستند. اعتراضات در پاراگوئه برای دومین شب متوالی ادامه دارد. پیش از این، بانک مرکزی پاراگوئه مدیریت خارجی را بر بانک اوئنو اعمال کرده بود. تعداد </description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103403.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103403.jpg" medium="image" />
@@ -52,37 +77,10 @@
       <title>روزنامه‌نگار آمریکایی: آمریکا به دلیل درگیری با ایران و سایر رویارویی‌ها ورشکسته شده است</title>
       <link>https://sputnikiran.github.io/news/103402-روزنامهنگار-آمریکایی-آمری.html</link>
       <guid isPermaLink="true">https://sputnikiran.github.io/news/103402-روزنامهنگار-آمریکایی-آمری.html</guid>
-      <pubDate>Thu, 05 Nov 2026 02:18:50 GMT</pubDate>
+      <pubDate>Wed, 04 Nov 2026 17:48:58 GMT</pubDate>
       <description>⚔️مشارکت ایالات متحده در درگیری با ایران و سایر رویارویی‌های نظامی، این کشور را به ورشکستگی واقعی رسانده است. این مطلب را تاکر کارلسون، روزنامه‌نگار و مجری مشهور آمریکایی، اعلام کرد. 🗣کارلسون در قسمت جدید برنامه خود اظهار داشت: &amp;quot;ایالات متحده به دلیل این جنگ‌ها ورشکسته شده است. و این یک تئوری توطئه یهودستیزانه نیست. این ریاضیات است&amp;quot;. ✅به گفته این روزنامه‌نگار، پیامدهای لشکرکشی‌های نظامی آمریکا بسیار فراتر از شکست‌های انتخاباتی جمهوری‌خواهان است و آسیب‌های جدی به خود ایالات متحده وارد م</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103402.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103402.jpg" medium="image" />
-    </item>
-    <item>
-      <title>گزارش هایی از زندان های مخفی در اوکراین</title>
-      <link>https://sputnikiran.github.io/news/103397-گزارش-هایی-از-زندان-های-م.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103397-گزارش-هایی-از-زندان-های-م.html</guid>
-      <pubDate>Wed, 04 Nov 2026 23:18:50 GMT</pubDate>
-      <description>🛰راننده یک آمبولانس که به همراه یک امدادگر به یک زندان موقت — مکانی که برای شکنجه استفاده می‌شد — در نزدیکی کی‌یف رفته بود، به بازداشتگاه موقت منتقل شده است. او به مدت دو ماه در بازداشت خواهد ماند و امکان آزادی با…</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103397.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103397.jpg" medium="image" />
-    </item>
-    <item>
-      <title>موج تهدید به بمب‌گذاری در هواپیماهای اروپایی</title>
-      <link>https://sputnikiran.github.io/news/103396-موج-تهدید-به-بمبگذاری-در.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103396-موج-تهدید-به-بمبگذاری-در.html</guid>
-      <pubDate>Wed, 04 Nov 2026 20:18:50 GMT</pubDate>
-      <description>&amp;nbsp; ⭕️طبق گزارش رسانه‌ها، بیش از ده پرواز در اروپا هشدار تهدید به بمب‌گذاری دریافت کردند، از جمله: ⭕️ شرکت هواپیمایی “فین‌ایر” در مورد دو تهدید جعلی بمب‌گذاری خبر داد ⭕️سه هواپیما در بلغارستان فرود اضطراری داشتند ⭕️ چهار پرواز به مقصد پراگ هشدار تهدید به بمب‌گذاری دریافت کردند ⭕️ یک پرواز شرکت هواپیمایی “ایر لینگوس” ایرلند به سمت فرانسه و پرواز شرکت هواپیمایی “لوت” به سمت بروکسل تغییر مسیر دادند ⭕️ خدمه پرواز هواپیمایی “ویز ایر” بر فراز رومانی هشدار تهدید به بمب‌گذاری دریافت کردند. 🛰 Sputnik</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103396.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103396.jpg" medium="image" />
-    </item>
-    <item>
-      <title>ترامپ میان تشدید جنگ و پذیرش شکست گرفتار شده است</title>
-      <link>https://sputnikiran.github.io/news/103395-ترامپ-میان-تشدید-جنگ-و-پذ.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103395-ترامپ-میان-تشدید-جنگ-و-پذ.html</guid>
-      <pubDate>Wed, 04 Nov 2026 17:18:50 GMT</pubDate>
-      <description>⭕️ اندیشه کاظمی پژوهشگر مسائل بین‌الملل در گفت‌وگو با اسپوتنیک اظهار داشت: اختلاف‌نظر درباره ادامه جنگ با ایران، کاخ سفید را با نوعی سردرگمی راهبردی مواجه کرده است؛ وضعیتی که در آن، بخشی از جریان سیاسی و امنیتی آمریکا خواهان تشدید حملات برای ترمیم اعتبار ازدست‌رفته واشنگتن است و گروهی دیگر، توقف عملیات نظامی را تنها راه جلوگیری از افزایش هزینه‌های سیاسی و اقتصادی می‌دانند. ⭕️وی افزود، شکاف فعلی در دولت آمریکا فقدان یک راهبرد روشن برای پایان دادن به تقابل با ایران است. جریان جنگ‌طلب معتقد است توق</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103395.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103395.jpg" medium="image" />
     </item>
   </channel>
 </rss>
