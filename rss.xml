@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Thu, 05 Nov 2026 12:19:02 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 12:48:25 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>موج تهدید به بمب‌گذاری در هواپیماهای اروپایی</title>
+      <link>https://sputnikiran.github.io/news/103396-موج-تهدید-به-بمبگذاری-در.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103396-موج-تهدید-به-بمبگذاری-در.html</guid>
+      <pubDate>Thu, 05 Nov 2026 12:47:00 GMT</pubDate>
+      <description>&amp;nbsp; ⭕️طبق گزارش رسانه‌ها، بیش از ده پرواز در اروپا هشدار تهدید به بمب‌گذاری دریافت کردند، از جمله: ⭕️ شرکت هواپیمایی “فین‌ایر” در مورد دو تهدید جعلی بمب‌گذاری خبر داد ⭕️سه هواپیما در بلغارستان فرود اضطراری داشتند ⭕️ چهار پرواز به مقصد پراگ هشدار تهدید به بمب‌گذاری دریافت کردند ⭕️ یک پرواز شرکت هواپیمایی “ایر لینگوس” ایرلند به سمت فرانسه و پرواز شرکت هواپیمایی “لوت” به سمت بروکسل تغییر مسیر دادند ⭕️ خدمه پرواز هواپیمایی “ویز ایر” بر فراز رومانی هشدار تهدید به بمب‌گذاری دریافت کردند. 🛰 Sputnik</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103396.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103396.jpg" medium="image" />
+    </item>
     <item>
       <title>ترامپ میان تشدید جنگ و پذیرش شکست گرفتار شده است</title>
       <link>https://sputnikiran.github.io/news/103395-ترامپ-میان-تشدید-جنگ-و-پذ.html</link>
@@ -442,15 +451,6 @@
       <description>▫️رئیس جمهور به نقش وحدت‌بخش و خلاقانه زبان روسی و مردم روس اشاره کرد و گفت حمایت از فرهنگ و زبان روسی از اهمیت استراتژیک برخوردار است. ▫️رئیس جمهور در نشست عمومی هفته بین‌المللی &amp;quot;ملت های روسیه&amp;quot; چه چیزهای دیگری گفت: 🔹وحدت مردم نقش کلیدی در روسیه ایفا می‌کند. 🔹هرگونه تلاش برای تحریک نفرت بین قومی باید سرکوب شود. 🔹روسیه از نظر تاریخی از طریق تعامل مردم، گروه‌های قومی، زبان‌ها و آداب و رسوم توسعه یافته است. 🔹هنر اصیل همه ملت ها و اقوام روسیه برای تمام جهانیان، روسی است. 🔹تنوع روسیه ن</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103338.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103338.jpg" medium="image" />
-    </item>
-    <item>
-      <title>نجات یک آهوی کوهی در کمسومولسک-نا-آموره روسیه</title>
-      <link>https://sputnikiran.github.io/news/103337-نجات-یک-آهوی-کوهی-در-کمسو.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103337-نجات-یک-آهوی-کوهی-در-کمسو.html</guid>
-      <pubDate>Wed, 04 Nov 2026 13:18:00 GMT</pubDate>
-      <description>🔹عابران این حیوان را در فاصله 5 متری از ساحل روی یخ مشاهده کردند. این آهوی جوان تقریباً تمام توان خود را از دست داده و در شرایط سختی قرار داشت. 🔹یک امدادگر از روی یخ نازک به سمت او رفت و او را به ساحل کشید. این حیوان ناتوان به مرکز نگهداری حیوانات منتقل شد و مکانی برای گرم شدن و بهبودی به او اختصاص یافت. 🔹کمسومولسک-نا-آموره نام شهری در خاور دور روسیه است، در استان خاباروفسک، واقع در ساحل رود آمور. این شهر از مراکز صنعتی و کشتی‌سازی منطقه به شمار می‌رود. 🛰Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103337.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103337.jpg" medium="image" />
     </item>
   </channel>
 </rss>
