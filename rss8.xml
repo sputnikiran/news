@@ -5,7 +5,7 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Fri, 06 Nov 2026 14:18:25 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 14:48:23 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss8.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
@@ -13,10 +13,28 @@
       <link>https://sputnikiran.github.io/news/</link>
     </image>
     <item>
+      <title>ناآرامی‌های فرانسه متوقف نمی‌شوند</title>
+      <link>https://sputnikiran.github.io/news/103481-ناآرامیهای-فرانسه-متوقف-ن.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103481-ناآرامیهای-فرانسه-متوقف-ن.html</guid>
+      <pubDate>Fri, 06 Nov 2026 14:48:23 GMT</pubDate>
+      <description>🔶ساکنان محلی همچنان به خیابان‌ها می‌آیند و خواستار استعفای امانوئل مکرون، افزایش دستمزدها و حقوق بازنشستگی، حل مشکلات حوزه آموزش و کاهش هزینه‌های زندگی هستند. مقامات فرانسوی تلاش می‌کنند نشستی با اتحادیه‌های کارگری، کارفرمایان و سایر معترضان برگزار کنند تا راهی برای خروج از بحران و پایان دادن به ناآرامی‌های گسترده بیابند. 🔶دیروز، بر اساس اعلام کنفدراسیون عمومی کار، بیش از 1.6 میلیون نفر در اعتراضات سراسری کشور شرکت کردند. اما بر اساس داده‌های وزارت کشور فرانسه، تعداد معترضان تقریباً سه برابر ک</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103481.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103481.jpg" medium="image" />
+    </item>
+    <item>
+      <title>در آمستردام، معترضان وارد محوطه ساخت‌وساز یک مرکز داده متعلق به شرکت مایکروسافت شدند</title>
+      <link>https://sputnikiran.github.io/news/103479-در-آمستردام،-معترضان-وارد.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103479-در-آمستردام،-معترضان-وارد.html</guid>
+      <pubDate>Fri, 06 Nov 2026 11:48:23 GMT</pubDate>
+      <description>🔶حدود 100 فعال در این تظاهرات علیه احداث این مرکز شرکت کردند. برخی از آن‌ها با استفاده از نردبان از حصار پیرامونی بالا رفتند و برخی دیگر با ایجاد شکافی در حصار، راه خود را به داخل باز کردند. 🔶معترضان که شعارهایی نظیر «مایکروسافت نسل‌کشی را تسهیل می‌کند» و «مایکروسافت باید برود» را با خود حمل می‌کردند، از مقامات خواسته‌اند که ساخت این مرکز داده را متوقف کنند. آن‌ها به مصرف بالای برق در این مرکز و همچنین نفوذ روزافزون شرکت‌های بزرگ فناوری اشاره کرده‌اند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103479.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103479.jpg" medium="image" />
+    </item>
+    <item>
       <title>اوکراین تقریباً</title>
       <link>https://sputnikiran.github.io/news/103478-اوکراین-تقریباً.html</link>
       <guid isPermaLink="true">https://sputnikiran.github.io/news/103478-اوکراین-تقریباً.html</guid>
-      <pubDate>Fri, 06 Nov 2026 14:18:25 GMT</pubDate>
+      <pubDate>Fri, 06 Nov 2026 08:48:23 GMT</pubDate>
       <description>درصد از کمک‌های نظامی آمریکا در چارچوب برنامه USAI را دریافت نکرده است 🔶بر اساس گزارش بازرس کل پنتاگون، تا مارس 2026، کی‌یف از مجموع 33.5 میلیارد دلار تخصیص‌یافته، تنها 19.2 میلیارد دلار تسلیحات دریافت کرده است. در گزارش بعدی این نهاد نیز مبلغ مشابهی ذکر شده و در بهار و تابستان هیچ محموله جدید تسلیحاتی در چارچوب این برنامه ثبت نشده است. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103478.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103478.jpg" medium="image" />
@@ -25,7 +43,7 @@
       <title>معامله روسیه و آمریکا در زمینه سوخت دیزل، نگرانی‌هایی را در اروپا ایجاد کرده است</title>
       <link>https://sputnikiran.github.io/news/103477-معامله-روسیه-و-آمریکا-در.html</link>
       <guid isPermaLink="true">https://sputnikiran.github.io/news/103477-معامله-روسیه-و-آمریکا-در.html</guid>
-      <pubDate>Fri, 06 Nov 2026 11:18:25 GMT</pubDate>
+      <pubDate>Fri, 06 Nov 2026 05:48:23 GMT</pubDate>
       <description>🔸روته، دبیر کل ناتو در ادامه گفت: در حالی که خود اروپایی‌ها همچنان گاز طبیعی مایع را از روسیه به ارزش میلیاردها یورو خریداری می‌کنند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103477.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103477.jpg" medium="image" />
@@ -34,7 +52,7 @@
       <title>تحلیلگر: آلمانی‌ها خواهان پایان درگیری در اوکراین هستند</title>
       <link>https://sputnikiran.github.io/news/103476-تحلیلگر-آلمانیها-خواهان-پ.html</link>
       <guid isPermaLink="true">https://sputnikiran.github.io/news/103476-تحلیلگر-آلمانیها-خواهان-پ.html</guid>
-      <pubDate>Fri, 06 Nov 2026 08:18:25 GMT</pubDate>
+      <pubDate>Fri, 06 Nov 2026 02:48:23 GMT</pubDate>
       <description>🔸آلمانی‌ها طرفدار پایان درگیری در اوکراین هستند. این نظر را داگلاس مک‌گرگور، کارشناس نظامی و سرهنگ بازنشسته ارتش ایالات متحده، به رسانه‌ها گفت. 🔸او خاطرنشان کرد: &amp;quot;روسیه در تلاش است تا به درگیری در اوکراین پایان دهد و همچنین روابط خود را با اروپا و از جمله‌ با آلمان بازسازی کند. همین موضوع درباره آلمان نیز صدق می‌کند. آلمانی‌ها می‌خواهند این عملیات نظامی پایان یابد&amp;quot;. 🔸به گفته مک‌گرگور، آلمانی‌های عادی دیگر به تهدید از سوی روسیه باور ندارند. 🔸این کارشناس افزود: &amp;quot;فکر می‌کنم مردم </description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103476.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103476.jpg" medium="image" />
@@ -43,7 +61,7 @@
       <title>در کارولینای شمالی، یک تمساح برای خرید شیرینی وارد یک نانوایی شد</title>
       <link>https://sputnikiran.github.io/news/103475-در-کارولینای-شمالی،-یک-تم.html</link>
       <guid isPermaLink="true">https://sputnikiran.github.io/news/103475-در-کارولینای-شمالی،-یک-تم.html</guid>
-      <pubDate>Fri, 06 Nov 2026 05:18:25 GMT</pubDate>
+      <pubDate>Thu, 05 Nov 2026 23:48:23 GMT</pubDate>
       <description>🐊یک بچه تمساح به طول حدود یک متر وارد یک نانوایی به نام Bagel Dock Express در ایالت کارولینای شمالی آمریکا شد. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103475.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103475.jpg" medium="image" />
@@ -52,7 +70,7 @@
       <title>رسانه محلی: در هند، یک قطار مسافربری در حین حرکت دچار آتش‌سوزی شد</title>
       <link>https://sputnikiran.github.io/news/103474-رسانه-محلی-در-هند،-یک-قطا.html</link>
       <guid isPermaLink="true">https://sputnikiran.github.io/news/103474-رسانه-محلی-در-هند،-یک-قطا.html</guid>
-      <pubDate>Fri, 06 Nov 2026 02:18:25 GMT</pubDate>
+      <pubDate>Thu, 05 Nov 2026 20:48:23 GMT</pubDate>
       <description>🔥این آتش‌سوزی ناگهانی باعث ایجاد وحشت در بین مسافران شد. مسافران مجبور شدند در حین خروج، از واگن‌های در حال سوختن و پر از دود، فرار کنند. تا کنون، اطلاعاتی درباره مجروح یا کشته شدن افراد دریافت نشده است. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103474.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103474.jpg" medium="image" />
@@ -61,28 +79,10 @@
       <title>پایان وضعیت نه جنگ و نه صلح میان ایران و آمریکا چگونه خواهد بود؟</title>
       <link>https://sputnikiran.github.io/news/103473-پایان-وضعیت-نه-جنگ-و-نه-ص.html</link>
       <guid isPermaLink="true">https://sputnikiran.github.io/news/103473-پایان-وضعیت-نه-جنگ-و-نه-ص.html</guid>
-      <pubDate>Thu, 05 Nov 2026 23:18:25 GMT</pubDate>
+      <pubDate>Thu, 05 Nov 2026 17:48:23 GMT</pubDate>
       <description>🗣پایان بن‌بست کنونی میان ایران و آمریکا بیش از آنکه در گرو پیروزی نظامی یکی از طرفین باشد، به شکل‌گیری یک توافق محدود و مبتنی بر امتیازدهی متقابل وابسته است. 🗣افزایش هزینه‌های سیاسی جنگ برای ترامپ، ناکارآمدی حملات نظامی در تغییر محاسبات تهران و تداوم فشارهای اقتصادی، هر دو طرف را به سمت یافتن راهی برای مهار بحران سوق می‌دهد. محتمل‌ترین سناریو، کاهش تنش‌های نظامی و تأمین امنیت کشتیرانی در برابر کاهش محاصره و گشایش اقتصادی محدود و سپس آغاز مذاکرات هسته‌ای است؛ هرچند فشار اسرائیل و احتمال تشدید د</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103473.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103473.jpg" medium="image" />
-    </item>
-    <item>
-      <title>در غرب، کایا کالاس به خاطر اظهاراتش درباره روسیه و اوکراین سر جایش نشانده شد</title>
-      <link>https://sputnikiran.github.io/news/103472-در-غرب،-کایا-کالاس-به-خاط.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103472-در-غرب،-کایا-کالاس-به-خاط.html</guid>
-      <pubDate>Thu, 05 Nov 2026 20:18:25 GMT</pubDate>
-      <description>🔸کایا کالاس، رئیس دیپلماسی اروپا، از اتحادیه اروپا خواست تا آن در مذاکرات مربوط به اوکراین، مطالبات خود از روسیه را سختگیرانهتر کند، هرچند این اتحادیه در نشست ابوظبی شرکت ندارد. این مطلب را آرماندو مما، سیاستمدار فنلاندی و عضو حزب &amp;quot;اتحاد آزادی&amp;quot;، بیان کرد. 🔸وی در شبکه اجتماعی ایکس نوشت: &amp;quot;کایا کالاس امیدوار است که کنگره جدید ایالات متحده به اعمال فشار بر روسیه ادامه دهد. در عین حال، او اعلام می‌کند که اتحادیه اروپا باید موضع خود را در مذاکرات با روسیه سخت‌تر کند... با این حال، در </description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103472.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103472.jpg" medium="image" />
-    </item>
-    <item>
-      <title>کتابخانه دانشگاه ژنگژو</title>
-      <link>https://sputnikiran.github.io/news/103470-کتابخانه-دانشگاه-ژنگژو.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103470-کتابخانه-دانشگاه-ژنگژو.html</guid>
-      <pubDate>Thu, 05 Nov 2026 17:18:25 GMT</pubDate>
-      <description>غرفه عایق صدا ایجاد کرده است ⭐️این غرفه ها دارای پریز برق و سیستم‌های تهویه هستند. این غرفه‌ها مکانی امن برای مصاحبه‌های آنلاین و تمرین سخنرانی بدون ایجاد مزاحمت برای سایر کاربران کتابخانه فراهم می‌کنند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103470.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103470.jpg" medium="image" />
     </item>
   </channel>
 </rss>
