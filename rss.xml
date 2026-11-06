@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Fri, 06 Nov 2026 18:18:51 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 18:48:38 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>روسیه کشتی حامل تجهیزات نظامی به اوکراین را در دریای سیاه هدف قرار داد</title>
+      <link>https://sputnikiran.github.io/news/103500-روسیه-کشتی-حامل-تجهیزات-ن.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103500-روسیه-کشتی-حامل-تجهیزات-ن.html</guid>
+      <pubDate>Fri, 06 Nov 2026 18:47:00 GMT</pubDate>
+      <description>🔶وزارت دفاع روسیه روز جمعه اعلام کرد که نیروهای روسی یک کشتی باری حامل تجهیزات نظامی و کالاهای دو منظوره به اوکراین را در دریای سیاه، در جنوب غربی اودسا، هدف قرار داده‌اند. 🔶به گفته این وزارتخانه، این کشتی در جریان حمله عصرگاهی هنگام تحویل تدارکات مورد نظر برای اوکراین مورد اصابت قرار گرفت. 🔶این حمله در حالی صورت می‌گیرد که نیروهای روسی همچنان به هدف قرار دادن زیرساخت‌های انرژی که از صنعت دفاعی و شبکه لجستیک نظامی اوکراین پشتیبانی می‌کنند، ادامه می‌دهند و هدف آنها ایجاد اختلال در مسیرهای تدار</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103500.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103500.jpg" medium="image" />
+    </item>
     <item>
       <title>نخستین رزمایش دریایی مشترک روسیه و سیشل با هدف مقابله با دزدی دریایی برگزار شد</title>
       <link>https://sputnikiran.github.io/news/103499-نخستین-رزمایش-دریایی-مشتر.html</link>
@@ -444,15 +453,6 @@
       <description>🔸دونالد ترامپ، رئیس جمهور آمریکا، آنچه در گفتگوی خود با کریل دمیتریف، مدیر عامل صندوق سرمایه‌گذاری مستقیم روسیه مورد بحث قرار گرفته بود را فاش کرد. 🔸رئیس کاخ سفید همچنین از آماده‌سازی یک توافق بزرگ در مورد اوکراین خبر داد: رهبر آمریکا تأکید کرد: &amp;quot;اما من فقط به شما می‌گویم: توافقی حاصل خواهد شد. این یک توافق بزرگ خواهد بود و فقط بر اوکراین تأثیر نخواهد گذاشت. این توافق بسیار بزرگ خواهد بود. این توافق فقط بر اوکراین تأثیر نخواهد گذاشت و حتی می‌توانم بگویم که می‌تواند بر تمام اروپا تأثیر بگذ</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103438.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103438.jpg" medium="image" />
-    </item>
-    <item>
-      <title>تصادف اتوبوس گردشگران خارجی در ترکیه</title>
-      <link>https://sputnikiran.github.io/news/103437-تصادف-اتوبوس-گردشگران-خار.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103437-تصادف-اتوبوس-گردشگران-خار.html</guid>
-      <pubDate>Thu, 05 Nov 2026 20:47:00 GMT</pubDate>
-      <description>🔶در استان آکسارای ترکیه، یک اتوبوس حامل گردشگران خارجی دچار سانحه شد. در این حادثه دست‌کم 16 نفر مجروح شدند که 2 نفر از آنها در وضعیت وخیم قرار دارند. هنوز مشخص نیست که چرا راننده کنترل خودرو را از دست داده است. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103437.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103437.jpg" medium="image" />
     </item>
   </channel>
 </rss>
