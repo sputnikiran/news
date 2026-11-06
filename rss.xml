@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Fri, 06 Nov 2026 19:18:41 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 19:48:41 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>خودروی تولیدی BYD برای اولین بار از سرعت</title>
+      <link>https://sputnikiran.github.io/news/103502-خودروی-تولیدی-byd-برای-او.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103502-خودروی-تولیدی-byd-برای-او.html</guid>
+      <pubDate>Fri, 06 Nov 2026 19:47:00 GMT</pubDate>
+      <description>کیلومتر بر ساعت عبور کرد 🚗یک ابرخودروی الکتریکی از شرکت BYD با دستیابی به سرعت 503.17 کیلومتر بر ساعت، رکورد جهانی جدیدی را به ثبت رساند؛ سرعتی که در آن، خودرو در هر ثانیه حدود 140 متر را طی می‌کند. 🏁 این آزمایش در بزرگراهی در ابوظبی انجام شد که به‌طور اختصاصی برای همین منظور بسته شده بود. خودروی BYD مدل «Yangwang U9 Xtreme» قدرتی معادل 2977 اسب بخار تولید می‌کند و تنها 30 دستگاه از این مدل ساخته خواهد شد. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103502.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103502.jpg" medium="image" />
+    </item>
     <item>
       <title>رویدادهای مهم تا شامگاه</title>
       <link>https://sputnikiran.github.io/news/103501-رویدادهای-مهم-تا-شامگاه.html</link>
@@ -444,15 +453,6 @@
       <description>میلیون دلار به دلیل کاهش صادرات محصولات صنعتی از دست داد 🛰بر اساس اسناد بانک مرکزی این کشور که توسط اسپوتنیک بررسی شده است، صادرات محصولات صنعتی در نه ماه اول سال جاری، 1.231 میلیارد دلار بوده است. 🛰در دوره مشابه سال 2025، صادرکنندگان اوکراینی، ماشین‌آلات و تجهیزات به ارزش 1.634 میلیارد دلار به خارج از کشور صادر کردند. 🛰ولادیمیر پوتین، رئیس‌جمهور روسیه، پیش از این اعلام کرده بود که پس از آنکه مقامات کی‌یف هدف خود را وارد کردن آسیب به اقتصاد روسیه اعلام کردند و به پالایشگاه‌ها و کشتی‌های حامل </description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103440.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103440.jpg" medium="image" />
-    </item>
-    <item>
-      <title>وزارت دفاع روسیه: نیروهای هوافضای روسیه، ایستگاه برق در منطقه سومی و پایگاه یک گروهان اوکراینی در زاپاروژیه را هدف قرار دادند</title>
-      <link>https://sputnikiran.github.io/news/103439-وزارت-دفاع-روسیه-نیروهای.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103439-وزارت-دفاع-روسیه-نیروهای.html</guid>
-      <pubDate>Fri, 06 Nov 2026 05:17:00 GMT</pubDate>
-      <description>▫️وزارت دفاع روسیه اعلام کرد که نیروی هوایی-تاکتیکی روسیه، حمله‌ای هوایی را به یک ایستگاه برق در نزدیکی شهر سومی انجام داده است. ▫️در این عملیات، از بمب‌های هوایی FAB-500 به همراه ماژول‌های برنامه‌ریزی و تصحیح یونیورسال استفاده شد. ▫️وزارت دفاع خاطرنشان کرد که این مهمات به اهداف خود رسیدند. ▫️همچنین، نیروهای روسیه از بمب‌های هوایی FAB-3000 برای حمله به یک پایگاه موقت متعلق به گروهان 128 ارتش کوهستانی مجزا اوکراین در شهر دمیتورو، منطقه زاپاروژیه، استفاده کردند. ▫️وزارت دفاع همچنین افزود که در پاس</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103439.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103439.jpg" medium="image" />
     </item>
   </channel>
 </rss>
