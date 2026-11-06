@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Fri, 06 Nov 2026 17:48:28 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 18:18:51 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>نخستین رزمایش دریایی مشترک روسیه و سیشل با هدف مقابله با دزدی دریایی برگزار شد</title>
+      <link>https://sputnikiran.github.io/news/103499-نخستین-رزمایش-دریایی-مشتر.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103499-نخستین-رزمایش-دریایی-مشتر.html</guid>
+      <pubDate>Fri, 06 Nov 2026 18:17:00 GMT</pubDate>
+      <description>🔶ناوچه روسی «مارشال شاپوشنیکوف» پس از پایان رزمایش در بندر ویکتوریا (سیشل)، این بندر را به مقصد دریا ترک کرد. 🔶خدمه این ناو پس از خروج از بندر، به انجام مانورهای مشترک با شناور گشتی «P-108» متعلق به نیروی دریایی کامرون پرداختند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103499.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103499.jpg" medium="image" />
+    </item>
     <item>
       <title>پوتین تأیید کرد که مذاکرات در ابوظبی قرار است روز سه‌شنبه،</title>
       <link>https://sputnikiran.github.io/news/103498-پوتین-تأیید-کرد-که-مذاکرا.html</link>
@@ -444,15 +453,6 @@
       <description>🔶در استان آکسارای ترکیه، یک اتوبوس حامل گردشگران خارجی دچار سانحه شد. در این حادثه دست‌کم 16 نفر مجروح شدند که 2 نفر از آنها در وضعیت وخیم قرار دارند. هنوز مشخص نیست که چرا راننده کنترل خودرو را از دست داده است. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103437.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103437.jpg" medium="image" />
-    </item>
-    <item>
-      <title>انحراف مینی‌بوس در محور قائم‌شهر به بابل؛ عابر پیاده جان سالم به در برد</title>
-      <link>https://sputnikiran.github.io/news/103436-انحراف-مینیبوس-در-محور-قا.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103436-انحراف-مینیبوس-در-محور-قا.html</guid>
-      <pubDate>Thu, 05 Nov 2026 20:47:00 GMT</pubDate>
-      <description>🔶یک دستگاه مینی‌بوس در محور قائم‌شهر به بابل ناگهان از مسیر منحرف شد و با فاصله بسیار کمی از کنار یک عابر پیاده عبور کرد. این حادثه که تصاویر آن توسط دوربین مداربسته ثبت شده، خوشبختانه هیچ تلفات جانی نداشته است. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103436.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103436.jpg" medium="image" />
     </item>
   </channel>
 </rss>
