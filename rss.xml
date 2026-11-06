@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Fri, 06 Nov 2026 12:18:19 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 12:48:20 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>پایان وضعیت نه جنگ و نه صلح میان ایران و آمریکا چگونه خواهد بود؟</title>
+      <link>https://sputnikiran.github.io/news/103473-پایان-وضعیت-نه-جنگ-و-نه-ص.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103473-پایان-وضعیت-نه-جنگ-و-نه-ص.html</guid>
+      <pubDate>Fri, 06 Nov 2026 12:47:00 GMT</pubDate>
+      <description>🗣پایان بن‌بست کنونی میان ایران و آمریکا بیش از آنکه در گرو پیروزی نظامی یکی از طرفین باشد، به شکل‌گیری یک توافق محدود و مبتنی بر امتیازدهی متقابل وابسته است. 🗣افزایش هزینه‌های سیاسی جنگ برای ترامپ، ناکارآمدی حملات نظامی در تغییر محاسبات تهران و تداوم فشارهای اقتصادی، هر دو طرف را به سمت یافتن راهی برای مهار بحران سوق می‌دهد. محتمل‌ترین سناریو، کاهش تنش‌های نظامی و تأمین امنیت کشتیرانی در برابر کاهش محاصره و گشایش اقتصادی محدود و سپس آغاز مذاکرات هسته‌ای است؛ هرچند فشار اسرائیل و احتمال تشدید د</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103473.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103473.jpg" medium="image" />
+    </item>
     <item>
       <title>در غرب، کایا کالاس به خاطر اظهاراتش درباره روسیه و اوکراین سر جایش نشانده شد</title>
       <link>https://sputnikiran.github.io/news/103472-در-غرب،-کایا-کالاس-به-خاط.html</link>
@@ -448,15 +457,6 @@
       <description>🔶در کاخ سفید، ملانیا ترامپ، بانوی اول آمریکا، اعلام کرد که در تمام مراحل برنامه‌ریزی عملیات بشردوستانه در اولشکی مشارکت داشته است. هیئت روسیه را کریل دمیتریف، رئیس صندوق سرمایه‌گذاری مستقیم روسیه، و یانا لانتراتووا، کمیسر حقوق بشر روسیه، نمایندگی می‌کنند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103418.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103418.jpg" medium="image" />
-    </item>
-    <item>
-      <title>رسانه‌ها: ترامپ ممکن است پس از انتخابات کنگره آمریکا فشار بر کی‌یف را افزایش دهد</title>
-      <link>https://sputnikiran.github.io/news/103417-رسانهها-ترامپ-ممکن-است-پس.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103417-رسانهها-ترامپ-ممکن-است-پس.html</guid>
-      <pubDate>Thu, 05 Nov 2026 16:47:00 GMT</pubDate>
-      <description>🔶دونالد ترامپ، رئیس‌جمهور آمریکا، ممکن است پس از انتخابات میان‌دوره‌ای کنگره آمریکا، فشار بر رژیم کی‌یف را افزایش دهد. رسانه‌های بریتانیایی این اطلاعات را منتشر کرده‌اند. 🔶تأکید می‌شود که ترامپ ممکن است این اقدام را علیرغم نظرات رهبران اروپایی انجام دهد. 🔶در این مطلب آمده است: &amp;quot;اگرچه رئیس‌جمهور آمریکا گاهی اوقات به رهبران اروپایی گوش می‌دهد، اما اعتقاد راسخ او این است که کوتاه‌ترین راه برای صلح، وادار کردن اوکراین به تسلیم شدن است&amp;quot;. 🔶پیش‌تر رسانه‌ها نوشته بودند که پس از شکست جمهوری</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103417.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103417.jpg" medium="image" />
     </item>
   </channel>
 </rss>
