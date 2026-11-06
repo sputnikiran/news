@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Fri, 06 Nov 2026 10:18:23 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 10:49:02 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>ملوان فرانسوی یک روز کامل را درون یک ترایماران واژگون شده در اقیانوس اطلس سپری کرد</title>
+      <link>https://sputnikiran.github.io/news/103464-ملوان-فرانسوی-یک-روز-کامل.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103464-ملوان-فرانسوی-یک-روز-کامل.html</guid>
+      <pubDate>Fri, 06 Nov 2026 10:47:00 GMT</pubDate>
+      <description>🛟آرمِلِه لو کِلِاک با کمک یک کشتی باری پانامایی نجات یافت. ترایماران &amp;quot;Maxi Banque Populaire XI&amp;quot; حدود 1000 کیلومتر شمال غربی جزایر آزور واژگون شد. 🛟ملوان تمام روز را درون بدنه کشتی واژگون شده سپری کرد و منتظر کمک ماند. پس از نجات، لو کِلِاک به ایالات متحده منتقل خواهد شد. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103464.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103464.jpg" medium="image" />
+    </item>
     <item>
       <title>کرملین: پوتین در کاخ کرملین با محسن رضایی، دبیر شورای امنیت ایران، دیدار کرد</title>
       <link>https://sputnikiran.github.io/news/103463-کرملین-پوتین-در-کاخ-کرملی.html</link>
@@ -446,15 +455,6 @@
       <description>🛰در تاریخ 2 نوامبر، با انتشار گزارش‌هایی مبنی بر ضرب‌وشتم و حبس اجباری نظامیان اوکراینی در یک خانه شخصی در «پتروپاولوفسکایا بورشاگووکا» (در نزدیکی کی‌یف)، رسوایی مربوط به شکنجه و بازداشت غیرقانونی…</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103410.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103410.jpg" medium="image" />
-    </item>
-    <item>
-      <title>وزارت دفاع روسیه: پهپادهای تهاجمی گران روسیه یک پایانه کامیون‌ها را در وینیتسیا، واقع در غرب اوکراین، منهدم کردند</title>
-      <link>https://sputnikiran.github.io/news/103409-وزارت-دفاع-روسیه-پهپادهای.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103409-وزارت-دفاع-روسیه-پهپادهای.html</guid>
-      <pubDate>Thu, 05 Nov 2026 14:48:00 GMT</pubDate>
-      <description>🔶 پست برق یوژنایا که یکی از اجزای کلیدی زیرساخت‌های انرژی این شهر محسوب می‌شود نیز هدف حمله قرار گرفت. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103409.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103409.jpg" medium="image" />
     </item>
   </channel>
 </rss>
