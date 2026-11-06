@@ -5,13 +5,31 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Fri, 06 Nov 2026 05:18:31 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 06:19:01 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>رهگیری و انهدام</title>
+      <link>https://sputnikiran.github.io/news/103442-رهگیری-و-انهدام.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103442-رهگیری-و-انهدام.html</guid>
+      <pubDate>Fri, 06 Nov 2026 06:17:00 GMT</pubDate>
+      <description>پهپاد اوکراینی بر فراز خاک روسیه ▫️وزارت دفاع روسیه اعلام کرد که سامانه های پدافند هوایی این کشور طی شب گذشته 142 پهپاد اوکراینی را بر فراز مناطق مختلف روسیه سرنگون کرده اند. ▫️اسپوتنیک تاریخچهٔ درگیری اوکراین را در اینجا برای شما گردآوری کرده است. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103442.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103442.jpg" medium="image" />
+    </item>
+    <item>
+      <title>وزارت دفاع روسیه: حملات روسیه به تأسیسات انرژی و یک کشتی باری با کاربرد دوگانه در اوکراین</title>
+      <link>https://sputnikiran.github.io/news/103441-وزارت-دفاع-روسیه-حملات-رو.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103441-وزارت-دفاع-روسیه-حملات-رو.html</guid>
+      <pubDate>Fri, 06 Nov 2026 06:17:00 GMT</pubDate>
+      <description>▫️وزارت دفاع روسیه اعلام کرد که نیروهای این کشور شب گذشته به تأسیسات انرژی اوکراین و شناورهایی که در پشتیبانی از ارتش اوکراین مورد استفاده قرار می‌گرفتند، حمله کردند. ▫️در پی این حملات، تأسیسات ذخیره‌سازی باتری در شهر «بیلا سرکوا» (Belaya Tserkov) واقع در منطقه کی‌یف هدف قرار گرفت. ▫️همچنین در بندر اودسا، یک کشتی باری که محموله‌ای با کاربرد دوگانه را به اوکراین تحویل می‌داد، مورد اصابت قرار گرفت. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103441.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103441.jpg" medium="image" />
+    </item>
     <item>
       <title>تحلیل اسپوتنیک: کی‌یف طی یک سال،</title>
       <link>https://sputnikiran.github.io/news/103440-تحلیل-اسپوتنیک-کییف-طی-یک.html</link>
@@ -433,24 +451,6 @@
       <description>🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103382.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103382.jpg" medium="image" />
-    </item>
-    <item>
-      <title>پاکستان در جنگ با پشه‌ها</title>
-      <link>https://sputnikiran.github.io/news/103381-پاکستان-در-جنگ-با-پشهها.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103381-پاکستان-در-جنگ-با-پشهها.html</guid>
-      <pubDate>Thu, 05 Nov 2026 08:47:00 GMT</pubDate>
-      <description>🔸مقامات بهداشتی پاکستان، کمپین‌هایی را برای مبارزه با تب دنگی تشدید کرده‌اند، محله‌ها را مه‌پاشی کرده‌اند و مخازن آب و کولرها را برای یافتن لارو در استان پنجاب بررسی می‌کنند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103381.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103381.jpg" medium="image" />
-    </item>
-    <item>
-      <title>جمهوری‌خواهان هزینه ناامیدی رأی‌دهندگان را در انتخابات میان‌دوره‌ای آمریکا می‌پردازند – تحلیلگر</title>
-      <link>https://sputnikiran.github.io/news/103380-جمهوریخواهان-هزینه-ناامید.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103380-جمهوریخواهان-هزینه-ناامید.html</guid>
-      <pubDate>Thu, 05 Nov 2026 08:17:00 GMT</pubDate>
-      <description>🔸روبرتو ویسکا، تحلیلگر سیاسی در دانشگاه خودمختار ملی مکزیک، در گفتو با اسپوتنیک تصریح کرد که رأی‌دهندگان آمریکایی به دلیل برخی مسائل فوری، از جمله مسائل مربوط به تورم و قیمت مواد غذایی، نوعی «رأی اعتراضی» علیه جمهوری‌خواهان و به‌ویژه ترامپ دادند. 🔸او خاطرنشان می‌کند که یکی از شگفتی‌های بزرگ در این انتخابات «تغییر رنگ سیاسی در ایالت‌های آمریکا مانند کارولینای شمالی و تگزاس بود، جایی که رأی‌دهندگان از جمهوری‌خواهان به دموکرات‌ها روی آوردند». 🔸 او می‌افزاید که رتبه پایین محبوبیت ترامپ عامل مهمی </description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103380.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103380.jpg" medium="image" />
     </item>
   </channel>
 </rss>
