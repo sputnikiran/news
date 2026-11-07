@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Sat, 07 Nov 2026 14:48:28 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 15:18:31 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>پرتاب موشک جدید «سرس-</title>
+      <link>https://sputnikiran.github.io/news/103535-پرتاب-موشک-جدید-سرس.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103535-پرتاب-موشک-جدید-سرس.html</guid>
+      <pubDate>Sat, 07 Nov 2026 15:17:00 GMT</pubDate>
+      <description>» چین با 4 ماهواره علمی از پایگاه جیوچوان 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103535.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103535.jpg" medium="image" />
+    </item>
     <item>
       <title>افزایش جریان سیلاب رودخانه برگجهان لواسان و ورود روان‌آب به گلزار شهدای چم‌سنگر لرستان</title>
       <link>https://sputnikiran.github.io/news/103533-افزایش-جریان-سیلاب-رودخان.html</link>
@@ -446,15 +455,6 @@
       <description>🗣پایان بن‌بست کنونی میان ایران و آمریکا بیش از آنکه در گرو پیروزی نظامی یکی از طرفین باشد، به شکل‌گیری یک توافق محدود و مبتنی بر امتیازدهی متقابل وابسته است. 🗣افزایش هزینه‌های سیاسی جنگ برای ترامپ، ناکارآمدی حملات نظامی در تغییر محاسبات تهران و تداوم فشارهای اقتصادی، هر دو طرف را به سمت یافتن راهی برای مهار بحران سوق می‌دهد. محتمل‌ترین سناریو، کاهش تنش‌های نظامی و تأمین امنیت کشتیرانی در برابر کاهش محاصره و گشایش اقتصادی محدود و سپس آغاز مذاکرات هسته‌ای است؛ هرچند فشار اسرائیل و احتمال تشدید د</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103473.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103473.jpg" medium="image" />
-    </item>
-    <item>
-      <title>در غرب، کایا کالاس به خاطر اظهاراتش درباره روسیه و اوکراین سر جایش نشانده شد</title>
-      <link>https://sputnikiran.github.io/news/103472-در-غرب،-کایا-کالاس-به-خاط.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103472-در-غرب،-کایا-کالاس-به-خاط.html</guid>
-      <pubDate>Fri, 06 Nov 2026 12:17:00 GMT</pubDate>
-      <description>🔸کایا کالاس، رئیس دیپلماسی اروپا، از اتحادیه اروپا خواست تا آن در مذاکرات مربوط به اوکراین، مطالبات خود از روسیه را سختگیرانهتر کند، هرچند این اتحادیه در نشست ابوظبی شرکت ندارد. این مطلب را آرماندو مما، سیاستمدار فنلاندی و عضو حزب &amp;quot;اتحاد آزادی&amp;quot;، بیان کرد. 🔸وی در شبکه اجتماعی ایکس نوشت: &amp;quot;کایا کالاس امیدوار است که کنگره جدید ایالات متحده به اعمال فشار بر روسیه ادامه دهد. در عین حال، او اعلام می‌کند که اتحادیه اروپا باید موضع خود را در مذاکرات با روسیه سخت‌تر کند... با این حال، در </description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103472.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103472.jpg" medium="image" />
     </item>
   </channel>
 </rss>
