@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Sat, 07 Nov 2026 05:48:36 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 06:18:27 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>حمله شهرک‌نشینان اسرائیلی به یک فلسطینی در کرانه باختری</title>
+      <link>https://sputnikiran.github.io/news/103512-حمله-شهرکنشینان-اسرائیلی.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103512-حمله-شهرکنشینان-اسرائیلی.html</guid>
+      <pubDate>Sat, 07 Nov 2026 06:17:00 GMT</pubDate>
+      <description>🔸 در ویدیویی نشان داده می شود که شهرک‌نشینان در جریان حمله‌ای شبانه به یک منطقه مسکونی در ناحیه «مسافر یطا»، واقع در جنوب کرانه باختری، یک مرد فلسطینی را مورد ضرب و شتم قرار می‌دهند. 🔸 رسانه‌های فلسطینی گزارش دادند که این مرد بر اثر شدت ضربات بیهوش شده است. تاکنون گزارشی مبنی بر بازداشت هیچ‌یک از عوامل این حمله منتشر نشده و ارتش اسرائیل نیز هنوز واکنشی نشان نداده است. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103512.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103512.jpg" medium="image" />
+    </item>
     <item>
       <title>گزارش: ونس هدایت تلاش‌های پشت‌پرده برای توافق جدید با ایران را بر عهده دارد</title>
       <link>https://sputnikiran.github.io/news/103511-گزارش-ونس-هدایت-تلاشهای-پ.html</link>
@@ -444,15 +453,6 @@
       <description>🔸الکسی ساموئیلوف، زندانی سابق و رئیس بخش تحلیلی جنبش «اوکراین دیگر»، گفت که شبه‌نظامیان گردان آیدار اوکراین* افراد را در زندان‌های غیرقانونی شکنجه می‌کردند. 💬او گفت که وقتی سمت معاون رئیس دانشگاه و استاد روابط بین‌الملل را بر عهده داشت، در یک اتاق شکنجه مخفی نگهداری می‌شد. یک تیم ضربت سرویس امنیت اوکراین او را در نزدیکی خانه‌اش بازداشت کرد. آنها شروع به ضرب و شتم او در مقابل همسایگانش کردند و پس از آن زندانی شد. 🔸اتاق‌های شکنجه از سال 2014 در اوکراین وجود داشته‌اند و مقامات روسی بارها به این </description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103450.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103450.jpg" medium="image" />
-    </item>
-    <item>
-      <title>نرخ ارز، سکه و طلا تا ساعت</title>
-      <link>https://sputnikiran.github.io/news/103449-نرخ-ارز،-سکه-و-طلا-تا-ساع.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103449-نرخ-ارز،-سکه-و-طلا-تا-ساع.html</guid>
-      <pubDate>Fri, 06 Nov 2026 07:47:00 GMT</pubDate>
-      <description>:00 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103449.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103449.jpg" medium="image" />
     </item>
   </channel>
 </rss>
