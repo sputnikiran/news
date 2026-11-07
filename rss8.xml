@@ -5,7 +5,7 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Sat, 07 Nov 2026 15:50:13 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 16:18:24 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss8.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
@@ -13,10 +13,19 @@
       <link>https://sputnikiran.github.io/news/</link>
     </image>
     <item>
+      <title>زاخارووا: کشورهای اروپایی جایی در میز مذاکره اوکراین ندارند</title>
+      <link>https://sputnikiran.github.io/news/103538-زاخارووا-کشورهای-اروپایی.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103538-زاخارووا-کشورهای-اروپایی.html</guid>
+      <pubDate>Sat, 07 Nov 2026 16:18:24 GMT</pubDate>
+      <description>🔶ماریا زاخارووا، سخنگوی وزارت خارجه روسیه، اعلام کرد: «کاملاً واضح است که غرب همچنان نمی‌خواهد نگرانی‌های امنیتی مشروع روسیه را در نظر بگیرد و به تشدید تنش دامن می‌زند. انگلیس و فرانسه با استقرار &amp;quot;نیروهای چندملیتی&amp;quot; در اوکراین، می‌خواهند پایگاهی برای رویارویی با فدراسیون روسیه حفظ کنند و شکست نظامی به کشور ما وارد کنند.» سایر اظهارات کلیدی ماریا زاخارووا: 🔶مسکو قاطعانه حضور نیروهای نظامی خارجی در اوکراین را رد می‌کند، چه در چارچوب «ائتلاف کشورهای داوطلب» و چه در هر چارچوب بین‌المللی د</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103538.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103538.jpg" medium="image" />
+    </item>
+    <item>
       <title>حملات روسیه به مسیرهای تأمین نظامی و تأسیسات انرژی اوکراین</title>
       <link>https://sputnikiran.github.io/news/103537-حملات-روسیه-به-مسیرهای-تأ.html</link>
       <guid isPermaLink="true">https://sputnikiran.github.io/news/103537-حملات-روسیه-به-مسیرهای-تأ.html</guid>
-      <pubDate>Sat, 07 Nov 2026 15:50:13 GMT</pubDate>
+      <pubDate>Sat, 07 Nov 2026 13:18:24 GMT</pubDate>
       <description>🔶وزارت دفاع روسیه اعلام کرد که نیروهای روسی حملاتی را به منابع سوخت، زیرساخت‌های انرژی و محموله‌های دریایی که از ارتش اوکراین پشتیبانی می‌کنند، انجام دادند. اهداف کلیدی عبارت بودند از: کامیون‌های تانکر سوخت که برای تحویل سوخت به یگان‌های نظامی اوکراین استفاده می‌شدند، در یک پارکینگ در نزدیکی ایرپن در منطقه کی‌یف مورد اصابت قرار گرفتند. 🔶یک پست برق که تأمین‌کننده برق تأسیسات صنایع دفاعی اوکراین بود، در منطقه کی‌یف هدف قرار گرفت. 🔶یک کشتی باری که تجهیزات نظامی و کالاهای دوکاربره به اوکراین منتق</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103537.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103537.jpg" medium="image" />
@@ -25,7 +34,7 @@
       <title>تیراندازی فردی ناشناس در میدانی در کراکوف لهستان؛ کشته و زخمی وجود دارد</title>
       <link>https://sputnikiran.github.io/news/103536-تیراندازی-فردی-ناشناس-در.html</link>
       <guid isPermaLink="true">https://sputnikiran.github.io/news/103536-تیراندازی-فردی-ناشناس-در.html</guid>
-      <pubDate>Sat, 07 Nov 2026 12:50:13 GMT</pubDate>
+      <pubDate>Sat, 07 Nov 2026 10:18:24 GMT</pubDate>
       <description>🔶پلیس لهستان اعلام کرد که در پی تیراندازی در مرکز شهر کراکوف، 2 نفر جان باختند و 10 نفر زخمی شدند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103536.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103536.jpg" medium="image" />
@@ -34,7 +43,7 @@
       <title>پرتاب موشک جدید «سرس-</title>
       <link>https://sputnikiran.github.io/news/103535-پرتاب-موشک-جدید-سرس.html</link>
       <guid isPermaLink="true">https://sputnikiran.github.io/news/103535-پرتاب-موشک-جدید-سرس.html</guid>
-      <pubDate>Sat, 07 Nov 2026 09:50:13 GMT</pubDate>
+      <pubDate>Sat, 07 Nov 2026 07:18:24 GMT</pubDate>
       <description>» چین با 4 ماهواره علمی از پایگاه جیوچوان 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103535.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103535.jpg" medium="image" />
@@ -43,7 +52,7 @@
       <title>افزایش جریان سیلاب رودخانه برگجهان لواسان و ورود روان‌آب به گلزار شهدای چم‌سنگر لرستان</title>
       <link>https://sputnikiran.github.io/news/103533-افزایش-جریان-سیلاب-رودخان.html</link>
       <guid isPermaLink="true">https://sputnikiran.github.io/news/103533-افزایش-جریان-سیلاب-رودخان.html</guid>
-      <pubDate>Sat, 07 Nov 2026 06:50:13 GMT</pubDate>
+      <pubDate>Sat, 07 Nov 2026 04:18:24 GMT</pubDate>
       <description>🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103533.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103533.jpg" medium="image" />
@@ -52,7 +61,7 @@
       <title>رسانه:&amp;nbsp;فنلاند در حال بررسی استحکامات مرزی پرهزینه در مرز روسیه است</title>
       <link>https://sputnikiran.github.io/news/103532-رسانه-nbsp-فنلاند-در-حال.html</link>
       <guid isPermaLink="true">https://sputnikiran.github.io/news/103532-رسانه-nbsp-فنلاند-در-حال.html</guid>
-      <pubDate>Sat, 07 Nov 2026 03:50:13 GMT</pubDate>
+      <pubDate>Sat, 07 Nov 2026 01:18:24 GMT</pubDate>
       <description>🔶فنلاند با مطالعه تجربه درگیری اوکراین، در حال بررسی ساخت موانع ضدتانک در مرز خود با روسیه است. پاسی ولیماکی، فرمانده ارتش فنلاند، اعلام کرد که شرایط سخت آب‌وهوایی فنلاند چالش‌هایی برای ساخت استحکامات دائمی ایجاد می‌کند و این پرسش را مطرح کرد که آیا خندق‌ها و استحکامات مشابه اوکراین می‌توانند در این محیط دوام بیاورند یا به خندق‌های پر از آب تبدیل می‌شوند. 🔶این فرمانده همچنین بر اهمیت حفظ تدارکات نظامی در یک درگیری طولانی تأکید کرد، هرچند اصرار داشت که فنلاند می‌خواهد از جنگ فرسایشی اجتناب کند.</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103532.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103532.jpg" medium="image" />
@@ -61,7 +70,7 @@
       <title>افشاگری یک زندانی سابق درباره بدرفتاری سرویس امنیتی اوکراین با یک کشیش در زندانی مخفی</title>
       <link>https://sputnikiran.github.io/news/103531-افشاگری-یک-زندانی-سابق-در.html</link>
       <guid isPermaLink="true">https://sputnikiran.github.io/news/103531-افشاگری-یک-زندانی-سابق-در.html</guid>
-      <pubDate>Sat, 07 Nov 2026 00:50:13 GMT</pubDate>
+      <pubDate>Fri, 06 Nov 2026 22:18:24 GMT</pubDate>
       <description>🔸 الکسی سامویلوف، رئیس بخش تحلیلی جنبش «اوکراینِ دیگر»، به اسپوتنیک گفت: «فرد دیگری هم آنجا بود... یک روحانی، که می‌گفت: &amp;quot;نمی‌توانستم بخوابم، چون تشکی که به من داده بودند…</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103531.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103531.jpg" medium="image" />
@@ -70,19 +79,10 @@
       <title>آلمان، خط قرمز خود را برای تحویل سامانه‌های پاتریوت بیشتر به اوکراین تعیین کرد</title>
       <link>https://sputnikiran.github.io/news/103530-آلمان،-خط-قرمز-خود-را-برا.html</link>
       <guid isPermaLink="true">https://sputnikiran.github.io/news/103530-آلمان،-خط-قرمز-خود-را-برا.html</guid>
-      <pubDate>Fri, 06 Nov 2026 21:50:13 GMT</pubDate>
+      <pubDate>Fri, 06 Nov 2026 19:18:24 GMT</pubDate>
       <description>🔸بوریس پیستوریوس، وزیر دفاع آلمان به خبرنگاران گفت که تامین تسلیحات، به‌ویژه سامانه‌های پدافند هوایی پاتریوت، در حال دشوار شدن است. 🔸آلمان پیش از این چندین سامانه پاتریوت و تعداد زیادی موشک هدایت‌شونده به اوکراین تحویل داده است. هر آنچه برلین در حال حاضر تحویل دهد، در کوتاه‌مدت قابل جایگزینی نیست، این امر شکاف‌هایی را در دفاع خود آلمان ایجاد می‌کند که دولت به هیچ وجه نمی‌تواند از عهده عواقب آن برآید. 🔸کشورهای دیگر «اقدامات به‌مراتب کمتری انجام داده‌اند» و آلمان انتظار دارد که شرکایش تلاش‌های </description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103530.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103530.jpg" medium="image" />
-    </item>
-    <item>
-      <title>فاجعه انسانی در نوار غزه: باران‌های سیل‌آسا اردوگاه‌های آوارگان را غرق در آب کرد</title>
-      <link>https://sputnikiran.github.io/news/103529-فاجعه-انسانی-در-نوار-غزه.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103529-فاجعه-انسانی-در-نوار-غزه.html</guid>
-      <pubDate>Fri, 06 Nov 2026 18:50:13 GMT</pubDate>
-      <description>🔸سازمان دفاع مدنی فلسطین اعلام کرد که به دلیل بارش شدید باران و فرا رسیدن فصل زمستان، چادرهای آوارگان در تمامی استان‌های نوار غزه دچار آب‌گرفتگی گسترده شده است. به گفته این نهاد، وضعیت انسانی در این منطقه بحرانی ارزیابی می‌شود. 🔸از زمان بدتر شدن شرایط جوی، دستگاه‌های امدادی و اضطراری بیش از 1500 درخواست کمک از سوی آوارگان داخلی دریافت کرده‌اند؛ کسانی که چادرها و مراکز اسکان موقت آن‌ها به شدت آسیب دیده است. 🔸از اوایل صبح امروز، آب‌گرفتگی‌های گسترده‌ای در تمامی مناطق و شهرهای این باریکه به ثبت </description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103529.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103529.jpg" medium="image" />
     </item>
   </channel>
 </rss>

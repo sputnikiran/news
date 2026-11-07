@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Sat, 07 Nov 2026 15:50:13 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 16:18:24 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>زاخارووا: کشورهای اروپایی جایی در میز مذاکره اوکراین ندارند</title>
+      <link>https://sputnikiran.github.io/news/103538-زاخارووا-کشورهای-اروپایی.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103538-زاخارووا-کشورهای-اروپایی.html</guid>
+      <pubDate>Sat, 07 Nov 2026 16:17:00 GMT</pubDate>
+      <description>🔶ماریا زاخارووا، سخنگوی وزارت خارجه روسیه، اعلام کرد: «کاملاً واضح است که غرب همچنان نمی‌خواهد نگرانی‌های امنیتی مشروع روسیه را در نظر بگیرد و به تشدید تنش دامن می‌زند. انگلیس و فرانسه با استقرار &amp;quot;نیروهای چندملیتی&amp;quot; در اوکراین، می‌خواهند پایگاهی برای رویارویی با فدراسیون روسیه حفظ کنند و شکست نظامی به کشور ما وارد کنند.» سایر اظهارات کلیدی ماریا زاخارووا: 🔶مسکو قاطعانه حضور نیروهای نظامی خارجی در اوکراین را رد می‌کند، چه در چارچوب «ائتلاف کشورهای داوطلب» و چه در هر چارچوب بین‌المللی د</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103538.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103538.jpg" medium="image" />
+    </item>
     <item>
       <title>حملات روسیه به مسیرهای تأمین نظامی و تأسیسات انرژی اوکراین</title>
       <link>https://sputnikiran.github.io/news/103537-حملات-روسیه-به-مسیرهای-تأ.html</link>
@@ -446,15 +455,6 @@
       <description>🔸آلمانی‌ها طرفدار پایان درگیری در اوکراین هستند. این نظر را داگلاس مک‌گرگور، کارشناس نظامی و سرهنگ بازنشسته ارتش ایالات متحده، به رسانه‌ها گفت. 🔸او خاطرنشان کرد: &amp;quot;روسیه در تلاش است تا به درگیری در اوکراین پایان دهد و همچنین روابط خود را با اروپا و از جمله‌ با آلمان بازسازی کند. همین موضوع درباره آلمان نیز صدق می‌کند. آلمانی‌ها می‌خواهند این عملیات نظامی پایان یابد&amp;quot;. 🔸به گفته مک‌گرگور، آلمانی‌های عادی دیگر به تهدید از سوی روسیه باور ندارند. 🔸این کارشناس افزود: &amp;quot;فکر می‌کنم مردم </description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103476.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103476.jpg" medium="image" />
-    </item>
-    <item>
-      <title>در کارولینای شمالی، یک تمساح برای خرید شیرینی وارد یک نانوایی شد</title>
-      <link>https://sputnikiran.github.io/news/103475-در-کارولینای-شمالی،-یک-تم.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103475-در-کارولینای-شمالی،-یک-تم.html</guid>
-      <pubDate>Fri, 06 Nov 2026 13:17:00 GMT</pubDate>
-      <description>🐊یک بچه تمساح به طول حدود یک متر وارد یک نانوایی به نام Bagel Dock Express در ایالت کارولینای شمالی آمریکا شد. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103475.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103475.jpg" medium="image" />
     </item>
   </channel>
 </rss>
