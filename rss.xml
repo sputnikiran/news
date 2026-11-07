@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Sat, 07 Nov 2026 13:18:34 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 13:48:39 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>افشاگری یک زندانی سابق درباره بدرفتاری سرویس امنیتی اوکراین با یک کشیش در زندانی مخفی</title>
+      <link>https://sputnikiran.github.io/news/103531-افشاگری-یک-زندانی-سابق-در.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103531-افشاگری-یک-زندانی-سابق-در.html</guid>
+      <pubDate>Sat, 07 Nov 2026 13:47:00 GMT</pubDate>
+      <description>🔸 الکسی سامویلوف، رئیس بخش تحلیلی جنبش «اوکراینِ دیگر»، به اسپوتنیک گفت: «فرد دیگری هم آنجا بود... یک روحانی، که می‌گفت: &amp;quot;نمی‌توانستم بخوابم، چون تشکی که به من داده بودند…</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103531.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103531.jpg" medium="image" />
+    </item>
     <item>
       <title>آلمان، خط قرمز خود را برای تحویل سامانه‌های پاتریوت بیشتر به اوکراین تعیین کرد</title>
       <link>https://sputnikiran.github.io/news/103530-آلمان،-خط-قرمز-خود-را-برا.html</link>
@@ -446,13 +455,6 @@
       <description>🗣معاون سرلشکر رضایی: «انتقال گاز روسیه به ایران» و « راه‌گذر شمال-جنوب» 2 طرح راهبردی است که خیال خام تحت فشار قرار دادن جمهوری اسلامی ایران از بین می‌برد. 🗣این 2 پروژه دیگر کشورها را به‌طور جدی به ایران نیازمند خواهد کرد. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103469.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103469.jpg" medium="image" />
-    </item>
-    <item>
-      <title>کرملین: پوتین و دبیر شورای امنیت ایران در مورد دستور کار بین‌المللی و منطقه‌ای گفتگو کردند</title>
-      <link>https://sputnikiran.github.io/news/103468-کرملین-پوتین-و-دبیر-شورای.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103468-کرملین-پوتین-و-دبیر-شورای.html</guid>
-      <pubDate>Fri, 06 Nov 2026 11:17:00 GMT</pubDate>
-      <description>🛰در این گفتگو، آنها بر وضعیت خلیج فارس و خاورمیانه تمرکز کردند. 🛰آنها همچنین در مورد چشم‌انداز همکاری بین مسکو و تهران مطابق با توافق‌نامه مشارکت استراتژیک گفتگو کردند.…</description>
     </item>
   </channel>
 </rss>
