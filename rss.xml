@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Sat, 07 Nov 2026 19:48:27 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 20:18:32 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>ترامپ پیشنهاد سمت سخنگوی کاخ سفید را به رئیس UFC داد</title>
+      <link>https://sputnikiran.github.io/news/103556-ترامپ-پیشنهاد-سمت-سخنگوی.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103556-ترامپ-پیشنهاد-سمت-سخنگوی.html</guid>
+      <pubDate>Sat, 07 Nov 2026 20:17:00 GMT</pubDate>
+      <description>🔶اگر دینا وایت موافقت کند، رئیس‌جمهور آمریکا می‌خواهد اسلام ماخاچف و حبیب نورماگومدوف، مبارزان روسی، را به‌عنوان دستیاران او ببیند. 🔶دونالد ترامپ، رئیس‌جمهور ایالات متحده آمریکا، گفت: با خوشحالی اعلام می‌کنم که به دینا وایت بزرگ، مبارز و جنگجوی خشن، سمت سخنگوی ایالات متحده پیشنهاد شده است. 🔶من از او خواسته‌ام اسلام ماخاچف، حبیب نورماگومدوف، جاستین گیچی، دانیل کورمیر، آماندا نونز و کِیلا هریسون را به‌عنوان دستیار همراه خود بیاورد؛ حتی اگر برخی از آن‌ها اهل کشور ما نیستند. 🔶ما به این افراد نیا</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103556.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103556.jpg" medium="image" />
+    </item>
     <item>
       <title>تنش در اعتراضات گرانی در پاریس؛ تظاهرات مردم در شهر</title>
       <link>https://sputnikiran.github.io/news/103553-تنش-در-اعتراضات-گرانی-در.html</link>
@@ -450,15 +459,6 @@
       <description>🔶ساکنان محلی همچنان به خیابان‌ها می‌آیند و خواستار استعفای امانوئل مکرون، افزایش دستمزدها و حقوق بازنشستگی، حل مشکلات حوزه آموزش و کاهش هزینه‌های زندگی هستند. مقامات فرانسوی تلاش می‌کنند نشستی با اتحادیه‌های کارگری، کارفرمایان…</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103495.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103495.jpg" medium="image" />
-    </item>
-    <item>
-      <title>یک کارخانه شرکت «بی‌اندتی» در سوئیس که برای نیروهای امنیتی و دفاعی اوکراین سلاح تأمین می‌کرد، در آتش سوخت</title>
-      <link>https://sputnikiran.github.io/news/103491-یک-کارخانه-شرکت-بیاندتی-د.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103491-یک-کارخانه-شرکت-بیاندتی-د.html</guid>
-      <pubDate>Fri, 06 Nov 2026 16:17:00 GMT</pubDate>
-      <description>🔥آتش‌سوزی بزرگی در تأسیسات شرکت «بی‌اندتی» در شهر «تون» سوئیس رخ داد. این شرکت به تولید سلاح‌های سبک، تجهیزات تاکتیکی و ابزارهای غیرکشنده اشتغال دارد. این حریق به بخش‌های تولید و انبار، فروشگاه اصلی و یک میدان تیراندازی سرپوشیده که در همین مجموعه قرار دارند، خسارت وارد کرد. 🚨پلیس و مدیریت شرکت «بی‌اندتی»، «آتش‌سوزی عمدی» را به عنوان فرضیه اصلی در تحقیقات خود در نظر گرفته‌اند. تصاویری منتشر شده که گفته می‌شود مربوط به این حمله است و افرادی سیاه‌پوش را نشان می‌دهد که مواد آتش‌زا را روی پالت‌های </description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103491.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103491.jpg" medium="image" />
     </item>
   </channel>
 </rss>
