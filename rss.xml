@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Sat, 07 Nov 2026 13:48:39 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 14:19:34 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>رسانه:&amp;nbsp;فنلاند در حال بررسی استحکامات مرزی پرهزینه در مرز روسیه است</title>
+      <link>https://sputnikiran.github.io/news/103532-رسانه-nbsp-فنلاند-در-حال.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103532-رسانه-nbsp-فنلاند-در-حال.html</guid>
+      <pubDate>Sat, 07 Nov 2026 14:18:00 GMT</pubDate>
+      <description>🔶فنلاند با مطالعه تجربه درگیری اوکراین، در حال بررسی ساخت موانع ضدتانک در مرز خود با روسیه است. پاسی ولیماکی، فرمانده ارتش فنلاند، اعلام کرد که شرایط سخت آب‌وهوایی فنلاند چالش‌هایی برای ساخت استحکامات دائمی ایجاد می‌کند و این پرسش را مطرح کرد که آیا خندق‌ها و استحکامات مشابه اوکراین می‌توانند در این محیط دوام بیاورند یا به خندق‌های پر از آب تبدیل می‌شوند. 🔶این فرمانده همچنین بر اهمیت حفظ تدارکات نظامی در یک درگیری طولانی تأکید کرد، هرچند اصرار داشت که فنلاند می‌خواهد از جنگ فرسایشی اجتناب کند.</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103532.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103532.jpg" medium="image" />
+    </item>
     <item>
       <title>افشاگری یک زندانی سابق درباره بدرفتاری سرویس امنیتی اوکراین با یک کشیش در زندانی مخفی</title>
       <link>https://sputnikiran.github.io/news/103531-افشاگری-یک-زندانی-سابق-در.html</link>
@@ -446,15 +455,6 @@
       <description>غرفه عایق صدا ایجاد کرده است ⭐️این غرفه ها دارای پریز برق و سیستم‌های تهویه هستند. این غرفه‌ها مکانی امن برای مصاحبه‌های آنلاین و تمرین سخنرانی بدون ایجاد مزاحمت برای سایر کاربران کتابخانه فراهم می‌کنند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103470.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103470.jpg" medium="image" />
-    </item>
-    <item>
-      <title>باقری: همکاری ایران و روسیه خیال آمریکا برای فشار بر ایران را ازبین خواهد برد</title>
-      <link>https://sputnikiran.github.io/news/103469-باقری-همکاری-ایران-و-روسی.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103469-باقری-همکاری-ایران-و-روسی.html</guid>
-      <pubDate>Fri, 06 Nov 2026 11:47:00 GMT</pubDate>
-      <description>🗣معاون سرلشکر رضایی: «انتقال گاز روسیه به ایران» و « راه‌گذر شمال-جنوب» 2 طرح راهبردی است که خیال خام تحت فشار قرار دادن جمهوری اسلامی ایران از بین می‌برد. 🗣این 2 پروژه دیگر کشورها را به‌طور جدی به ایران نیازمند خواهد کرد. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103469.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103469.jpg" medium="image" />
     </item>
   </channel>
 </rss>
