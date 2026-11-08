@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Sun, 08 Nov 2026 12:18:31 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 12:48:18 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>بدهی عمومی خارجی اوکراین در پنج سال بیش از پنج برابر شده است</title>
+      <link>https://sputnikiran.github.io/news/103593-بدهی-عمومی-خارجی-اوکراین.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103593-بدهی-عمومی-خارجی-اوکراین.html</guid>
+      <pubDate>Sun, 08 Nov 2026 12:47:00 GMT</pubDate>
+      <description>🔸طبق اعلام وزارت دارایی اوکراین، در پایان سپتامبر 2021، بدهی خارجی این کشور به 1413.43 میلیارد گریونا رسید. آخرین گزارش وزارت دارایی اوکراین نشان می‌دهد که تا پایان سپتامبر 2026، بدهی خارجی 5.29 برابر افزایش یافته است. 🔸در عین حال، بدهی خارجی اوکراین در حال حاضر 78.4 درصد از کل بدهی عمومی را تشکیل می‌دهد. در سپتامبر 2021، این رقم 57.8 درصد بود. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103593.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103593.jpg" medium="image" />
+    </item>
     <item>
       <title>اپراتورهای پهپاد روسی به اهداف نیروهای مسلح اوکراین در منطقه کراماتورسک حمله کردند</title>
       <link>https://sputnikiran.github.io/news/103592-اپراتورهای-پهپاد-روسی-به.html</link>
@@ -446,15 +455,6 @@
       <description>🔸سازمان دفاع مدنی فلسطین اعلام کرد که به دلیل بارش شدید باران و فرا رسیدن فصل زمستان، چادرهای آوارگان در تمامی استان‌های نوار غزه دچار آب‌گرفتگی گسترده شده است. به گفته این نهاد، وضعیت انسانی در این منطقه بحرانی ارزیابی می‌شود. 🔸از زمان بدتر شدن شرایط جوی، دستگاه‌های امدادی و اضطراری بیش از 1500 درخواست کمک از سوی آوارگان داخلی دریافت کرده‌اند؛ کسانی که چادرها و مراکز اسکان موقت آن‌ها به شدت آسیب دیده است. 🔸از اوایل صبح امروز، آب‌گرفتگی‌های گسترده‌ای در تمامی مناطق و شهرهای این باریکه به ثبت </description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103529.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103529.jpg" medium="image" />
-    </item>
-    <item>
-      <title>وزیر دفاع هند در دهان کارکنان نیروی هوایی هند شیرینی گذاشت</title>
-      <link>https://sputnikiran.github.io/news/103527-وزیر-دفاع-هند-در-دهان-کار.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103527-وزیر-دفاع-هند-در-دهان-کار.html</guid>
-      <pubDate>Sat, 07 Nov 2026 12:48:00 GMT</pubDate>
-      <description>🔸راجنات سینگ در جریان جشن‌های دیوالی در فرودگاه باگدوگرا (ایالت بنگال غربی) با کارکنان نیروی هوایی هند دیدار و گفتگو کرد 🔸توزیع شیرینی یکی از سنت‌های اصلی «دیوالی» یا همان جشنواره نور در هند است. این خوراکی‌ها به نشانه احترام و دوستی تقدیم می‌شوند و نمادی از آرزوی داشتن زندگی‌ای شیرین و پربرکت در سال پیشِ رو هستند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103527.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103527.jpg" medium="image" />
     </item>
   </channel>
 </rss>
