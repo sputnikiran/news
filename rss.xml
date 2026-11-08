@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Sun, 08 Nov 2026 07:18:14 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 07:48:18 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>نرخ ارز، سکه و طلا تا ساعت</title>
+      <link>https://sputnikiran.github.io/news/103572-نرخ-ارز،-سکه-و-طلا-تا-ساع.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103572-نرخ-ارز،-سکه-و-طلا-تا-ساع.html</guid>
+      <pubDate>Sun, 08 Nov 2026 07:47:00 GMT</pubDate>
+      <description>:00 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103572.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103572.jpg" medium="image" />
+    </item>
     <item>
       <title>ارتش روسیه کنترل پهپادهای نیروهای مسلح اوکراین را در منطقه زاپاروژیه مختل کرد</title>
       <link>https://sputnikiran.github.io/news/103570-ارتش-روسیه-کنترل-پهپادهای.html</link>
@@ -450,15 +459,6 @@
       <description>🔸به گزارش «اکسیوس»، جی‌دی ونس، معاون رئیس‌جمهور آمریکا، در دو هفته گذشته شخصاً در گفتگوهای غیرمستقیم با ایران مشارکت داشته است؛ اقدامی که با هدف دستیابی به یک آتش‌بس جدید و ازسرگیری مذاکرات هسته‌ای صورت می‌گیرد. 🔸گفته می‌شود ونس پیشگامِ تلاش‌هایی است تا ایالات متحده آمریکا را از مناقشه‌ای خارج کند که او آن را عامل اصلی شکست‌های سنگین حزب جمهوری‌خواه در انتخابات میان‌دوره‌ایِ این هفته می‌داند. 🔸مشارکت فعالانه او، دور اخیر گفتگوهای غیرمستقیم را به بالاترین سطوح دولت ارتقا داده است. 🛰 Sputnik I</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103511.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103511.jpg" medium="image" />
-    </item>
-    <item>
-      <title>ترامپ از برنامه‌ریزی برای گفتگوهایی در خصوص روسیه و اوکراین خبر داد</title>
-      <link>https://sputnikiran.github.io/news/103510-ترامپ-از-برنامهریزی-برای.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103510-ترامپ-از-برنامهریزی-برای.html</guid>
-      <pubDate>Sat, 07 Nov 2026 05:47:00 GMT</pubDate>
-      <description>🔸دونالد ترامپ، رئیس‌جمهور ایالات متحده امریکا، اعلام کرد که در روزهای شنبه و یکشنبه پیشِ رو، مجموعه‌ای از دیدارها و تماس‌های تلفنی پیرامون وضعیت روسیه و اوکراین انجام خواهد شد. 🔸او به خبرنگاران گفت: «ما جلساتی داریم. امروز تماس‌های تلفنی‌ای در پیش دارم و برای فردا نیز گفتگوهای بیشتری برنامه‌ریزی شده است.» 🔸ترامپ خاطرنشان کرد که برای نخستین بار، طرفین تمایلی دوجانبه برای حل‌وفصل این مناقشه ابراز کرده‌اند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103510.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103510.jpg" medium="image" />
     </item>
   </channel>
 </rss>
