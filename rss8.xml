@@ -5,7 +5,7 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Sun, 08 Nov 2026 17:49:54 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 18:18:33 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss8.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
@@ -13,10 +13,19 @@
       <link>https://sputnikiran.github.io/news/</link>
     </image>
     <item>
+      <title>سیل‌های ویرانگر یکی از شریان‌های اصلی حمل‌ونقل در سوریه را از بین بردند</title>
+      <link>https://sputnikiran.github.io/news/103611-سیلهای-ویرانگر-یکی-از-شری.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103611-سیلهای-ویرانگر-یکی-از-شری.html</guid>
+      <pubDate>Sun, 08 Nov 2026 18:18:33 GMT</pubDate>
+      <description>🔸بخش شرقی این کشور دیروز شاهد وقوع یک بلای طبیعی بود که علاوه بر سایر زیرساخت‌ها، به مسیرهای کلیدی حمل‌ونقل شهر نیز آسیب رساند. 🔸بالا آمدن آب سیل باعث تخریب بخش‌هایی از پل «السویعیه» بر روی رود فرات در استان دیرالزور سوریه شده است. 🔸 رسانه‌ها گزارش می‌دهند که در پی فروریختن این پل، دست‌کم یک نفر جان خود را از دست داده است. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103611.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103611.jpg" medium="image" />
+    </item>
+    <item>
       <title>صحنه ای زیبا: دو گردباد، صخره‌های مشهور در سواحل «کاپری» ایتالیا را «در آغوش می‌گیرند»</title>
       <link>https://sputnikiran.github.io/news/103610-صحنه-ای-زیبا-دو-گردباد،-ص.html</link>
       <guid isPermaLink="true">https://sputnikiran.github.io/news/103610-صحنه-ای-زیبا-دو-گردباد،-ص.html</guid>
-      <pubDate>Sun, 08 Nov 2026 17:49:54 GMT</pubDate>
+      <pubDate>Sun, 08 Nov 2026 15:18:33 GMT</pubDate>
       <description>🔸دو گردباد قدرتمند بر فراز دریا و درست در کنار صخره‌های مشهور «فاراگلیونی» — که یکی از نمادهای شاخص جزیره کاپری محسوب می‌شوند — پدیدار شدند. آنها جوری بهم نزدیک شدند که انگار یکدیگر را در آغوش می گیرند. 🔸به دلیل وقوع طوفان، بارش‌های سنگین و خطر رانش زمین، برای منطقه «کامپانیا» هشدار زرد هواشناسی صادر شده بود. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103610.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103610.jpg" medium="image" />
@@ -25,7 +34,7 @@
       <title>وزیر امور خارجه ایران: اکنون نوبت کاخ سفید است که انتخاب کند</title>
       <link>https://sputnikiran.github.io/news/103609-وزیر-امور-خارجه-ایران-اکن.html</link>
       <guid isPermaLink="true">https://sputnikiran.github.io/news/103609-وزیر-امور-خارجه-ایران-اکن.html</guid>
-      <pubDate>Sun, 08 Nov 2026 14:49:54 GMT</pubDate>
+      <pubDate>Sun, 08 Nov 2026 12:18:33 GMT</pubDate>
       <description>🔸سید عباس عراقچی در پیامی تاکید کرد که رأی‌دهندگان آمریکایی انتخاب خود را انجام داده‌اند. 🔸«پیشنهاد دو روزه» ما روی میز است: مطالبات آن، از جمله پایان جنگ در همه جبهه‌ها، را بپذیرید و نتایج آن را ببینید. 🔸یا جنگ را انتخاب کنید و شاهد باشید که چگونه رزمندگان هوشیار و ورزیده ما در میدان نبرد، جهنمی از آتش بر سرتان فرو خواهند ریخت. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103609.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103609.jpg" medium="image" />
@@ -34,7 +43,7 @@
       <title>اقامتگاه کوهستانی هیتلر در آلمان در آتش سوخت و خاکستر شد</title>
       <link>https://sputnikiran.github.io/news/103608-اقامتگاه-کوهستانی-هیتلر-د.html</link>
       <guid isPermaLink="true">https://sputnikiran.github.io/news/103608-اقامتگاه-کوهستانی-هیتلر-د.html</guid>
-      <pubDate>Sun, 08 Nov 2026 11:49:54 GMT</pubDate>
+      <pubDate>Sun, 08 Nov 2026 09:18:33 GMT</pubDate>
       <description>🔍 پس از سقوط رژیم نازی، اقامتگاه کوهستانی کوچک آدولف هیتلر در کوه‌های آلپ به جاذبه‌ای گردشگری و رستوران تبدیل شده بود؛ اما در شبِ میان 23 و 24 اکتبر، دچار آتش‌سوزی شد. 👨‍🚒👮‍♂️ با وجود عملکرد بسیار…</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103608.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103608.jpg" medium="image" />
@@ -43,7 +52,7 @@
       <title>رئیس‌جمهور اسرائیل رسماً مأموریت تشکیل دولت بعدی را به آیزنکوت سپرد</title>
       <link>https://sputnikiran.github.io/news/103607-رئیسجمهور-اسرائیل-رسماً-م.html</link>
       <guid isPermaLink="true">https://sputnikiran.github.io/news/103607-رئیسجمهور-اسرائیل-رسماً-م.html</guid>
-      <pubDate>Sun, 08 Nov 2026 08:49:54 GMT</pubDate>
+      <pubDate>Sun, 08 Nov 2026 06:18:33 GMT</pubDate>
       <description>🔸 اسحاق هرتزوگ، رئیس‌جمهور اسرائیل، در جریان مراسم رسمی انتصاب در اقامتگاه ریاست‌جمهوری، اظهار داشت: «67 نماینده از جناح‌های مختلف سیاسی پیشنهاد کرده‌اند که مأموریت تشکیل دولت به آیزنکوت محول شود.» وی افزود که اسرائیل به یک دولت باثبات نیاز دارد. 🔸 او همچنین خاطرنشان کرد که «دولت جدید باید به چالش‌های امنیتی و اقتصادی رسیدگی کند» و تأکید کرد که کشورش «برای مقابله با تهدیدها، خواهان دولتی باثبات است.» 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103607.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103607.jpg" medium="image" />
@@ -52,14 +61,14 @@
       <title>مصر، طرحی اضطراری برای مقابله با پیامدهای سامانه جوی ناپایدار در غزه آغاز کرد</title>
       <link>https://sputnikiran.github.io/news/103606-مصر،-طرحی-اضطراری-برای-مق.html</link>
       <guid isPermaLink="true">https://sputnikiran.github.io/news/103606-مصر،-طرحی-اضطراری-برای-مق.html</guid>
-      <pubDate>Sun, 08 Nov 2026 05:49:54 GMT</pubDate>
+      <pubDate>Sun, 08 Nov 2026 03:18:33 GMT</pubDate>
       <description>🔸 کمیته مصر در نوار غزه، حضور میدانی خود را برای ایمن‌سازی اردوگاه‌های آوارگان، جمع‌آوری سازه‌های در معرض خطرِ ریزش و رفع سایر خطرات، تشدید کرده است. 🔸 این کمیته اعلام کرد که تیم‌های آن ها به‌صورت شبانه‌روزی در حال فعالیت هستند و با به‌کارگیری ماشین‌آلات، در تلاشند تا ضمن فراهم کردن امکانات حفاظتی و سرپناه برای خانواده‌های آسیب‌دیده، از شدتِ پیامدهای شرایط جوی ناپایدار در آستانه فصل زمستان بکاهند. 🔸 روز شنبه، سازمان دفاع مدنی در غزه گزارش داد که بیش از 1500 درخواست کمک از سوی شهروندانی دریافت</description>
     </item>
     <item>
       <title>مسکو همچنان محموله‌های با «کاربرد دوگانه» اوکراین را هدف قرار می‌دهد - وزارت دفاع روسیه</title>
       <link>https://sputnikiran.github.io/news/103605-مسکو-همچنان-محمولههای-با.html</link>
       <guid isPermaLink="true">https://sputnikiran.github.io/news/103605-مسکو-همچنان-محمولههای-با.html</guid>
-      <pubDate>Sun, 08 Nov 2026 02:49:54 GMT</pubDate>
+      <pubDate>Sun, 08 Nov 2026 00:18:33 GMT</pubDate>
       <description>🔸اهداف مورد اصابت وزارت دفاع روسیه: یک کشتی کانتینربَر در بندر «چرنومورسک» که در حال تحویل کالا و محموله به اوکراین بود 🔸 پست برق «کامنسکایا» که برق مورد نیاز تأسیسات صنایع نظامی در منطقه «دنپروپتروفسک» را تأمین می‌کرد 🔸 یک کشتی باری حامل تسلیحات برای نیروهای مسلح اوکراین در آب‌های دریای سیاه 🔸این حملات بخشی از کارزار مداوم روسیه با هدف مختل کردن تدارکات نظامی اوکراین است؛ در این عملیات، زیرساخت‌های بندری و لجستیکی که برای ورود تسلیحات، تجهیزات و اقلام با «کاربرد دوگانه» استفاده می‌شوند، و ه</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103605.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103605.jpg" medium="image" />
@@ -68,19 +77,10 @@
       <title>وزارت خارجه فرانسه: اروپایی‌ها به مذاکرات سه‌جانبه درباره اوکراین در ابوظبی می‌پیوندند</title>
       <link>https://sputnikiran.github.io/news/103604-وزارت-خارجه-فرانسه-اروپای.html</link>
       <guid isPermaLink="true">https://sputnikiran.github.io/news/103604-وزارت-خارجه-فرانسه-اروپای.html</guid>
-      <pubDate>Sat, 07 Nov 2026 23:49:54 GMT</pubDate>
+      <pubDate>Sat, 07 Nov 2026 21:18:33 GMT</pubDate>
       <description>🔸 ژان-نوئل بارو، وزیر امور خارجه فرانسه، گفت: «نمایندگان اروپایی در مذاکرات حضور خواهند داشت. فرانسه نیز برای پیوستن به گفتگوها در ابوظبی خواهد بود.» او افزود که خودش شخصاً در مذاکرات شرکت نخواهد کرد، اما از ذکر اینکه چه کسی به نمایندگی از فرانسه حضور خواهد داشت، خودداری کرد. 🔸قرار است مذاکرات میان روسیه، ایالات متحده و اوکراین در روزهای 10 و 11 نوامبر در ابوظبی برگزار شود و ولادیمیر مدینسکی، دستیار رئیس‌جمهور روسیه، همچنان به عنوان مذاکره‌کننده ارشد این کشور ایفای نقش خواهد کرد. 🔸پیش‌تر، مار</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103604.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103604.jpg" medium="image" />
-    </item>
-    <item>
-      <title>سقوط بالگرد هنگام عملیات اطفای حریق در اندونزی</title>
-      <link>https://sputnikiran.github.io/news/103603-سقوط-بالگرد-هنگام-عملیات.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103603-سقوط-بالگرد-هنگام-عملیات.html</guid>
-      <pubDate>Sat, 07 Nov 2026 20:49:54 GMT</pubDate>
-      <description>🔸این بالگرد نجات در حالی که مشغول برداشت آب بود، در رودخانه «باریتو» در منطقه «کالیمانتان جنوبی» سقوط کرد. دو خلبان استرالیایی از این حادثه جان سالم به در بردند، اما یکی دیگر از خدمه که تبعه اندونزی بود، جان باخت. علت این سقوط در دست بررسی است. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103603.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103603.jpg" medium="image" />
     </item>
   </channel>
 </rss>

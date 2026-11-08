@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Sun, 08 Nov 2026 17:49:54 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 18:18:33 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>سیل‌های ویرانگر یکی از شریان‌های اصلی حمل‌ونقل در سوریه را از بین بردند</title>
+      <link>https://sputnikiran.github.io/news/103611-سیلهای-ویرانگر-یکی-از-شری.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103611-سیلهای-ویرانگر-یکی-از-شری.html</guid>
+      <pubDate>Sun, 08 Nov 2026 18:17:00 GMT</pubDate>
+      <description>🔸بخش شرقی این کشور دیروز شاهد وقوع یک بلای طبیعی بود که علاوه بر سایر زیرساخت‌ها، به مسیرهای کلیدی حمل‌ونقل شهر نیز آسیب رساند. 🔸بالا آمدن آب سیل باعث تخریب بخش‌هایی از پل «السویعیه» بر روی رود فرات در استان دیرالزور سوریه شده است. 🔸 رسانه‌ها گزارش می‌دهند که در پی فروریختن این پل، دست‌کم یک نفر جان خود را از دست داده است. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103611.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103611.jpg" medium="image" />
+    </item>
     <item>
       <title>صحنه ای زیبا: دو گردباد، صخره‌های مشهور در سواحل «کاپری» ایتالیا را «در آغوش می‌گیرند»</title>
       <link>https://sputnikiran.github.io/news/103610-صحنه-ای-زیبا-دو-گردباد،-ص.html</link>
@@ -444,15 +453,6 @@
       <description>🔶تیراندازی در میدان اصلی کراکوف رخ داد. 🔶یک مرد از داخل خودرویی در حال حرکت به سمت افراد تصادفی شلیک کرد. 🔶5 نفر جان باختند و افرادی از جمله پلیس زخمی شدند. 🔶فرد مهاجم هنگام بازداشت زخمی شد و به بیمارستان منتقل گردید. 🔶بنا بر گزارشات، این مرد لباس استتار به تن داشت و سلاح بلند همراه خود داشت و از خودرویی بدون پلاک شلیک می‌کرد. 🔶دونالد توسک، نخست‌وزیر لهستان، این حادثه را «اقدام تروریستی» خواند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103547.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103547.jpg" medium="image" />
-    </item>
-    <item>
-      <title>پرتاب موفق موشک «سایوز-</title>
-      <link>https://sputnikiran.github.io/news/103546-پرتاب-موفق-موشک-سایوز.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103546-پرتاب-موفق-موشک-سایوز.html</guid>
-      <pubDate>Sat, 07 Nov 2026 17:48:00 GMT</pubDate>
-      <description>ب» از پایگاه پلستسک 🔶وزارت دفاع روسیه اعلام کرد که موشک حامل با موفقیت از پایگاه فضایی پلستسک پرتاب شد و یک ماهواره نظامی را به مدار زمین منتقل می کند. 🔶بر اساس این گزارش، این موشک حامل با موفقیت به مدار هدف خود رسیده است. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103546.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103546.jpg" medium="image" />
     </item>
   </channel>
 </rss>
