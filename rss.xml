@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Sun, 08 Nov 2026 18:18:33 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 19:18:57 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>مهم‌ترین خبرهای شامگاه</title>
+      <link>https://sputnikiran.github.io/news/103612-مهمترین-خبرهای-شامگاه.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103612-مهمترین-خبرهای-شامگاه.html</guid>
+      <pubDate>Sun, 08 Nov 2026 19:18:00 GMT</pubDate>
+      <description>نوامبر: 🔸سید عباس عراقچی وزیر امور خارجه ايران: اکنون نوبت کاخ سفید است که انتخاب کند 🔸پسکوف: روسیه، ایالات متحده آمريكا و چین در حال تدوین پیشنهادهایی برای دستور کارِ دیدار احتمالی میان رهبران خود هستند 🔸وزارت دفاع روسیه اعلام کرد که این کشور همچنان محموله‌های اوکراینی با «کاربرد دوگانه» را هدف قرار می‌دهد 🔸فاجعه طبیعی در غزه: در پی نخستین طوفان زمستانی، چادرهای محل اسکان فلسطینیان دچار آب‌گرفتگی شدند 🔸خروج چهار واگن قطار از ریل در جیزه مصر؛ این حادثه منجر به کشته و زخمی شدن تعدادی از افرا</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103612.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103612.jpg" medium="image" />
+    </item>
     <item>
       <title>سیل‌های ویرانگر یکی از شریان‌های اصلی حمل‌ونقل در سوریه را از بین بردند</title>
       <link>https://sputnikiran.github.io/news/103611-سیلهای-ویرانگر-یکی-از-شری.html</link>
@@ -444,15 +453,6 @@
       <guid isPermaLink="true">https://sputnikiran.github.io/news/103551-حوثیهای-یمن-به-تأسیسات-نف.html</guid>
       <pubDate>Sat, 07 Nov 2026 18:17:00 GMT</pubDate>
       <description>🔶سرتیپ یحیی سریع، سخنگوی رسمی نیروهای مسلح جنبش انصارالله (حوثی‌ها)، اعلام کرد که حملاتی با استفاده از موشک و پهپاد علیه زیرساخت‌های حیاتی در پادشاهی عربستان سعودی انجام شده است. 🔶به گفته وی، اهداف این حملات در ریاض شامل فرودگاه بین‌المللی ملک خالد، مخازن نفت و پالایشگاه شرکت آرامکو بوده است. همچنین تأسیسات آرامکو در خریص و ایستگاه پمپاژ شماره 8 در الدوادمی مورد حمله قرار گرفتند. 🔶وزارت دفاع انصارالله همچنین از حملات به مواضع نیروهای ائتلاف عربی در اطراف اردوگاه گارد ملی در نجران و همچنین در </description>
-    </item>
-    <item>
-      <title>آنچه درباره تیراندازی در کراکوف لهستان می‌دانیم</title>
-      <link>https://sputnikiran.github.io/news/103547-آنچه-درباره-تیراندازی-در.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103547-آنچه-درباره-تیراندازی-در.html</guid>
-      <pubDate>Sat, 07 Nov 2026 18:17:00 GMT</pubDate>
-      <description>🔶تیراندازی در میدان اصلی کراکوف رخ داد. 🔶یک مرد از داخل خودرویی در حال حرکت به سمت افراد تصادفی شلیک کرد. 🔶5 نفر جان باختند و افرادی از جمله پلیس زخمی شدند. 🔶فرد مهاجم هنگام بازداشت زخمی شد و به بیمارستان منتقل گردید. 🔶بنا بر گزارشات، این مرد لباس استتار به تن داشت و سلاح بلند همراه خود داشت و از خودرویی بدون پلاک شلیک می‌کرد. 🔶دونالد توسک، نخست‌وزیر لهستان، این حادثه را «اقدام تروریستی» خواند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103547.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103547.jpg" medium="image" />
     </item>
   </channel>
 </rss>
