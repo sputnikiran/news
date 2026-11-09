@@ -5,13 +5,29 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Mon, 09 Nov 2026 17:48:24 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 18:19:53 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>تصادف عمدی خودرو و درگیری راننده با ماموران در نزدیکی کاخ سفید</title>
+      <link>https://sputnikiran.github.io/news/103674-تصادف-عمدی-خودرو-و-درگیری.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103674-تصادف-عمدی-خودرو-و-درگیری.html</guid>
+      <pubDate>Mon, 09 Nov 2026 18:18:00 GMT</pubDate>
+      <description>▫️راننده‌ای در نزدیکی میدان لافایت در واشنگتن دی سی به یک تابلوی راهنمایی و رانندگی برخورد کرد و پس از آن با مأموران سرویس مخفی و گارد ملی درگیر شد. ▫️راننده بازداشت شد. ترامپ در زمان حادثه در کاخ سفید بود. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103674.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103674.jpg" medium="image" />
+    </item>
+    <item>
+      <title>فرانسه، سپاه را به حملات سایبری به یخچال‌های فروشگاه‌های اروپایی متهم کرد</title>
+      <link>https://sputnikiran.github.io/news/103673-فرانسه،-سپاه-را-به-حملات.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103673-فرانسه،-سپاه-را-به-حملات.html</guid>
+      <pubDate>Mon, 09 Nov 2026 18:18:00 GMT</pubDate>
+      <description>▫️به گزارش رسانه های غربی، این حملات باعث از کار افتادن واحدهای یخچال در فروشگاه‌های خرده‌فروشی در سراسر اروپا شده است. ▫️در ارتباط با این حادثه، وزیر امور خارجه فرانسه کاردار ایران را به دفتر خود احضار کرد. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+    </item>
     <item>
       <title>ضرغامی به اسپوتنیک: «در مسئله پاسخ به حمله آمریکا هیچ‌گونه محدودیت جغرافیایی وجود ندارد»</title>
       <link>https://sputnikiran.github.io/news/103672-ضرغامی-به-اسپوتنیک-در-مسئ.html</link>
@@ -439,24 +455,6 @@
       <guid isPermaLink="true">https://sputnikiran.github.io/news/103620-رسانه-میدان-گازی-خور-مور.html</guid>
       <pubDate>Sun, 08 Nov 2026 20:47:00 GMT</pubDate>
       <description>🔸به گفته منابع امنیتی در کردستان عراق، در پی این حمله پهپادی، روند تولید در میدان گازی خور مور — واقع در چمچمالِ سلیمانیه — متوقف شده است. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-    </item>
-    <item>
-      <title>رسانه‌های ایران: دقایقی پیش صدای چهار انفجار در قشم شنیده شد</title>
-      <link>https://sputnikiran.github.io/news/103619-رسانههای-ایران-دقایقی-پیش.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103619-رسانههای-ایران-دقایقی-پیش.html</guid>
-      <pubDate>Sun, 08 Nov 2026 20:47:00 GMT</pubDate>
-      <description>🔸خبرنگار ایرنا در قشم گزارش داد که به نظر می رسد نقاطی در جزیره مورد اصابت قرار گرفته باشد. 🔸به گفته یک منبع آگاه در سیریک، دقایقی پیش صدای سه شلیک از محدوده سیریک به سمت تنگه هرمز شنیده شد. شلیک‌ها مربوط به برخورد با شناورهای متخلف در تنگه هرمز بوده است. 🔸منابع محلی و استانی تاکنون در این زمینه اظهار نظری نکرده اند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103619.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103619.jpg" medium="image" />
-    </item>
-    <item>
-      <title>چهار واگن قطار در منطقه جیزه مصر از ریل خارج شدند</title>
-      <link>https://sputnikiran.github.io/news/103615-چهار-واگن-قطار-در-منطقه-ج.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103615-چهار-واگن-قطار-در-منطقه-ج.html</guid>
-      <pubDate>Sun, 08 Nov 2026 20:17:00 GMT</pubDate>
-      <description>🔸این حادثه تلفاتی نیز به همراه داشته است. این سانحه ریلی در منطقه «العیاط» رخ داده است. بر اساس آخرین اطلاعات دریافتی از وزارت بهداشت، 64 نفر در این حادثه مجروح شده‌اند. 🔸تیم‌های امداد و نجات به همراه 15…</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103615.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103615.jpg" medium="image" />
     </item>
   </channel>
 </rss>
