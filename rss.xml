@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Mon, 09 Nov 2026 10:18:44 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 10:49:20 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>یک سگ کورگی وارد زمین مسابقه شد و بدون برنامه‌ریزی قبلی ورزشکاران را به تمرین واداشت</title>
+      <link>https://sputnikiran.github.io/news/103650-یک-سگ-کورگی-وارد-زمین-مسا.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103650-یک-سگ-کورگی-وارد-زمین-مسا.html</guid>
+      <pubDate>Mon, 09 Nov 2026 10:48:00 GMT</pubDate>
+      <description>🐕این سگ به سمت زمینی در آمریکا که قرار بود مسابقه فوتبال آمریکایی در آنجا برگزار شود، دوید. این حیوان ماهرانه از دست افرادی فرار می کرد که به شدت سعی داشتند کورگی فرز را بگیرند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103650.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103650.jpg" medium="image" />
+    </item>
     <item>
       <title>رویدادهای مهم جهان تا این ساعت</title>
       <link>https://sputnikiran.github.io/news/103649-رویدادهای-مهم-جهان-تا-این.html</link>
@@ -446,15 +455,6 @@
       <description>⚡️نورهای رعد و برق، آسمان این شهر ساحلی واقع در کنار دریای مدیترانه را روشن کردند، در حالی که صدای رعد با منظره‌ای چشمگیر از کشتی‌هایی که در امتداد ساحل صف کشیده بودند، همراه شد. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103589.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103589.jpg" medium="image" />
-    </item>
-    <item>
-      <title>انفجار سومین نفتکش در تنگه هرمز</title>
-      <link>https://sputnikiran.github.io/news/103588-انفجار-سومین-نفتکش-در-تنگ.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103588-انفجار-سومین-نفتکش-در-تنگ.html</guid>
-      <pubDate>Sun, 08 Nov 2026 11:17:00 GMT</pubDate>
-      <description>🗣روابط عمومی نیروی دریایی سپاه پاسداران انقلاب اسلامی ایران: از ساعات ابتدایی بامداد امروز تا کنون سه فروند نفتکش متخلف در مسیر غیر مجاز تنگه هرمز دچار انفجار و آتش سوزی شدید شده و دود حاصل از آتش سوزی این نفتکش ها آسمان تنگه هرمز را فرا گرفته است. 🗣این نفتکش ها بدلیل خاموش نمودن سامانه های ناوبری و شناسایی خود و شرارت ارتش قاچاقچی و متجاوز آمریکا در آتش در حال سوختن هستند. 🗣نیروی دریایی سپاه اعلام می کند: مقرارت ایرانی تنگه هرمز بارها به همه کشتی ها اعلام شده و سرپیچی شناورها از این مقررات و</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103588.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103588.jpg" medium="image" />
     </item>
   </channel>
 </rss>
