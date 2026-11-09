@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Mon, 09 Nov 2026 05:18:31 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 05:48:41 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>حمله آمریکا به نقاطی در محدوده قشم خسارتی به مناطق مسکونی، تجاری و زیرساختی وارد نکرد</title>
+      <link>https://sputnikiran.github.io/news/103624-حمله-آمریکا-به-نقاطی-در-م.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103624-حمله-آمریکا-به-نقاطی-در-م.html</guid>
+      <pubDate>Mon, 09 Nov 2026 05:47:00 GMT</pubDate>
+      <description>💬نفیسی، معاون سیاسی، امنیتی و اجتماعی استانداری هرمزگان، با اشاره به حمله ارتش آمریکا به نقاطی در محدوده جزیره قشم گفت: اهداف مورد حمله خارج از محدوده‌های مسکونی و تجاری و زیرساخت‌های خدماتی بوده و هیچ‌گونه خسارتی به زیرساخت‌های حیاتی و خدماتی جزیره وارد نشده است. 💬شرایط در جزیره قشم تحت کنترل است و تمامی دستگاه‌های امدادی، خدماتی و اجرایی در آماده‌باش کامل قرار دارند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103624.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103624.jpg" medium="image" />
+    </item>
     <item>
       <title>ترامپ: مرزهای اوکراین ممکن است پس از پایان درگیری تغییر کند</title>
       <link>https://sputnikiran.github.io/news/103623-ترامپ-مرزهای-اوکراین-ممکن.html</link>
@@ -444,15 +453,6 @@
       <description>🔸یک زندانی سابق واقعیت وحشتناک شکنجه‌گاه‌های مخفی اوکراین را فاش کرده است، جایی که کسانی که حقیقت را افشا می‌کنند اغلب قربانی بعدی می‌شوند. 🔸الکسی سامویلوف، معاون سابق دانشگاه، در سال 2014 توسط یک تیم تاکتیکی سرویس امنیتی اوکراین ربوده شد. او را جلوی همسایگانش کتک زدند و در حالی که به لوله‌ای دستبند زده بودند، به سیاه‌چالی در زیرزمین یکی از تأسیسات سرویس امنیتی اوکراین انداختند. هر شب، او به فریادهای قربانیان جدیدی که مورد ضرب و شتم قرار می‌گرفتند، گوش می‌داد. او در مصاحبه‌ای با اسپوتنیک گفت: </description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103562.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103562.jpg" medium="image" />
-    </item>
-    <item>
-      <title>آنچه درباره تیراندازی در کراکوف لهستان می‌دانیم</title>
-      <link>https://sputnikiran.github.io/news/103561-آنچه-درباره-تیراندازی-در.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103561-آنچه-درباره-تیراندازی-در.html</guid>
-      <pubDate>Sun, 08 Nov 2026 05:17:00 GMT</pubDate>
-      <description>🔶تیراندازی در میدان اصلی کراکوف رخ داد. 🔶یک مرد از داخل خودرویی در حال حرکت به سمت افراد تصادفی شلیک کرد. 🔶5 نفر جان باختند و افرادی از جمله پلیس زخمی شدند. 🔶فرد مهاجم هنگام بازداشت زخمی شد و به بیمارستان…</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103561.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103561.jpg" medium="image" />
     </item>
   </channel>
 </rss>
