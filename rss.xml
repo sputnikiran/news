@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Mon, 09 Nov 2026 18:49:09 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 19:18:39 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>رویدادهای مهم خبری جهان تا شامگاه</title>
+      <link>https://sputnikiran.github.io/news/103677-رویدادهای-مهم-خبری-جهان-ت.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103677-رویدادهای-مهم-خبری-جهان-ت.html</guid>
+      <pubDate>Mon, 09 Nov 2026 19:17:00 GMT</pubDate>
+      <description>نوامبر ▫️پسکوف اظهار داشت که مذاکرات در ابوظبی بدون مشارکت اروپایی‌ها برنامه‌ریزی شده است. ▫️هیئت روسی برای شرکت در مذاکرات سه جانبه در مورد اوکراین به ابوظبی پرواز کرده است. ▫️نبنزیا اظهار داشت که مسکو با توقف درگیری موافقت نخواهد کرد، زیرا این امر تهدیدی برای امنیت روسیه خواهد بود. ▫️وزارت امور خارجه فرانسه سپاه پاسداران انقلاب اسلامی را به حملات سایبری به یخچال‌های فروشگاه‌های اروپایی متهم کرد. ▫️ایالات متحده در حال بازسازی یک فرودگاه نظامی متروکه در اقیانوس آرام است. ▫️ارتش روسیه واسیلکیف در</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103677.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103677.jpg" medium="image" />
+    </item>
     <item>
       <title>قالیباف: اسرائیلی‌ها می‌خواهند آمریکا را در باتلاق جنگی بی‌پایان با ایران گیر بیندازند</title>
       <link>https://sputnikiran.github.io/news/103676-قالیباف-اسرائیلیها-میخواه.html</link>
@@ -448,15 +457,6 @@
       <description>🔸او در مصاحبه‌ای با یک کانال غربی گفت: «فکر می‌کنم این اتفاق خواهد افتاد و اوکراین در نهایت شکل نسبتاً متفاوتی خواهد داشت.» 🔸به گفته رئیس کاخ سفید، این درگیری به زودی پایان خواهد یافت. 🔸پیش‌بینی می‌شود رایزنی‌های سه‌جانبه با حضور هیئت‌هایی از مسکو، کی‌یف و واشنگتن در ابوظبی در تاریخ 10 و 11 نوامبر برگزار شود. آنها بر تضمین‌های امنیتی برای هر دو طرف تمرکز خواهند داشت. این مذاکرات پشت درهای بسته برگزار خواهد شد. 🔸روز 21 اکتبر، ولادیمیر زلنسکی موافقت خود را با توافقی اعلام کرد که «همه چیز را به</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103623.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103623.jpg" medium="image" />
-    </item>
-    <item>
-      <title>منبعی در تشکیلات زیرزمینی ضد فاشیستی: حدود</title>
-      <link>https://sputnikiran.github.io/news/103622-منبعی-در-تشکیلات-زیرزمینی.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103622-منبعی-در-تشکیلات-زیرزمینی.html</guid>
-      <pubDate>Mon, 09 Nov 2026 05:17:00 GMT</pubDate>
-      <description>تا 70 زندان مخفی در اوکراین وجود دارد 🔸یکی از اعضای تشکیلات زیرزمینی ضد فاشیستی در اودسا به خبرگزاری اسپوتنیک گفت که ممکن است بین 50 تا 70 زندان مخفی در اوکراین وجود داشته باشد که برای شکنجه مورد استفاده قرار…</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103622.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103622.jpg" medium="image" />
     </item>
   </channel>
 </rss>
