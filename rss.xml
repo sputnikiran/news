@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Mon, 09 Nov 2026 12:18:32 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 12:48:49 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>ضرغامی به اسپوتنیک: «سقوط کارتر از قدرت، نتیجه مهم سرکوب لانه جاسوسی در سفارت آمریکا بود»</title>
+      <link>https://sputnikiran.github.io/news/103655-ضرغامی-به-اسپوتنیک-سقوط-ک.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103655-ضرغامی-به-اسپوتنیک-سقوط-ک.html</guid>
+      <pubDate>Mon, 09 Nov 2026 12:47:00 GMT</pubDate>
+      <description>🔸سید عزت الله ضرغامی، عضو شورای عالی فضای مجازی در گفتگوی اختصاصی با اسپوتنیک گفت که تصرف سفارت آمریکا در تهران همراه با آبروریزی در نتیجه شکست عملیات «پنجه عقاب» ، باعث شد که جیمی کارتر از چشم مردم آمریکا بیافتد 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103655.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103655.jpg" medium="image" />
+    </item>
     <item>
       <title>ضرغامی به اسپوتنیک: «سفارت آمریکا در تهران یک اتاق جنگ و عملیات بود»</title>
       <link>https://sputnikiran.github.io/news/103654-ضرغامی-به-اسپوتنیک-سفارت.html</link>
@@ -446,15 +455,6 @@
       <description>💦علاوه بر این، رودخانه‌ها در کهگیلویه‌وبویراحمد طغیان کردند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103594.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103594.jpg" medium="image" />
-    </item>
-    <item>
-      <title>بدهی عمومی خارجی اوکراین در پنج سال بیش از پنج برابر شده است</title>
-      <link>https://sputnikiran.github.io/news/103593-بدهی-عمومی-خارجی-اوکراین.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103593-بدهی-عمومی-خارجی-اوکراین.html</guid>
-      <pubDate>Sun, 08 Nov 2026 12:47:00 GMT</pubDate>
-      <description>🔸طبق اعلام وزارت دارایی اوکراین، در پایان سپتامبر 2021، بدهی خارجی این کشور به 1413.43 میلیارد گریونا رسید. آخرین گزارش وزارت دارایی اوکراین نشان می‌دهد که تا پایان سپتامبر 2026، بدهی خارجی 5.29 برابر افزایش یافته است. 🔸در عین حال، بدهی خارجی اوکراین در حال حاضر 78.4 درصد از کل بدهی عمومی را تشکیل می‌دهد. در سپتامبر 2021، این رقم 57.8 درصد بود. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103593.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103593.jpg" medium="image" />
     </item>
   </channel>
 </rss>
