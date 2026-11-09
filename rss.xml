@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Mon, 09 Nov 2026 15:18:30 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 15:49:36 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>ضرغامی به اسپوتنیک: «هر چیزی که به منافع آمریکا مربوط باشد، می‌تواند جزو اهداف ایران باشد»</title>
+      <link>https://sputnikiran.github.io/news/103665-ضرغامی-به-اسپوتنیک-هر-چیز.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103665-ضرغامی-به-اسپوتنیک-هر-چیز.html</guid>
+      <pubDate>Mon, 09 Nov 2026 15:48:00 GMT</pubDate>
+      <description>🔸سید عزت الله ضرغامی، عضو شورای عالی فضای مجازی در گفتگوی اختصاصی با اسپوتنیک در باره اعلام پایگاه‌های آمریکا در اروپا به عنوان جزئی از «بانک اهداف» ایران گفت که رفتار آمریکا باعث شد که توامندی‌های ایران گسترش پیدا کند و این ضربه سنگینی بود که آمریکایی‌ها به خودشان زده‌اند 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103665.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103665.jpg" medium="image" />
+    </item>
     <item>
       <title>پناهندگان اوکراینی مراکز آلمانی را به خانه‌های دائمی خود تبدیل کرده‌اند</title>
       <link>https://sputnikiran.github.io/news/103664-پناهندگان-اوکراینی-مراکز.html</link>
@@ -448,15 +457,6 @@
       <description>🔍 پس از سقوط رژیم نازی، اقامتگاه کوهستانی کوچک آدولف هیتلر در کوه‌های آلپ به جاذبه‌ای گردشگری و رستوران تبدیل شده بود؛ اما در شبِ میان 23 و 24 اکتبر، دچار آتش‌سوزی شد. 👨‍🚒👮‍♂️ با وجود عملکرد بسیار…</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103608.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103608.jpg" medium="image" />
-    </item>
-    <item>
-      <title>رئیس‌جمهور اسرائیل رسماً مأموریت تشکیل دولت بعدی را به آیزنکوت سپرد</title>
-      <link>https://sputnikiran.github.io/news/103607-رئیسجمهور-اسرائیل-رسماً-م.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103607-رئیسجمهور-اسرائیل-رسماً-م.html</guid>
-      <pubDate>Sun, 08 Nov 2026 16:47:00 GMT</pubDate>
-      <description>🔸 اسحاق هرتزوگ، رئیس‌جمهور اسرائیل، در جریان مراسم رسمی انتصاب در اقامتگاه ریاست‌جمهوری، اظهار داشت: «67 نماینده از جناح‌های مختلف سیاسی پیشنهاد کرده‌اند که مأموریت تشکیل دولت به آیزنکوت محول شود.» وی افزود که اسرائیل به یک دولت باثبات نیاز دارد. 🔸 او همچنین خاطرنشان کرد که «دولت جدید باید به چالش‌های امنیتی و اقتصادی رسیدگی کند» و تأکید کرد که کشورش «برای مقابله با تهدیدها، خواهان دولتی باثبات است.» 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103607.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103607.jpg" medium="image" />
     </item>
   </channel>
 </rss>
