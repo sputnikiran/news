@@ -5,7 +5,7 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Mon, 09 Nov 2026 06:48:26 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 07:18:52 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss8.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
@@ -13,10 +13,19 @@
       <link>https://sputnikiran.github.io/news/</link>
     </image>
     <item>
+      <title>یک تراژدی جدید در نوار غزه: ریزش شن بر روی چادرهای پناهندگان فرو ریخت و باعث کشته و زخمی شدن مردم شد</title>
+      <link>https://sputnikiran.github.io/news/103628-یک-تراژدی-جدید-در-نوار-غز.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103628-یک-تراژدی-جدید-در-نوار-غز.html</guid>
+      <pubDate>Mon, 09 Nov 2026 07:18:52 GMT</pubDate>
+      <description>🔸به گزارش رسانه‌های فلسطینی، پنج نفر، از جمله سه کودک، در این ریزش کشته شدند. امدادگران در نوار غزه جسد یک زن را از زیر آوار بیرون کشیده‌اند و به جستجوی یک کودک گمشده ادامه می‌دهند. یک شیب شنی بر روی چادرهای آوارگان در شهر دیر البلح در بخش مرکزی این منطقه محصور فرو ریخت. 🔸این فاجعه در بحبوحه وخامت اوضاع آب و هوای زمستانی در نوار غزه رخ داد. روز قبل، دفتر اطلاعات دولت این منطقه محصور گزارش داد که اولین طوفان و رگبار فصل، تقریباً 70 هزار چادر را تنها در 12 ساعت زیر آب برده و ده‌ها هزار فلسطینی آ</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103628.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103628.jpg" medium="image" />
+    </item>
+    <item>
       <title>رسانه: گفتگوی استاب و استور با پوتین، اختلافات درون اتحادیه اروپا را آشکار کرد</title>
       <link>https://sputnikiran.github.io/news/103627-رسانه-گفتگوی-استاب-و-استو.html</link>
       <guid isPermaLink="true">https://sputnikiran.github.io/news/103627-رسانه-گفتگوی-استاب-و-استو.html</guid>
-      <pubDate>Mon, 09 Nov 2026 06:48:26 GMT</pubDate>
+      <pubDate>Mon, 09 Nov 2026 04:18:52 GMT</pubDate>
       <description>«آنها امیدوار بودند که چنین تماس چشمگیر و مستقیمی با رهبر روسیه، عزم اروپا را نشان دهد.» 🔸استاب و استور چندین ماه به طور خصوصی این ایده را بررسی می‌کردند و به این نتیجه رسیدند که قبل از از سرگیری مذاکرات در ابوظبی، دادن انگیزه جدید به این روند بسیار مهم است. 🔸با این حال، اروپا هنوز درک روشنی از نحوه مدیریت روابط با مسکو «در یک لحظه حیاتی در تلاش‌های صلح» ندارد. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103627.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103627.jpg" medium="image" />
@@ -25,7 +34,7 @@
       <title>وزارت بهداشت مصر: در حادثه قطار «العیاط»</title>
       <link>https://sputnikiran.github.io/news/103626-وزارت-بهداشت-مصر-در-حادثه.html</link>
       <guid isPermaLink="true">https://sputnikiran.github.io/news/103626-وزارت-بهداشت-مصر-در-حادثه.html</guid>
-      <pubDate>Mon, 09 Nov 2026 03:48:26 GMT</pubDate>
+      <pubDate>Mon, 09 Nov 2026 01:18:52 GMT</pubDate>
       <description>مجروح و 7 نفر کشته شدند ⭕️دکتر خالد عبدالغفار، وزیر بهداشت مصر، همچنان پیگیر وضعیت سلامت آسیب‌دیدگان حادثه‌ای است که در آن تعدادی از واگن‌های یک قطار مسافربری واژگون شدند. ⭕️بر اساس آخرین آمار، 72 دستگاه آمبولانس…</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103626.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103626.jpg" medium="image" />
@@ -34,7 +43,7 @@
       <title>وزارت دفاع روسیه: نیروهای مسلح روسیه طی شب گذشته به پست‌های برق در مناطق کی‌یف، دنیپروپتروفسک، چرکاسی و وینیتسیا حمله کردند</title>
       <link>https://sputnikiran.github.io/news/103625-وزارت-دفاع-روسیه-نیروهای.html</link>
       <guid isPermaLink="true">https://sputnikiran.github.io/news/103625-وزارت-دفاع-روسیه-نیروهای.html</guid>
-      <pubDate>Mon, 09 Nov 2026 00:48:26 GMT</pubDate>
+      <pubDate>Sun, 08 Nov 2026 22:18:52 GMT</pubDate>
       <description></description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103625.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103625.jpg" medium="image" />
@@ -43,7 +52,7 @@
       <title>حمله آمریکا به نقاطی در محدوده قشم خسارتی به مناطق مسکونی، تجاری و زیرساختی وارد نکرد</title>
       <link>https://sputnikiran.github.io/news/103624-حمله-آمریکا-به-نقاطی-در-م.html</link>
       <guid isPermaLink="true">https://sputnikiran.github.io/news/103624-حمله-آمریکا-به-نقاطی-در-م.html</guid>
-      <pubDate>Sun, 08 Nov 2026 21:48:26 GMT</pubDate>
+      <pubDate>Sun, 08 Nov 2026 19:18:52 GMT</pubDate>
       <description>💬نفیسی، معاون سیاسی، امنیتی و اجتماعی استانداری هرمزگان، با اشاره به حمله ارتش آمریکا به نقاطی در محدوده جزیره قشم گفت: اهداف مورد حمله خارج از محدوده‌های مسکونی و تجاری و زیرساخت‌های خدماتی بوده و هیچ‌گونه خسارتی به زیرساخت‌های حیاتی و خدماتی جزیره وارد نشده است. 💬شرایط در جزیره قشم تحت کنترل است و تمامی دستگاه‌های امدادی، خدماتی و اجرایی در آماده‌باش کامل قرار دارند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103624.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103624.jpg" medium="image" />
@@ -52,7 +61,7 @@
       <title>ترامپ: مرزهای اوکراین ممکن است پس از پایان درگیری تغییر کند</title>
       <link>https://sputnikiran.github.io/news/103623-ترامپ-مرزهای-اوکراین-ممکن.html</link>
       <guid isPermaLink="true">https://sputnikiran.github.io/news/103623-ترامپ-مرزهای-اوکراین-ممکن.html</guid>
-      <pubDate>Sun, 08 Nov 2026 18:48:26 GMT</pubDate>
+      <pubDate>Sun, 08 Nov 2026 16:18:52 GMT</pubDate>
       <description>🔸او در مصاحبه‌ای با یک کانال غربی گفت: «فکر می‌کنم این اتفاق خواهد افتاد و اوکراین در نهایت شکل نسبتاً متفاوتی خواهد داشت.» 🔸به گفته رئیس کاخ سفید، این درگیری به زودی پایان خواهد یافت. 🔸پیش‌بینی می‌شود رایزنی‌های سه‌جانبه با حضور هیئت‌هایی از مسکو، کی‌یف و واشنگتن در ابوظبی در تاریخ 10 و 11 نوامبر برگزار شود. آنها بر تضمین‌های امنیتی برای هر دو طرف تمرکز خواهند داشت. این مذاکرات پشت درهای بسته برگزار خواهد شد. 🔸روز 21 اکتبر، ولادیمیر زلنسکی موافقت خود را با توافقی اعلام کرد که «همه چیز را به</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103623.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103623.jpg" medium="image" />
@@ -61,7 +70,7 @@
       <title>منبعی در تشکیلات زیرزمینی ضد فاشیستی: حدود</title>
       <link>https://sputnikiran.github.io/news/103622-منبعی-در-تشکیلات-زیرزمینی.html</link>
       <guid isPermaLink="true">https://sputnikiran.github.io/news/103622-منبعی-در-تشکیلات-زیرزمینی.html</guid>
-      <pubDate>Sun, 08 Nov 2026 15:48:26 GMT</pubDate>
+      <pubDate>Sun, 08 Nov 2026 13:18:52 GMT</pubDate>
       <description>تا 70 زندان مخفی در اوکراین وجود دارد 🔸یکی از اعضای تشکیلات زیرزمینی ضد فاشیستی در اودسا به خبرگزاری اسپوتنیک گفت که ممکن است بین 50 تا 70 زندان مخفی در اوکراین وجود داشته باشد که برای شکنجه مورد استفاده قرار…</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103622.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103622.jpg" medium="image" />
@@ -70,17 +79,10 @@
       <title>روبیو درخواست‌های مذاکره ایران را غیرقابل قبول خواند</title>
       <link>https://sputnikiran.github.io/news/103621-روبیو-درخواستهای-مذاکره-ا.html</link>
       <guid isPermaLink="true">https://sputnikiran.github.io/news/103621-روبیو-درخواستهای-مذاکره-ا.html</guid>
-      <pubDate>Sun, 08 Nov 2026 12:48:26 GMT</pubDate>
+      <pubDate>Sun, 08 Nov 2026 10:18:52 GMT</pubDate>
       <description>💬او به خبرنگاران گفت: «مذاکرات تاکنون هیچ نتیجه قابل توجهی نداشته است، زیرا خواسته‌های ایران نه تنها غیرقابل قبول، بلکه در برخی موارد ظالمانه، پوچ و کاملاً غیرواقعی است.» 🔸به گفته این دیپلمات، کشورها در حال حاضر در آستانه حل مناقشه نیستند. در همین حال، روبیو تأکید کرد که رئیس جمهور دونالد ترامپ مایل است اوضاع را از طریق گفتگو حل کند. 🔸در اواسط ژوئن، ایالات متحده و ایران تفاهم‌نامه‌ای را برای آغاز روند صلح امضا کردند، اما سه هفته بعد، دو طرف تبادل آتش را از سر گرفتند. این درگیری منجر به تعطیلی</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103621.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103621.jpg" medium="image" />
-    </item>
-    <item>
-      <title>رسانه: میدان گازی «خور مور» هدف حمله پهپادی قرار گرفته و دود در نزدیکی این محل مشاهده می‌شود</title>
-      <link>https://sputnikiran.github.io/news/103620-رسانه-میدان-گازی-خور-مور.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103620-رسانه-میدان-گازی-خور-مور.html</guid>
-      <pubDate>Sun, 08 Nov 2026 09:48:26 GMT</pubDate>
-      <description>🔸به گفته منابع امنیتی در کردستان عراق، در پی این حمله پهپادی، روند تولید در میدان گازی خور مور — واقع در چمچمالِ سلیمانیه — متوقف شده است. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
     </item>
   </channel>
 </rss>
