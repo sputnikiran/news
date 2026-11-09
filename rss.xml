@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Mon, 09 Nov 2026 13:48:29 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 14:19:35 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>ناتو، «جفری ون لیوون» — رئیس دفتر سازمان ملل — را به گروه حمایت از اوکراین در ابوظبی اعزام خواهد کرد</title>
+      <link>https://sputnikiran.github.io/news/103661-ناتو،-جفری-ون-لیوون-رئیس.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103661-ناتو،-جفری-ون-لیوون-رئیس.html</guid>
+      <pubDate>Mon, 09 Nov 2026 14:18:00 GMT</pubDate>
+      <description>🔸به گزارش شبکه تلویزیونی اروپایی، رئیس دفتر مارک روته به همراه نمایندگان اتحادیه اروپا در مذاکرات سه‌جانبه میان روسیه، ایالات متحده آمریکا و اوکراین شرکت…</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103661.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103661.jpg" medium="image" />
+    </item>
     <item>
       <title>نمایندگان اتحادیه اروپا برای حضور در مذاکرات به ابوظبی سفر خواهند کرد</title>
       <link>https://sputnikiran.github.io/news/103660-نمایندگان-اتحادیه-اروپا-ب.html</link>
@@ -446,15 +455,6 @@
       <description>🔸 ژان-نوئل بارو، وزیر امور خارجه فرانسه، گفت: «نمایندگان اروپایی در مذاکرات حضور خواهند داشت. فرانسه نیز برای پیوستن به گفتگوها در ابوظبی خواهد بود.» او افزود که خودش شخصاً در مذاکرات شرکت نخواهد کرد، اما از ذکر اینکه چه کسی به نمایندگی از فرانسه حضور خواهد داشت، خودداری کرد. 🔸قرار است مذاکرات میان روسیه، ایالات متحده و اوکراین در روزهای 10 و 11 نوامبر در ابوظبی برگزار شود و ولادیمیر مدینسکی، دستیار رئیس‌جمهور روسیه، همچنان به عنوان مذاکره‌کننده ارشد این کشور ایفای نقش خواهد کرد. 🔸پیش‌تر، مار</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103604.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103604.jpg" medium="image" />
-    </item>
-    <item>
-      <title>سقوط بالگرد هنگام عملیات اطفای حریق در اندونزی</title>
-      <link>https://sputnikiran.github.io/news/103603-سقوط-بالگرد-هنگام-عملیات.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103603-سقوط-بالگرد-هنگام-عملیات.html</guid>
-      <pubDate>Sun, 08 Nov 2026 14:47:00 GMT</pubDate>
-      <description>🔸این بالگرد نجات در حالی که مشغول برداشت آب بود، در رودخانه «باریتو» در منطقه «کالیمانتان جنوبی» سقوط کرد. دو خلبان استرالیایی از این حادثه جان سالم به در بردند، اما یکی دیگر از خدمه که تبعه اندونزی بود، جان باخت. علت این سقوط در دست بررسی است. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103603.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103603.jpg" medium="image" />
     </item>
   </channel>
 </rss>
