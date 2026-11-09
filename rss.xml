@@ -5,13 +5,40 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Sun, 08 Nov 2026 20:48:44 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 05:18:31 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>ترامپ: مرزهای اوکراین ممکن است پس از پایان درگیری تغییر کند</title>
+      <link>https://sputnikiran.github.io/news/103623-ترامپ-مرزهای-اوکراین-ممکن.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103623-ترامپ-مرزهای-اوکراین-ممکن.html</guid>
+      <pubDate>Mon, 09 Nov 2026 05:17:00 GMT</pubDate>
+      <description>🔸او در مصاحبه‌ای با یک کانال غربی گفت: «فکر می‌کنم این اتفاق خواهد افتاد و اوکراین در نهایت شکل نسبتاً متفاوتی خواهد داشت.» 🔸به گفته رئیس کاخ سفید، این درگیری به زودی پایان خواهد یافت. 🔸پیش‌بینی می‌شود رایزنی‌های سه‌جانبه با حضور هیئت‌هایی از مسکو، کی‌یف و واشنگتن در ابوظبی در تاریخ 10 و 11 نوامبر برگزار شود. آنها بر تضمین‌های امنیتی برای هر دو طرف تمرکز خواهند داشت. این مذاکرات پشت درهای بسته برگزار خواهد شد. 🔸روز 21 اکتبر، ولادیمیر زلنسکی موافقت خود را با توافقی اعلام کرد که «همه چیز را به</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103623.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103623.jpg" medium="image" />
+    </item>
+    <item>
+      <title>منبعی در تشکیلات زیرزمینی ضد فاشیستی: حدود</title>
+      <link>https://sputnikiran.github.io/news/103622-منبعی-در-تشکیلات-زیرزمینی.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103622-منبعی-در-تشکیلات-زیرزمینی.html</guid>
+      <pubDate>Mon, 09 Nov 2026 05:17:00 GMT</pubDate>
+      <description>تا 70 زندان مخفی در اوکراین وجود دارد 🔸یکی از اعضای تشکیلات زیرزمینی ضد فاشیستی در اودسا به خبرگزاری اسپوتنیک گفت که ممکن است بین 50 تا 70 زندان مخفی در اوکراین وجود داشته باشد که برای شکنجه مورد استفاده قرار…</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103622.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103622.jpg" medium="image" />
+    </item>
+    <item>
+      <title>روبیو درخواست‌های مذاکره ایران را غیرقابل قبول خواند</title>
+      <link>https://sputnikiran.github.io/news/103621-روبیو-درخواستهای-مذاکره-ا.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103621-روبیو-درخواستهای-مذاکره-ا.html</guid>
+      <pubDate>Mon, 09 Nov 2026 05:17:00 GMT</pubDate>
+      <description>💬او به خبرنگاران گفت: «مذاکرات تاکنون هیچ نتیجه قابل توجهی نداشته است، زیرا خواسته‌های ایران نه تنها غیرقابل قبول، بلکه در برخی موارد ظالمانه، پوچ و کاملاً غیرواقعی است.» 🔸به گفته این دیپلمات، کشورها در حال حاضر در آستانه حل مناقشه نیستند. در همین حال، روبیو تأکید کرد که رئیس جمهور دونالد ترامپ مایل است اوضاع را از طریق گفتگو حل کند. 🔸در اواسط ژوئن، ایالات متحده و ایران تفاهم‌نامه‌ای را برای آغاز روند صلح امضا کردند، اما سه هفته بعد، دو طرف تبادل آتش را از سر گرفتند. این درگیری منجر به تعطیلی</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103621.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103621.jpg" medium="image" />
+    </item>
     <item>
       <title>رسانه: میدان گازی «خور مور» هدف حمله پهپادی قرار گرفته و دود در نزدیکی این محل مشاهده می‌شود</title>
       <link>https://sputnikiran.github.io/news/103620-رسانه-میدان-گازی-خور-مور.html</link>
@@ -426,33 +453,6 @@
       <description>🔶تیراندازی در میدان اصلی کراکوف رخ داد. 🔶یک مرد از داخل خودرویی در حال حرکت به سمت افراد تصادفی شلیک کرد. 🔶5 نفر جان باختند و افرادی از جمله پلیس زخمی شدند. 🔶فرد مهاجم هنگام بازداشت زخمی شد و به بیمارستان…</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103561.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103561.jpg" medium="image" />
-    </item>
-    <item>
-      <title>فروریختن پل فولادی بر روی خودروها در استان هبی چین</title>
-      <link>https://sputnikiran.github.io/news/103560-فروریختن-پل-فولادی-بر-روی.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103560-فروریختن-پل-فولادی-بر-روی.html</guid>
-      <pubDate>Sat, 07 Nov 2026 21:17:00 GMT</pubDate>
-      <description>🔶در شهر بائودینگ در استان هبی چین، یک پل در بزرگراهی فروریخت و خرپاهای فولادی آن بر روی خودروهای عبوری در زیر پل سقوط کردند. در این حادثه 4 نفر مجروح شدند که شامل راننده کامیون و 3 کارگر بودند و 2 نفر از آنها دچار آسیب‌های جدی شده‌اند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103560.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103560.jpg" medium="image" />
-    </item>
-    <item>
-      <title>بر اساس گزارشات، مقامات فرانسوی برای ماکرون یک پناهگاه مخفی ساخته‌اند تا در صورتی که کاخ الیزه به تصرف معترضان درآید، از آن استفاده شود</title>
-      <link>https://sputnikiran.github.io/news/103559-بر-اساس-گزارشات،-مقامات-ف.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103559-بر-اساس-گزارشات،-مقامات-ف.html</guid>
-      <pubDate>Sat, 07 Nov 2026 20:47:00 GMT</pubDate>
-      <description>🔶در این گزارش آمده است که مقامات نسبت به گسترش جنبش اعتراضی نگران هستند؛ نگرانی‌ای که تا حدی به پیامدهای احتمالی انتخابات ریاست‌جمهوری آینده نیز مربوط می‌شود. همچنین اشاره شده است که رئیس پلیس پاریس جلسات متعددی را برای آمادگی در برابر یک خیزش احتمالی برگزار کرده است. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103559.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103559.jpg" medium="image" />
-    </item>
-    <item>
-      <title>رئیس‌جمهور اسرائیل روز یکشنبه سیاستمدار مأمور تشکیل دولت جدید را معرفی می‌کند</title>
-      <link>https://sputnikiran.github.io/news/103558-رئیسجمهور-اسرائیل-روز-یکش.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103558-رئیسجمهور-اسرائیل-روز-یکش.html</guid>
-      <pubDate>Sat, 07 Nov 2026 20:47:00 GMT</pubDate>
-      <description>🔶اسحاق هرتزوگ، رئیس‌جمهور اسرائیل، اعلام کرد که روز یکشنبه، 8 نوامبر، به‌طور رسمی نام آن عضو پارلمان را که مأموریت تشکیل کابینه جدید به او سپرده خواهد شد، اعلام می‌کند. 🔶این اظهارات پس از پایان رایزنی‌های رسمی میان رئیس‌جمهور و فراکسیون‌های پارلمانی «کنست» بیان شده است. 🔶در پی این دیدارها، گادی آیزنکوت، رهبر حزب مخالف «یاشار&amp;#33;»، با کسب 67 توصیه (حمایت)، رکوردی را به ثبت رساند؛ در حالی که بنیامین نتانیاهو، نخست‌وزیر کنونی، تنها از حمایت 46 قانون‌گذار برخوردار شد. 🛰 Sputnik Iran | Rubika | </description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103558.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103558.jpg" medium="image" />
     </item>
   </channel>
 </rss>
