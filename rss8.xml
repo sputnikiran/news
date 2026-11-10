@@ -5,7 +5,7 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Tue, 10 Nov 2026 11:48:15 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 12:19:06 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss8.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
@@ -13,10 +13,28 @@
       <link>https://sputnikiran.github.io/news/</link>
     </image>
     <item>
+      <title>چرا ابتکار میانجی‌گران برای حل اختلافات ایران و آمریکا با موانع جدی روبه‌روست؟</title>
+      <link>https://sputnikiran.github.io/news/103728-چرا-ابتکار-میانجیگران-برا.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103728-چرا-ابتکار-میانجیگران-برا.html</guid>
+      <pubDate>Tue, 10 Nov 2026 12:19:06 GMT</pubDate>
+      <description>🛰عارف دهقاندار کارشناس امنیت بین‌الملل در گفت‌وگو با اسپوتنیک اظهار داشت: آنچه در ابتکار میانجی‌گران برجسته است، تقدم ملاحظات امنیتی-اقتصادی کشورهای واسطه بر منطق حل‌وفصل سیاسی است. قطر به‌دلیل آسیب‌پذیری زیاد و تجربه جنگ 40 روزه، پاکستان به‌واسطه انگیزه ارتقای نقش میانجی‌گرانه و ترکیه به دلیل ملاحظات منطقه‌ای، بیشتر به دنبال مهار ریسک گسترش جنگ‌اند تا تحقق یک توافق پایدار به طوری که شرایط به صورت فریز شده در بیاید. 💬دهقاندار در ادامه گفت: پرونده هسته‌ای در شرایط فعلی اولویت نخست جمهوری اسلامی</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103728.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103728.jpg" medium="image" />
+    </item>
+    <item>
+      <title>لاوروف: روسیه بدون درک آنچه در آینده اتفاق خواهد افتاد، از پذیرش آتش‌بس دیگری در بحران اوکراین خودداری می‌کند</title>
+      <link>https://sputnikiran.github.io/news/103727-لاوروف-روسیه-بدون-درک-آنچ.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103727-لاوروف-روسیه-بدون-درک-آنچ.html</guid>
+      <pubDate>Tue, 10 Nov 2026 09:19:06 GMT</pubDate>
+      <description>🛰سایر اظهارات کلیدی لاوروف پس از جلسه شورای وزیران امور خارجه، شورای وزیران دفاع و کمیته دبیران شورای امنیت سازمان پیمان امنیت جمعی: 💬روسیه به سادگی با آتش‌بس موافقت نخواهد کرد؛ اروپایی‌ها سعی دارند برای کی‌یف وقت بخرند. 💬ایده آمریکا برای تدوین پارامترهای روشن برای معماری امنیتی آینده در مذاکرات ابوظبی کاملاً منطقی است. 💬کشورهای عضو سازمان پیمان امنیت جمعی، عدم پرداخت حق عضویت ارمنستان به این سازمان را مورد بحث قرار دادند و سلب حق رأی ارمنستان را بررسی خواهند کرد. 💬سازمان پیمان امنیت جمعی، </description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103727.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103727.jpg" medium="image" />
+    </item>
+    <item>
       <title>تعداد کشته‌ها در سانحه تصادف زنجیره‌ای بزرگ در جاده‌ای در بلغارستان به بیش از</title>
       <link>https://sputnikiran.github.io/news/103724-تعداد-کشتهها-در-سانحه-تصا.html</link>
       <guid isPermaLink="true">https://sputnikiran.github.io/news/103724-تعداد-کشتهها-در-سانحه-تصا.html</guid>
-      <pubDate>Tue, 10 Nov 2026 11:48:15 GMT</pubDate>
+      <pubDate>Tue, 10 Nov 2026 06:19:06 GMT</pubDate>
       <description>نفر رسید 🔸در بزرگراه &amp;quot;تراکیا&amp;quot;، به دلیل مه غلیظ، دو تصادف زنجیره‌ای به طور همزمان رخ داد و بیش از 50 خودرو با یکدیگر برخورد کردند. 🔸بر اساس گزارش مقامات محلی، بیش از ده نفر جان خود را از دست دادند و ده‌ها نفر نیز مجروح شدند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103724.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103724.jpg" medium="image" />
@@ -25,7 +43,7 @@
       <title>رونمایی از شگفتانه جدید نیروهای مسلح</title>
       <link>https://sputnikiran.github.io/news/103723-رونمایی-از-شگفتانه-جدید-ن.html</link>
       <guid isPermaLink="true">https://sputnikiran.github.io/news/103723-رونمایی-از-شگفتانه-جدید-ن.html</guid>
-      <pubDate>Tue, 10 Nov 2026 08:48:15 GMT</pubDate>
+      <pubDate>Tue, 10 Nov 2026 03:19:06 GMT</pubDate>
       <description>🔸بازدید سرلشکر خلبان علی عبدالهی، رئیس ستاد کل نیروهای مسلح و فرمانده قرارگاه خاتم الانبیا به همراه سرتیپ پاسدار سید مجید موسوی، فرمانده نیروی هوافضای سپاه پاسداران ، از شهر جدید موشکی نیروی هوافضای سپاه پاسداران انقلاب اسلامی. 🔸در جریان این بازدید، سرلشکر عبداللهی ضمن رونمایی از یک شگفتانه جدید از آخرین دستاوردهای و آمادگی رزم نیروی هوافضای سپاه بازدید کرد. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103723.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103723.jpg" medium="image" />
@@ -34,7 +52,7 @@
       <title>آنچه تاکنون درباره مذاکرات سه‌جانبه بین ایالات متحده، روسیه و اوکراین در ابوظبی مشخص شده است</title>
       <link>https://sputnikiran.github.io/news/103722-آنچه-تاکنون-درباره-مذاکرا.html</link>
       <guid isPermaLink="true">https://sputnikiran.github.io/news/103722-آنچه-تاکنون-درباره-مذاکرا.html</guid>
-      <pubDate>Tue, 10 Nov 2026 05:48:15 GMT</pubDate>
+      <pubDate>Tue, 10 Nov 2026 00:19:06 GMT</pubDate>
       <description>🛰جارد کوشنر اظهار داشت که واشنگتن موفق شده است برخی از اختلافات طرفین در مورد مسائل کلیدی را کاهش دهد. 🛰نماینده ویژه رئیس جمهور ایالات متحده تأکید کرد که ایالات متحده معتقد است که دستیابی به توافق امکان‌پذیر است. 🛰موضوع اصلی این دور از مذاکرات، ایجاد یک سیستم امنیتی یکپارچه در قاره اروپا است. 🛰الکسوس گرینکوویچ، فرمانده کل ناتو در اروپا، در این مذاکرات شرکت می‌کند. 🛰ولادیمیر مدینسکی خاطرنشان کرد که اعضای هیئت روسی این بار بیشتر شده است. 🛰بیش از دو ساعت از آغاز جلسه گذشته و اکنون استراحت اعل</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103722.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103722.jpg" medium="image" />
@@ -43,7 +61,7 @@
       <title>روابط عمومی نیروی دریایی سپاه پاسداران ایران: دو فروند نفتکش متخلف در مسیر غیر مجاز تنگه هرمز با انفجار مهیبی متوقف در حال سوختن رها شده اند</title>
       <link>https://sputnikiran.github.io/news/103721-روابط-عمومی-نیروی-دریایی.html</link>
       <guid isPermaLink="true">https://sputnikiran.github.io/news/103721-روابط-عمومی-نیروی-دریایی.html</guid>
-      <pubDate>Tue, 10 Nov 2026 02:48:15 GMT</pubDate>
+      <pubDate>Mon, 09 Nov 2026 21:19:06 GMT</pubDate>
       <description>🔸یکی از این شناورها از نوع سوپر نفتکش، به مین دریایی برخورد و دچار انفجار و نفتکش دوم که تحت حمایت جنگنده های ارتش متجاوز آمریکا بود و قصد عبور مخفیانه از مسیر غیرقانونی را داشت دچار حادثه شده و با آتش سوزی مهیب در جای خود متوقف گردید. 🔸شایان ذکر است این نفتکش ها با خاموش کردن تمامی سامانه‌های ناوبری و شناسایی خود به دیوار آتشین تنگه هرمز برخورد و در سواحل جنوبی تنگه رها و در آتش درحال سوختن هستند. 🔸نیروی دریایی سپاه یادآور می شود همانگونه که قبلا هم اخطار داده شده بود، مسیر غیر مجاز، نا ایمن</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103721.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103721.jpg" medium="image" />
@@ -52,7 +70,7 @@
       <title>ژان نوئل بارو، وزیر امور خارجه فرانسه: اروپا تا زمانی که مناقشه اوکراین حل نشود، در مورد معماری امنیتی جدید با روسیه مذاکره نخواهد کرد</title>
       <link>https://sputnikiran.github.io/news/103718-ژان-نوئل-بارو،-وزیر-امور.html</link>
       <guid isPermaLink="true">https://sputnikiran.github.io/news/103718-ژان-نوئل-بارو،-وزیر-امور.html</guid>
-      <pubDate>Mon, 09 Nov 2026 23:48:15 GMT</pubDate>
+      <pubDate>Mon, 09 Nov 2026 18:19:06 GMT</pubDate>
       <description>🔸او همچنین تأکید کرد که چنین موضوعی را نمی‌توان بدون خود اروپا مورد بحث قرار داد. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103718.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103718.jpg" medium="image" />
@@ -61,28 +79,10 @@
       <title>یک منبع آگاه در محل گزارش داد که مذاکرات سه جانبه در ابوظبی برای استراحت متوقف شده است</title>
       <link>https://sputnikiran.github.io/news/103717-یک-منبع-آگاه-در-محل-گزارش.html</link>
       <guid isPermaLink="true">https://sputnikiran.github.io/news/103717-یک-منبع-آگاه-در-محل-گزارش.html</guid>
-      <pubDate>Mon, 09 Nov 2026 20:48:15 GMT</pubDate>
+      <pubDate>Mon, 09 Nov 2026 15:19:06 GMT</pubDate>
       <description>🛰گفتگوی بین روسیه، آمریکا و اوکراین دو ساعت طول کشید. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103717.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103717.jpg" medium="image" />
-    </item>
-    <item>
-      <title>در نتیجه انفجاری  در یکی از محله‌های شهر اوویِدو در اسپانیا، یک افسر پلیس جان خود را از دست داد و یک افسر دیگر زخمی شد</title>
-      <link>https://sputnikiran.github.io/news/103716-در-نتیجه-انفجاری-در-یکی-ا.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103716-در-نتیجه-انفجاری-در-یکی-ا.html</guid>
-      <pubDate>Mon, 09 Nov 2026 17:48:15 GMT</pubDate>
-      <description>👮‍♂️بر اساس گزارش رسانه‌های محلی، مواد منفجره در یک کوله‌پشتی قرار داشت. 🔸عملیات گسترده پلیس در محل حادثه در حال انجام است. حداقل یک مظنون فرار کرده و همچنان تحت تعقیب است. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103716.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103716.jpg" medium="image" />
-    </item>
-    <item>
-      <title>کرملین از افشای جزئیات مذاکرات ابوظبی خودداری می‌کند و نسبت به پیش‌بینی‌ها هشدار می‌دهد</title>
-      <link>https://sputnikiran.github.io/news/103715-کرملین-از-افشای-جزئیات-مذ.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103715-کرملین-از-افشای-جزئیات-مذ.html</guid>
-      <pubDate>Mon, 09 Nov 2026 14:48:15 GMT</pubDate>
-      <description>🛰دمیتری پسکوف، سخنگوی کرملین، از افشای دستور کار مذاکرات سه‌جانبه جاری بین روسیه، آمریکا و اوکراین در ابوظبی خودداری کرد و گفت که همه جزئیات باید روی میز مذاکره باقی بمانند. 🛰پسکوف در پاسخ به این سوال که آیا بازگرداندن کشتیرانی در دریای سیاه و دریای آزوف از جمله موضوعات مورد بحث است، از اظهار نظر خودداری کرد. او همچنین از روزنامه‌نگاران خواست تا زمانی که مذاکرات در حال انجام است، در مورد توافقات احتمالی یا چشم‌انداز مذاکرات برای دستیابی به صلح گمانه‌زنی نکنند. 🛰پسکوف افزود که هیئت روسی بسته ب</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103715.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103715.jpg" medium="image" />
     </item>
   </channel>
 </rss>

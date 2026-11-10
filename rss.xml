@@ -5,13 +5,31 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Tue, 10 Nov 2026 11:48:15 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 12:19:06 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>چرا ابتکار میانجی‌گران برای حل اختلافات ایران و آمریکا با موانع جدی روبه‌روست؟</title>
+      <link>https://sputnikiran.github.io/news/103728-چرا-ابتکار-میانجیگران-برا.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103728-چرا-ابتکار-میانجیگران-برا.html</guid>
+      <pubDate>Tue, 10 Nov 2026 12:18:00 GMT</pubDate>
+      <description>🛰عارف دهقاندار کارشناس امنیت بین‌الملل در گفت‌وگو با اسپوتنیک اظهار داشت: آنچه در ابتکار میانجی‌گران برجسته است، تقدم ملاحظات امنیتی-اقتصادی کشورهای واسطه بر منطق حل‌وفصل سیاسی است. قطر به‌دلیل آسیب‌پذیری زیاد و تجربه جنگ 40 روزه، پاکستان به‌واسطه انگیزه ارتقای نقش میانجی‌گرانه و ترکیه به دلیل ملاحظات منطقه‌ای، بیشتر به دنبال مهار ریسک گسترش جنگ‌اند تا تحقق یک توافق پایدار به طوری که شرایط به صورت فریز شده در بیاید. 💬دهقاندار در ادامه گفت: پرونده هسته‌ای در شرایط فعلی اولویت نخست جمهوری اسلامی</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103728.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103728.jpg" medium="image" />
+    </item>
+    <item>
+      <title>لاوروف: روسیه بدون درک آنچه در آینده اتفاق خواهد افتاد، از پذیرش آتش‌بس دیگری در بحران اوکراین خودداری می‌کند</title>
+      <link>https://sputnikiran.github.io/news/103727-لاوروف-روسیه-بدون-درک-آنچ.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103727-لاوروف-روسیه-بدون-درک-آنچ.html</guid>
+      <pubDate>Tue, 10 Nov 2026 12:18:00 GMT</pubDate>
+      <description>🛰سایر اظهارات کلیدی لاوروف پس از جلسه شورای وزیران امور خارجه، شورای وزیران دفاع و کمیته دبیران شورای امنیت سازمان پیمان امنیت جمعی: 💬روسیه به سادگی با آتش‌بس موافقت نخواهد کرد؛ اروپایی‌ها سعی دارند برای کی‌یف وقت بخرند. 💬ایده آمریکا برای تدوین پارامترهای روشن برای معماری امنیتی آینده در مذاکرات ابوظبی کاملاً منطقی است. 💬کشورهای عضو سازمان پیمان امنیت جمعی، عدم پرداخت حق عضویت ارمنستان به این سازمان را مورد بحث قرار دادند و سلب حق رأی ارمنستان را بررسی خواهند کرد. 💬سازمان پیمان امنیت جمعی، </description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103727.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103727.jpg" medium="image" />
+    </item>
     <item>
       <title>تعداد کشته‌ها در سانحه تصادف زنجیره‌ای بزرگ در جاده‌ای در بلغارستان به بیش از</title>
       <link>https://sputnikiran.github.io/news/103724-تعداد-کشتهها-در-سانحه-تصا.html</link>
@@ -431,24 +449,6 @@
       <description>🔸سید عزت الله ضرغامی، عضو شورای عالی فضای مجازی در گفتگوی اختصاصی با اسپوتنیک در باره اینکه آیا تمام کشورهای اروپایی میزبان پایگاه‌های آمریکایی بطور خودکار هدف مشروع…</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103672.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103672.jpg" medium="image" />
-    </item>
-    <item>
-      <title>روسیه: اوکراین در تلاش است آتش‌بس را جایگزین توافق کند</title>
-      <link>https://sputnikiran.github.io/news/103671-روسیه-اوکراین-در-تلاش-است.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103671-روسیه-اوکراین-در-تلاش-است.html</guid>
-      <pubDate>Mon, 09 Nov 2026 17:47:00 GMT</pubDate>
-      <description>💬 واسیلی نبنزیا نماینده دائم روسیه در سازمان ملل متحد گفت: ▫️مسکو با توقف درگیری موافقت نخواهد کرد، زیرا این امر تهدید امنیتی را حفظ کرده و خطر تشدید بیشتر را ایجاد می‌کند. ▫️مسکو به دنبال رویارویی مسلحانه با اتحادیه اروپا نیست. ▫️کسانی که در مورد آماده‌سازی برای جنگ با روسیه صحبت می‌کنند باید عواقب چنین مسیری را درک کنند. ▫️اروپا در حال شتاب دادن به «چرخ فلک نظامی‌سازی» است و تهدید افسانه‌ای روسیه را بزرگ‌نمایی می‌کند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103671.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103671.jpg" medium="image" />
-    </item>
-    <item>
-      <title>نیروهای روسیه زیرساخت‌های لجستیکی اوکراین در دریای سیاه را درهم کوبیدند</title>
-      <link>https://sputnikiran.github.io/news/103670-نیروهای-روسیه-زیرساختهای.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103670-نیروهای-روسیه-زیرساختهای.html</guid>
-      <pubDate>Mon, 09 Nov 2026 17:17:00 GMT</pubDate>
-      <description>▫️وزارت دفاع روسیه اعلام کرد که ارتش این کشور به مرکز لجستیکی «بندر خشک» (Dry Port) در بندر اودسا حمله کرده است؛ تأسیساتی که برای انبارش و توزیع محموله‌های ارسالی به ارتش اوکراین مورد استفاده قرار می‌گرفت. ▫️این وزارتخانه افزود که در ادامه همان روز، یک کشتی باری حامل سلاح و تجهیزات نظامی برای نیروهای اوکراینی نیز در دریای سیاه هدف قرار گرفت. ▫️روسیه به‌طور نظام‌مند زیرساخت‌های لجستیکی دریایی اوکراین در این منطقه را هدف قرار می‌دهد و با حمله به کشتی‌های باری نظامی و تأسیسات بندری، توان رزمی ارتش </description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103670.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103670.jpg" medium="image" />
     </item>
   </channel>
 </rss>
