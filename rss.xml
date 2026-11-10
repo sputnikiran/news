@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Tue, 10 Nov 2026 14:21:08 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 14:48:57 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>سرمایه‌گذاری کلان یک صندوق جدید سعودی-پاکستانی در اقتصاد پاکستان</title>
+      <link>https://sputnikiran.github.io/news/103739-سرمایهگذاری-کلان-یک-صندوق.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103739-سرمایهگذاری-کلان-یک-صندوق.html</guid>
+      <pubDate>Tue, 10 Nov 2026 14:48:00 GMT</pubDate>
+      <description>▫️شورای مشترک تجاری عربستان سعودی و پاکستان از راه‌اندازی یک صندوق سرمایه‌گذاری خصوصی خبر داد که حجم اولیه آن «چند صد میلیون» دلار برآورد می‌شود. انتظار می‌رود با ظهور فرصت‌های جدید در بخش‌های مختلف، این صندوق گسترش یابد. سه چهارم منابع این صندوق به پاکستان اختصاص خواهد یافت و بخش باقی‌مانده صرف پروژه‌هایی در عربستان سعودی خواهد شد. ▫️راه‌اندازی این صندوق بخشی از تلاش‌های اسلام‌آباد و ریاض برای تعمیق روابط تجاری دوجانبه و سرمایه‌گذاری بخش خصوصی است. این دو کشور همچنین در حال تقویت پیوندهای دیرین</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103739.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103739.jpg" medium="image" />
+    </item>
     <item>
       <title>روبیو مذاکرات ابوظبی را «بسیار سازنده» خواند</title>
       <link>https://sputnikiran.github.io/news/103738-روبیو-مذاکرات-ابوظبی-را-ب.html</link>
@@ -440,15 +449,6 @@
       <description>▫️فون در لاین اظهار داشت که اتحادیه اروپا تا زمانی که توافق آتش‌بس در اوکراین امضا نشود، در برابر بحث‌ها در مورد معماری جدید امنیتی اروپا مقاومت خواهد کرد. ▫️به گفته وی، کشورهای پیشرو اتحادیه اروپا و…</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103683.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103683.jpg" medium="image" />
-    </item>
-    <item>
-      <title>ضرغامی به اسپوتنیک: «تهدیدی که بعد از صد بار هم کار نکرد، تبدیل به مضحکه می‌شود»</title>
-      <link>https://sputnikiran.github.io/news/103682-ضرغامی-به-اسپوتنیک-تهدیدی.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103682-ضرغامی-به-اسپوتنیک-تهدیدی.html</guid>
-      <pubDate>Mon, 09 Nov 2026 20:17:00 GMT</pubDate>
-      <description>▫️سید عزت الله ضرغامی، عضو شورای عالی فضای مجازی در گفتگوی اختصاصی با اسپوتنیک در باره اینکه ترامپ «آبروی تهدید» را از بین برده است گفت که وظیفه نیرو‌های مسلح آمریکا در واقع حمله کردن نیست، بلکه بازدارندگی یعنی ایجاد ترس است. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103682.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103682.jpg" medium="image" />
     </item>
   </channel>
 </rss>
