@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Tue, 10 Nov 2026 05:49:48 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 06:18:21 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>رسانه‌های محلی: راکون‌های آمریکایی مست از خود بی‌خود شده اند</title>
+      <link>https://sputnikiran.github.io/news/103694-رسانههای-محلی-راکونهای-آم.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103694-رسانههای-محلی-راکونهای-آم.html</guid>
+      <pubDate>Tue, 10 Nov 2026 06:17:00 GMT</pubDate>
+      <description>🔶این حیوانات با خوردن میوه‌های تخمیر شده، پرخوری می‌کنند و دچار اختلال در هماهنگی حرکات می‌شوند. آنها از درختان می‌افتند و در محل پرسه می‌زنند. 🔶دامپزشکان توصیه می‌کنند که نباید به آنها نزدیک شد: تحت تأثیر این مواد، حیوانات می‌توانند پرخاشگر شوند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103694.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103694.jpg" medium="image" />
+    </item>
     <item>
       <title>رسانه‌های محلی: یک مرد خشمگین چینی یک ساعت تمام با بیل مکانیکی یک ساختمان دولتی را تخریب کرد</title>
       <link>https://sputnikiran.github.io/news/103692-رسانههای-محلی-یک-مرد-خشمگ.html</link>
@@ -448,15 +457,6 @@
       <guid isPermaLink="true">https://sputnikiran.github.io/news/103642-به-گفته-منبعی-در-گروه-زیر.html</guid>
       <pubDate>Mon, 09 Nov 2026 09:17:00 GMT</pubDate>
       <description>🔸منبع این سازمان گفت: «آنها به عنوان نظافتچی برای مقامات عمل می‌کنند. آنها به این زندان‌ها نیاز دارند، بنابراین هیچکس آنها را مورد سوال قرار نمی‌ دهد.» این عضو گروه…</description>
-    </item>
-    <item>
-      <title>بقائی: ایران و هند توسعه روابط در قالب شانگهای و بریکس را پیگیری می‌کنند</title>
-      <link>https://sputnikiran.github.io/news/103641-بقائی-ایران-و-هند-توسعه-ر.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103641-بقائی-ایران-و-هند-توسعه-ر.html</guid>
-      <pubDate>Mon, 09 Nov 2026 09:17:00 GMT</pubDate>
-      <description>🗣سخنگوی وزارت امور خارجه ایران: تأسیس سفارتخانه‌ها و کنسولگری‌های جدید بخشی از وظایف دستگاه دیپلماسی جهت خدمات‌رسانی و مدیریت روابط دوجانبه است. 🗣روابط جمهوری اسلامی ایران و جمهوری هند بر پایه‌ پیوندهای عمیق تاریخی، فرهنگ مشترک و منافع متقابل بنا شده و رهبران دو کشور همواره بر تقویت این مناسبات تأکید داشته‌اند. 🗣فارغ از عناوین و نام‌ها، دو کشور مصمم هستند همکاری‌های خود را چه در سطح دوجانبه و چه در چارچوب پیمان‌های چندجانبه منطقه‌ای و بین‌المللی نظیر سازمان همکاری شانگهای و گروه بریکس، با قوت</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103641.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103641.jpg" medium="image" />
     </item>
   </channel>
 </rss>
