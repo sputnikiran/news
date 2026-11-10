@@ -16,6 +16,18 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://sputnikiran.github.io/news/103722-آنچه-تاکنون-درباره-مذاکرا.html</loc>
+    <lastmod>2026-11-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sputnikiran.github.io/news/103721-روابط-عمومی-نیروی-دریایی.html</loc>
+    <lastmod>2026-11-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://sputnikiran.github.io/news/103718-ژان-نوئل-بارو،-وزیر-امور.html</loc>
     <lastmod>2026-11-10</lastmod>
     <changefreq>monthly</changefreq>
@@ -2999,18 +3011,6 @@
   </url>
   <url>
     <loc>https://sputnikiran.github.io/news/103133-وقوع-سیل-در-جزایر-گالاپاگ.html</loc>
-    <lastmod>2026-11-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sputnikiran.github.io/news/103132-قاتل-ناوهای-هواپیمابر-چین.html</loc>
-    <lastmod>2026-11-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sputnikiran.github.io/news/103131-عراقچی-پذیرش-مسیر-دریایی.html</loc>
     <lastmod>2026-11-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>

@@ -5,13 +5,31 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Tue, 10 Nov 2026 10:48:40 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 11:18:51 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>آنچه تاکنون درباره مذاکرات سه‌جانبه بین ایالات متحده، روسیه و اوکراین در ابوظبی مشخص شده است</title>
+      <link>https://sputnikiran.github.io/news/103722-آنچه-تاکنون-درباره-مذاکرا.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103722-آنچه-تاکنون-درباره-مذاکرا.html</guid>
+      <pubDate>Tue, 10 Nov 2026 11:18:00 GMT</pubDate>
+      <description>🛰جارد کوشنر اظهار داشت که واشنگتن موفق شده است برخی از اختلافات طرفین در مورد مسائل کلیدی را کاهش دهد. 🛰نماینده ویژه رئیس جمهور ایالات متحده تأکید کرد که ایالات متحده معتقد است که دستیابی به توافق امکان‌پذیر است. 🛰موضوع اصلی این دور از مذاکرات، ایجاد یک سیستم امنیتی یکپارچه در قاره اروپا است. 🛰الکسوس گرینکوویچ، فرمانده کل ناتو در اروپا، در این مذاکرات شرکت می‌کند. 🛰ولادیمیر مدینسکی خاطرنشان کرد که اعضای هیئت روسی این بار بیشتر شده است. 🛰بیش از دو ساعت از آغاز جلسه گذشته و اکنون استراحت اعل</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103722.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103722.jpg" medium="image" />
+    </item>
+    <item>
+      <title>روابط عمومی نیروی دریایی سپاه پاسداران ایران: دو فروند نفتکش متخلف در مسیر غیر مجاز تنگه هرمز با انفجار مهیبی متوقف در حال سوختن رها شده اند</title>
+      <link>https://sputnikiran.github.io/news/103721-روابط-عمومی-نیروی-دریایی.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103721-روابط-عمومی-نیروی-دریایی.html</guid>
+      <pubDate>Tue, 10 Nov 2026 11:17:00 GMT</pubDate>
+      <description>🔸یکی از این شناورها از نوع سوپر نفتکش، به مین دریایی برخورد و دچار انفجار و نفتکش دوم که تحت حمایت جنگنده های ارتش متجاوز آمریکا بود و قصد عبور مخفیانه از مسیر غیرقانونی را داشت دچار حادثه شده و با آتش سوزی مهیب در جای خود متوقف گردید. 🔸شایان ذکر است این نفتکش ها با خاموش کردن تمامی سامانه‌های ناوبری و شناسایی خود به دیوار آتشین تنگه هرمز برخورد و در سواحل جنوبی تنگه رها و در آتش درحال سوختن هستند. 🔸نیروی دریایی سپاه یادآور می شود همانگونه که قبلا هم اخطار داده شده بود، مسیر غیر مجاز، نا ایمن</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103721.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103721.jpg" medium="image" />
+    </item>
     <item>
       <title>ژان نوئل بارو، وزیر امور خارجه فرانسه: اروپا تا زمانی که مناقشه اوکراین حل نشود، در مورد معماری امنیتی جدید با روسیه مذاکره نخواهد کرد</title>
       <link>https://sputnikiran.github.io/news/103718-ژان-نوئل-بارو،-وزیر-امور.html</link>
@@ -431,24 +449,6 @@
       <description>🔸سید عزت الله ضرغامی، عضو شورای عالی فضای مجازی در گفتگوی اختصاصی با اسپوتنیک در باره اینکه آیا تمام کشورهای اروپایی میزبان پایگاه‌های آمریکایی بطور خودکار هدف مشروع توسط ایران محسوب می‌شوند، گفت که جزئیات این برنامه در شورای عالی امنیت ملی تعیین می‌شود. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103668.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103668.jpg" medium="image" />
-    </item>
-    <item>
-      <title>ترامپ درباره احتمال تقلب در رأی‌گیری گفت: «آیا واقعاً کسی باور دارد که این انتخابات منصفانه بوده است؟»</title>
-      <link>https://sputnikiran.github.io/news/103667-ترامپ-درباره-احتمال-تقلب.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103667-ترامپ-درباره-احتمال-تقلب.html</guid>
-      <pubDate>Mon, 09 Nov 2026 16:18:00 GMT</pubDate>
-      <description></description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103667.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103667.jpg" medium="image" />
-    </item>
-    <item>
-      <title>پاکستان هم‌زمان با افزایش خطر حملات جدید آمریکا علیه ایران، خواستار صلح شد</title>
-      <link>https://sputnikiran.github.io/news/103666-پاکستان-همزمان-با-افزایش.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103666-پاکستان-همزمان-با-افزایش.html</guid>
-      <pubDate>Mon, 09 Nov 2026 16:17:00 GMT</pubDate>
-      <description>🔸وحید احمد، سفیر پیشین پاکستان در عربستان سعودی و سوریه، اظهار داشت که دونالد ترامپ ممکن است برای اعلام پیروزی پس از شکست جمهوری‌خواهان در انتخابات میان‌دوره‌ای، دست به حمله‌ای گسترده علیه ایران بزند. نیروهای آمریکایی اخیراً به سایت‌های پدافند هوایی ایران در جزیره قشم، واقع در نزدیکی تنگه هرمز، حمله کردند و همچنین شاهد پرتاب موشک‌هایی در استان کردستان ایران بودند. 🔸احمد با اشاره به وخامت اوضاع، گفت که نتایج انتخابات ترامپ را تضعیف کرده و او در جنگ با ایران به هیچ پیروزی‌ای دست نیافته است. وی ا</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103666.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103666.jpg" medium="image" />
     </item>
   </channel>
 </rss>
