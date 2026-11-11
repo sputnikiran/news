@@ -5,13 +5,20 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Wed, 11 Nov 2026 07:48:16 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 08:18:18 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>خبرنگار اسپوتنیک: هیئت روسیه در دومین روز، به محل برگزاری مذاکرات سه‌جانبه در ابوظبی رسید</title>
+      <link>https://sputnikiran.github.io/news/103781-خبرنگار-اسپوتنیک-هیئت-روس.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103781-خبرنگار-اسپوتنیک-هیئت-روس.html</guid>
+      <pubDate>Wed, 11 Nov 2026 08:17:00 GMT</pubDate>
+      <description>🛰 Sputnik Iran | Rubika | Bale | Web</description>
+    </item>
     <item>
       <title>نرخ ارز، سکه و طلا تا ساعت</title>
       <link>https://sputnikiran.github.io/news/103780-نرخ-ارز،-سکه-و-طلا-تا-ساع.html</link>
@@ -446,15 +453,6 @@
       <description>نفر رسید 🔸در بزرگراه &amp;quot;تراکیا&amp;quot;، به دلیل مه غلیظ، دو تصادف زنجیره‌ای به طور همزمان رخ داد و بیش از 50 خودرو با یکدیگر برخورد کردند. 🔸بر اساس گزارش مقامات محلی، بیش از ده نفر جان خود را از دست دادند و ده‌ها نفر نیز مجروح شدند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103724.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103724.jpg" medium="image" />
-    </item>
-    <item>
-      <title>رونمایی از شگفتانه جدید نیروهای مسلح</title>
-      <link>https://sputnikiran.github.io/news/103723-رونمایی-از-شگفتانه-جدید-ن.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103723-رونمایی-از-شگفتانه-جدید-ن.html</guid>
-      <pubDate>Tue, 10 Nov 2026 11:47:00 GMT</pubDate>
-      <description>🔸بازدید سرلشکر خلبان علی عبدالهی، رئیس ستاد کل نیروهای مسلح و فرمانده قرارگاه خاتم الانبیا به همراه سرتیپ پاسدار سید مجید موسوی، فرمانده نیروی هوافضای سپاه پاسداران ، از شهر جدید موشکی نیروی هوافضای سپاه پاسداران انقلاب اسلامی. 🔸در جریان این بازدید، سرلشکر عبداللهی ضمن رونمایی از یک شگفتانه جدید از آخرین دستاوردهای و آمادگی رزم نیروی هوافضای سپاه بازدید کرد. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103723.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103723.jpg" medium="image" />
     </item>
   </channel>
 </rss>
