@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Wed, 11 Nov 2026 06:18:42 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 06:48:39 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>عراقچی از سازمان ملل و آژانس خواست اعلامیه آمریکا درباره پاداش</title>
+      <link>https://sputnikiran.github.io/news/103776-عراقچی-از-سازمان-ملل-و-آژ.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103776-عراقچی-از-سازمان-ملل-و-آژ.html</guid>
+      <pubDate>Wed, 11 Nov 2026 06:47:00 GMT</pubDate>
+      <description>میلیون دلاری برای اطلاعات هسته‌ای ایران را محکوم کنند 🔶عباس عراقچی، وزیر امور خارجه ایران، در نامه‌ای به آنتونیو گوترش (دبیرکل سازمان ملل)، دسلاندس (رئیس شورای امنیت) و رافائل گروسی (مدیرکل آژانس بین‌المللی انرژی اتمی) درباره «اعلامیه وزارت خارجه آمریکا برای پاداشی تا سقف 20 میلیون دلار در ازای ارائه اطلاعات درباره برنامه هسته‌ای صلح‌آمیز ایران» اعتراض کرد. وی از دبیرکل سازمان ملل، شورای امنیت و مدیرکل آژانس خواست که این اعلامیه را به صراحت و بدون هیچ‌گونه ابهامی محکوم کنند. 🔶عراقچی همچنین از </description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103776.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103776.jpg" medium="image" />
+    </item>
     <item>
       <title>کشف شبکه سرویس‌های اطلاعاتی لهستان در استان کالینینگراد توسط سرویس امنیت فدرال روسیه</title>
       <link>https://sputnikiran.github.io/news/103775-کشف-شبکه-سرویسهای-اطلاعات.html</link>
@@ -448,15 +457,6 @@
       <description>🛰گفتگوی بین روسیه، آمریکا و اوکراین دو ساعت طول کشید. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103717.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103717.jpg" medium="image" />
-    </item>
-    <item>
-      <title>در نتیجه انفجاری  در یکی از محله‌های شهر اوویِدو در اسپانیا، یک افسر پلیس جان خود را از دست داد و یک افسر دیگر زخمی شد</title>
-      <link>https://sputnikiran.github.io/news/103716-در-نتیجه-انفجاری-در-یکی-ا.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103716-در-نتیجه-انفجاری-در-یکی-ا.html</guid>
-      <pubDate>Tue, 10 Nov 2026 10:17:00 GMT</pubDate>
-      <description>👮‍♂️بر اساس گزارش رسانه‌های محلی، مواد منفجره در یک کوله‌پشتی قرار داشت. 🔸عملیات گسترده پلیس در محل حادثه در حال انجام است. حداقل یک مظنون فرار کرده و همچنان تحت تعقیب است. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103716.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103716.jpg" medium="image" />
     </item>
   </channel>
 </rss>
