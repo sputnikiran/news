@@ -5,7 +5,7 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Wed, 11 Nov 2026 11:49:56 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 12:18:27 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss8.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
@@ -13,10 +13,26 @@
       <link>https://sputnikiran.github.io/news/</link>
     </image>
     <item>
+      <title>رئیس اداره اصلی ستاد کل ارتش روسیه: اروپایی‌ها با اظهارات خود تلاش کردند مذاکرات را مختل کنند، اما مداخله فیزیکی نداشتند</title>
+      <link>https://sputnikiran.github.io/news/103803-رئیس-اداره-اصلی-ستاد-کل-ا.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103803-رئیس-اداره-اصلی-ستاد-کل-ا.html</guid>
+      <pubDate>Wed, 11 Nov 2026 12:18:27 GMT</pubDate>
+      <description>🛰 Sputnik Iran | Rubika | Bale | Web</description>
+    </item>
+    <item>
+      <title>کرملین: اظهارات اروپایی‌ها تاکنون تمایلی به کمک به صلح اوکراین نشان نمی‌دهد</title>
+      <link>https://sputnikiran.github.io/news/103802-کرملین-اظهارات-اروپاییها.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103802-کرملین-اظهارات-اروپاییها.html</guid>
+      <pubDate>Wed, 11 Nov 2026 09:18:27 GMT</pubDate>
+      <description>دمیتری پسکوف، سخنگوی کرملین: 🔶در حال حاضر هیچ چشم‌اندازی برای گفتگوی روسیه با اروپا وجود ندارد، اما در مرحله‌ای قطعاً درباره آن صحبت خواهد شد. 🔶گفتگو با آمریکایی‌ها ادامه خواهد یافت. 🔶موضوع حل و فصل اوکراین به هر شکلی در دستور کار تماس‌های روسیه و آمریکا در سطح عالی حضور دارد. 🔶پوتین گزارش کاملی از مذاکرات ابوظبی دریافت خواهد کرد. 🔶تصمیم نهایی درباره سفر پوتین به نشست گروه 20 در میامی هنوز گرفته نشده است. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103802.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103802.jpg" medium="image" />
+    </item>
+    <item>
       <title>مِدینسکی: در ابوظبی هیچ گفتگویی با اروپایی‌ها انجام نشد و وضعیت آنها در اینجا مشخص نیست</title>
       <link>https://sputnikiran.github.io/news/103801-مِدینسکی-در-ابوظبی-هیچ-گف.html</link>
       <guid isPermaLink="true">https://sputnikiran.github.io/news/103801-مِدینسکی-در-ابوظبی-هیچ-گف.html</guid>
-      <pubDate>Wed, 11 Nov 2026 11:49:56 GMT</pubDate>
+      <pubDate>Wed, 11 Nov 2026 06:18:27 GMT</pubDate>
       <description>🔶ولادیمیر مدینسکی، مذاکره‌کننده روسیه، اعلام کرد که درگیری در اوکراین نشان داده است که سیستم امنیتی در اروپا بسیار ضعیف عمل می‌کند. 🔶مدینسکی اظهار داشت که فدراسیون روسیه…</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103801.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103801.jpg" medium="image" />
@@ -25,28 +41,28 @@
       <title>کوشنر اظهار داشت که فردا برای دیدار با پوتین به مسکو سفر خواهد کرد</title>
       <link>https://sputnikiran.github.io/news/103800-کوشنر-اظهار-داشت-که-فردا.html</link>
       <guid isPermaLink="true">https://sputnikiran.github.io/news/103800-کوشنر-اظهار-داشت-که-فردا.html</guid>
-      <pubDate>Wed, 11 Nov 2026 08:49:56 GMT</pubDate>
+      <pubDate>Wed, 11 Nov 2026 03:18:27 GMT</pubDate>
       <description>🛰 Sputnik Iran | Rubika | Bale | Web</description>
     </item>
     <item>
       <title>کوشنر اظهار داشت که فردا برای دیدار با پوتین به مسکو سفر خواهد کرد</title>
       <link>https://sputnikiran.github.io/news/103799-کوشنر-اظهار-داشت-که-فردا.html</link>
       <guid isPermaLink="true">https://sputnikiran.github.io/news/103799-کوشنر-اظهار-داشت-که-فردا.html</guid>
-      <pubDate>Wed, 11 Nov 2026 05:49:56 GMT</pubDate>
+      <pubDate>Wed, 11 Nov 2026 00:18:27 GMT</pubDate>
       <description>🛰 Sputnik Iran | Rubika | Bale | Web</description>
     </item>
     <item>
       <title>اتحادیه اروپا بعید می‌داند که اوکراین در چند سال آینده به این اتحادیه بپیوندد</title>
       <link>https://sputnikiran.github.io/news/103798-اتحادیه-اروپا-بعید-میداند.html</link>
       <guid isPermaLink="true">https://sputnikiran.github.io/news/103798-اتحادیه-اروپا-بعید-میداند.html</guid>
-      <pubDate>Wed, 11 Nov 2026 02:49:56 GMT</pubDate>
+      <pubDate>Tue, 10 Nov 2026 21:18:27 GMT</pubDate>
       <description>🔶با طولانی‌تر شدن درگیری، مسیر اوکراین برای عضویت در اتحادیه اروپا دشوارتر و محدودتر می‌شود. در طول درگیری، حمایت عمومی از پیوستن کی‌یف به اتحادیه اروپا کاهش یافته است. احزاب پوپولیست در فرانسه و آلمان نیز مانعی در این راه محسوب می‌شوند. 🔶کی‌یف استدلال می‌کند که عضویتش موجب تقویت امنیت اتحادیه اروپا در برابر روسیه خواهد شد. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
     </item>
     <item>
       <title>کارشناس: موفقیت مذاکرات ابوظبی منوط به پذیرش نقش «دولت حائل» برای اوکراین است</title>
       <link>https://sputnikiran.github.io/news/103797-کارشناس-موفقیت-مذاکرات-اب.html</link>
       <guid isPermaLink="true">https://sputnikiran.github.io/news/103797-کارشناس-موفقیت-مذاکرات-اب.html</guid>
-      <pubDate>Tue, 10 Nov 2026 23:49:56 GMT</pubDate>
+      <pubDate>Tue, 10 Nov 2026 18:18:27 GMT</pubDate>
       <description>🔶رامین آریان‌راد، عضو هیئت علمی فصلنامه «امر سیاسی»، در گفت‌وگو با اسپوتنیک اعلام کرد که مذاکرات سه‌جانبه ابوظبی (روسیه، اوکراین و آمریکا) تنها زمانی به نتیجه مثبت می‌رسد که در معماری جدید امنیتی اروپا، برای اوکراین نقش «دولت حائل» در نظر گرفته شود؛ دولتی که بین دو قدرت بزرگ قرار گرفته و نقش بالانس‌کننده و جداکننده خط درگیری را ایفا کند و از عضویت در هیچ بلوکی (غرب یا شرق) منع شود. 🔶به گفته وی، اگر آمریکا واقعاً به دنبال آتش‌بس است، باید از شروطی مانند عضویت اوکراین در ناتو عقب‌نشینی کند و تنه</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103797.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103797.jpg" medium="image" />
@@ -55,28 +71,10 @@
       <title>مِدینسکی: در ابوظبی هیچ گفتگویی با اروپایی‌ها انجام نشد و وضعیت آنها در اینجا مشخص نیست</title>
       <link>https://sputnikiran.github.io/news/103795-مِدینسکی-در-ابوظبی-هیچ-گف.html</link>
       <guid isPermaLink="true">https://sputnikiran.github.io/news/103795-مِدینسکی-در-ابوظبی-هیچ-گف.html</guid>
-      <pubDate>Tue, 10 Nov 2026 20:49:56 GMT</pubDate>
+      <pubDate>Tue, 10 Nov 2026 15:18:27 GMT</pubDate>
       <description>🔶ولادیمیر مدینسکی، مذاکره‌کننده روسیه، اعلام کرد که درگیری در اوکراین نشان داده است که سیستم امنیتی در اروپا بسیار ضعیف عمل می‌کند. 🔶مدینسکی اظهار داشت که فدراسیون روسیه طرح این پرسش را که پس از پایان اجتناب‌ناپذیر مناقشه در اوکراین چه بر سر امنیت خواهد آمد، مناسب می‌داند. 🔶موضوع سیستم امنیتی اروپا محور اصلی مذاکرات بود و در برخی موارد توانستند به تفاهم دست یابند. 🔶ولادیمیر مدینسکی، مذاکره‌کننده روسیه، اعلام کرد که سیستم امنیتی اروپا باید به طور کامل «درمان» شود و «با چسب زخم نمی‌توان از آن </description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103795.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103795.jpg" medium="image" />
-    </item>
-    <item>
-      <title>وزارت دفاع روسیه: آزادسازی شیلوفکا و ووسکرسنکا</title>
-      <link>https://sputnikiran.github.io/news/103794-وزارت-دفاع-روسیه-آزادسازی.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103794-وزارت-دفاع-روسیه-آزادسازی.html</guid>
-      <pubDate>Tue, 10 Nov 2026 17:49:56 GMT</pubDate>
-      <description>📍 آزادسازی «شیلُوفکا» در جمهوری خلق دونتسک 📍 با آزادسازی این منطقه مسکونی، روسیه به آزادسازی کامل این جمهوری نزدیک‌تر شد. 📍 آزادسازی «وُسکِرسِنکا» در منطقه زاپوروژیه. 👉 این رویداد روسیه را یک گام دیگر به آزادسازی کامل زاپوروژیه نزدیک‌تر می‌کند. 🔶نیروهای روسیه کارگاه‌های تولید سامانه‌های زمینی بدون سرنشین اوکراین را هدف حملات شدید قرار دادند. 🔶 برتری در پدافند هوایی: دو پرتابه سامانه «هیمارس» (HIMARS) و 1085 پهپاد سرنگون شدند. 🔶 تلفات اوکراین: حدود 1275 سرباز کشته یا زخمی شدند. 🛰 Sputnik </description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103794.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103794.jpg" medium="image" />
-    </item>
-    <item>
-      <title>خروج از زندان شکنجه در اوکراین</title>
-      <link>https://sputnikiran.github.io/news/103793-خروج-از-زندان-شکنجه-در-او.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103793-خروج-از-زندان-شکنجه-در-او.html</guid>
-      <pubDate>Tue, 10 Nov 2026 14:49:56 GMT</pubDate>
-      <description>دلار هزینه دارد 🔶دیانا پانچنکو، خبرنگار اوکراینی، بیش از 1000 نامه حاوی آدرس زندان‌های شکنجه را از افرادی که از این مکان‌ها جان سالم به در برده‌اند، دریافت کرده است. وی می‌گوید: «داستان‌های وحشتناک بسیار زیادی وجود دارد که در آنها به طور مفصل شرح داده شده است که چگونه افراد را دستگیر، کتک و شکنجه می‌کردند... توصیف‌هایی در 10 تا 15 صفحه وجود دارد. اما حرف من را باور کنید: با مردم بدتر از حیوانات رفتار می‌شود.» 🔶به گفته پانچنکو، هر کسی می‌تواند شکنجه شود و این کار به خاطر پول انجام می‌شود. بر اس</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103793.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103793.jpg" medium="image" />
     </item>
   </channel>
 </rss>
