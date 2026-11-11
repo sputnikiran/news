@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Wed, 11 Nov 2026 17:18:31 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 17:48:47 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>لیبی: کشته شدن یک کارگر و مجروح شدن</title>
+      <link>https://sputnikiran.github.io/news/103831-لیبی-کشته-شدن-یک-کارگر-و.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103831-لیبی-کشته-شدن-یک-کارگر-و.html</guid>
+      <pubDate>Wed, 11 Nov 2026 17:47:00 GMT</pubDate>
+      <description>نفر دیگر در پی آتش‌سوزی و انفجار در تأسیسات گازی شرکت نفت &amp;quot;سرت&amp;quot; ▫️شرکت ملی نفت لیبی (NOC) اعلام کرد که آتش‌سوزی محدودی در یکی از تأسیسات گازیِ تحت مدیریت «شرکت تولید و فرآوری نفت و گاز سرت» در منطقه «مرسی البریقه» رخ داده است. این حادثه در پی انفجار در خط لوله گازِ سوخت‌رسان به دیگ‌های بخار به وقوع پیوست که منجر به جان باختن یک کارگر و مجروح شدن چهار نفر دیگر شد. ▫️شرکت ملی نفت لیبی در بیانیه‌ای — که نسخه‌ای از آن به دست خبرگزاری اسپوتنیک رسیده است — توضیح داد که تیم‌های امدادی و آتش‌ن</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103831.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103831.jpg" medium="image" />
+    </item>
     <item>
       <title>قالیباف: واشنگتن ناچار است شرایط هفت‌گانه ایران را اجرا کند</title>
       <link>https://sputnikiran.github.io/news/103830-قالیباف-واشنگتن-ناچار-است.html</link>
@@ -428,15 +437,6 @@
       <description>🗣رجب صفروف، رئیس مرکز مطالعات ایران معاصر، به بررسی وضعیت پیرامون نامزدی احتمالی رافائل گروسی برای تصدی مقام دبیرکلی سازمان ملل پرداخت. 👉وی اظهار داشت که یکی از ارکان راهبرد ایران، نه صرفاً مسدود کردن مسیر گروسی، بلکه بی‌اعتبار کردن اوست؛ اتهاماتی همچون «همدستی از طریق انفعال»، بیش از آنکه متوجه رویه‌های رسمی باشند، اعتبار و حیثیت او را هدف قرار می‌دهند. 🔶به گفته صفروف، طبق حقوق بین‌الملل، دبیرکل سازمان ملل باید نهایت بی‌طرفی را حفظ کند و از تبدیل شدن به ابزاری در دست گروهی از کشورها برای اعم</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103778.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103778.jpg" medium="image" />
-    </item>
-    <item>
-      <title>حملات روسیه به پست‌های برق اوکراین و یک کشتی باری در دریای سیاه</title>
-      <link>https://sputnikiran.github.io/news/103777-حملات-روسیه-به-پستهای-برق.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103777-حملات-روسیه-به-پستهای-برق.html</guid>
-      <pubDate>Wed, 11 Nov 2026 07:17:00 GMT</pubDate>
-      <description>⚔️وزارت دفاع روسیه اعلام کرد که نیروهای روسی در طول شب حملاتی را به زیرساخت‌های انرژی پشتیبان تأسیسات نظامی-صنعتی اوکراین و همچنین شناورهای حامل محموله‌های نظامی و دوکاربره انجام دادند. اهداف مورد اصابت: 👉یک پست برق 330 کیلوولت در کریووی روگ، استان دنیپروپتروفسک. 👉دو پست برق 110 و 330 کیلوولت در مایاکی و اوساتوو، استان اودسا. 👉یک کشتی باری حامل سلاح و تجهیزات نظامی برای نیروهای مسلح اوکراین در دریای سیاه، جنوب غربی اودسا. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103777.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103777.jpg" medium="image" />
     </item>
   </channel>
 </rss>
