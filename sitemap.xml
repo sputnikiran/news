@@ -16,6 +16,18 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://sputnikiran.github.io/news/103896-شهر-بارسلون-در-هرج-و-مرج.html</loc>
+    <lastmod>2026-11-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sputnikiran.github.io/news/103895-وزارت-دفاع-روسیه-اپراتوره.html</loc>
+    <lastmod>2026-11-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://sputnikiran.github.io/news/103894-لحظه-حمله-هوایی-اسرائیل-ب.html</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>monthly</changefreq>
@@ -3000,18 +3012,6 @@
   <url>
     <loc>https://sputnikiran.github.io/news/103309-روسیه-از-سیستم-چندلایه-ضد.html</loc>
     <lastmod>2026-11-04</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sputnikiran.github.io/news/103308-کارشناس-ترک-برای-رفع-تنشه.html</loc>
-    <lastmod>2026-11-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sputnikiran.github.io/news/103307-اعتراضات-در-مقابل-ساختمان.html</loc>
-    <lastmod>2026-11-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
