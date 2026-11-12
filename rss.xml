@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Thu, 12 Nov 2026 12:49:22 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 13:18:37 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>پوتین: روسیه همواره تأکید کرده است حضور نیروهای خارجی در اوکراین غیرقابل‌قبول است</title>
+      <link>https://sputnikiran.github.io/news/103884-پوتین-روسیه-همواره-تأکید.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103884-پوتین-روسیه-همواره-تأکید.html</guid>
+      <pubDate>Thu, 12 Nov 2026 13:17:00 GMT</pubDate>
+      <description>🔸رئيس جمهور روسيه در ديدار با كوشنر و ويتكاف گفت: حضور احتمالی نیروهای خارجی در اوکراین تهدیدی برای امنیت ملی روسیه محسوب می‌شود و این نیروها هدفی مشروع خواهند بود. 🔸پوتین…</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103884.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103884.jpg" medium="image" />
+    </item>
     <item>
       <title>پوتین: روسیه هرگز مخالف گفتگو با اروپا نبوده است</title>
       <link>https://sputnikiran.github.io/news/103883-پوتین-روسیه-هرگز-مخالف-گف.html</link>
@@ -448,15 +457,6 @@
       <description>▫️ولادیمیر پوتین، رئیس جمهور روسیه، در نشست شورای امنیت جمعی سازمان پیمان امنیت جمعی (CSTO) گفت که روسیه و متحدانش در حال تقویت قابلیت‌های دفاعی جمعی خود و هماهنگی واکنش‌ها به تهدیدات امنیتی نوظهور هستند. 📍نکات کلیدی: 🔶 کشورهای عضو سازمان پیمان امنیت جمعی همچنان به تجهیز نیروهای جمعی خود با سلاح‌ها و تجهیزات نظامی مدرن ادامه می‌دهند و همزمان آموزش‌های عملیاتی و رزمی را بهبود می‌بخشند. 🔶 کشورهای عضو در تمایل خود برای مقابله با تهدیدات مشترک متحد هستند؛ همکاری نزدیک بین سازمان‌های امنیتی به مبا</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103824.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103824.jpg" medium="image" />
-    </item>
-    <item>
-      <title>اوشاکوف، دستیار رهبر  روسیه:  دیدار پوتین با ویتکاف و کوشنر فردا صبح برگزار خواهد شد</title>
-      <link>https://sputnikiran.github.io/news/103823-اوشاکوف،-دستیار-رهبر-روسی.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103823-اوشاکوف،-دستیار-رهبر-روسی.html</guid>
-      <pubDate>Wed, 11 Nov 2026 15:47:00 GMT</pubDate>
-      <description>🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103823.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103823.jpg" medium="image" />
     </item>
   </channel>
 </rss>
