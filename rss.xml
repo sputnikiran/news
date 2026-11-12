@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Thu, 12 Nov 2026 10:18:21 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 10:48:37 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>معاون وزیر خارجه روسیه: مسکو حتی یک پیشنهاد سازنده از سوی اروپا در خصوص اوکراین دریافت نکرده است</title>
+      <link>https://sputnikiran.github.io/news/103870-معاون-وزیر-خارجه-روسیه-مس.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103870-معاون-وزیر-خارجه-روسیه-مس.html</guid>
+      <pubDate>Thu, 12 Nov 2026 10:47:00 GMT</pubDate>
+      <description>🔸ریابکوف تصریح کرد که اروپا بارِ حمایت از اوکراین را بر دوش گرفته است؛ نقشی که مخرب و فاقد محتواست. پایتخت‌های اروپایی همچنان کاملاً مصمم به تداوم تأمین نیازهای…</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103870.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103870.jpg" medium="image" />
+    </item>
     <item>
       <title>دمیتریف، ویتکاف و کوشنر برای اقامت به هتلی در مرکز مسکو رسیدند</title>
       <link>https://sputnikiran.github.io/news/103869-دمیتریف،-ویتکاف-و-کوشنر-ب.html</link>
@@ -448,15 +457,6 @@
       <description>🔶ولادیمیر مدینسکی، مذاکره‌کننده روسیه، اعلام کرد که درگیری در اوکراین نشان داده است که سیستم امنیتی در اروپا بسیار ضعیف عمل می‌کند. 🔶مدینسکی اظهار داشت که فدراسیون روسیه…</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103811.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103811.jpg" medium="image" />
-    </item>
-    <item>
-      <title>زاخارووا: ارتش اوکراین به</title>
-      <link>https://sputnikiran.github.io/news/103810-زاخارووا-ارتش-اوکراین-به.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103810-زاخارووا-ارتش-اوکراین-به.html</guid>
-      <pubDate>Wed, 11 Nov 2026 13:47:00 GMT</pubDate>
-      <description>مکان میراث فرهنگی آسیب رسانده یا آنها را تخریب کرده ‌است سخنگوی وزارت خارجه روسیه افزود: تمام این شواهد حاکی از اقدامات وحشیانه نیروهای مسلح اوکراین به اطلاع جامعه بین‌المللی خواهد رسید. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103810.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103810.jpg" medium="image" />
     </item>
   </channel>
 </rss>
