@@ -5,7 +5,7 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Thu, 12 Nov 2026 17:18:47 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 17:48:40 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss8.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
@@ -13,10 +13,19 @@
       <link>https://sputnikiran.github.io/news/</link>
     </image>
     <item>
+      <title>سقوط بالگرد نظامی S-</title>
+      <link>https://sputnikiran.github.io/news/103899-سقوط-بالگرد-نظامی-s.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103899-سقوط-بالگرد-نظامی-s.html</guid>
+      <pubDate>Thu, 12 Nov 2026 17:48:40 GMT</pubDate>
+      <description>در جنوب شرق ترکیه 🔶وزارت دفاع ترکیه اعلام کرد که یک بالگرد نظامی S-70 در جنوب شرق این کشور سقوط کرده و 4 نظامی ترکیه که سرنشین آن بودند جان باخته‌اند. علت این حادثه هنوز مشخص نشده است. 🔶این سومین سقوط هواپیمای نظامی در ترکیه از ابتدای سال جاری است؛ پیش از این دو فروند اف-16 سقوط کرده بودند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103899.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103899.jpg" medium="image" />
+    </item>
+    <item>
       <title>اوشاکوف: گفت‌وگوی پوتین با ویتکاف و کوشنر محتوایی، سازنده، صریح و سودمند بود  سایر اظهارات یوری اوشاکوف، دستیار رئیس‌جمهور روسیه:</title>
       <link>https://sputnikiran.github.io/news/103898-اوشاکوف-گفتوگوی-پوتین-با.html</link>
       <guid isPermaLink="true">https://sputnikiran.github.io/news/103898-اوشاکوف-گفتوگوی-پوتین-با.html</guid>
-      <pubDate>Thu, 12 Nov 2026 17:18:47 GMT</pubDate>
+      <pubDate>Thu, 12 Nov 2026 14:48:40 GMT</pubDate>
       <description>🔶دیدار برنامه‌ریزی‌شده پوتین و ترامپ در نشست اپک برگزار خواهد شد. 🔶ویتکاف و کوشنر از پیشنهاد پوتین برای سازماندهی یک مأموریت…</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103898.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103898.jpg" medium="image" />
@@ -25,7 +34,7 @@
       <title>ویتکاف: دور جدید مذاکرات سه‌جانبه در نشست با پوتین توافق شد</title>
       <link>https://sputnikiran.github.io/news/103897-ویتکاف-دور-جدید-مذاکرات-س.html</link>
       <guid isPermaLink="true">https://sputnikiran.github.io/news/103897-ویتکاف-دور-جدید-مذاکرات-س.html</guid>
-      <pubDate>Thu, 12 Nov 2026 14:18:47 GMT</pubDate>
+      <pubDate>Thu, 12 Nov 2026 11:48:40 GMT</pubDate>
       <description>🔶استیو ویتکاف، فرستاده آمریکا، پس از پایان دیدار امروز با پوتین این موضوع را اعلام کرد. 🔶جارد کوشنر نیز این نشست را «پرمحتوا» توصیف کرد. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103897.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103897.jpg" medium="image" />
@@ -34,7 +43,7 @@
       <title>شهر بارسلون در هرج و مرج فرو رفته است</title>
       <link>https://sputnikiran.github.io/news/103896-شهر-بارسلون-در-هرج-و-مرج.html</link>
       <guid isPermaLink="true">https://sputnikiran.github.io/news/103896-شهر-بارسلون-در-هرج-و-مرج.html</guid>
-      <pubDate>Thu, 12 Nov 2026 11:18:47 GMT</pubDate>
+      <pubDate>Thu, 12 Nov 2026 08:48:40 GMT</pubDate>
       <description>▫️معترضان فروشگاه‌ها را تخریب کردند و روی شیشه‌ها رنگ پاشیدند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103896.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103896.jpg" medium="image" />
@@ -43,7 +52,7 @@
       <title>وزارت دفاع روسیه: اپراتورهای پهپاد روسیه اهداف اوکراینی را منهدم کردند</title>
       <link>https://sputnikiran.github.io/news/103895-وزارت-دفاع-روسیه-اپراتوره.html</link>
       <guid isPermaLink="true">https://sputnikiran.github.io/news/103895-وزارت-دفاع-روسیه-اپراتوره.html</guid>
-      <pubDate>Thu, 12 Nov 2026 08:18:47 GMT</pubDate>
+      <pubDate>Thu, 12 Nov 2026 05:48:40 GMT</pubDate>
       <description>👉وزارت دفاع روسیه اعلام کرد که نیروهای سامانه‌های بدون سرنشین «واریاگ» روسیه، پهپادهای اوکراینی را بر فراز جاده نووروسیا سرنگون کردند: 🔶پهپادهای انتحاری «روباگ» و «زوزولیا» 🔶پهپادهای دوربرد FP-1، V-2 و هورنت 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103895.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103895.jpg" medium="image" />
@@ -52,7 +61,7 @@
       <title>لحظه حمله هوایی اسرائیل به حومه شهرک کفرتبنیت در بخش نبطیه در جنوب لبنان</title>
       <link>https://sputnikiran.github.io/news/103894-لحظه-حمله-هوایی-اسرائیل-ب.html</link>
       <guid isPermaLink="true">https://sputnikiran.github.io/news/103894-لحظه-حمله-هوایی-اسرائیل-ب.html</guid>
-      <pubDate>Thu, 12 Nov 2026 05:18:47 GMT</pubDate>
+      <pubDate>Thu, 12 Nov 2026 02:48:40 GMT</pubDate>
       <description>🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103894.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103894.jpg" medium="image" />
@@ -61,7 +70,7 @@
       <title>واگنکنخت خواستار لغو تحریم‌ها علیه روسیه به دلیل آسیب به آلمان شد</title>
       <link>https://sputnikiran.github.io/news/103893-واگنکنخت-خواستار-لغو-تحری.html</link>
       <guid isPermaLink="true">https://sputnikiran.github.io/news/103893-واگنکنخت-خواستار-لغو-تحری.html</guid>
-      <pubDate>Thu, 12 Nov 2026 02:18:47 GMT</pubDate>
+      <pubDate>Wed, 11 Nov 2026 23:48:40 GMT</pubDate>
       <description>🔶سارا واگنکنخت، بنیانگذار حزب آلمانی &amp;quot;اتحادیه عقل و عدات&amp;quot; (BSW)، خواستار پایان دادن به سیاست تحریم‌ها علیه روسیه شد و مقامات آلمانی را به آسیب رساندن به اقتصاد خودشان متهم کرد. 🔶این سیاستمدار بیانیه‌ای در همین رابطه در شبکه اجتماعی ایکس منتشر کرد. 🔶واگنکنخت معتقد است که محدودیت‌های اعمال شده علیه مسکو، مناقشه اوکراین را به پایان نزدیک‌تر نمی‌کند، بلکه در عوض به نابودی شرکت‌های آلمانی و کاهش رفاه مردم منجر می‌شود. 🔶او نوشت: &amp;quot;دیگر بس است از تحریم‌های بی‌معنی علیه روسیه، که شرکت‌</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103893.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103893.jpg" medium="image" />
@@ -70,19 +79,10 @@
       <title>کاروان ویتکاف و کوشنر کرملین را ترک کردند</title>
       <link>https://sputnikiran.github.io/news/103892-کاروان-ویتکاف-و-کوشنر-کرم.html</link>
       <guid isPermaLink="true">https://sputnikiran.github.io/news/103892-کاروان-ویتکاف-و-کوشنر-کرم.html</guid>
-      <pubDate>Wed, 11 Nov 2026 23:18:47 GMT</pubDate>
+      <pubDate>Wed, 11 Nov 2026 20:48:40 GMT</pubDate>
       <description>🔶استیو ویتکاف فرستاده ویژه رئیس‌جمهور آمریکا پنجشنبه برای دهمین بار در طی دو سال اخیر با ولادیمیر پوتین رئیس‌جمهور روسیه دیدار کرد و در این دیدار پوتین بر مخالفت با حضور نیروهای خارجی در اوکراین تاکید کرد. 🔶مذاکرات…</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103892.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103892.jpg" medium="image" />
-    </item>
-    <item>
-      <title>نقطه عطف هرمز: چگونه ایران قواعد تجارت جهانی را تغییر می‌دهد</title>
-      <link>https://sputnikiran.github.io/news/103891-نقطه-عطف-هرمز-چگونه-ایران.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103891-نقطه-عطف-هرمز-چگونه-ایران.html</guid>
-      <pubDate>Wed, 11 Nov 2026 20:18:47 GMT</pubDate>
-      <description>🔶در حالی که در واشینگتن درباره دیپلماسی پشت پرده با تهران بحث می‌شود، در خلیج فارس نظم معمول جهانی در حال فروپاشی است. ایران مناقشه را از سطح موشکی به نبرد برای کنترل لجستیک جهانی منتقل می‌کند. 🔶پایان «ترانزیت آزاد» رئیس مجلس ایران اعلام کرد که تنگه هرمز به وضعیت پیش از جنگ بازنخواهد گشت. تهران عملاً کنوانسیون حقوق دریاهای سازمان ملل متحد (1982) را برای خود لغو می‌کند: از این پس قواعد کشتیرانی در تنگه باید تنها توسط خود ایران و عمان تعیین شود. این موضع با زور پشتیبانی می‌شود؛ انفجار در نفتکش‌ه</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103891.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103891.jpg" medium="image" />
     </item>
   </channel>
 </rss>
