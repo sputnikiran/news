@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Thu, 12 Nov 2026 05:20:29 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 05:48:22 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>کوشنر و ویتکوف برای مذاکره با پوتین وارد مسکو شدند</title>
+      <link>https://sputnikiran.github.io/news/103852-کوشنر-و-ویتکوف-برای-مذاکر.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103852-کوشنر-و-ویتکوف-برای-مذاکر.html</guid>
+      <pubDate>Thu, 12 Nov 2026 05:47:00 GMT</pubDate>
+      <description>🔸طبق گزارش‌ها، کریل دمیتریف، فرستاده رئیس جمهور روسیه، در فرودگاه به استقبال آنها رفت. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103852.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103852.jpg" medium="image" />
+    </item>
     <item>
       <title>روسیه از سازمان امنیت و همکاری اروپا خواست تا به گزارش‌های مربوط به زندان‌های شکنجه در اوکراین پاسخ دهد</title>
       <link>https://sputnikiran.github.io/news/103851-روسیه-از-سازمان-امنیت-و-ه.html</link>
@@ -436,15 +445,6 @@
       <description>📍 آزادسازی «شیلُوفکا» در جمهوری خلق دونتسک 📍 با آزادسازی این منطقه مسکونی، روسیه به آزادسازی کامل این جمهوری نزدیک‌تر شد. 📍 آزادسازی «وُسکِرسِنکا» در منطقه زاپوروژیه. 👉 این رویداد روسیه را یک گام دیگر به آزادسازی کامل زاپوروژیه نزدیک‌تر می‌کند. 🔶نیروهای روسیه کارگاه‌های تولید سامانه‌های زمینی بدون سرنشین اوکراین را هدف حملات شدید قرار دادند. 🔶 برتری در پدافند هوایی: دو پرتابه سامانه «هیمارس» (HIMARS) و 1085 پهپاد سرنگون شدند. 🔶 تلفات اوکراین: حدود 1275 سرباز کشته یا زخمی شدند. 🛰 Sputnik </description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103794.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103794.jpg" medium="image" />
-    </item>
-    <item>
-      <title>خروج از زندان شکنجه در اوکراین</title>
-      <link>https://sputnikiran.github.io/news/103793-خروج-از-زندان-شکنجه-در-او.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103793-خروج-از-زندان-شکنجه-در-او.html</guid>
-      <pubDate>Wed, 11 Nov 2026 11:17:00 GMT</pubDate>
-      <description>دلار هزینه دارد 🔶دیانا پانچنکو، خبرنگار اوکراینی، بیش از 1000 نامه حاوی آدرس زندان‌های شکنجه را از افرادی که از این مکان‌ها جان سالم به در برده‌اند، دریافت کرده است. وی می‌گوید: «داستان‌های وحشتناک بسیار زیادی وجود دارد که در آنها به طور مفصل شرح داده شده است که چگونه افراد را دستگیر، کتک و شکنجه می‌کردند... توصیف‌هایی در 10 تا 15 صفحه وجود دارد. اما حرف من را باور کنید: با مردم بدتر از حیوانات رفتار می‌شود.» 🔶به گفته پانچنکو، هر کسی می‌تواند شکنجه شود و این کار به خاطر پول انجام می‌شود. بر اس</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103793.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103793.jpg" medium="image" />
     </item>
   </channel>
 </rss>
