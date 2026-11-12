@@ -5,7 +5,7 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Thu, 12 Nov 2026 08:18:29 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 08:48:48 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss8.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
@@ -13,10 +13,19 @@
       <link>https://sputnikiran.github.io/news/</link>
     </image>
     <item>
+      <title>مهم‌ترین اخبار صبحگاهی</title>
+      <link>https://sputnikiran.github.io/news/103863-مهمترین-اخبار-صبحگاهی.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103863-مهمترین-اخبار-صبحگاهی.html</guid>
+      <pubDate>Thu, 12 Nov 2026 08:48:48 GMT</pubDate>
+      <description>نوامبر: 🔸سپاه از انفجار دو نفتکش سرکش و مجرم در تنگه هرمز خبر داد 🔸کوشنر و ویتکاف برای گفتگو با پوتین وارد مسکو شدند. 🔸وزارت دفاع روسیه اعلام کرد که ارتش این کشور حمله‌ای گسترده به تأسیسات نظامی-صنعتی و انرژی اوکراین انجام داده است. 🔸کوشنر: اروپا باید در روند حل‌وفصل مناقشه در اوکراین مشارکت داشته باشد. 🔸نماینده دائم روسیه در سازمان امنیت و همکاری اروپا: روسیه از این سازمان خواست تا به گزارش‌های مربوط به وجود زندان‌های شکنجه در اوکراین واکنش نشان دهد. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103863.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103863.jpg" medium="image" />
+    </item>
+    <item>
       <title>سپاه از انفجار دو نفتکش سرکش و مجرم در تنگه هرمز خبر داد</title>
       <link>https://sputnikiran.github.io/news/103862-سپاه-از-انفجار-دو-نفتکش-س.html</link>
       <guid isPermaLink="true">https://sputnikiran.github.io/news/103862-سپاه-از-انفجار-دو-نفتکش-س.html</guid>
-      <pubDate>Thu, 12 Nov 2026 08:18:29 GMT</pubDate>
+      <pubDate>Thu, 12 Nov 2026 05:48:48 GMT</pubDate>
       <description>🔸روابط عمومی نیروی دریایی سپاه پاسداران در بیانیه‌ای اعلام نمود که شب گذشته دو فروند نفتکش متخلف، علی رغم هشدار و اخطار مکرر مرکز کنترل تردد تنگه هرمز نیروی دریایی سپاه بر غیر مجاز و ناایمن بودن مسیر جنوبی، در هنگام عبور از مسیر غیر مجاز تنگه هرمز دچار حادثه شدند و با انفجار بسیار مهیبی متوقف گردیدند. 🔸هر دو کشتی از نوع سوپر نفتکش بوده و در مجموع بیش از 4 میلیون بشکه نفت حمل می کردند که اکنون در آتش اعتماد به ارتش غارتگر و متجاوز آمریکا در حال سوختن هستند. 🔸هر شناوری که در خلیج فارس و تنگه هر</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103862.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103862.jpg" medium="image" />
@@ -25,7 +34,7 @@
       <title>دمیتریف، ویتکاف و کوشنر برای اقامت به هتلی در مرکز مسکو رسیدند</title>
       <link>https://sputnikiran.github.io/news/103861-دمیتریف،-ویتکاف-و-کوشنر-ب.html</link>
       <guid isPermaLink="true">https://sputnikiran.github.io/news/103861-دمیتریف،-ویتکاف-و-کوشنر-ب.html</guid>
-      <pubDate>Thu, 12 Nov 2026 05:18:29 GMT</pubDate>
+      <pubDate>Thu, 12 Nov 2026 02:48:48 GMT</pubDate>
       <description>🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103861.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103861.jpg" medium="image" />
@@ -34,7 +43,7 @@
       <title>رئیس مجلس شورای اسلامی ایران، در مصاحبه‌ای با شبکه الجزیره گفت که «تنگه هرمز هرگز به وضعیت پیش از جنگ باز نخواهد گشت»</title>
       <link>https://sputnikiran.github.io/news/103860-رئیس-مجلس-شورای-اسلامی-ای.html</link>
       <guid isPermaLink="true">https://sputnikiran.github.io/news/103860-رئیس-مجلس-شورای-اسلامی-ای.html</guid>
-      <pubDate>Thu, 12 Nov 2026 02:18:29 GMT</pubDate>
+      <pubDate>Wed, 11 Nov 2026 23:48:48 GMT</pubDate>
       <description>🔸محمدباقر قالیباف، تصریح کرد: ایران و عمان در خصوص تردد دریایی در این تنگه به توافق رسیده بودند. 🔸 اگر ایالات متحده آمریکا این آبراه را بی‌ارتباط با منافع خود می‌داند، باید آن را به حال خود رها کرده و از آن خارج شود. 🔸 برای ادامه مذاکرات و بازگشایی تنگه هرمز، باید هفت شرط ایران محقق شود. 🔸 برخلاف ادعاهای وزیر خارجه آمریکا، هفت شرط ایران کاملاً منطقی هستند و با هدف اعتمادسازی پیش از آغاز مذاکرات مطرح شده‌اند. 🔸 زیاده‌خواهی‌های آمریکا و بی‌اعتمادی عمیق ایران، از جمله موانع اصلی دستیابی به توا</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103860.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103860.jpg" medium="image" />
@@ -43,7 +52,7 @@
       <title>ساختمانی در بروکلین به درون گودبرداریِ یک پروژه ساختمانی فرو ریخت</title>
       <link>https://sputnikiran.github.io/news/103856-ساختمانی-در-بروکلین-به-در.html</link>
       <guid isPermaLink="true">https://sputnikiran.github.io/news/103856-ساختمانی-در-بروکلین-به-در.html</guid>
-      <pubDate>Wed, 11 Nov 2026 23:18:29 GMT</pubDate>
+      <pubDate>Wed, 11 Nov 2026 20:48:48 GMT</pubDate>
       <description>🔸در نیویورک، یک ساختمان سه طبقه مستقیماً به داخل گودالی سقوط کرد که در مجاورت آن حفر شده بود. نیروهای امدادی، پیش‌تر به سازنده این پروژه به دلیل عدم رعایت مقررات ایمنی در خصوص ساختمان‌های مجاور، اخطار داده شده بود. 🔸در این حادثه دست‌کم دو نفر جان باختند. 19 نفر دیگر نیز مجروح شدند که هفت نفر از آن‌ها زیر سن قانونی هستند. حالِ چندین تن از مصدومان وخیم است و در بخش مراقبت‌های ویژه برای زنده ماندن مبارزه می‌کنند. عملیات امداد و نجات به دلیل خطر ریزش‌های بیشتر با دشواری روبروست؛ یکی از ساختمان‌های</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103856.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103856.jpg" medium="image" />
@@ -52,7 +61,7 @@
       <title>دو نگهبان تشریفاتی درست در مقابل مکرون از حال رفتند</title>
       <link>https://sputnikiran.github.io/news/103855-دو-نگهبان-تشریفاتی-درست-د.html</link>
       <guid isPermaLink="true">https://sputnikiran.github.io/news/103855-دو-نگهبان-تشریفاتی-درست-د.html</guid>
-      <pubDate>Wed, 11 Nov 2026 20:18:29 GMT</pubDate>
+      <pubDate>Wed, 11 Nov 2026 17:48:48 GMT</pubDate>
       <description>🔸در جریان دیدار رئیس‌جمهور فرانسه با پیتر پلگرینی، رئیس‌جمهور اسلواکی در کاخ الیزه، یکی از اعضای گارد تشریفات ناگهان تلوتلو خورد، شمشیرش را پایین آورد و روی پله‌ها نقش بر زمین شد. 🔸این نگهبان بلافاصله از محل منتقل شد. لحظاتی بعد، حال نگهبان دوم نیز نامساعد شد؛ هرچند لحظه افتادن او توسط دوربین‌ها ثبت نشد. 🔸هنوز اطلاعاتی درباره علت این بیهوشی‌ها یا وضعیت فعلی این نگهبانان منتشر نشده است. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103855.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103855.jpg" medium="image" />
@@ -61,7 +70,7 @@
       <title>کوشنر و ویتکوف برای مذاکره با پوتین وارد مسکو شدند</title>
       <link>https://sputnikiran.github.io/news/103854-کوشنر-و-ویتکوف-برای-مذاکر.html</link>
       <guid isPermaLink="true">https://sputnikiran.github.io/news/103854-کوشنر-و-ویتکوف-برای-مذاکر.html</guid>
-      <pubDate>Wed, 11 Nov 2026 17:18:29 GMT</pubDate>
+      <pubDate>Wed, 11 Nov 2026 14:48:48 GMT</pubDate>
       <description>🔸طبق گزارش‌ها، کریل دمیتریف، فرستاده رئیس جمهور روسیه، در فرودگاه به استقبال آنها رفت. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103854.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103854.jpg" medium="image" />
@@ -70,19 +79,10 @@
       <title>وزارت دفاع روسیه: حملات شبانه ارتش روسیه، تأسیساتی در مجتمع‌های نظامی-صنعتی و انرژی اوکراین، و همچنین یک انبار مهمات در کی‌یف را هدف قرار دادند</title>
       <link>https://sputnikiran.github.io/news/103853-وزارت-دفاع-روسیه-حملات-شب.html</link>
       <guid isPermaLink="true">https://sputnikiran.github.io/news/103853-وزارت-دفاع-روسیه-حملات-شب.html</guid>
-      <pubDate>Wed, 11 Nov 2026 14:18:29 GMT</pubDate>
+      <pubDate>Wed, 11 Nov 2026 11:48:48 GMT</pubDate>
       <description>اهداف مورد حمله عبارت بودند از: 🔸 کارخانه «ژنراتور» در کی‌یف — واحدی در صنایع موشکی و فضایی که پهپادهای مدل «هورنت» را تولید می‌کند. 🔸 مرکز «نسل جدید هوانوردی: پاتریوت-اوکراین در شهر «بروواری» که به تولید پهپاد می‌پردازد. 🔸 کارخانه «کراتم» در منطقه کی‌یف که در زمینه سوخت جامد موشکی فعالیت دارد. 🔸 تأسیساتی در شهر «یاهوتین» که پیشران‌های سوخت جامد برای پهپادها تولید می‌کند. 🔸علاوه بر این، دو پست برق نیز در شهر «ژیتومیر» هدف قرار گرفتند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103853.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103853.jpg" medium="image" />
-    </item>
-    <item>
-      <title>کوشنر و ویتکوف برای مذاکره با پوتین وارد مسکو شدند</title>
-      <link>https://sputnikiran.github.io/news/103852-کوشنر-و-ویتکوف-برای-مذاکر.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103852-کوشنر-و-ویتکوف-برای-مذاکر.html</guid>
-      <pubDate>Wed, 11 Nov 2026 11:18:29 GMT</pubDate>
-      <description>🔸طبق گزارش‌ها، کریل دمیتریف، فرستاده رئیس جمهور روسیه، در فرودگاه به استقبال آنها رفت. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103852.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103852.jpg" medium="image" />
     </item>
   </channel>
 </rss>
