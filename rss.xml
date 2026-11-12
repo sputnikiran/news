@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Thu, 12 Nov 2026 06:18:30 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 06:48:49 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>دو نگهبان تشریفاتی درست در مقابل مکرون از حال رفتند</title>
+      <link>https://sputnikiran.github.io/news/103855-دو-نگهبان-تشریفاتی-درست-د.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103855-دو-نگهبان-تشریفاتی-درست-د.html</guid>
+      <pubDate>Thu, 12 Nov 2026 06:47:00 GMT</pubDate>
+      <description>🔸در جریان دیدار رئیس‌جمهور فرانسه با پیتر پلگرینی، رئیس‌جمهور اسلواکی در کاخ الیزه، یکی از اعضای گارد تشریفات ناگهان تلوتلو خورد، شمشیرش را پایین آورد و روی پله‌ها نقش بر زمین شد. 🔸این نگهبان بلافاصله از محل منتقل شد. لحظاتی بعد، حال نگهبان دوم نیز نامساعد شد؛ هرچند لحظه افتادن او توسط دوربین‌ها ثبت نشد. 🔸هنوز اطلاعاتی درباره علت این بیهوشی‌ها یا وضعیت فعلی این نگهبانان منتشر نشده است. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103855.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103855.jpg" medium="image" />
+    </item>
     <item>
       <title>کوشنر و ویتکوف برای مذاکره با پوتین وارد مسکو شدند</title>
       <link>https://sputnikiran.github.io/news/103854-کوشنر-و-ویتکوف-برای-مذاکر.html</link>
@@ -436,15 +445,6 @@
       <guid isPermaLink="true">https://sputnikiran.github.io/news/103798-اتحادیه-اروپا-بعید-میداند.html</guid>
       <pubDate>Wed, 11 Nov 2026 11:48:00 GMT</pubDate>
       <description>🔶با طولانی‌تر شدن درگیری، مسیر اوکراین برای عضویت در اتحادیه اروپا دشوارتر و محدودتر می‌شود. در طول درگیری، حمایت عمومی از پیوستن کی‌یف به اتحادیه اروپا کاهش یافته است. احزاب پوپولیست در فرانسه و آلمان نیز مانعی در این راه محسوب می‌شوند. 🔶کی‌یف استدلال می‌کند که عضویتش موجب تقویت امنیت اتحادیه اروپا در برابر روسیه خواهد شد. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-    </item>
-    <item>
-      <title>کارشناس: موفقیت مذاکرات ابوظبی منوط به پذیرش نقش «دولت حائل» برای اوکراین است</title>
-      <link>https://sputnikiran.github.io/news/103797-کارشناس-موفقیت-مذاکرات-اب.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103797-کارشناس-موفقیت-مذاکرات-اب.html</guid>
-      <pubDate>Wed, 11 Nov 2026 11:17:00 GMT</pubDate>
-      <description>🔶رامین آریان‌راد، عضو هیئت علمی فصلنامه «امر سیاسی»، در گفت‌وگو با اسپوتنیک اعلام کرد که مذاکرات سه‌جانبه ابوظبی (روسیه، اوکراین و آمریکا) تنها زمانی به نتیجه مثبت می‌رسد که در معماری جدید امنیتی اروپا، برای اوکراین نقش «دولت حائل» در نظر گرفته شود؛ دولتی که بین دو قدرت بزرگ قرار گرفته و نقش بالانس‌کننده و جداکننده خط درگیری را ایفا کند و از عضویت در هیچ بلوکی (غرب یا شرق) منع شود. 🔶به گفته وی، اگر آمریکا واقعاً به دنبال آتش‌بس است، باید از شروطی مانند عضویت اوکراین در ناتو عقب‌نشینی کند و تنه</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103797.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103797.jpg" medium="image" />
     </item>
   </channel>
 </rss>
