@@ -5,13 +5,49 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Thu, 12 Nov 2026 12:20:02 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 12:49:22 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>پوتین: روسیه هرگز مخالف گفتگو با اروپا نبوده است</title>
+      <link>https://sputnikiran.github.io/news/103883-پوتین-روسیه-هرگز-مخالف-گف.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103883-پوتین-روسیه-هرگز-مخالف-گف.html</guid>
+      <pubDate>Thu, 12 Nov 2026 12:48:00 GMT</pubDate>
+      <description>🔸رئیس‌جمهور روسیه در دیدار با ویتکاف و کوشنر، نمایندگان آمریکا، افزود که این دولت‌های اروپایی بودند که مذاکره و ارتباطات را متوقف کردند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103883.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103883.jpg" medium="image" />
+    </item>
+    <item>
+      <title>پوتین: با الگوبرداری از نمونه «آلیوشکی»، می توان یک مأموریت بشردوستانه در«کنستانتینوفکا» سازماندهی شود</title>
+      <link>https://sputnikiran.github.io/news/103882-پوتین-با-الگوبرداری-از-نم.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103882-پوتین-با-الگوبرداری-از-نم.html</guid>
+      <pubDate>Thu, 12 Nov 2026 12:48:00 GMT</pubDate>
+      <description>🔸پوتین در دیدار با ویتکاف و کوشنر در کاخ کرملین اظهار داشت که برای روسیه، تنها یک خط مرزبندی با اوکراین وجود دارد: مرز دولتی. 🔸رئیس‌جمهور روسیه خاطرنشان…</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103882.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103882.jpg" medium="image" />
+    </item>
+    <item>
+      <title>ویتکاف: مذاکرات در ابوظبی در فضایی مثبت انجام شد  نماینده رئیس جمهور آمریکا در دیدار با پوتین گفت:</title>
+      <link>https://sputnikiran.github.io/news/103881-ویتکاف-مذاکرات-در-ابوظبی.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103881-ویتکاف-مذاکرات-در-ابوظبی.html</guid>
+      <pubDate>Thu, 12 Nov 2026 12:48:00 GMT</pubDate>
+      <description>🔸 در این مذاکرات، هیئت‌های روسیه و اوکراین به‌طور مؤثر فعالیت کردند. 🔸 تبادل قریب‌الوقوع زندانیان، نشان‌دهنده پیشرفت به سوی دستیابی به یک توافق است. 🔸 اگرچه…</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103881.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103881.jpg" medium="image" />
+    </item>
+    <item>
+      <title>پوتین با ویتکاف و کوشنر دیدار کرد</title>
+      <link>https://sputnikiran.github.io/news/103880-پوتین-با-ویتکاف-و-کوشنر-د.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103880-پوتین-با-ویتکاف-و-کوشنر-د.html</guid>
+      <pubDate>Thu, 12 Nov 2026 12:48:00 GMT</pubDate>
+      <description>⭕️رئیس‌جمهور روسیه از هیئت آمریکایی خواست تا مراتب قدردانی او را به خاطر تسهیل ارتباطات میان روسیه و اوکراین، به ترامپ برسانند. ⭕️پوتین در دیدار با نمایندگان ایالات متحده آمریکا خاطرنشان کرد که در مسیر مسائل بشردوستانه…</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103880.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103880.jpg" medium="image" />
+    </item>
     <item>
       <title>کاروان حامل مذاکره‌کنندگان آمریکایی، استیو ویتکوف و جارد کوشنر، وارد کاخ کرملین شد</title>
       <link>https://sputnikiran.github.io/news/103879-کاروان-حامل-مذاکرهکنندگان.html</link>
@@ -421,42 +457,6 @@
       <description>🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103823.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103823.jpg" medium="image" />
-    </item>
-    <item>
-      <title>مدینسکی: روسیه هیچ گونه تبادل ارضی با اوکراین را محتمل نمی‌داند</title>
-      <link>https://sputnikiran.github.io/news/103822-مدینسکی-روسیه-هیچ-گونه-تب.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103822-مدینسکی-روسیه-هیچ-گونه-تب.html</guid>
-      <pubDate>Wed, 11 Nov 2026 15:47:00 GMT</pubDate>
-      <description>▫️دستیار رهبر روسیه همچنین اظهار داشت که اگر مذاکرات به تشکیل یک سیستم امنیتی عادلانه منجر شود، صلح در اروپا برای دهه‌ها تضمین خواهد شد. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103822.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103822.jpg" medium="image" />
-    </item>
-    <item>
-      <title>ویتکاف و کوشنر از ابوظبی پرواز کردند</title>
-      <link>https://sputnikiran.github.io/news/103821-ویتکاف-و-کوشنر-از-ابوظبی.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103821-ویتکاف-و-کوشنر-از-ابوظبی.html</guid>
-      <pubDate>Wed, 11 Nov 2026 15:17:00 GMT</pubDate>
-      <description>🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103821.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103821.jpg" medium="image" />
-    </item>
-    <item>
-      <title>کارشناس: تصمیم ایران علیه نیروهای نظامی آرژانتین/ از تقابل حقوقی تا تهدید تجارت دوجانبه</title>
-      <link>https://sputnikiran.github.io/news/103820-کارشناس-تصمیم-ایران-علیه.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103820-کارشناس-تصمیم-ایران-علیه.html</guid>
-      <pubDate>Wed, 11 Nov 2026 15:17:00 GMT</pubDate>
-      <description>▫️دکتر افسانه خسروی، استاد دانشگاه و کارشناس مسائل حقوق بین‌الملل، در گفت‌وگو با اسپوتنیک اظهار داشت: تصمیم وزارت امور خارجه جمهوری اسلامی ایران در 11 نوامبر 2026 مبنی بر تروریستی اعلام کردن نیروی دریایی و نیروی هوایی آرژانتین، در چارچوب سیاست مقابله متقابل و قانون سال 1398 با عنوان «اقدام متقابل در برابر اعلام سپاه پاسداران انقلاب اسلامی به‌عنوان سازمان تروریستی توسط ایالات متحده آمریکا» قابل بررسی است. بر اساس این قانون، دولت‌هایی که با اقدام آمریکا علیه سپاه همکاری یا از آن حمایت کنند، با اقد</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103820.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103820.jpg" medium="image" />
-    </item>
-    <item>
-      <title>وزارت خارجه ایران نیروی دریایی و هوایی آرژانتین را سازمان‌های تروریستی اعلام کرد</title>
-      <link>https://sputnikiran.github.io/news/103819-وزارت-خارجه-ایران-نیروی-د.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103819-وزارت-خارجه-ایران-نیروی-د.html</guid>
-      <pubDate>Wed, 11 Nov 2026 14:47:00 GMT</pubDate>
-      <description>🔶وزارت امور خارجه ایران در بیانیه‌ای اعلام کرد: از آنجا که دولت آرژانتین برخلاف اصول بنیادین حقوق بین‌الملل، در اقدامی خصمانه سپاه پاسداران انقلاب اسلامی (یکی از ارکان نیروهای…</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103819.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103819.jpg" medium="image" />
     </item>
   </channel>
 </rss>
