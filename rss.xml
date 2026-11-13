@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Fri, 13 Nov 2026 15:48:42 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 16:48:30 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>کارشناس: مخالفت اوکراین با آتش‌بس بشردوستانه در کنستانتینوفکا نشان می‌دهد که کی‌یف به غیرنظامیان اهمیتی نمی‌دهد</title>
+      <link>https://sputnikiran.github.io/news/103951-کارشناس-مخالفت-اوکراین-با.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103951-کارشناس-مخالفت-اوکراین-با.html</guid>
+      <pubDate>Fri, 13 Nov 2026 16:47:00 GMT</pubDate>
+      <description>🔶الکساندر میخائیلوف، رئیس دفتر تحلیل نظامی-سیاسی، در گفت‌وگو با اسپوتنیک و در واکنش به عدم تمایل مقامات اوکراینی به پذیرش مأموریت بشردوستانه پیشنهادی ولادیمیر پوتین برای تخلیه غیرنظامیان از شهرک کنستانتینوفکا (بر اساس تجربه موفق اخیر در آلشکی) اعلام کرد: «من فکر نمی‌کنم کی‌یف یا حامیان غربی آن به ویژه نگران جنبه‌های بشردوستانه باشند.» 🔶به گفته این ناظر، تجربه آلشکی نشان داد که روسیه «عملاً تنها کشوری است که واقعاً به غیرنظامیان در منطقه درگیری اهمیت می‌دهد» و حتی ناظران خارجی نیز «به وضوح این </description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103951.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103951.jpg" medium="image" />
+    </item>
     <item>
       <title>وزارت دفاع روسیه: حمله به زیرساخت‌های انرژی، بنادر و راه‌آهن اوکراین</title>
       <link>https://sputnikiran.github.io/news/103949-وزارت-دفاع-روسیه-حمله-به.html</link>
@@ -448,15 +457,6 @@
       <description>▫️معترضان فروشگاه‌ها را تخریب کردند و روی شیشه‌ها رنگ پاشیدند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103896.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103896.jpg" medium="image" />
-    </item>
-    <item>
-      <title>وزارت دفاع روسیه: اپراتورهای پهپاد روسیه اهداف اوکراینی را منهدم کردند</title>
-      <link>https://sputnikiran.github.io/news/103895-وزارت-دفاع-روسیه-اپراتوره.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103895-وزارت-دفاع-روسیه-اپراتوره.html</guid>
-      <pubDate>Thu, 12 Nov 2026 16:47:00 GMT</pubDate>
-      <description>👉وزارت دفاع روسیه اعلام کرد که نیروهای سامانه‌های بدون سرنشین «واریاگ» روسیه، پهپادهای اوکراینی را بر فراز جاده نووروسیا سرنگون کردند: 🔶پهپادهای انتحاری «روباگ» و «زوزولیا» 🔶پهپادهای دوربرد FP-1، V-2 و هورنت 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103895.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103895.jpg" medium="image" />
     </item>
   </channel>
 </rss>
