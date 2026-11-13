@@ -5,13 +5,20 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Fri, 13 Nov 2026 09:48:47 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 10:18:32 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>کمیته تحقیقات روسیه: سرگئی زاوروتنی، مشاور سابق میکولا آزاروف، نخست وزیر سابق اوکراین، در انفجاری در جنوب مسکو زخمی شده است</title>
+      <link>https://sputnikiran.github.io/news/103925-کمیته-تحقیقات-روسیه-سرگئی.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103925-کمیته-تحقیقات-روسیه-سرگئی.html</guid>
+      <pubDate>Fri, 13 Nov 2026 10:17:00 GMT</pubDate>
+      <description>🔸پرونده‌ای به اتهام تلاش برای قتل گشوده شده است. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+    </item>
     <item>
       <title>رسانه انگلیسی: کاروان زلنسکی در حین بازدید از ایرلند مورد اصابت تخم‌مرغ قرار گرفت</title>
       <link>https://sputnikiran.github.io/news/103924-رسانه-انگلیسی-کاروان-زلنس.html</link>
@@ -448,15 +455,6 @@
       <description>🔸برای پایان دادن به مناقشه، اوکراین باید با شرایط روسیه موافقت کند. الکساندر مرکوریس، تحلیلگر نظامی بریتانیایی، چنین دیدگاهی را در رسانه‌ها بیان کرد. 🔸او گفت: “اکنون زمان آن رسیده است که به خواسته‌های روسیه پاسخ داده شود، زیرا ماهیت اصلی این مناقشه این است که اگر خواسته‌های روسیه رد شود، نتیجه ناگزیر این خواهد بود که در نهایت، اوکراینی‌ها در وضعیت بدتری قرار خواهند گرفت”. 🔸به گفته این کارشناس، ولادیمیر زلنسکی به طور هدفمند از گفتگو با مسکو خودداری می‌کند و این امر تنها اوضاع را برای کی‌یف بدت</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103876.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103876.jpg" medium="image" />
-    </item>
-    <item>
-      <title>چین، ماهواره‌ای را در چارچوب برنامه فضایی «منشأ» با موفقیت پرتاب کرد</title>
-      <link>https://sputnikiran.github.io/news/103872-چین،-ماهوارهای-را-در-چارچ.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103872-چین،-ماهوارهای-را-در-چارچ.html</guid>
-      <pubDate>Thu, 12 Nov 2026 11:47:00 GMT</pubDate>
-      <description>🔸شبکه سی جی تی ان تصاویری از پرتاب ماهواره «پث‌فایندر» (Pathfinder) منتشر کرده است؛ رویدادی که روز چهارشنبه در مرکز پرتاب ماهواره «جیوچوان» در شمال غربی چین رخ داد. 🔸این فضاپیما توسط یک موشک حامل «لانگ مارچ-2D» (چانگ‌ژنگ-2D) در مدار مورد نظر قرار گرفت. 🔸این ماهواره به عنوان بخشی از برنامه فضایی علمی چین با نام «منشأ» پرتاب شده است. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103872.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103872.jpg" medium="image" />
     </item>
   </channel>
 </rss>
