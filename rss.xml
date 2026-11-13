@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Fri, 13 Nov 2026 18:18:17 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 18:48:36 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>مدیرعامل روس‌اتم: در حال حاضر</title>
+      <link>https://sputnikiran.github.io/news/103958-مدیرعامل-روساتم-در-حال-حا.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103958-مدیرعامل-روساتم-در-حال-حا.html</guid>
+      <pubDate>Fri, 13 Nov 2026 18:47:00 GMT</pubDate>
+      <description>نفر از کارکنان روس‌اتم در نیروگاه هسته‌ای بوشهر در ایران مشغول به کار هستند 🔶الکسی لیخاچف، مدیرعامل روس‌اتم، اظهار داشت: ؛ قرار است این تعداد در آینده نزدیک به 300 نفر افزایش یابد. ما با ایران توافق‌هایی — از جمله توافق‌های رسمی — در خصوص مکان‌یابی برای نیروگاه‌های بزرگ‌مقیاس و همچنین توافق‌هایی در مورد واحدهای نیروگاهی کوچک‌مقیاس داریم. در حال حاضر، اقدامات مربوط به این طرح‌ها در بخش برنامه‌ریزی‌های سازمانی و پروژه‌ای در جریان است. 🔶وی افزود که اجرای این طرح‌ها به شرایط نظامی-سیاسی و اقتصادی </description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103958.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103958.jpg" medium="image" />
+    </item>
     <item>
       <title>باران‌های شدید باعث رانش زمین در توسکانی ایتالیا شد</title>
       <link>https://sputnikiran.github.io/news/103956-بارانهای-شدید-باعث-رانش-ز.html</link>
@@ -448,15 +457,6 @@
       <description>🔶کشاورزان لتونی علیه قوانین جدید خرید مواد غذایی برای مدارس و مهدکودک‌ها اعتراض کردند. آنها معتقدند این تغییرات باعث می‌شود تولیدکنندگان محلی سفارشی دریافت نکنند. 🔶بر اساس قوانین جدید، برخی محصولات را می‌توان از تأمین‌کنندگانی در شعاع 300 کیلومتری از مرز ریگا خریداری کرد که عملاً راه را برای واردات از کشورهای همسایه باز می‌کند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103902.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103902.jpg" medium="image" />
-    </item>
-    <item>
-      <title>بازگشت پزشکیان به تهران پس از اجلاس تغییرات اقلیمی سازمان ملل در ترکیه</title>
-      <link>https://sputnikiran.github.io/news/103901-بازگشت-پزشکیان-به-تهران-پ.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103901-بازگشت-پزشکیان-به-تهران-پ.html</guid>
-      <pubDate>Thu, 12 Nov 2026 18:18:00 GMT</pubDate>
-      <description>🔶مسعود پزشکیان، رئیس‌جمهور ایران، در این سفر با برخی سران و رهبران شرکت‌کننده در اجلاس، از جمله رؤسای جمهور ترکیه، عراق و برزیل و نخست‌وزیران پاکستان، ارمنستان و نروژ و همچنین رئیس اقلیم کردستان عراق، دیدار و گفتگوی دوجانبه داشت. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103901.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103901.jpg" medium="image" />
     </item>
   </channel>
 </rss>
