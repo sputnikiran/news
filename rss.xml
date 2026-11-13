@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Fri, 13 Nov 2026 13:18:18 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 13:48:30 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>گشایش نمایندگی شرکت پرومومد در چین</title>
+      <link>https://sputnikiran.github.io/news/103943-گشایش-نمایندگی-شرکت-پرومو.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103943-گشایش-نمایندگی-شرکت-پرومو.html</guid>
+      <pubDate>Fri, 13 Nov 2026 13:47:00 GMT</pubDate>
+      <description>🔶روز 13 نوامبر در نمایندگی بازرگانی روسیه در چین، واحد شرکت پرومومد در چین افتتاح شد. 🔶به گفته پیتر بیلی، رئیس هیئت مدیره و سهام‌دار این شرکت، موضوع ایجاد یک شرکت تحقیقاتی است که بر توسعه مشترک، پژوهش مولکول‌ها و مطالعات بالینی متمرکز خواهد بود؛ اقداماتی که «کیفیت تازه‌ای برای پزشکان و بیماران در روسیه و چین به ارمغان می‌آورد.» 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103943.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103943.jpg" medium="image" />
+    </item>
     <item>
       <title>وزیر کشور فرانسه: روز شنبه تا</title>
       <link>https://sputnikiran.github.io/news/103942-وزیر-کشور-فرانسه-روز-شنبه.html</link>
@@ -448,15 +457,6 @@
       <guid isPermaLink="true">https://sputnikiran.github.io/news/103889-رسانه-آمریکا-از-روسیه-خوا.html</guid>
       <pubDate>Thu, 12 Nov 2026 15:17:00 GMT</pubDate>
       <description>🔶دولت ایالات متحده آمریکا درخواستی برای تهیه نسخه به‌روز شده‌ای از توافق امنیتی در اروپا، به روسیه ارسال کرده است. رسانه‌ آنلاین آمریکایی این خبر را گزارش می‌دهد. 🔶واشنگتن انتظار دارد سندی از مسکو دریافت کند که در آن خواسته‌ها و نگرانی‌های روسیه در حوزه امنیت و همچنین گام‌های متقابل برای کاهش تنش‌ها تشریح شده باشد. 🔶از جمله ابتکارات روسیه که طرف آمریکایی مایل به بحث در مورد آن است، محدود کردن گسترش بیشتر ناتو و کاهش حضور نظامی این ائتلاف در اروپای شرقی است. 🔶انتظار می‌رود چنین توافق‌هایی در </description>
-    </item>
-    <item>
-      <title>وضعیت در مرکز شهر واشنگتن دی سی، جایی که فردی ناشناس آتش گشود</title>
-      <link>https://sputnikiran.github.io/news/103888-وضعیت-در-مرکز-شهر-واشنگتن.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103888-وضعیت-در-مرکز-شهر-واشنگتن.html</guid>
-      <pubDate>Thu, 12 Nov 2026 14:48:00 GMT</pubDate>
-      <description>🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103888.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103888.jpg" medium="image" />
     </item>
   </channel>
 </rss>
