@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Sat, 14 Nov 2026 08:48:28 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 09:18:46 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>موج بزرگ دریا در استامبول، توریست ها را‌در خود فرو برد</title>
+      <link>https://sputnikiran.github.io/news/103980-موج-بزرگ-دریا-در-استامبول.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103980-موج-بزرگ-دریا-در-استامبول.html</guid>
+      <pubDate>Sat, 14 Nov 2026 09:17:00 GMT</pubDate>
+      <description>🔸در استامبول امواج بلند که بر اثر وزش بادهای شدید در تنگه بسفر ایجاد شده بودند، به ساحل برخورد کردند و تا ارتفاع چندین متری به هوا برخاستند؛ در این میان، حجم عظیمی از آب با شدت به سه مرد جوان که کنار نرده‌ای ایستاده بودند، برخورد کرد. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103980.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103980.jpg" medium="image" />
+    </item>
     <item>
       <title>سامانه پیشرفته آتش‌افکن «سولنتسپیوک» روسیه، در کمتر از</title>
       <link>https://sputnikiran.github.io/news/103979-سامانه-پیشرفته-آتشافکن-سو.html</link>
@@ -446,15 +455,6 @@
       <description>نوامبر 🛰کوشنر: پیشرفت معناداری در تلاش‌های صلح روسیه و اوکراین حاصل شد. 🛰قطعی مایکروسافت 74 کشور و منطقه را تحت تأثیر قرار می‌دهد. 🛰والری اوربین، رئیس صندوق سپرده‌گذاری بلژیک، هشدار داد که یوروکلیر در برابر توقیف دارایی‌های روسیه مقاومت نخواهد کرد. 🛰سرویس امنیت فدرال از یک حمله تروریستی در یک مرکز خرید در یکی از شهرهای روسیه جلوگیری کرد. 🛰رادار هشدار اولیه ارتش متجاوز آمریکا در جزیره بحرین هدف قرار گرفته و منهدم شد. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103921.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103921.jpg" medium="image" />
-    </item>
-    <item>
-      <title>آتش‌سوزی گسترده، تالار تاریخی شهر ریوبامبا در مرکز اکوادور را در بر گرفت</title>
-      <link>https://sputnikiran.github.io/news/103920-آتشسوزی-گسترده،-تالار-تار.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103920-آتشسوزی-گسترده،-تالار-تار.html</guid>
-      <pubDate>Fri, 13 Nov 2026 08:47:00 GMT</pubDate>
-      <description>🔥دفاتر شهردار و اتاق شورا آسیب دیدند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103920.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103920.jpg" medium="image" />
     </item>
   </channel>
 </rss>
