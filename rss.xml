@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Sat, 14 Nov 2026 13:18:19 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 13:48:25 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>کرملین: بهتر است بررسی شود که موضع اروپا چگونه می‌تواند به تلاش‌های صلح کمک کند</title>
+      <link>https://sputnikiran.github.io/news/103994-کرملین-بهتر-است-بررسی-شود.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103994-کرملین-بهتر-است-بررسی-شود.html</guid>
+      <pubDate>Sat, 14 Nov 2026 13:47:00 GMT</pubDate>
+      <description>🔶دیمیتری پسکوف، سخنگوی کرملین، گفت: «بهتر است با اروپایی‌ها وارد گفتگو شویم و دریابیم که موضع آن‌ها تا چه حد می‌تواند به روند صلح کمک کند.» 🔶وی افزود که روسیه هیچ‌گونه شرطی در مورد ترکیب تیم مذاکره‌کننده اروپایی تعیین نخواهد کرد و مطرح کردن موضوع به این شکل، نادرست خواهد بود. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103994.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103994.jpg" medium="image" />
+    </item>
     <item>
       <title>تحولات مهم در درگیری نظامی یمن و اظهارات طرف‌های درگیر</title>
       <link>https://sputnikiran.github.io/news/103993-تحولات-مهم-در-درگیری-نظام.html</link>
@@ -446,15 +455,6 @@
       <description>کشتی باری حامل سلاح و تجهیزات نظامی به مقصد اوکراین طی هفته گذشته مورد هدف قرار گرفتن ▫️حملات گسترده: نیروهای روسیه دو حمله در مقیاس بزرگ و 12 حمله هماهنگ را علیه تأسیسات صنایع دفاعی، مراکز لجستیکی و زیرساخت‌های انرژی اوکراین انجام دادند. ▫️پدافند هوایی: سامانه‌های پدافند هوایی روسیه چهار موشک «راستی دگر» (Rusty Dagger)، چهار موشک دوربرد «نپتون» و 6177 پهپاد اوکراینی را سرنگون کردند. ▫️تلفات نیروهای اوکراینی: حدود 8350 نفر کشته یا زخمی شدند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103937.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103937.jpg" medium="image" />
-    </item>
-    <item>
-      <title>یک پهپاد شاهد-</title>
-      <link>https://sputnikiran.github.io/news/103936-یک-پهپاد-شاهد.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103936-یک-پهپاد-شاهد.html</guid>
-      <pubDate>Fri, 13 Nov 2026 12:17:00 GMT</pubDate>
-      <description>ساخت ایران، برای اولین بار به صورت زنده در استودیوی شبکه تلویزیونی IRIB به نمایش درآمد 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103936.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103936.jpg" medium="image" />
     </item>
   </channel>
 </rss>
