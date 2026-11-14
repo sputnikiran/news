@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Sat, 14 Nov 2026 17:48:51 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 18:18:31 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>فیلیپو: اروپا با موضع خصمانه علیه روسیه، از مذاکرات نظم جهانی جدید کنار گذاشته شد</title>
+      <link>https://sputnikiran.github.io/news/104010-فیلیپو-اروپا-با-موضع-خصما.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/104010-فیلیپو-اروپا-با-موضع-خصما.html</guid>
+      <pubDate>Sat, 14 Nov 2026 18:17:00 GMT</pubDate>
+      <description>🗣 فلوریان فیلیپو، نامزد انتخابات ریاست‌جمهوری فرانسه، اعلام کرد که اروپا با اتخاذ موضعی خصمانه علیه روسیه، در نهایت زمانی که قدرت‌های بزرگ بحث درباره نظم جهانی جدید را آغاز کردند، از میدان خارج شد. وی در واکنش به نشست پیش‌روی رهبران روسیه، چین و آمریکا در اجلاس APEC، این نشست را یکی از مهم‌ترین رویدادهای آغاز قرن 21 توصیف کرد. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104010.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104010.jpg" medium="image" />
+    </item>
     <item>
       <title>کارشناس: بعید بودن خروج فیزیکی اورانیوم غنی‌شده ایران و گزینه واقع‌بینانه‌تر رقیق‌سازی در داخل</title>
       <link>https://sputnikiran.github.io/news/104009-کارشناس-بعید-بودن-خروج-فی.html</link>
@@ -446,15 +455,6 @@
       <description>نظامی 🔶این رزمایش با عملیات پاکسازی ساحل توسط نیروهای ویژه نیروی دریایی (Kopaska) آغاز شد. سپس شبیه‌سازی حمله هوایی با مشارکت 3 جنگنده T-50 Golden Eagle و پشتیبانی آتش از کشتی‌های جنگی انجام شد. اوج این رزمایش، پیاده‌سازی تفنگداران دریایی با استفاده از کشتی‌های آبی‌خاکی و بالگردها بود. 🔶این رزمایش در چارچوب اجرای دکترین دفاعی «Perisai Trisula Nusantara» برگزار شد که هدف آن تمرین هماهنگی میان نیروهای مسلح برای حفاظت از حاکمیت کشور است. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103948.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103948.jpg" medium="image" />
-    </item>
-    <item>
-      <title>در پی برخورد یک کامیون و یک مینی‌بوس در شرق هند، دست کم</title>
-      <link>https://sputnikiran.github.io/news/103947-در-پی-برخورد-یک-کامیون-و.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103947-در-پی-برخورد-یک-کامیون-و.html</guid>
-      <pubDate>Fri, 13 Nov 2026 15:17:00 GMT</pubDate>
-      <description>نفر کشته و هفت نفر دیگر زخمی شدند 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103947.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103947.jpg" medium="image" />
     </item>
   </channel>
 </rss>
