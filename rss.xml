@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Sat, 14 Nov 2026 13:48:25 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 14:18:40 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>احتمال مذاکرات ایران و آمریکا پایین است</title>
+      <link>https://sputnikiran.github.io/news/103995-احتمال-مذاکرات-ایران-و-آم.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103995-احتمال-مذاکرات-ایران-و-آم.html</guid>
+      <pubDate>Sat, 14 Nov 2026 14:17:00 GMT</pubDate>
+      <description>🗣 علی ودایع، پژوهشگر و تحلیلگر مسائل بین‌الملل، در این خصوص به شیوا آبشناس، خبرنگار اسپوتنیک در تهران گفت: باید میان نیاز ساختاری به مدیریت بحران و امکان‌سنجی دیپلماسی مستقیم تفکیک قائل شد. در شرایط کنونی، ما با سطوح متفاوت از تعامل روبه‌رو هستیم. 👉وی افزود:درباره مذاکرات مستقیم ، «فعلا» احتمال تحقق آن خیلی پایین است اما درباره ترامپ هیچ غیرممکنی وجود ندارد. اگرچه نشست سه‌جانبه «دونالد ترامپ»، «ولادیمیر پوتین » و «شی جین‌پینگ» در شنزن چین که پرونده ایران و کنترل تسلیحات هسته‌ای از محورهای کلید</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103995.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103995.jpg" medium="image" />
+    </item>
     <item>
       <title>کرملین: بهتر است بررسی شود که موضع اروپا چگونه می‌تواند به تلاش‌های صلح کمک کند</title>
       <link>https://sputnikiran.github.io/news/103994-کرملین-بهتر-است-بررسی-شود.html</link>
@@ -446,15 +455,6 @@
       <description>🔸رویکرد کایا کالاس، رئیس دیپلماسی اروپا، بحث در مورد مسائل جدی با روسیه را بی‌معنی کرده است. رسانه معتبر آمریکایی، در مقاله‌ای به این موضوع اشاره کرده است. 🔸این نشریه خاطرنشان می‌کند که اروپا در تلاش برای دستیابی به آتش‌بس قبل از بحث در مورد مسائل امنیتی، درخواست‌های کاملاً بی‌معنی را به مسکو ارائه می‌دهد. به گفته نویسنده، با توجه به لفاظی‌های بسیار خصمانه بروکسل علیه روسیه، هیچ تضمینی وجود ندارد که این اتحادیه به وعده‌های خود عمل کند. 🔸این مجله چنین پرسش را مطرح می‌کند: &amp;quot;این موضع یا کام</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103939.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103939.jpg" medium="image" />
-    </item>
-    <item>
-      <title>وزارت دفاع روسیه:</title>
-      <link>https://sputnikiran.github.io/news/103937-وزارت-دفاع-روسیه.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103937-وزارت-دفاع-روسیه.html</guid>
-      <pubDate>Fri, 13 Nov 2026 12:17:00 GMT</pubDate>
-      <description>کشتی باری حامل سلاح و تجهیزات نظامی به مقصد اوکراین طی هفته گذشته مورد هدف قرار گرفتن ▫️حملات گسترده: نیروهای روسیه دو حمله در مقیاس بزرگ و 12 حمله هماهنگ را علیه تأسیسات صنایع دفاعی، مراکز لجستیکی و زیرساخت‌های انرژی اوکراین انجام دادند. ▫️پدافند هوایی: سامانه‌های پدافند هوایی روسیه چهار موشک «راستی دگر» (Rusty Dagger)، چهار موشک دوربرد «نپتون» و 6177 پهپاد اوکراینی را سرنگون کردند. ▫️تلفات نیروهای اوکراینی: حدود 8350 نفر کشته یا زخمی شدند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103937.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103937.jpg" medium="image" />
     </item>
   </channel>
 </rss>
