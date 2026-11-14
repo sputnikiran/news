@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Sat, 14 Nov 2026 05:48:27 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 06:18:46 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>انهدام پهپادهای اوکراینی توسط ارتش روسیه</title>
+      <link>https://sputnikiran.github.io/news/103972-انهدام-پهپادهای-اوکراینی.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103972-انهدام-پهپادهای-اوکراینی.html</guid>
+      <pubDate>Sat, 14 Nov 2026 06:18:00 GMT</pubDate>
+      <description>🔸به گزارش وزارت دفاع روسیه، اپراتورهای پهپاد از گروه یگان «غرب» روسیه با موفقیت 6 پهپاد اوکراینی را در لوهانسک سرنگون کردند. ما را در سایت و تلگرام اسپوتنیک دنبال کنید 👇 🔸 Sputnik Afghanistan | Telegram 🔸</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103972.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103972.jpg" medium="image" />
+    </item>
     <item>
       <title>کارشناس سیاسی: پیشنهاد بشردوستانه پوتین ادعاهای کی‌یف درباره کنستانتینوفکا را به چالش می‌کشد</title>
       <link>https://sputnikiran.github.io/news/103971-کارشناس-سیاسی-پیشنهاد-بشر.html</link>
@@ -446,15 +455,6 @@
       <description>کشور و منطقه را تحت تأثیر قرار داده است 🔸حدود 30 درصد از کل شکایات از ایالات متحده بوده است. این قطعی‌ها همچنین سازمان‌های دولتی، مدارس و دانشگاه‌های استرالیا را تحت تأثیر قرار داده است. 🔸شکایات گسترده‌ای در مورد قطعی در چندین سرویس این شرکت از عصر 12 نوامبر (پنجشنبه) آغاز شد. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103914.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103914.jpg" medium="image" />
-    </item>
-    <item>
-      <title>سگ‌های رباتیک در عملیاتی علیه باندهای تبهکار در هائیتی مورد استفاده قرار گرفتند</title>
-      <link>https://sputnikiran.github.io/news/103913-سگهای-رباتیک-در-عملیاتی-ع.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103913-سگهای-رباتیک-در-عملیاتی-ع.html</guid>
-      <pubDate>Fri, 13 Nov 2026 05:48:00 GMT</pubDate>
-      <description>🔶در جریان این عملیات، نیروهای هائیتی و نیروهای ویژه السالوادور کنترل یک ورزشگاه در پورتو پرنس را به دست گرفتند، جایی که بقایای انسانی کشف شد. تصاویر این عملیات توسط بوکله، رئیس جمهور السالوادور، منتشرشده است. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103913.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103913.jpg" medium="image" />
     </item>
   </channel>
 </rss>
