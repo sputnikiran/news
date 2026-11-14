@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Sat, 14 Nov 2026 19:18:25 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 19:48:28 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>هنرمند لبنانی: این ترکش‌ها قرار بود مرا بکشند، اما آنها را به اثری زیبا تبدیل کردم</title>
+      <link>https://sputnikiran.github.io/news/104017-هنرمند-لبنانی-این-ترکشها.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/104017-هنرمند-لبنانی-این-ترکشها.html</guid>
+      <pubDate>Sat, 14 Nov 2026 19:47:00 GMT</pubDate>
+      <description>👩🏻‍🎨🎨لینا جونی، هنرمند لبنانی و کارشناس باستان‌شناسی، به اسپوتنیک گفت که تصمیم گرفته ابزارهای مرگ را به آثاری تبدیل کند که تجسم زندگی هستند. وی اشاره کرد که برخی از ترکش‌های گلوله‌ها، به درخواست خانواده‌های قربانیان که می‌خواستند این قطعات را در قالب مجسمه‌های هنری حفظ کنند، به نمادهایی برای یادبود درگذشتگان تبدیل شده‌اند. 👩🏻‍🎨لینا جونی در پایان گفت: «همان شیئی که قرار بود زندگی‌ام را نابود کند، به اثر هنری تبدیل شده است که فضا را زینت می‌دهد — انگار که اعلام می‌کنم: &amp;quot;من نابود نشدم&amp;q</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104017.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104017.jpg" medium="image" />
+    </item>
     <item>
       <title>رویدادهای مهم جهان تا شامگاه</title>
       <link>https://sputnikiran.github.io/news/104016-رویدادهای-مهم-جهان-تا-شام.html</link>
@@ -444,15 +453,6 @@
       <description>🔶ولادیمیر پوتین در جریان مذاکرات با نمایندگان آمریکا، استیو ویتکاف و جارد کوشنر، به صراحت اعلام کرد که روسیه از خواسته‌های خود عقب‌نشینی نخواهد کرد. این را لری جانسون، تحلیلگر سابق سیا، در مصاحبه با دانیل دیویس اعلام کرد. 🔶وی گفت: &amp;quot;نمی‌دانم که ویتکاف و کوشنر نکته اصلی را فهمیده‌اند یا نه، اما پوتین از هیچ یک از مواضعی که پیش‌تر اعلام شده بود، عقب‌نشینی نکرده است&amp;quot;. 🔶به گفته این کارشناس، روسیه شرایط الزامی را به روشنی مشخص کرده است. در همان حال، این تحلیلگر افزود، اروپا باید درک کند ک</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103953.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103953.jpg" medium="image" />
-    </item>
-    <item>
-      <title>معاون شورای امنیت روسیه: اتحادیه اروپا را هیچ‌کس به مذاکرات اوکراین دعوت نکرده است</title>
-      <link>https://sputnikiran.github.io/news/103952-معاون-شورای-امنیت-روسیه-ا.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103952-معاون-شورای-امنیت-روسیه-ا.html</guid>
-      <pubDate>Fri, 13 Nov 2026 17:18:00 GMT</pubDate>
-      <description>🔶دمیتری مدودف، معاون شورای امنیت روسیه، در واکنش به اظهارات کایا کالاس (مسئول سیاست خارجی اتحادیه اروپا) مبنی بر اینکه او باید اتحادیه اروپا را در مذاکرات نمایندگی کند و «روس‌ها او را نمی‌خواهند ببینند»، نوشت: «او را اصلاً هیچ‌کس نمی‌خواهد، نه به این دلیل که &amp;quot;مذاکره‌کننده سرسختی&amp;quot; است، بلکه به این دلیل که او به سادگی احمق است.» 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103952.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103952.jpg" medium="image" />
     </item>
   </channel>
 </rss>
