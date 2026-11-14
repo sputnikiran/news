@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Sat, 14 Nov 2026 06:18:46 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 06:49:09 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>موشکی حامل دو ماهوارهٔ خصوصی از پایگاه فضایی «وستوچنی» پرتاب شد</title>
+      <link>https://sputnikiran.github.io/news/103973-موشکی-حامل-دو-ماهوارهٔ-خص.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/103973-موشکی-حامل-دو-ماهوارهٔ-خص.html</guid>
+      <pubDate>Sat, 14 Nov 2026 06:48:00 GMT</pubDate>
+      <description>🔸به گفتهٔ «روسکاسموس»، این ماهواره‌ها تصاویری از سطح زمین با وضوح فوق‌العاده بالا ثبت خواهند کرد. این امر کاربردهای متنوعی را امکان‌پذیر می‌سازد؛ از پایش کاربری اراضی و شناسایی ساخت‌وسازهای غیرقانونی گرفته تا رصد پدیده‌های طبیعی خطرناک. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103973.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103973.jpg" medium="image" />
+    </item>
     <item>
       <title>انهدام پهپادهای اوکراینی توسط ارتش روسیه</title>
       <link>https://sputnikiran.github.io/news/103972-انهدام-پهپادهای-اوکراینی.html</link>
@@ -446,15 +455,6 @@
       <description>🛰پروفسور بلال سامبور، تحلیلگر سیاسی ترک، به اسپوتنیک گفت: دیدار ولادیمیر پوتین، رئیس جمهور روسیه، استیو ویتکاف و جارد کوشنر، فرستادگان آمریکا، سیگنال‌های مثبتی در مورد چشم‌انداز پایان دادن به درگیری اوکراین ارسال کرد. او گفت: «مهم‌ترین نتیجه این دیدار این است که هم آمریکا و هم روسیه طرفدار پایان زودهنگام درگیری در اوکراین هستند؛ با این حال، موضع کشورهای اروپایی، به ویژه بریتانیا و آلمان، موانع اصلی پیشرفت در مذاکرات صلح، هستند.» 🛰وی استدلال کرد که روسیه امیدوار است دونالد ترامپ از نفوذ خود برا</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103915.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103915.jpg" medium="image" />
-    </item>
-    <item>
-      <title>گزارش: قطعی مایکروسافت</title>
-      <link>https://sputnikiran.github.io/news/103914-گزارش-قطعی-مایکروسافت.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103914-گزارش-قطعی-مایکروسافت.html</guid>
-      <pubDate>Fri, 13 Nov 2026 06:47:00 GMT</pubDate>
-      <description>کشور و منطقه را تحت تأثیر قرار داده است 🔸حدود 30 درصد از کل شکایات از ایالات متحده بوده است. این قطعی‌ها همچنین سازمان‌های دولتی، مدارس و دانشگاه‌های استرالیا را تحت تأثیر قرار داده است. 🔸شکایات گسترده‌ای در مورد قطعی در چندین سرویس این شرکت از عصر 12 نوامبر (پنجشنبه) آغاز شد. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103914.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103914.jpg" medium="image" />
     </item>
   </channel>
 </rss>
