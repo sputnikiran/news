@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Sun, 15 Nov 2026 17:48:23 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 18:18:38 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>چگونه چین و روسیه همکاری‌های کشتیرانی در قطب شمال را تعمیق می‌بخشند</title>
+      <link>https://sputnikiran.github.io/news/104066-چگونه-چین-و-روسیه-همکاریه.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/104066-چگونه-چین-و-روسیه-همکاریه.html</guid>
+      <pubDate>Sun, 15 Nov 2026 18:17:00 GMT</pubDate>
+      <description>🔸به گزارش رسانه، با وجود چالش‌هایی نظیر تغییر شرایط یخ‌ها، هزینه‌های بالای عملیاتی و نوسانات تقاضا، حجم کشتیرانی چین از طریق اقیانوس منجمد شمالی به سمت اروپا در سال جاری افزایش یافته است. 🔸کشتی‌های تجاری چین سه سال پیش، پس از آنکه روسیه در پی تحریم‌های ضد روسی غرب، شرایط ترانزیتی مساعدی را به چین پیشنهاد داد، استفاده از گذرگاه قطب شمال — موسوم به «مسیر دریایی شمالی» — را افزایش دادند. 🔸مسیر دریایی شمالی که 5600 کیلومتر در امتداد خط ساحلی قطبی روسیه، از دریای بارنتز تا تنگه برینگ امتداد دارد، </description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104066.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104066.jpg" medium="image" />
+    </item>
     <item>
       <title>تظاهرات حمایت از اعتصاب کارکنان تلویزیون و رادیوی دولتی در جمهوری چک</title>
       <link>https://sputnikiran.github.io/news/104065-تظاهرات-حمایت-از-اعتصاب-ک.html</link>
@@ -450,15 +459,6 @@
       <description>🗣علی ودایع، پژوهشگر مسائل بین‌الملل، در گفت‌وگو با شیوا آبشناس، خبرنگار اسپوتنیک اعلام کرد که اورانیوم 60 درصدی ایران را باید فراتر از نگاه سطحی ارزیابی کرد، زیرا تهران بر اساس منطق «حفظ اهرم‌های بازدارندگی» و «توازن تعهدات» عمل می‌کند. 🔶روسیه طرح دریافت، رقیق‌سازی یا ذخیره‌سازی این ذخایر در خاک خود را در ازای تأمین سوخت بوشهر یا پرداخت مالی روی میز دارد، اما موافقت تهران با خروج فیزیکی این مواد در شرایط فعلی بعید است، چرا که در محیط امنیتی پرالتهاب کنونی و با توجه به تجربه نقض تعهدات از سوی آ</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104009.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104009.jpg" medium="image" />
-    </item>
-    <item>
-      <title>روسیه برای پشتیبانی از سینکروترونِ شاخص خود، یک ابررایانه می‌سازد</title>
-      <link>https://sputnikiran.github.io/news/104008-روسیه-برای-پشتیبانی-از-سی.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/104008-روسیه-برای-پشتیبانی-از-سی.html</guid>
-      <pubDate>Sat, 14 Nov 2026 17:17:00 GMT</pubDate>
-      <description>🟠 سینکروترون «SKIF» واقع در «کولتسوو»، یک مرکز داده اختصاصی راه‌اندازی کرده است که به‌طور ویژه برای پردازش داده‌های تجربی به‌صورت بلادرنگ (real-time) و ذخیره‌سازی حجم عظیمی از اطلاعات طراحی شده است. 🟠 این مرکز داده شامل یک کلاستر محاسباتی با ظرفیت کلی 390 ترافلاپس، تجهیزات سروری و شبکه‌ای، و یک سامانه ذخیره‌سازی داده است. 🟠 این سامانه که توسط شرکت روسی سازنده ابررایانه‌ها، «RSK»، ساخته شده، از 24 سرور با سیستم خنک‌کننده مایع بهره می‌برد؛ ویژگی‌ای که عملکرد آن را کم‌مصرف، قابل‌اطمینان و بی‌صدا</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104008.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104008.jpg" medium="image" />
     </item>
   </channel>
 </rss>
