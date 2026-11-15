@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Sun, 15 Nov 2026 05:48:38 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 06:18:32 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>اسپیس ایکس برای اولین بار پس از گردش به دور زمین، استارشیپ را به دام انداخت</title>
+      <link>https://sputnikiran.github.io/news/104028-اسپیس-ایکس-برای-اولین-بار.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/104028-اسپیس-ایکس-برای-اولین-بار.html</guid>
+      <pubDate>Sun, 15 Nov 2026 06:17:00 GMT</pubDate>
+      <description>🚀استارشیپ در عرض 22.5 ساعت 14 بار به دور زمین چرخید و 26 ماهواره را قبل از بازگشت به سکوی پرتاب، در مدار قرار داد. 🚀موشک سوپر سنگین نتوانست به دام بیفتد: به خلیج مکزیک فرستاده و نابود شد. 🚀اسپیس ایکس قصد دارد از این فضاپیمای چند نژادی برای ماموریت‌های آینده به ماه و مریخ استفاده کند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104028.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104028.jpg" medium="image" />
+    </item>
     <item>
       <title>رسانه‌های غربی: تصادف دو هواپیما در فرودگاه بین‌المللی میامی</title>
       <link>https://sputnikiran.github.io/news/104027-رسانههای-غربی-تصادف-دو-هو.html</link>
@@ -444,15 +453,6 @@
       <guid isPermaLink="true">https://sputnikiran.github.io/news/103965-انفجار-و-آتشسوزی-دو-نفتکش.html</guid>
       <pubDate>Fri, 13 Nov 2026 21:17:00 GMT</pubDate>
       <description>🔶نیروی دریایی سپاه پاسداران اعلام کرد: «ساعتی پیش، دو فروند نفتکش که با سامانه‌های راداری و موقعیت‌یاب خاموش، به طور مخفیانه سعی در تردد از مسیر غیرمجاز تنگه هرمز را داشتند، با برخورد به مین دریایی منفجر شده و دچار آتش‌سوزی شدند.» 🔶بر اساس این بیانیه، شعله‌های آتش یکی از این دو کشتی که از نوع سوپرنفتکش بوده، شب سواحل جنوبی تنگه هرمز را روشن کرده است. 🔶نیروی دریایی سپاه به مالکان و شرکت‌های کشتیرانی هشدار داد که تردد از تنگه هرمز بدون هماهنگی با مرکز کنترل تردد نیروی دریایی سپاه و نادیده گرفتن</description>
-    </item>
-    <item>
-      <title>یک کشتی نفت‌کش در نزدیکی بندر نیواورلئان در ایالات متحده با یک کشتی تفریحی رودخانه‌ای برخورد کرد</title>
-      <link>https://sputnikiran.github.io/news/103964-یک-کشتی-نفتکش-در-نزدیکی-ب.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/103964-یک-کشتی-نفتکش-در-نزدیکی-ب.html</guid>
-      <pubDate>Fri, 13 Nov 2026 20:48:00 GMT</pubDate>
-      <description>🔶در زمان وقوع این برخورد، کشتی مسافربری در رودخانه می‌سی‌سی‌پی پهلو گرفته بود. شدت ضربه باعث ایجاد شکافی در بدنه کشتی تفریحی شد و آب به درون آن نفوذ کرد. 🔶حدود 150 نفر در این کشتی حضور داشتند و نیروهای امدادی هم‌اکنون مشغول انجام عملیات نجات هستند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103964.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/103964.jpg" medium="image" />
     </item>
   </channel>
 </rss>
