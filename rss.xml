@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Mon, 16 Nov 2026 06:18:39 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 06:48:23 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>پهپادهای روسی زیرساخت‌های بندری و ریلی حامی ارتش اوکراین را هدف قرار دادند</title>
+      <link>https://sputnikiran.github.io/news/104081-پهپادهای-روسی-زیرساختهای.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/104081-پهپادهای-روسی-زیرساختهای.html</guid>
+      <pubDate>Mon, 16 Nov 2026 06:47:00 GMT</pubDate>
+      <description>▫️نیروهای مسلح فدراسیون روسیه به حملات هوایی با استفاده از پهپاد به زیرساخت‌های بندری و ریلی و همچنین کشتی‌های دریایی درگیر در حمایت از ارتش اوکراین ادامه دادند. در نتیجه این حمله، موارد زیر مورد اصابت قرار گرفتند: ▫️یک کشتی باری خشک در دریا که محموله‌های نظامی و دو منظوره را برای ارتش اوکراین به بندر چرنومورسک تحویل می‌داد. ▫️یک لوکوموتیو راه‌آهن در نزدیکی ایستگاه راه‌آهن زاپاروژیه، که برای حمل محموله‌های مورد نیاز ارتش اوکراین استفاده می‌شد. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104081.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104081.jpg" medium="image" />
+    </item>
     <item>
       <title>رسانه: یازده نفر در یک آتش‌سوزی بزرگ در پوکت جان باختند</title>
       <link>https://sputnikiran.github.io/news/104080-رسانه-یازده-نفر-در-یک-آتش.html</link>
@@ -452,15 +461,6 @@
       <description>🛩بر اساس اطلاعات منتشر شده در رسانه‌های غربی، یک هواپیمای باری با یک هواپیمای مسافربری برخورد کرد، در حالی که هر دو هواپیما در حال حرکت در باند فرودگاه آمریکایی بودند. ✈️طبق تصاویر منتشر شده در شبکه‌های اجتماعی، هواپیمای شرکت UPS در قسمت جلویی آسیب دیده است و خدمات اورژانس در حال بررسی وضعیت هستند. تا این لحظه، گزارش‌هایی مبنی بر مجروح شدن افراد وجود ندارد. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104027.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104027.jpg" medium="image" />
-    </item>
-    <item>
-      <title>آماده‌سازی برای اجلاس آسه‌آن در مانیل بشدت ادامه دارد</title>
-      <link>https://sputnikiran.github.io/news/104026-آمادهسازی-برای-اجلاس-آسهآ.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/104026-آمادهسازی-برای-اجلاس-آسهآ.html</guid>
-      <pubDate>Sun, 15 Nov 2026 05:17:00 GMT</pubDate>
-      <description>🔸فردیناند مارکوس جونیور، رئیس جمهور فیلیپین، برای دیدار با نمایندگان هیئت‌هایی آماده می شود که برای چهل و نهمین اجلاس آسه‌آن وارد کشور می‌شوند. 🔸حداقل 19 رهبر جهان و روسای نهادهای جهانی برای شرکت در این نشست که از 15 تا 17 نوامبر در پایتخت فیلیپین برگزار می‌شود، تأیید شده‌اند. 🔸این اجلاس در حالی برگزار می‌شود که آسه‌آن با دستور کار فشرده‌ای، از اختلافات دریایی در دریای چین جنوبی گرفته تا پیامدهای جنگ ایالات متحده و ایران و این سوال که این بلوک چگونه خود را بین ایالات متحده و چین قرار می‌دهد، </description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104026.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104026.jpg" medium="image" />
     </item>
   </channel>
 </rss>
