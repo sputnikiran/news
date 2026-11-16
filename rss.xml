@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Mon, 16 Nov 2026 17:48:45 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 18:18:55 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>دیپلمات پیشین: اروپا می‌خواهد یک هیئت کامل را به مذاکرات اوکراین با روسیه و آمریکا اعزام کند</title>
+      <link>https://sputnikiran.github.io/news/104130-دیپلمات-پیشین-اروپا-میخوا.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/104130-دیپلمات-پیشین-اروپا-میخوا.html</guid>
+      <pubDate>Mon, 16 Nov 2026 18:17:00 GMT</pubDate>
+      <description>▫️به گفته کارین کنایسل، وزیر امور خارجه سابق اتریش، این هیئت می‌تواند شامل چندین سیاستمدار باشد که نماینده منافع جغرافیایی و سیاسی مختلف اروپا هستند. ▫️با این حال، کنایسل معتقد است که کایا کالاس، رئیس دیپلماسی اروپا، برای این نقش مناسب نیست، زیرا او معتقد است که می‌خواهد روسیه را شکست خورده ببیند. ▫️این وزیر سابق همچنین برنامه‌های اروپا برای استقرار نیرو در اوکراین پس از آتش‌بس را به عنوان &amp;quot;خط قرمز&amp;quot; برای مسکو توصیف کرد. ▫️به گفته کنایسل، اروپایی‌ها ممکن است در یک اجلاس اضطراری در ماه د</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104130.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104130.jpg" medium="image" />
+    </item>
     <item>
       <title>برای نخستین باز؛ تصاویر مربوط به رهگیری جنگنده اف-۱۵ آمریکایی در آسمان ایران</title>
       <link>https://sputnikiran.github.io/news/104129-برای-نخستین-باز؛-تصاویر-م.html</link>
@@ -446,15 +455,6 @@
       <description>#ERROR!</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104077.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104077.jpg" medium="image" />
-    </item>
-    <item>
-      <title>سپاه پاسداران ایران: انفجار وآتش سوزی بسیار شدید دو فروند نفتکش در تنگه هرمز</title>
-      <link>https://sputnikiran.github.io/news/104076-سپاه-پاسداران-ایران-انفجا.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/104076-سپاه-پاسداران-ایران-انفجا.html</guid>
-      <pubDate>Mon, 16 Nov 2026 05:17:00 GMT</pubDate>
-      <description>💬نیروی دریایی سپاه: ساعاتی پیش دو فروند نفتکش که با هدایت مستقیم افسران امریکایی و حمایت جنگنده های ارتش متجاوز و غارتگر آمریکا تلاش کردند از مسیر غیر قانونی جنوبی عبور کنند با اصابت به مین دریایی با چندین انفجار بسیار شدید آسمان تنگه هرمز را برای ساعتها روشن کردند. 💬این دو نفتکش متخلف با فاصله کمی از دو نفتکش قبلی منفجر شدند و از روز گذشته تا کنون این ششمین نفتکشی است که در تنگه هرمز در آتش می سوزد و غرق می شود. آلودگی حاصل از انفجار این نفتکش ها سراسر سواحل و آبهای تنگه هرمز را فرا گرفته است</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104076.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104076.jpg" medium="image" />
     </item>
   </channel>
 </rss>
