@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Mon, 16 Nov 2026 12:18:48 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 12:49:14 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>روابط عمومی ارتش ایران: سومین نفتکش متخلف در شرق تنگه هرمز دچار حریق شد</title>
+      <link>https://sputnikiran.github.io/news/104108-روابط-عمومی-ارتش-ایران-سو.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/104108-روابط-عمومی-ارتش-ایران-سو.html</guid>
+      <pubDate>Mon, 16 Nov 2026 12:48:00 GMT</pubDate>
+      <description>🔸 یک فروند نفتکش متخلف که برخلاف مقررات اعلام‌شده و در مسیری غیرمجاز در شرق تنگه هرمز درحال عبور بود و سامانه‌های ناوبری خود را خاموش کرده بود، با مین برخورد کرد و دچار آتش‌سوزی شد. 🔸 از ساعت 23:00 روز گذشته تاکنون، این سومین نفتکش متخلف است که براثر برخورد با مین دریایی در شرق تنگه هرمز، دچار آتش سوزی شده و از حرکت بازمانده است. 🔸 به رغم دروغ پردازی‌های رییس جمهور آمریکا، تنگه هرمز بسته است و تا هر وقت جمهوری اسلامی ایران لازم بداند، بسته خواهد ماند. 🔸 تمامی شناورها موظف‌ هستند در مسیرهای م</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104108.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104108.jpg" medium="image" />
+    </item>
     <item>
       <title>سه رهبر، یک هدف: پوتین، شی و ترامپ تلاش خواهند کرد تا تعادل را به جهان بازگردانند</title>
       <link>https://sputnikiran.github.io/news/104107-سه-رهبر،-یک-هدف-پوتین،-شی.html</link>
@@ -448,15 +457,6 @@
       <description>🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104053.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104053.jpg" medium="image" />
-    </item>
-    <item>
-      <title>تیم روسیه در مسابقات قهرمانی جهان ترامپولین در چین، مقام اول را در جدول مدال‌های تیمی کسب کرد</title>
-      <link>https://sputnikiran.github.io/news/104052-تیم-روسیه-در-مسابقات-قهرم.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/104052-تیم-روسیه-در-مسابقات-قهرم.html</guid>
-      <pubDate>Sun, 15 Nov 2026 12:48:00 GMT</pubDate>
-      <description>🥰در این رقابت‌ها که در نانجینگ چین برگزار شد، ورزشکاران روسی هشت مدال طلا، نه نقره و هشت برنز کسب کردند. 🛰تیم روسیه با پرچم و سرود ملی در این رقابت‌ها شرکت کرد. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104052.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104052.jpg" medium="image" />
     </item>
   </channel>
 </rss>
