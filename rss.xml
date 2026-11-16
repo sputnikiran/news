@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Mon, 16 Nov 2026 20:18:37 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 20:48:46 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>کرملین اظهارات ترامپ درباره امکان عملکرد قدرتمندتر روسیه در اوکراین را تایید کرد</title>
+      <link>https://sputnikiran.github.io/news/104140-کرملین-اظهارات-ترامپ-دربا.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/104140-کرملین-اظهارات-ترامپ-دربا.html</guid>
+      <pubDate>Mon, 16 Nov 2026 20:47:00 GMT</pubDate>
+      <description>دمیتری پسکوف سخنگوی مطبوعاتی ریاست جمهوری گفت: ▫️کرملین دیدار قریب‌الوقوع بین پوتین، شی جین‌پینگ و ترامپ را بسیار مهم خواند. ▫️موضوعات اصلی نشست سه‌جانبه از قبل مورد توافق قرار گرفته است. ▫️بخشی از این نشست برای رسانه‌ها آزاد خواهد بود. ▫️پسکوف مقایسه نشست برنامه‌ریزی‌شده رهبران روسیه، آمریکا و چین با «یالتا» را یک مانور سیاسی خواند که هیچ ارتباطی با واقعیت ندارد. ▫️اگر کیم جونگ اون در اجلاس اپک شرکت کند، پوتین ممکن است با او دیدار کند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104140.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104140.jpg" medium="image" />
+    </item>
     <item>
       <title>کارشناس: ایران در نظم چندقطبی جدید از هدف، به بازیگر تعیین‌کننده تبدیل شده است</title>
       <link>https://sputnikiran.github.io/news/104139-کارشناس-ایران-در-نظم-چندق.html</link>
@@ -446,15 +455,6 @@
       <description>🔸وزارت امور خارجه چین اعلام کرد که این دیدار در 19 نوامبر در اجلاس اپک در شنژن برگزار خواهد شد. 🔸روز 14 نوامبر (شنبه)، دمیتری پسکوف، سخنگوی کرملین، نیز تأیید کرد که این دیدار برای آن تاریخ…</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104085.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104085.jpg" medium="image" />
-    </item>
-    <item>
-      <title>نرخ ارز، سکه و طلا تا ساعت</title>
-      <link>https://sputnikiran.github.io/news/104084-نرخ-ارز،-سکه-و-طلا-تا-ساع.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/104084-نرخ-ارز،-سکه-و-طلا-تا-ساع.html</guid>
-      <pubDate>Mon, 16 Nov 2026 07:47:00 GMT</pubDate>
-      <description>:00 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104084.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104084.jpg" medium="image" />
     </item>
   </channel>
 </rss>
