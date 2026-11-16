@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Mon, 16 Nov 2026 18:48:33 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 19:18:49 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>رویدادهای مهم خبری جهان تا شامگاه</title>
+      <link>https://sputnikiran.github.io/news/104133-رویدادهای-مهم-خبری-جهان-ت.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/104133-رویدادهای-مهم-خبری-جهان-ت.html</guid>
+      <pubDate>Mon, 16 Nov 2026 19:17:00 GMT</pubDate>
+      <description>نوامبر ▫️پوتین در 18 و 19 نوامبر از شنژن چین بازدید خواهد کرد و در اجلاس اپک شرکت خواهد کرد. ▫️ترامپ موضوعات اجلاس سه جانبه ایالات متحده، روسیه و چین را اعلام کرد. ▫️اوشاکوف دستیار پوتین اعلام کرد که مذاکرات سه جانبه بین روسیه، ایالات متحده و اوکراین در مورد حل و فصل در ابوظبی ادامه خواهد یافت. ▫️عراقچى با شهباز شریف نخست وزیر پاکستان و فیلدمارشال عاصم منیر فرمانده ارتش اين كشور دیدار و گفتگو کرد. ▫️لاوروف اظهار داشت که پس از انکوریج، اروپایی‌ها &amp;quot;به ترامپ وابسته بودند&amp;quot;. ▫️کایا کالاس عل</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104133.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104133.jpg" medium="image" />
+    </item>
     <item>
       <title>دستیار پوتین: مذاکرات سه‌جانبه میان روسیه، آمریکا و اوکراین پیرامون حل‌وفصل مناقشه در ابوظبی ادامه خواهد یافت</title>
       <link>https://sputnikiran.github.io/news/104132-دستیار-پوتین-مذاکرات-سهجا.html</link>
@@ -446,15 +455,6 @@
       <description>پهپاد اوکراینی بر فراز خاک روسیه ▫️وزارت دفاع روسیه اعلام کرد که سامانه های پدافند هوایی این کشور طی شب گذشته 1336 پهپاد اوکراینی را بر فراز مناطق مختلف روسیه سرنگون کرده اند. ▫️اسپوتنیک تاریخچهٔ درگیری اوکراین را در اینجا برای شما گردآوری کرده است. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104079.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104079.jpg" medium="image" />
-    </item>
-    <item>
-      <title>آغاز نشست وزرای خارجه سازمان اکو در اسلام‌آباد</title>
-      <link>https://sputnikiran.github.io/news/104078-آغاز-نشست-وزرای-خارجه-ساز.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/104078-آغاز-نشست-وزرای-خارجه-ساز.html</guid>
-      <pubDate>Mon, 16 Nov 2026 05:18:00 GMT</pubDate>
-      <description>🔸امروز 16 نوامبر (دوشنبه) نشست وزیران امور خارجه سازمان همکاری اقتصادی اکو در اسلام‌اباد پاکستان آغاز شد. 🔸سید عباس عراقچی، وزیر امور خارجه ایران نیز با حضور در این نشست، سخنرانی خواهد کرد. 🔸وزیر امور خارجه ضمن مشارکت در این اجلاس و بیان مواضع ایران، دیدارهای جداگانه با تعدادی از همتایان از کشورهای شرکت کننده خواهد داشت. 🔸وزیر امور خارجه پاکستان، اشاق دار، از همتای ایرانی خود، عباس عراقچی، در اجلاس سازمان همکاری اقتصادی (اکو) در اسلام‌آباد استقبال کرد. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104078.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104078.jpg" medium="image" />
     </item>
   </channel>
 </rss>
