@@ -5,13 +5,40 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Mon, 16 Nov 2026 14:19:11 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 14:49:21 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>دستیار پوتین: تدارکات برای دیدار میان پوتین و ترامپ در تاریخ</title>
+      <link>https://sputnikiran.github.io/news/104116-دستیار-پوتین-تدارکات-برای.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/104116-دستیار-پوتین-تدارکات-برای.html</guid>
+      <pubDate>Mon, 16 Nov 2026 14:48:00 GMT</pubDate>
+      <description>نوامبر در چین در حال انجام است 🔸اوشاکوف اعلام کرد که جزئیات مهم در مورد برنامه رئیس‌جمهور روسیه و نشست پیشِ رو شامل موارد زیر است: 🔸 روسیه و ایالات متحده آمریکا بر سر برخی محورهای دستور کارِ…</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104116.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104116.jpg" medium="image" />
+    </item>
+    <item>
+      <title>ایران برد موشک هایش را افزایش میدهد</title>
+      <link>https://sputnikiran.github.io/news/104115-ایران-برد-موشک-هایش-را-اف.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/104115-ایران-برد-موشک-هایش-را-اف.html</guid>
+      <pubDate>Mon, 16 Nov 2026 14:48:00 GMT</pubDate>
+      <description>🔸ابوالفضل حسن بیگی، نماینده ی ادوار مجلس شورای اسلامی و از فرماندهان جنگ ایران و عراق، در خصوص گسترش توان موشکی ایران و تغییر جغرافیای بازدارندگی این کشور با توجه به بیانیه ی رهبر ایران به خبرنگار اسپوتنیک در تهران گفت: امام شهید و قائد ما معتقد بودند برد موشک‌های ایران تا 2000 کیلومتر برای دفاع از کشور کفایت می‌کند. اما در جنگ اخیر متأسفانه مشخص شد که کشورهایی مانند آلمان، انگلیس، بلغارستان و حتی فرانسه، پایگاه‌هایی را در اختیار آمریکایی‌ها و اسرائیل قرار داده‌اند. 🔸بنابراین، ما باید حوزه باز</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104115.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104115.jpg" medium="image" />
+    </item>
+    <item>
+      <title>دستیار پوتین: تدارکات برای دیدار میان پوتین و ترامپ در تاریخ</title>
+      <link>https://sputnikiran.github.io/news/104114-دستیار-پوتین-تدارکات-برای.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/104114-دستیار-پوتین-تدارکات-برای.html</guid>
+      <pubDate>Mon, 16 Nov 2026 14:47:00 GMT</pubDate>
+      <description>نوامبر در چین در حال انجام است 🔸اوشاکوف اعلام کرد که جزئیات مهم در مورد برنامه رئیس‌جمهور روسیه و نشست پیشِ رو شامل موارد زیر است: 🔸 روسیه و ایالات متحده آمریکا بر سر برخی محورهای دستور کارِ دیدار پوتین و ترامپ، از جمله حل‌وفصل وضعیت اوکراین، به توافق رسیده‌اند. 🔸 در حاشیه این نشست، پوتین با شی جین‌پینگ گفتگو خواهد کرد. رهبران دو کشور درباره مسائل سیاست خارجی، از جمله وضعیت اوکراین، بحث و تبادل نظر خواهند کرد. 🔸 قرار است پوتین، ترامپ و شی جین‌پینگ در تاریخ 19 نوامبر در محل اقامت رهبر چین با </description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104114.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104114.jpg" medium="image" />
+    </item>
     <item>
       <title>چرا حلقه محاصره آمریکا دور گردن ایران کارساز نیست؟</title>
       <link>https://sputnikiran.github.io/news/104113-چرا-حلقه-محاصره-آمریکا-دو.html</link>
@@ -430,33 +457,6 @@
       <description>متر در شهرک «مجدل زون» در جنوب لبنان را منتشر کرد 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104063.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104063.jpg" medium="image" />
-    </item>
-    <item>
-      <title>کرملین: حل‌وفصل مناقشه اوکراین بدون بحث درباره امنیت اروپا ممکن نیست</title>
-      <link>https://sputnikiran.github.io/news/104062-کرملین-حلوفصل-مناقشه-اوکر.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/104062-کرملین-حلوفصل-مناقشه-اوکر.html</guid>
-      <pubDate>Sun, 15 Nov 2026 16:17:00 GMT</pubDate>
-      <description>🔸دیمیتری پسکوف، سخنگوی کاخ کرملین در سخنانی اظهار داشت که حل‌وفصل مناقشه اوکراین و ایجاد یک ساختار جدید برای امنیت اروپا باید به‌صورت هم‌زمان مورد توجه قرار گیرند. 🔸پسکوف تصریح کرد که این دو موضوع پیوند تنگاتنگی با یکدیگر دارند و در نهایت باید در مورد آن‌ها با کشورهای اروپایی گفتگو شود. او هشدار داد که اگر دولت‌های اروپایی واقعاً خواهان صلح نباشند، مذاکرات بی‌نتیجه خواهد بود و روسیه ناچار خواهد شد اهداف خود را از طریق توسل به زور دنبال کند. 🔸به گفته ولادیمیر مدینسکی، دستیار رئیس‌جمهور روسیه، </description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104062.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104062.jpg" medium="image" />
-    </item>
-    <item>
-      <title>نمایشی خیره‌کننده از بالن‌های هوایی، تماشاگران را در مکزیک مجذوب خود کرد</title>
-      <link>https://sputnikiran.github.io/news/104059-نمایشی-خیرهکننده-از-بالنه.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/104059-نمایشی-خیرهکننده-از-بالنه.html</guid>
-      <pubDate>Sun, 15 Nov 2026 15:47:00 GMT</pubDate>
-      <description>🔸بیش از 200 بالن هوای گرم، با حضور گروه‌هایی از ده‌ها کشور جهان، در جدیدترین دوره «جشنواره بین‌المللی بالن» که در شهر لئون مکزیک برگزار می‌شود، به پرواز درآمدند. 🔸 این بالن‌ها با طرح‌های بسیار متنوع—از شخصیت‌های محبوب انیمیشنی گرفته تا نمونه‌هایی الهام‌گرفته از فیلم‌های مشهور—آسمان را به رژه‌ای پرشور از اشکال و رنگ‌ها تبدیل کرده‌اند. 🔸 این رویداد که از 13 تا 16 نوامبر ادامه دارد، یکی از مهم‌ترین نمایش‌های بزرگ‌مقیاس در این کشور محسوب می‌شود؛ به‌طوری که برگزارکنندگان آن را «رویدادی بزرگ برای م</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104059.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104059.jpg" medium="image" />
-    </item>
-    <item>
-      <title>ارتش روسیه حملاتی پهپادی علیه تأسیسات پشتیبانِ نیروهای مسلح اوکراین انجام داد</title>
-      <link>https://sputnikiran.github.io/news/104058-ارتش-روسیه-حملاتی-پهپادی.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/104058-ارتش-روسیه-حملاتی-پهپادی.html</guid>
-      <pubDate>Sun, 15 Nov 2026 15:47:00 GMT</pubDate>
-      <description>🔸وزارت دفاع روسیه گزارش داد که یک مرکز لجستیکی در شهر زاپوروژیا — که نیروهای مسلح اوکراین از آن برای انبار کردن محموله‌های نظامی و کالاهای با کاربرد دوگانه استفاده می‌کردند — هدف قرار گرفته و مورد اصابت واقع شده است. 🔸علاوه بر این، یک کشتی باری (ویژه حمل کالاهای خشک) در دریا هدف قرار گرفته است؛ این کشتی در حال حمل تدارکاتی برای نیروهای مسلح اوکراین بود. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104058.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104058.jpg" medium="image" />
     </item>
   </channel>
 </rss>
