@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Tue, 17 Nov 2026 12:18:27 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 12:49:34 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>کلید حل بحران منطقه در واشنگتن است، نه مسقط</title>
+      <link>https://sputnikiran.github.io/news/104177-کلید-حل-بحران-منطقه-در-وا.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/104177-کلید-حل-بحران-منطقه-در-وا.html</guid>
+      <pubDate>Tue, 17 Nov 2026 12:48:00 GMT</pubDate>
+      <description>💬امیررضا نظری، کارشناس مسائل خاورمیانه و روزنامه‌نگار، در گفت‌وگو با اسپوتنیک اظهار داشت: باید میان امکان همکاری دوجانبه ایران و عمان و توانایی جلوگیری از تشدید تنش‌های نظامی منطقه تفاوت قائل شد. با توجه به تحولات میدانی، حملات متقابل و استمرار تقابل تهران و واشنگتن، نمی‌توان چندان امیدوار بود که دیپلماسی منطقه‌ای به‌تنهایی مانع تشدید بحران شود. 💬نظری با تأکید بر محدودیت نقش میانجی‌گرانه عمان تصریح کرد: مسقط با وجود تمام ظرفیت‌های دیپلماتیک خود، نمی‌تواند جای واشنگتن را در معادله کنونی بگیرد. </description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104177.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104177.jpg" medium="image" />
+    </item>
     <item>
       <title>کمک‌های امنیتی آمریکا به اوکراین، پاسخگوی شکاف مالی این کشور نیست</title>
       <link>https://sputnikiran.github.io/news/104176-کمکهای-امنیتی-آمریکا-به-ا.html</link>
@@ -452,15 +461,6 @@
       <description>🔸ده‌ها نفر، از جمله خانواده‌ها به همراه اعضای خود، در حال عکاسی از مکان نشست شنژن هستند &amp;nbsp; 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104123.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104123.jpg" medium="image" />
-    </item>
-    <item>
-      <title>ترامپ: درباره خلع سلاح هسته‌ای، ایران و اوکراین با پوتین و شی جین‌پینگ گفتگو خواهد کرد</title>
-      <link>https://sputnikiran.github.io/news/104122-ترامپ-درباره-خلع-سلاح-هست.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/104122-ترامپ-درباره-خلع-سلاح-هست.html</guid>
-      <pubDate>Mon, 16 Nov 2026 16:18:00 GMT</pubDate>
-      <description>🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104122.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104122.jpg" medium="image" />
     </item>
   </channel>
 </rss>
