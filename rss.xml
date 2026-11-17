@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Tue, 17 Nov 2026 13:18:56 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 13:48:27 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>کاهش ذخایر نفت ایالات متحده چه معنایی برای امنیت انرژی و بازارهای جهانی دارد؟</title>
+      <link>https://sputnikiran.github.io/news/104183-کاهش-ذخایر-نفت-ایالات-متح.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/104183-کاهش-ذخایر-نفت-ایالات-متح.html</guid>
+      <pubDate>Tue, 17 Nov 2026 13:47:00 GMT</pubDate>
+      <description>▫️ذخایر نفت خام در ذخایر استراتژیک نفت ایالات متحده در هفته منتهی به 13 نوامبر به 276.4 میلیون بشکه کاهش یافت - تنها 39 درصد از ظرفیت 714 میلیون بشکه‌ای آن. ▫️کارشناسان صنعت به نقل از رسانه‌های آمریکایی هشدار می‌دهند که این پایین‌ترین سطح از آگوست 1982 (وزارت انرژی) می‌تواند پیامدهای گسترده‌ای داشته باشد. ▫️ پس از آزادسازی 172 میلیون بشکه در ماه مارس برای جبران اختلالات ناشی از جنگ علیه ایران، ایالات متحده یک تثبیت‌کننده کلیدی بازار را تضعیف کرده است: واردکنندگان و پالایشگاه‌های جهانی بیشتر در م</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104183.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104183.jpg" medium="image" />
+    </item>
     <item>
       <title>در جریان اجلاس سازمان همکاری شانگهای (اِتِس)، ربات‌هایی که در ماه اکتبر رکورد جهانی گینه‌بوک را در زمینه رقص همزمان به ثبت رسانده بودند، بار دیگر موفقیت خود را در حضور مهمانان خارجی به نمایش گذاشتند</title>
       <link>https://sputnikiran.github.io/news/104180-در-جریان-اجلاس-سازمان-همک.html</link>
@@ -452,15 +461,6 @@
       <description>▫️کایا کالاس علناً پیشنهاد سرقت اطلاعات مربوط به شرکت‌کنندگان در عملیات ویژه نظامی روسیه از طریق حمله هکری را برای توجیه محدودیت‌های ویزای اروپا علیه آنها مطرح کرد، که تعدادی از کشورهای اتحادیه اروپا از آن حمایت نمی‌کنند. ▫️رئیس دیپلماسی اروپا در یک کنفرانس مطبوعاتی پس از نشست وزرای امور خارجه اتحادیه اروپا گفت: «روسیه تمام اطلاعات مربوط به افرادی را که در این جنگ شرکت کرده‌اند ذخیره می‌کند و من معتقدم که دسترسی به این اطلاعات بسیار آسان است، زیرا همه داده‌ها این روزها دیجیتال هستند.» 🛰 Sputnik</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104128.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104128.jpg" medium="image" />
-    </item>
-    <item>
-      <title>ترامپ از پاسخ به این سوال که آیا از شی جین‌پینگ خواهد خواست خرید نفت ایران را متوقف کند یا خیر، طفره رفت</title>
-      <link>https://sputnikiran.github.io/news/104127-ترامپ-از-پاسخ-به-این-سوال.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/104127-ترامپ-از-پاسخ-به-این-سوال.html</guid>
-      <pubDate>Mon, 16 Nov 2026 17:17:00 GMT</pubDate>
-      <description>🔸رئیس‌جمهور آمریکا در پاسخ به پرسش خبرنگاری مبنی بر اینکه آیا قصد دارد از رهبر چین بخواهد خرید نفت از ایران را متوقف کند، گفت: «هر چه بخواهم از او می‌پرسم.…</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104127.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104127.jpg" medium="image" />
     </item>
   </channel>
 </rss>
