@@ -5,13 +5,31 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Tue, 17 Nov 2026 05:22:02 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 05:48:22 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>عمان: وزرای خارجه ایران و عمان درباره تحولات منطقه رایزنی کردند</title>
+      <link>https://sputnikiran.github.io/news/104147-عمان-وزرای-خارجه-ایران-و.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/104147-عمان-وزرای-خارجه-ایران-و.html</guid>
+      <pubDate>Tue, 17 Nov 2026 05:47:00 GMT</pubDate>
+      <description>🔸وزارت امور خارجه عمان: سید بدر بن حمد بن حمود البوسعیدی، وزیر امور خارجه، صبح امروز در محل وزارت امور خارجه با سید عباس عراقچی، وزیر امور خارجه جمهوری اسلامی ایران، دیدار و گفتگو کرد. 🔸در این دیدار، تحولات منطقه، چالش‌های موجود در مقطع کنونی و راهکارهای دیپلماتیک برای مهار تنش‌ها و احیای گفتگوها و مذاکرات مورد بحث و بررسی قرار گرفت؛ با این هدف که زمینه‌های تفاهم میان طرف‌های ذی‌نفع گسترش یابد و از گسترش بحران و پیامدهای آن جلوگیری شود. 🔸وزرای امور خارجه دو کشور همچنین بر اهمیت حفظ امنیت گذرگ</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104147.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104147.jpg" medium="image" />
+    </item>
+    <item>
+      <title>وزارت دفاع روسیه: نیروهای مسلح روسیه در حمله‌ای گسترده، زیرساخت‌های انرژی و بندری اوکراین را هدف قرار داد</title>
+      <link>https://sputnikiran.github.io/news/104146-وزارت-دفاع-روسیه-نیروهای.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/104146-وزارت-دفاع-روسیه-نیروهای.html</guid>
+      <pubDate>Tue, 17 Nov 2026 05:47:00 GMT</pubDate>
+      <description>▫️این حملات، تأسیسات مرتبط با ارتش اوکراین را در کی‌یف، زاپاروژیه و مناطق چرکاسی و دنیپروپتروفسک هدف قرار داده‌اند. ▫️این وزارتخانه افزود که شناورهای دریایی مورد استفاده در راستای منافع ارتش اوکراین نیز هدف قرار گرفته‌اند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104146.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104146.jpg" medium="image" />
+    </item>
     <item>
       <title>جمهوری‌خواهان مبلغ بی‌سابقه‌ای را برای دفاع از ایالات متحده پیشنهاد داده‌اند</title>
       <link>https://sputnikiran.github.io/news/104145-جمهوریخواهان-مبلغ-بیسابقه.html</link>
@@ -437,24 +455,6 @@
       <guid isPermaLink="true">https://sputnikiran.github.io/news/104092-عراقچی-اقدامات-دفاعی-مشرو.html</guid>
       <pubDate>Mon, 16 Nov 2026 08:47:00 GMT</pubDate>
       <description>💬وزیر امور خارجه ایران در اسلام آباد: جمهوری اسلامی ایران همواره در پی برقراری روابط دوستانه و سازنده با همسایگان خود بوده و هیچ اختلاف ذاتی با کشورهای منطقه ندارد. 💬با…</description>
-    </item>
-    <item>
-      <title>ارتش ایران: آتش‌سوزی یک نفت‌کش متخلف دیگر در شرق تنگه هرمز</title>
-      <link>https://sputnikiran.github.io/news/104091-ارتش-ایران-آتشسوزی-یک-نفت.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/104091-ارتش-ایران-آتشسوزی-یک-نفت.html</guid>
-      <pubDate>Mon, 16 Nov 2026 08:47:00 GMT</pubDate>
-      <description>🔸روابط عمومی نیروی دریایی ارتش ایران: بامداد امروز دوشنبه، یک نفت‌کش متخلف دیگر، در پی برخورد با مین دریایی در محدوده ممنوعه شرق تنگه هرمز، دچار آتش سوزی شد و از حرکت بازماند. 💬نیروی دریایی ارتش بر تردد شناورها در شرق تنگه هرمز کنترل مستمر و اشراف دارد. 💬خاموش کردن سامانه‌های ردیابی و ورود غیرمجاز به مناطق ممنوعه و ناامن دریایی، شناورهای متخلف را با مخاطرات جدی مواجه می‌کند. 💬صاحبان شناورهایی که بدون توجه به هشدارها و ضوابط اعلام‌شده در مناطق ممنوعه تردد می‌کنند، مسئول پیامدهای ناشی از این ا</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104091.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104091.jpg" medium="image" />
-    </item>
-    <item>
-      <title>لانتراتووا کمیسر حقوق بشر روسیه: در حال حاضر، طرح‌هایی برای تبادل اسیران بین روسیه و اوکراین در دست بررسی است</title>
-      <link>https://sputnikiran.github.io/news/104090-لانتراتووا-کمیسر-حقوق-بشر.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/104090-لانتراتووا-کمیسر-حقوق-بشر.html</guid>
-      <pubDate>Mon, 16 Nov 2026 08:47:00 GMT</pubDate>
-      <description>🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104090.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104090.jpg" medium="image" />
     </item>
   </channel>
 </rss>
