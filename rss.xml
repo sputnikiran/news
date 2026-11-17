@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Tue, 17 Nov 2026 15:19:39 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 15:49:20 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>اعتصاب بزرگ در فرانسه سه‌شنبه</title>
+      <link>https://sputnikiran.github.io/news/104190-اعتصاب-بزرگ-در-فرانسه-سهش.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/104190-اعتصاب-بزرگ-در-فرانسه-سهش.html</guid>
+      <pubDate>Tue, 17 Nov 2026 15:48:00 GMT</pubDate>
+      <description>نوامبر، برگزار می‌شود 🛰به گزارش خبرنگار اسپوتنیک، برخی از دبیرستان‌ها تعطیل هستند. 🛰فیلم وضعیت بیرون دبیرستان ژان ژورس در مونتروی را نشان می‌دهد. 🛰تصاویر از اسپوتنیک. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104190.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104190.jpg" medium="image" />
+    </item>
     <item>
       <title>اوکراین و اروپا بر اساس الگوی هیتلری کار می‌کنند</title>
       <link>https://sputnikiran.github.io/news/104189-اوکراین-و-اروپا-بر-اساس-ا.html</link>
@@ -452,15 +461,6 @@
       <description>▫️پارک ملی استرالیاگزارش داد که میلیون‌ها خرچنگ قرمز از جنگل به اقیانوس مهاجرت کرده‌اند تا در جزیره کریسمس زاد و ولد کنند و در جاده‌ها، نهرها، صخره‌ها و سواحل پراکنده شده‌اند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104136.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104136.jpg" medium="image" />
-    </item>
-    <item>
-      <title>ایالات متحده در حال توسعه یک بمب هسته‌ای جدید به نام B</title>
-      <link>https://sputnikiran.github.io/news/104135-ایالات-متحده-در-حال-توسعه.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/104135-ایالات-متحده-در-حال-توسعه.html</guid>
-      <pubDate>Mon, 16 Nov 2026 19:48:00 GMT</pubDate>
-      <description>است ▫️برای اولین بار در دهه‌های اخیر، اسناد بودجه ایالات متحده به توسعه مهماتی با این عنوان اشاره می‌کند. 77.1 میلیون دلار دیگر برای این پروژه در نظر گرفته شده است. ▫️به گفته TWZ، B94 برای نابودی اهداف مستحکم در عمق طراحی شده است. مشخصات رسمی بمب جدید هنوز فاش نشده است. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104135.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104135.jpg" medium="image" />
     </item>
   </channel>
 </rss>
