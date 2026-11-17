@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Tue, 17 Nov 2026 10:49:42 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 11:19:35 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>ترامپ ابراز تمایل نمود دیدار دوجانبه ای با پوتین داشته باشد</title>
+      <link>https://sputnikiran.github.io/news/104173-ترامپ-ابراز-تمایل-نمود-دی.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/104173-ترامپ-ابراز-تمایل-نمود-دی.html</guid>
+      <pubDate>Tue, 17 Nov 2026 11:18:00 GMT</pubDate>
+      <description>🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104173.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104173.jpg" medium="image" />
+    </item>
     <item>
       <title>لاوروف: هر جا که ناتو ظاهر می‌شود، هیچ اتفاق خوبی نمی‌افتد</title>
       <link>https://sputnikiran.github.io/news/104172-لاوروف-هر-جا-که-ناتو-ظاهر.html</link>
@@ -452,15 +461,6 @@
       <description>در میامی، به نتایج اجلاس چین بستگی خواهد داشت 🔸اوشاکوف گفت: «دیدارهای سه‌جانبه و همچنین دیدارهای دوجانبه‌ای — هم با رهبر چین و هم با رهبر آمریکا — برگزار خواهد شد. پس از آن، ما طبیعتاً وضعیت را…</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104119.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104119.jpg" medium="image" />
-    </item>
-    <item>
-      <title>دستیار پوتین: تدارکات برای دیدار میان پوتین و ترامپ در تاریخ</title>
-      <link>https://sputnikiran.github.io/news/104118-دستیار-پوتین-تدارکات-برای.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/104118-دستیار-پوتین-تدارکات-برای.html</guid>
-      <pubDate>Mon, 16 Nov 2026 15:17:00 GMT</pubDate>
-      <description>نوامبر در چین در حال انجام است 🔸اوشاکوف اعلام کرد که جزئیات مهم در مورد برنامه رئیس‌جمهور روسیه و نشست پیشِ رو شامل موارد زیر است: 🔸 روسیه و ایالات متحده آمریکا بر سر برخی محورهای دستور کارِ…</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104118.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104118.jpg" medium="image" />
     </item>
   </channel>
 </rss>
