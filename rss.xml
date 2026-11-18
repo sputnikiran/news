@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Wed, 18 Nov 2026 11:48:44 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 12:18:52 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>ولادیمیر پوتین و دونالد ترامپ چه مسیری را برای رسیدن به اجلاس ایپک در چین طی کردند؟</title>
+      <link>https://sputnikiran.github.io/news/104257-ولادیمیر-پوتین-و-دونالد-ت.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/104257-ولادیمیر-پوتین-و-دونالد-ت.html</guid>
+      <pubDate>Wed, 18 Nov 2026 12:18:00 GMT</pubDate>
+      <description>🔹اجلاس همکاری اقتصادی آسیا-اقیانوسیه (اپک) در روزهای 18 و 19 نوامبر در شنژن برگزار می‌شود. 🔹داده نمایی اسپوتنیک مسیر طی‌شده توسط ولادیمیر پوتین و دونالد ترامپ را برای حضور در این اجلاس نشان می‌دهد. #داده_نمایی 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104257.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104257.jpg" medium="image" />
+    </item>
     <item>
       <title>پوتین و شی برای پنجاهمین بار با هم دیدار ‌کردند؛ چین سیگنال مهمی به جهان ‌فرستاد</title>
       <link>https://sputnikiran.github.io/news/104256-پوتین-و-شی-برای-پنجاهمین.html</link>
@@ -436,15 +445,6 @@
       <description>🔸فعالان جنبش صلح سبز ایتالیا، بنر بزرگی را از «تراس پینچو» که مشرف به میدان «پیاتزا دل پوپولو» است، آویختند. روی این بنر تصویر یک گوزن جوان در میان نشانه‌رویِ یک اسلحه دیده می‌شود و در کنار آن این پیام درج شده است: «طبیعت هدف نیست. جلوی لایحه شکار را بگیرید.» 🔸فعالان با این اقدام به طرح قانونی جدیدی اعتراض می‌کنند که هدف آن گسترش مناطق مجاز برای شکار و افزایش تعداد گونه‌های جانوری است که شکار آن‌ها از نظر قانونی آزاد خواهد بود. 🔸این اصلاحیه مورد حمایت اکثریت حاکم، به رهبری حزب نخست‌وزیر «جورج</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104205.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104205.jpg" medium="image" />
-    </item>
-    <item>
-      <title>مهم‌ترین رویدادهای جهان تا شامگاه</title>
-      <link>https://sputnikiran.github.io/news/104204-مهمترین-رویدادهای-جهان-تا.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/104204-مهمترین-رویدادهای-جهان-تا.html</guid>
-      <pubDate>Tue, 17 Nov 2026 19:17:00 GMT</pubDate>
-      <description>نوامبر 🔸پوتین برای شرکت در اجلاس «اپک» وارد چین شد 🔸 ریابکوف اعلام کرد که پیوستن اوکراین به ناتو به‌هیچ‌وجه قابل‌قبول نیست 🔸 لاوروف: دیدار میان رهبران روسیه، چین و آمریکا در شهر شنژن می‌تواند مفید باشد، چرا که فرصتی برای تبادل آزاد دیدگاه‌ها فراهم می‌کند 🔸 تظاهراتی گسترده در پاریس علیه افزایش هزینه‌های زندگی آغاز شده است 🔸نیروهای مسلح روسیه با استفاده از پهپاد، به تأسیساتی که در خدمت پشتیبانی از نیروهای مسلح اوکراین قرار داشتند، حمله کردند 🔸واکنش عراقچی به اظهارات رسانه‌های غربی 🛰 Sputnik</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104204.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104204.jpg" medium="image" />
     </item>
   </channel>
 </rss>
