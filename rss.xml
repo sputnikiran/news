@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Wed, 18 Nov 2026 19:18:57 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 19:49:39 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>آزمایش موشک مینتمن</title>
+      <link>https://sputnikiran.github.io/news/104283-آزمایش-موشک-مینتمن.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/104283-آزمایش-موشک-مینتمن.html</guid>
+      <pubDate>Wed, 18 Nov 2026 19:48:00 GMT</pubDate>
+      <description>در افتتاحیه نشست اپک، با هدف نشان دادن قدرت برار آمریکا است – تحلیلگر سابق پنتاگون 🔸کارن کویاتکووسکی، سرهنگ دوم بازنشسته نیروی هوایی ایالات متحده آمریکا، به اسپوتنیک می‌گوید که هدف از آزمایش موشک بالستیک قاره‌پیمای مینتمن3 ایالات متحده آمریکا، ایجاد تصویری خاص بود. 🔸 تحلیلگر سابق پنتاگون می‌گوید: «نمایش برد موشک‌های قاره‌پیمای ایالات متحده در این منطقه آسیایی همزمان با آغاز اپک احتمالاً برای یادآوری این نکته به سایر رهبران جهان طراحی شده است که ایالات متحده آمریکا، علیرغم ضعف‌های اساسی در رهبر</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104283.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104283.jpg" medium="image" />
+    </item>
     <item>
       <title>پرتغال از انتقال جنگنده‌های اف-</title>
       <link>https://sputnikiran.github.io/news/104282-پرتغال-از-انتقال-جنگندهها.html</link>
@@ -442,15 +451,6 @@
       <description>🔶کریل دمیتریف، رئیس صندوق سرمایه‌گذاری مستقیم روسیه، در واکنش به اعتراض لندن و برلین به اظهارات البریج کولبی، معاون وزیر دفاع آمریکا، اعلام کرد که اروپا در حال شعله‌ور کردن جنگ است. کالبی پیش‌تر گفته بود که حملات اوکراین به زیرساخت‌های روسیه نه به صلح نزدیک می‌شود و نه پیشروی نیروهای روسی را متوقف می‌کند. 🔶دمیتریف در شبکه اجتماعی ایکس نوشت: «در حالی که رئیس‌جمهور ترامپ و تیمش به دنبال صلح در اوکراین هستند، آتش‌افروزان جنگ در اروپا، همان‌طور که انتظار می‌رفت، آتش جنگ را شعله‌ور می‌کنند.» 🛰 Spu</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104229.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104229.jpg" medium="image" />
-    </item>
-    <item>
-      <title>بازدید پوتین از پردیس دانشگاه مشترک روسیه و چین در شنژن</title>
-      <link>https://sputnikiran.github.io/news/104228-بازدید-پوتین-از-پردیس-دان.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/104228-بازدید-پوتین-از-پردیس-دان.html</guid>
-      <pubDate>Wed, 18 Nov 2026 07:18:00 GMT</pubDate>
-      <description>🔹ولادیمیر پوتین، رئیس جمهور روسیه، پس از گفتگو با رهبران چین، وارد پردیس دانشگاه مشترک &amp;quot;دانشگاه دولتی مسکو – مؤسسه پلی‌تکنیک پکن&amp;quot; شد. 🔹این دانشگاه در سال 2016 تأسیس شد و ساختمان اصلی آن بر اساس ساختمان نمادین دانشگاه دولتی مسکو در مسکو الگوبرداری شده است. 🔹این دانشگاه اکنون بیش از 60 رشته تحصیلی ارائه می‌دهد و بیش از 5,000 دانشجو دارد. 🔹این مؤسسه مشترک به بخش مهمی از همکاری علمی و دانشگاهی روسیه و چین تبدیل شده است و رئیس آن می‌گوید این دانشگاه در حال نزدیک شدن به جمع 100 دانشگاه ب</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104228.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104228.jpg" medium="image" />
     </item>
   </channel>
 </rss>
