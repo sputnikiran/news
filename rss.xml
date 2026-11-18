@@ -5,13 +5,31 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Wed, 18 Nov 2026 15:48:37 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 16:18:45 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>نتایج روز نخست اجلاس سران «اپک» در چین در سال</title>
+      <link>https://sputnikiran.github.io/news/104271-نتایج-روز-نخست-اجلاس-سران.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/104271-نتایج-روز-نخست-اجلاس-سران.html</guid>
+      <pubDate>Wed, 18 Nov 2026 16:17:00 GMT</pubDate>
+      <description>اجلاس سران اپک در تاریخ 18 نوامبر 2026 در شهر شنژن چین آغاز شد. رئیس‌جمهور جمهوری چین در مراسم افتتاحیه اجلاس مدیران عامل اپک سخنرانی کرد. شی جین‌پینگ به سومین دوره ریاست چین بر اپک و همچنین پیشبرد نوآوری…</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104271.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104271.jpg" medium="image" />
+    </item>
+    <item>
+      <title>دستیار پوتین: پوتین و شی جین‌پینگ درباره تمامی مسائل بسیار مهم در دستور کار بین‌المللی و منطقه‌ای گفتگو کردند</title>
+      <link>https://sputnikiran.github.io/news/104270-دستیار-پوتین-پوتین-و-شی-ج.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/104270-دستیار-پوتین-پوتین-و-شی-ج.html</guid>
+      <pubDate>Wed, 18 Nov 2026 16:17:00 GMT</pubDate>
+      <description>🔸اوشاکوف تصریح کرد که دیدار دوجانبه میان پوتین و ترامپ برای پس از نشست عمومی اجلاس سران «اپک» برگزار شد 🔸اوشاکوف گفت که پوتین و شی جین‌پینگ در…</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104270.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104270.jpg" medium="image" />
+    </item>
     <item>
       <title>پوتین و شی برای پنجاهمین بار با هم دیدار ‌کردند؛ چین سیگنال مهمی به جهان ‌فرستاد</title>
       <link>https://sputnikiran.github.io/news/104269-پوتین-و-شی-برای-پنجاهمین.html</link>
@@ -435,20 +453,6 @@
       <description>🔶خدمه خودروی سنگین شعله‌افکن تی‌اواس-1آ «سولنتسپک» از گروه‌ان «زاپاد» در ساعات شبانه، جابه‌جایی یگان‌های نیروهای مسلح اوکراین در محور کراسنی لیمان را مختل کردند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104220.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104220.jpg" medium="image" />
-    </item>
-    <item>
-      <title>ارتش ایران: پایگاه هوایی علی‌السالم آمریکا در کویت هدف پهپادهای ایرانی قرار گرفت</title>
-      <link>https://sputnikiran.github.io/news/104219-ارتش-ایران-پایگاه-هوایی-ع.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/104219-ارتش-ایران-پایگاه-هوایی-ع.html</guid>
-      <pubDate>Wed, 18 Nov 2026 04:48:00 GMT</pubDate>
-      <description>🛰 Sputnik Iran | Rubika | Bale | Web</description>
-    </item>
-    <item>
-      <title>شی جین پینگ در دیدار با پوتین: روابط بین روسیه و چین چشم‌اندازهای گسترده‌ای دارد و تابع نوسانات اقتصادی جهانی نیست</title>
-      <link>https://sputnikiran.github.io/news/104218-شی-جین-پینگ-در-دیدار-با-پ.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/104218-شی-جین-پینگ-در-دیدار-با-پ.html</guid>
-      <pubDate>Wed, 18 Nov 2026 04:48:00 GMT</pubDate>
-      <description>🔹رهبر چین دیدار فعلی با رئیس جمهور روسیه را نمادین خواند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
     </item>
   </channel>
 </rss>
