@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Wed, 18 Nov 2026 13:48:51 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 14:18:23 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>عضو پارلمان اروپا: اروپا به‌سرعت موضع خود را در قبال مذاکره با روسیه تغییر داده است</title>
+      <link>https://sputnikiran.github.io/news/104264-عضو-پارلمان-اروپا-اروپا-ب.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/104264-عضو-پارلمان-اروپا-اروپا-ب.html</guid>
+      <pubDate>Wed, 18 Nov 2026 14:17:00 GMT</pubDate>
+      <description>🔸تیری ماریانی عضو پارلمان اروپا در سخنانی تصریح کرد که در سه سال گذشته، دیدگاه غالب در اروپا این بود که گفتگو با مسکو به منزله خیانت است. 🔸وی به خبرگزاری «اسپوتنیک» گفت: «امروز، همان افراد در بروکسل با عجله به دنبال یافتن جایی پشت میز مذاکره هستند؛ اما با کمال تعجب درمی‌یابند که هیچ‌کس در آنجا منتظرشان نیست.» &amp;nbsp; 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104264.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104264.jpg" medium="image" />
+    </item>
     <item>
       <title>معاون وزیر امور خارجه روسیه، چشم‌انداز همکاری‌های روسیه و آفریقا را روشن نامید</title>
       <link>https://sputnikiran.github.io/news/104263-معاون-وزیر-امور-خارجه-روس.html</link>
@@ -436,15 +445,6 @@
       <guid isPermaLink="true">https://sputnikiran.github.io/news/104213-پوتین-قدرتهای-سابق-به-جای.html</guid>
       <pubDate>Wed, 18 Nov 2026 03:47:00 GMT</pubDate>
       <description>🔶ولادیمیر پوتین، رئیس‌جمهور روسیه، در سخنرانی خود در اجلاس تجاری اپک تأکید کرد که ابزارهای قدیمی سلطه اقتصادی و اجبار، دیگر کارایی خود را از دست داده‌اند. 🔶پوتین افزود که روسیه از نظر تعداد تحریم‌های اعمال‌شده علیه یک کشور، رکورددار جهان است، اما این کشور با عزت از این آزمون عبور کرده است. 🔶به گفته وی، تحریم‌ها هنوز اثر بازدارنده دارند، اما دیگر قادر به درهم شکستن اقتصاد رقبا نیستند. 🔶رئیس‌جمهور روسیه همچنین اظهار داشت که سطح زندگی در کشورهای اتحادیه اروپا به شکلی تحقیرآمیز برای منطقه یورو د</description>
-    </item>
-    <item>
-      <title>آغاز سخنرانی پوتین در اجلاس تجاری APEC در چین</title>
-      <link>https://sputnikiran.github.io/news/104212-آغاز-سخنرانی-پوتین-در-اجل.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/104212-آغاز-سخنرانی-پوتین-در-اجل.html</guid>
-      <pubDate>Wed, 18 Nov 2026 03:47:00 GMT</pubDate>
-      <description>🔶ولادیمیر پوتین، رئیس‌جمهور روسیه، سخنرانی خود را در اجلاس تجاری APEC در چین آغاز کرد. وی اعلام کرد که منطقه آسیا-اقیانوسیه به مرکز اقتصاد جهانی و قطب صنعتی و فناوری جهان تبدیل شده است. نکات اصلی: 🔶اپک بیش از 60 درصد از تولید ناخالص داخلی جهان و 36 درصد از جمعیت آن را شامل می‌شود. 🔶کشورهای آسیایی جهشی عظیم به جلو داشته‌اند و از «کارخانه جهان» به لوکوموتیو نوآوری تبدیل شده‌اند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104212.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104212.jpg" medium="image" />
     </item>
   </channel>
 </rss>
