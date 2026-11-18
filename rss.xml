@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Wed, 18 Nov 2026 16:50:43 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 17:48:59 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>تنش‌ها در تنگه هرمز و افزایش قیمت نفت، ژاپن را برای ششمین ماه متوالی در وضعیت کسری تجاری قرار داد</title>
+      <link>https://sputnikiran.github.io/news/104278-تنشها-در-تنگه-هرمز-و-افزا.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/104278-تنشها-در-تنگه-هرمز-و-افزا.html</guid>
+      <pubDate>Wed, 18 Nov 2026 17:47:00 GMT</pubDate>
+      <description>🔸بر اساس داده‌های وزارت دارایی ژاپن، این کشور در ماه اکتبر با کسری تجاری حدود 3 میلیارد دلاری مواجه شد؛ چرا که رشد هزینه‌های واردات انرژی همچنان از رشد صادرات پیشی گرفته است. 🔸میزان واردات در ماه اکتبر نسبت به سال گذشته 21.6 درصد افزایش یافت و به رقم بی‌سابقه 75 میلیارد دلار رسید. بخشی از این افزایش ناشی از رشد 60,5 درصدی واردات نفت خام بود؛ چرا که ژاپن در پی تنش‌ها در اطراف تنگه هرمز، برای متنوع‌سازی منابع تأمین انرژی خود تلاش می‌کند. 🔸ژاپن به‌طور سنتی برای تأمین بیش از 90 درصد نفت خام خود ب</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104278.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104278.jpg" medium="image" />
+    </item>
     <item>
       <title>نتایج روز نخست اجلاس سران «اپک» در چین در سال</title>
       <link>https://sputnikiran.github.io/news/104272-نتایج-روز-نخست-اجلاس-سران.html</link>
@@ -444,15 +453,6 @@
       <description>🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104222.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104222.jpg" medium="image" />
-    </item>
-    <item>
-      <title>فوران زباله به بلندای یک ساختمان</title>
-      <link>https://sputnikiran.github.io/news/104221-فوران-زباله-به-بلندای-یک.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/104221-فوران-زباله-به-بلندای-یک.html</guid>
-      <pubDate>Wed, 18 Nov 2026 05:47:00 GMT</pubDate>
-      <description>طبقه بر فراز لس‌آنجلس 🔶در محل دفن زباله چیکیتا کانیون در کالیفرنیا، انتشار متان رخ داد و فواره‌ای از زباله‌های در حال تجزیه و گاز تا ارتفاع 152 متر بالا رفت. کارگران هنگام حفاری به‌طور اتفاقی به حفره‌ای زیرزمینی پر از گاز تحت فشار برخوردند. 🔶ستونی از زباله سیاه و بخار از چند کیلومتر دورتر دیده می‌شد. چهار کارگر برای معاینه به بیمارستان منتقل شدند. مقامات دستور تخلیه اعلام کردند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104221.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104221.jpg" medium="image" />
     </item>
   </channel>
 </rss>
