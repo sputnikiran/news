@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Thu, 19 Nov 2026 03:48:53 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 04:19:10 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>ترامپ در انتظار دیدار سه‌جانبه تاریخی با پوتین و شی</title>
+      <link>https://sputnikiran.github.io/news/104293-ترامپ-در-انتظار-دیدار-سهج.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/104293-ترامپ-در-انتظار-دیدار-سهج.html</guid>
+      <pubDate>Thu, 19 Nov 2026 04:17:00 GMT</pubDate>
+      <description>▫️دونالد ترامپ، رئیس‌جمهور ایالات متحده، گفت که مشتاقانه در انتظار یک دیدار سه‌جانبه تاریخی با ولادیمیر پوتین، رئیس‌جمهور روسیه، و شی جین‌پینگ، رئیس‌جمهور چین، در ادامه روز جاری است. ▫️انتظار می‌رود این رهبران درباره فرصت‌های بیشتر برای همکاری میان این سه کشور گفتگو کنند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104293.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104293.jpg" medium="image" />
+    </item>
     <item>
       <title>نکات کلیدی اظهارات پوتین در نشست عمومی «اپک» در شنژن:</title>
       <link>https://sputnikiran.github.io/news/104292-نکات-کلیدی-اظهارات-پوتین.html</link>
@@ -444,15 +453,6 @@
       <description>نوامبر 🔹پوتین: روسیه با عزت از آزمون تحریم‌ها سربلند بیرون آمده است. 🔹کریل دمیتریف، رئیس صندوق سرمایه‌گذاری مستقیم روسیه: اروپا آتش جنگ را شعله‌ور می‌کند، در حالی که ترامپ به دنبال صلح در اوکراین است. 🔹لهستان و اوکراین همکاری تولید مشترک برای صنایع نظامی را گسترش می‌دهند. 🔹پوتین از پردیس دانشگاه مشترک روسیه و چین در شنژن بازدید کرد. 🔹بر اساس آمارها، قیمت کالاهای مصرفی در اوکراین پس از «یورومیدان» بیش از 5 برابر افزایش یافته است. 🔹ارتش ایران اعلام کرد که پایگاه هوایی علی‌السالم آمریکا در کو</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104237.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104237.jpg" medium="image" />
-    </item>
-    <item>
-      <title>ترامپ وارد شنژن شد، جایی که قرار است با پوتین و شی جین پینگ دیدار کند</title>
-      <link>https://sputnikiran.github.io/news/104236-ترامپ-وارد-شنژن-شد،-جایی.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/104236-ترامپ-وارد-شنژن-شد،-جایی.html</guid>
-      <pubDate>Wed, 18 Nov 2026 09:17:00 GMT</pubDate>
-      <description>🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104236.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104236.jpg" medium="image" />
     </item>
   </channel>
 </rss>
