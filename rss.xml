@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Thu, 19 Nov 2026 18:48:25 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 19:19:38 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>رویدادهای مهم جهان تا عصر</title>
+      <link>https://sputnikiran.github.io/news/104359-رویدادهای-مهم-جهان-تا-عصر.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/104359-رویدادهای-مهم-جهان-تا-عصر.html</guid>
+      <pubDate>Thu, 19 Nov 2026 19:18:00 GMT</pubDate>
+      <description>نوامبر 🔹پوتین: روسیه هیچ جنگی را در اوکراین آغاز نکرد، اما در تلاش است به آن پایان دهد. 🔹وانگ یی مذاکرات پوتین-شی-ترامپ را &amp;quot;اجلاس صلح&amp;quot; خواند. 🔹پس از نشست سه جانبه، بیانیه سران کشورهای روسیه، چین و ایالات متحده در مورد صلح به تصویب رسید. 🔹اسپوتنیک روزنامه نگارانی از روسیه و مغولستان را برای اولین فروم رسانه ای در اولان باتور جمع آوری کرد. 🔹ناآرامی اجتماعی در فرانسه: بازنشستگان به خیابان های پاریس آمدند و خواستار افزایش حقوق بازنشستگی شدند. 🔹نیروی دریایی سپاه پاسداران ایران: انفجار</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104359.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104359.jpg" medium="image" />
+    </item>
     <item>
       <title>نمایش موشک قدر و دستاوردهای هوافضای سپاه در گلستان شهدای اصفهان</title>
       <link>https://sputnikiran.github.io/news/104357-نمایش-موشک-قدر-و-دستاورده.html</link>
@@ -438,15 +447,6 @@
       <description>▫️ترامپ از شی جین‌پینگ به عنوان یک «دوست» یاد کرد و از وجود رابطه‌ای ویژه میان ایالات متحده و چین سخن گفت. از دیگر اظهارات ترامپ می‌توان به موارد زیر اشاره کرد: ▫️ایالات متحده و چین از جریان بدون مانع نفت از طریق تنگه هرمز حمایت می‌کنند؛ ▫️ ترامپ انتظار گفتگوهایی سازنده را دارد و قصد دارد از شی درخواست کند تا تدابیر بیشتری برای حمایت از کشاورزان آمریکایی اتخاذ نماید؛ ▫️ روابط میان واشنگتن و پکن عادلانه شده است و ایالات متحده قصد دارد این رویکرد را حفظ کند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104303.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104303.jpg" medium="image" />
-    </item>
-    <item>
-      <title>فرودگاه فلوریدا دچار آبگرفتگی شد</title>
-      <link>https://sputnikiran.github.io/news/104302-فرودگاه-فلوریدا-دچار-آبگر.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/104302-فرودگاه-فلوریدا-دچار-آبگر.html</guid>
-      <pubDate>Thu, 19 Nov 2026 06:17:00 GMT</pubDate>
-      <description>▫️آب، مسیرهای تاکسی فرودگاه بین‌المللی فورت لادردیل-هالیوود را فرا گرفته است. ❗️هشدار سیل برای این ایالت صادر شده است که تعداد زیادی از ساکنان را تحت تأثیر قرار می‌دهد. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104302.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104302.jpg" medium="image" />
     </item>
   </channel>
 </rss>
