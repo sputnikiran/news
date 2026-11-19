@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Thu, 19 Nov 2026 11:19:01 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 11:48:50 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>انفجار دو نفتکش در تنگه هرمز</title>
+      <link>https://sputnikiran.github.io/news/104328-انفجار-دو-نفتکش-در-تنگه-ه.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/104328-انفجار-دو-نفتکش-در-تنگه-ه.html</guid>
+      <pubDate>Thu, 19 Nov 2026 11:47:00 GMT</pubDate>
+      <description>🔸️️️️️️نیروی دریایی سپاه پاسداران ایران اعلام کرد که دو نفت‌کش غول‌پیکر حامل بیش از چهار میلیون بشکه نفت خام، در حالی که تحت حفاظت جنگنده‌ها و پهپادهای نظارتی ایالات متحده قصد داشتند به‌صورت مخفیانه از مسیری ممنوعه در تنگه هرمز عبور کنند، پس از برخورد با مین‌های دریایی منفجر شدند. 🔸️️️️️️شناورها رها شده‌اند و اکنون در نزدیکی ساحل جنوبی تنگه در حال سوختن هستند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104328.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104328.jpg" medium="image" />
+    </item>
     <item>
       <title>ترامپ با هواپیما شنژن را ترک کرد</title>
       <link>https://sputnikiran.github.io/news/104327-ترامپ-با-هواپیما-شنژن-را.html</link>
@@ -442,15 +451,6 @@
       <description>🔸مطبوعات غربی شروع به گزارش دیدار رهبران روسیه و چین در حاشیه اجلاس اپک در شنژن، کرد. رسانه‌ آمریکایی خاطرنشان می‌کند که علیرغم تلاش‌های اعمال فشار خارجی، روسیه و چین به وضوح…</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104269.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104269.jpg" medium="image" />
-    </item>
-    <item>
-      <title>پوتین در مراسم پذیرایی ویژه مهمانان اجلاس «اپک» (APEC) با ترامپ دیدار کرد</title>
-      <link>https://sputnikiran.github.io/news/104268-پوتین-در-مراسم-پذیرایی-وی.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/104268-پوتین-در-مراسم-پذیرایی-وی.html</guid>
-      <pubDate>Wed, 18 Nov 2026 15:47:00 GMT</pubDate>
-      <description>🔶پوتین، ترامپ و شی جین‌پینگ با یکدیگر دست دادند و گفتگویی کوتاه به‌صورت ایستاده داشتند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104268.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104268.jpg" medium="image" />
     </item>
   </channel>
 </rss>
