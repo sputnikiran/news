@@ -5,13 +5,38 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Thu, 19 Nov 2026 11:48:50 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 12:18:52 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>پوتین: این رژیم کی‌یف بود که جنگ را در جنوب شرقی اوکراین آغاز کرد</title>
+      <link>https://sputnikiran.github.io/news/104331-پوتین-این-رژیم-کییف-بود-ک.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/104331-پوتین-این-رژیم-کییف-بود-ک.html</guid>
+      <pubDate>Thu, 19 Nov 2026 12:17:00 GMT</pubDate>
+      <description>🔸️️پوتین گفت که روسیه آماده است در مورد الزامات خود برای سیستم امنیتی اروپا بحث کند. 🔸️️در عین حال، رئیس جمهور خاطرنشان کرد که خواسته‌های مسکو در این مورد مشروع است. 🔸️️پوتین گفت اوکراین و اروپا هنوز آماده سازش برای حل مناقشه نیستند. 🔸️️رئیس دولت تأکید کرد که مقامات فعلی کی‌یف نمی‌خواهند جنگ پایان یابد زیرا آنها مجبور خواهند شد به پای صندوق‌های رأی بروند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104331.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104331.jpg" medium="image" />
+    </item>
+    <item>
+      <title>پوتین اظهار داشت: دیوان کیفری بین‌المللی آشکارا از صلاحیت خود فراتر می‌رود</title>
+      <link>https://sputnikiran.github.io/news/104330-پوتین-اظهار-داشت-دیوان-کی.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/104330-پوتین-اظهار-داشت-دیوان-کی.html</guid>
+      <pubDate>Thu, 19 Nov 2026 12:17:00 GMT</pubDate>
+      <description>نکات دیگر: 🔸️️کمتر کسی انتظار داشت که در نشست سه‌جانبه بین روسیه، چین و ایالات متحده، بحثی آزاد و بدون تنش وجود داشته باشد، اما شی جین‌پینگ توانست فضای مناسبی را ایجاد کند. 🔸️️در روابط بین روسیه و ایالات متحده، بهتر است توافق‌هایی وجود داشته باشد که اجرای آنها دشوار باشد تا اینکه هیچ توافقی وجود نداشته باشد. 🔸️️امنیت بین‌المللی امروز تا حد زیادی به روسیه، چین و ایالات متحده بستگی دارد. 🔸️️دیدار با شی جین پینگ و ترامپ موفقیت آمیز بود. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+    </item>
+    <item>
+      <title>پوتین دیدار خود با شی جین پینگ و ترامپ را صفحه ای در تاریخ دیپلماسی خواند</title>
+      <link>https://sputnikiran.github.io/news/104329-پوتین-دیدار-خود-با-شی-جین.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/104329-پوتین-دیدار-خود-با-شی-جین.html</guid>
+      <pubDate>Thu, 19 Nov 2026 12:17:00 GMT</pubDate>
+      <description>🔸️️️️️️رئیس جمهور روسیه خاطرنشان کرد که مایل است چنین نشست‌های سه‌جانبه‌ای ادامه یابد. 🔸️️️️️️پوتین پس از نشست با ترامپ و شی جین پینگ گفت: «فقط خدا می‌داند که در آینده چه اتفاقی خواهد افتاد، اما من دوست دارم درک متقابل وجود داشته باشد.» 🔸️️️️️️پوتین اظهار داشت، دیوان کیفری بین‌المللی از صلاحیت خود فراتر رفته و تصمیمات نادرستی می‌گیرد. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104329.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104329.jpg" medium="image" />
+    </item>
     <item>
       <title>انفجار دو نفتکش در تنگه هرمز</title>
       <link>https://sputnikiran.github.io/news/104328-انفجار-دو-نفتکش-در-تنگه-ه.html</link>
@@ -424,33 +449,6 @@
       <description>اجلاس سران اپک در تاریخ 18 نوامبر 2026 در شهر شنژن چین آغاز شد. رئیس‌جمهور جمهوری چین در مراسم افتتاحیه اجلاس مدیران عامل اپک سخنرانی کرد. شی جین‌پینگ به سومین دوره ریاست چین بر اپک و همچنین پیشبرد نوآوری…</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104272.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104272.jpg" medium="image" />
-    </item>
-    <item>
-      <title>نتایج روز نخست اجلاس سران «اپک» در چین در سال</title>
-      <link>https://sputnikiran.github.io/news/104271-نتایج-روز-نخست-اجلاس-سران.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/104271-نتایج-روز-نخست-اجلاس-سران.html</guid>
-      <pubDate>Wed, 18 Nov 2026 16:17:00 GMT</pubDate>
-      <description>اجلاس سران اپک در تاریخ 18 نوامبر 2026 در شهر شنژن چین آغاز شد. رئیس‌جمهور جمهوری چین در مراسم افتتاحیه اجلاس مدیران عامل اپک سخنرانی کرد. شی جین‌پینگ به سومین دوره ریاست چین بر اپک و همچنین پیشبرد نوآوری…</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104271.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104271.jpg" medium="image" />
-    </item>
-    <item>
-      <title>دستیار پوتین: پوتین و شی جین‌پینگ درباره تمامی مسائل بسیار مهم در دستور کار بین‌المللی و منطقه‌ای گفتگو کردند</title>
-      <link>https://sputnikiran.github.io/news/104270-دستیار-پوتین-پوتین-و-شی-ج.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/104270-دستیار-پوتین-پوتین-و-شی-ج.html</guid>
-      <pubDate>Wed, 18 Nov 2026 16:17:00 GMT</pubDate>
-      <description>🔸اوشاکوف تصریح کرد که دیدار دوجانبه میان پوتین و ترامپ برای پس از نشست عمومی اجلاس سران «اپک» برگزار شد 🔸اوشاکوف گفت که پوتین و شی جین‌پینگ در…</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104270.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104270.jpg" medium="image" />
-    </item>
-    <item>
-      <title>پوتین و شی برای پنجاهمین بار با هم دیدار ‌کردند؛ چین سیگنال مهمی به جهان ‌فرستاد</title>
-      <link>https://sputnikiran.github.io/news/104269-پوتین-و-شی-برای-پنجاهمین.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/104269-پوتین-و-شی-برای-پنجاهمین.html</guid>
-      <pubDate>Wed, 18 Nov 2026 15:47:00 GMT</pubDate>
-      <description>🔸مطبوعات غربی شروع به گزارش دیدار رهبران روسیه و چین در حاشیه اجلاس اپک در شنژن، کرد. رسانه‌ آمریکایی خاطرنشان می‌کند که علیرغم تلاش‌های اعمال فشار خارجی، روسیه و چین به وضوح…</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104269.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104269.jpg" medium="image" />
     </item>
   </channel>
 </rss>
