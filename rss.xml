@@ -5,13 +5,31 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Thu, 19 Nov 2026 19:48:33 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 20:20:02 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>طغیان رودخانه تاوینیانو در جزیره کرس فرانسه بر اثر باران‌های شدید</title>
+      <link>https://sputnikiran.github.io/news/104362-طغیان-رودخانه-تاوینیانو-د.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/104362-طغیان-رودخانه-تاوینیانو-د.html</guid>
+      <pubDate>Thu, 19 Nov 2026 20:18:00 GMT</pubDate>
+      <description>🔶در شهر کورته، آب بالا آمده تقریباً پل بالیری را نابود کرد. به گزارش مطبوعات محلی، این دومین سیل بزرگ در یک هفته گذشته است. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104362.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104362.jpg" medium="image" />
+    </item>
+    <item>
+      <title>نخست وزیر لکورنو: تعداد افراد دستگیر شده در جریان ناآرامی‌های فرانسه به</title>
+      <link>https://sputnikiran.github.io/news/104361-نخست-وزیر-لکورنو-تعداد-اف.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/104361-نخست-وزیر-لکورنو-تعداد-اف.html</guid>
+      <pubDate>Thu, 19 Nov 2026 20:18:00 GMT</pubDate>
+      <description>نفر رسیده است 🔸درگیری با معترضان منجر به زخمی شدن 150 افسر پلیس و ژاندارمری شد. 🔸علاوه بر این، در جریان اعتراضات در لیموژ، تظاهرکنندگان یک بنای تاریخی - برج ناقوس 43 متری تالار…</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104361.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104361.jpg" medium="image" />
+    </item>
     <item>
       <title>آتش‌سوزی یک نفتکش در شرق تنگه هرمز بر اثر برخورد با مین دریایی</title>
       <link>https://sputnikiran.github.io/news/104360-آتشسوزی-یک-نفتکش-در-شرق-ت.html</link>
@@ -427,24 +445,6 @@
       <description>را به نیروهای هوافضای روسیه تحویل داد 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104306.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104306.jpg" medium="image" />
-    </item>
-    <item>
-      <title>استقبال ساکنان شنژن از کاروان ولادیمیر پوتین</title>
-      <link>https://sputnikiran.github.io/news/104305-استقبال-ساکنان-شنژن-از-کا.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/104305-استقبال-ساکنان-شنژن-از-کا.html</guid>
-      <pubDate>Thu, 19 Nov 2026 06:47:00 GMT</pubDate>
-      <description></description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104305.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104305.jpg" medium="image" />
-    </item>
-    <item>
-      <title>اوشاکوف: پوتین پس از گفتگو با ترامپ، در وضعیت روحی بسیار خوبی قرار داشت</title>
-      <link>https://sputnikiran.github.io/news/104304-اوشاکوف-پوتین-پس-از-گفتگو.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/104304-اوشاکوف-پوتین-پس-از-گفتگو.html</guid>
-      <pubDate>Thu, 19 Nov 2026 06:17:00 GMT</pubDate>
-      <description>▫️در این دیدار موضوعاتی همچون روابط دوجانبه و حل‌وفصل مناقشه در اوکراین مورد بحث قرار گرفت. ▫️یوری اوشاکوف، دستیار ولادیمیر پوتین به خبرگزاری «وستی» گفت: «هیچ‌یک از طرفین اظهارات به‌ویژه مهمی بیان نکردند.» 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104304.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104304.jpg" medium="image" />
     </item>
   </channel>
 </rss>
