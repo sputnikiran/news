@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Thu, 19 Nov 2026 15:18:27 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 15:48:41 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>«تایتانیک» تانزانیا؛ بزرگ‌ترین شناور دریاچه ویکتوریا با صخره‌ها برخورد کرد</title>
+      <link>https://sputnikiran.github.io/news/104343-تایتانیک-تانزانیا؛-بزرگتر.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/104343-تایتانیک-تانزانیا؛-بزرگتر.html</guid>
+      <pubDate>Thu, 19 Nov 2026 15:47:00 GMT</pubDate>
+      <description>🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104343.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104343.jpg" medium="image" />
+    </item>
     <item>
       <title>رسانه‌ها: روسیه از اروپایی‌ها برای گفتگو درباره اوضاع اوکراین به مسکو دعوت کرد</title>
       <link>https://sputnikiran.github.io/news/104342-رسانهها-روسیه-از-اروپاییه.html</link>
@@ -438,15 +447,6 @@
       <description>🔸 موانع موجود بر سر راه تجارت و سرمایه‌گذاری در منطقه آسیا-اقیانوسیه باید برطرف شوند؛ 🔸 اقتصادهای عضو اپک باید خود را با فرصت‌ها و چالش‌های جدید سازگار کنند؛ 🔸 باید یک زیست‌بوم نوآوری ایجاد شود و به‌کارگیری گسترده هوش مصنوعی مورد تشویق قرار گیرد؛ 🔸 زیرساخت‌های دیجیتال و حکمرانی داده‌ها باید بهبود یابند و جریان امن اطلاعات در سطح فرامرزی تضمین شود. 🔸 شی جین‌پینگ در اجلاس «اپک» خواستار تسهیل سفرهای تجاری و گردشگری در منطقه آسیا-اقیانوسیه شد؛ 🔸 شی جین‌پینگ اعلام کرد که چین 20 میلیون دلار برای</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104291.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104291.jpg" medium="image" />
-    </item>
-    <item>
-      <title>حوثی‌ها مسئولیت حملات موشکی به یک مرکز مالی و یک فرودگاه بین‌المللی در ریاض را بر عهده گرفتند</title>
-      <link>https://sputnikiran.github.io/news/104290-حوثیها-مسئولیت-حملات-موشک.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/104290-حوثیها-مسئولیت-حملات-موشک.html</guid>
-      <pubDate>Wed, 18 Nov 2026 21:18:00 GMT</pubDate>
-      <description>🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104290.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104290.jpg" medium="image" />
     </item>
   </channel>
 </rss>
