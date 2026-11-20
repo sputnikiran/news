@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Fri, 20 Nov 2026 07:48:32 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 08:18:30 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>آتش‌سوزی بزرگ در یک ساختمان آپارتمانی</title>
+      <link>https://sputnikiran.github.io/news/104378-آتشسوزی-بزرگ-در-یک-ساختما.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/104378-آتشسوزی-بزرگ-در-یک-ساختما.html</guid>
+      <pubDate>Fri, 20 Nov 2026 08:17:00 GMT</pubDate>
+      <description>طبقه در شهر فرانسوی فونتنی-سو-بوا (بخش وال-دو-مارن) رخ داد 🔥این حادثه منجر به کشته شدن یک نفر و زخمی شدن تقریباً 30 نفر، از جمله 15 آتش‌نشان، شد. 🔥این آتش‌سوزی روز پنجشنبه، 19 نوامبر 2026، تقریباً ساعت ۵ بعد از ظهر به وقت محلی در ساختمانی در خیابان مارتین لوتر کینگ جونیور (منطقه له لاری) آغاز شد. 🔥آتش‌سوزی در دو آپارتمان در طبقه یازدهم رخ داد و سپس به طبقه دوازدهم گسترش یافت. 137 آتش‌نشان و 32 دستگاه تجهیزات تخصصی برای خاموش کردن آتش فراخوانده شدند. پس از تقریباً دو ساعت، آتش مهار شد و خطر ان</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104378.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104378.jpg" medium="image" />
+    </item>
     <item>
       <title>وزارت دفاع روسیه: نیروهای مسلح روسیه به پل‌هایی در کی‌یف حمله کردند که برای حمل محموله‌های نظامی استفاده می‌شدند</title>
       <link>https://sputnikiran.github.io/news/104377-وزارت-دفاع-روسیه-نیروهای.html</link>
@@ -440,15 +449,6 @@
       <description>🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104321.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104321.jpg" medium="image" />
-    </item>
-    <item>
-      <title>بیانیه نهایی رهبران اقتصادی «اپک» در پی سی و سومین اجلاس سران این سازمان در شنژن</title>
-      <link>https://sputnikiran.github.io/news/104320-بیانیه-نهایی-رهبران-اقتصا.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/104320-بیانیه-نهایی-رهبران-اقتصا.html</guid>
-      <pubDate>Thu, 19 Nov 2026 09:47:00 GMT</pubDate>
-      <description>◾️نکات کلیدی این بیانیه عبارتند از: 🔸 شرکت‌کنندگان بر اهمیت تضمین تأمین انرژی به‌صورت ایمن و بدون وقفه تأکید کردند؛ 🔸 بیانیه‌ای مشترک در خصوص بهره‌گیری از فناوری‌های دیجیتال برای ارتقای رفاه مردم در سراسر منطقه آسیا-اقیانوسیه به تصویب رسید؛ 🔸 اقتصادهای عضو اپک توافق کردند که فناوری‌های دیجیتال را در بخش کشاورزی به کار گیرند؛ 🔸 شرکت‌کنندگان بر اهمیت چارچوب‌های سیاست‌گذاری مالی برای حفظ ثبات مالی جهانی تأکید ورزیدند. 🔸 شرکت‌کنندگان در این نشست بر اهمیت آماده‌سازی نیروی کار برای چشم‌انداز آتی </description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104320.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104320.jpg" medium="image" />
     </item>
   </channel>
 </rss>
