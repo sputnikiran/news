@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Fri, 20 Nov 2026 15:48:26 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 16:18:33 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>آبگرفتگی در استان رییتی ایتالیا بر اثر باران‌های شدید</title>
+      <link>https://sputnikiran.github.io/news/104404-آبگرفتگی-در-استان-رییتی-ا.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/104404-آبگرفتگی-در-استان-رییتی-ا.html</guid>
+      <pubDate>Fri, 20 Nov 2026 16:17:00 GMT</pubDate>
+      <description>🔶رودخانه ولینو از بستر خود طغیان کرد، بخش‌هایی از جاده‌ها را زیر آب برد و مقامات را مجبور کرد تردد را موقتاً مسدود کنند. در منطقه بورگوروزه بارش‌ها به ویژه شدید بود؛ به طوری که در حدود یک ساعت و نیم، نزدیک به 60 میلی‌متر باران بارید. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104404.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104404.jpg" medium="image" />
+    </item>
     <item>
       <title>سیاستمدار اسلواکی اعلام کرد که تحریم‌های ضدروسی به اقتصاد اروپا آسیب می‌زند</title>
       <link>https://sputnikiran.github.io/news/104403-سیاستمدار-اسلواکی-اعلام-ک.html</link>
@@ -444,15 +453,6 @@
       <description>🔹نخستین مجمع رسانه‌ای روسیه و مغولستان روز 19 نوامبر در پایتخت مغولستان، اولان‌باتور، با مشارکت بیش از 70 خبرنگار، مقام رسانه‌ای و کارشناس از دو کشور و با سازماندهی مشترک اسپوتنیک و شماری از نهادهای رسانه‌ای و رسمی روسیه و مغولستان برگزار شد. 🔹شرکت‌کنندگان درباره چشم‌انداز همکاری بین اتاق‌های خبر، تبادل محتوا و تجربه، سازماندهی بازدیدها و برنامه‌های آموزشی برای خبرنگاران بحث و گفتگو کردند و بر توسعه ارتباط مستقیم بین رسانه‌های دو کشور تأکید نمودند. 🔹آنها همچنین چالش‌های ادغام هوش مصنوعی در کا</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104347.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104347.jpg" medium="image" />
-    </item>
-    <item>
-      <title>چرا آژانس بین‌المللی انرژی اتمی باید از بحران بی‌اعتمادی عبور کند؟</title>
-      <link>https://sputnikiran.github.io/news/104346-چرا-آژانس-بینالمللی-انرژی.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/104346-چرا-آژانس-بینالمللی-انرژی.html</guid>
-      <pubDate>Thu, 19 Nov 2026 16:17:00 GMT</pubDate>
-      <description>🔶اکبر معصومی، کارشناس مسائل بین‌الملل، در گفتگو با اسپوتنیک اعلام کرد که در شرایط تهدیدهای نظامی مستقیم محور اسرائیلی-آمریکایی علیه ایران، درخواست آژانس بین‌المللی انرژی اتمی برای بازرسی بدون ارائه تضمین‌های امنیتی به معنای خودبی‌دفاع کردن کشور در شرایط جنگی است، زیرا بازرسی‌ها می‌توانند به ابزاری برای شناسایی نقاط ضعف دفاعی ایران تبدیل شوند. 🔶 از این رو توقف کامل خصومت‌ها و رفع تهدیدهای نظامی، پیش‌شرط اساسی بازگشت آژانس به روند پیشین بازرسی‌هاست، چنانکه بیانیه سه کشور ایران، روسیه و چین نیز ب</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104346.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104346.jpg" medium="image" />
     </item>
   </channel>
 </rss>
