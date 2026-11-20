@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Fri, 20 Nov 2026 18:18:53 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 18:48:32 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>ترامپ نشست سه‌جانبه با پوتین و شی جین پینگ را یکی از مهم‌ترین رویدادهای چند سال اخیر خواند</title>
+      <link>https://sputnikiran.github.io/news/104412-ترامپ-نشست-سهجانبه-با-پوت.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/104412-ترامپ-نشست-سهجانبه-با-پوت.html</guid>
+      <pubDate>Fri, 20 Nov 2026 18:47:00 GMT</pubDate>
+      <description>📌دونالد ترامپ، رئیس‌جمهور آمریکا، در نشست خبری خود، نخستین نشست سه‌جانبه تاریخ رهبران آمریکا، روسیه و چین (دونالد ترامپ، ولادیمیر پوتین و شی جین پینگ) در حاشیه اجلاس همکاری اقتصادی آسیا-اقیانوسیه را یکی از مهم‌ترین رویدادهای بین‌المللی چند سال اخیر توصیف کرد. سایر اظهارات ترامپ در نشست خبری: 🔶ترامپ معتقد است که می‌تواند با پوتین و شی جین پینگ به زبان مشترک برسد و اختلافات پیش‌آمده را حل و فصل کند. 🔶وی آمریکا، روسیه و چین را سه کشور قدرتمند جهان، به ویژه از نظر فناوری، خواند. 🔶آمریکا در حال ا</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104412.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104412.jpg" medium="image" />
+    </item>
     <item>
       <title>کارشناس: اوکراین با حمله به اهداف غیرنظامی روسیه، جعبه پاندورا را باز کرد</title>
       <link>https://sputnikiran.github.io/news/104411-کارشناس-اوکراین-با-حمله-ب.html</link>
@@ -444,15 +453,6 @@
       <description>🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104357.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104357.jpg" medium="image" />
-    </item>
-    <item>
-      <title>سنگ نوردان ایران موفق به کسب مدال طلا و نقره شدند</title>
-      <link>https://sputnikiran.github.io/news/104356-سنگ-نوردان-ایران-موفق-به.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/104356-سنگ-نوردان-ایران-موفق-به.html</guid>
-      <pubDate>Thu, 19 Nov 2026 18:47:00 GMT</pubDate>
-      <description>🔶محمدرضا ترلانی و رادین فروغیان، نمایندگان سنگ‌نوردی ایران در رشته سرعت جام آزاد شانگهای در مسکو، به‌ترتیب مدال طلا و نقره کسب کردند. 🔶کاروان ایران تا این مرحله از مسابقات در رشته‌های جودو، شطرنج، شمشیربازی، تنیس روی میز و سنگ‌نوردی مجموعاً 6 طلا، 3 نقره و 7 برنز به دست آورده است. 🛰Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104356.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104356.jpg" medium="image" />
     </item>
   </channel>
 </rss>
