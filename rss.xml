@@ -5,13 +5,20 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Fri, 20 Nov 2026 16:18:33 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 16:48:35 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>سیاستمدار فرانسوی درباره پیشنهاد مکرون در مورد اوکراین: پاریس باید به دنبال صلح باشد، نه تشدید تنش</title>
+      <link>https://sputnikiran.github.io/news/104405-سیاستمدار-فرانسوی-درباره.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/104405-سیاستمدار-فرانسوی-درباره.html</guid>
+      <pubDate>Fri, 20 Nov 2026 16:47:00 GMT</pubDate>
+      <description>🔶نیکولا دوپون- انیان، نامزد ریاست‌جمهوری فرانسه و رهبر حزب راست‌گرای &amp;quot;برخیز، فرانسه&amp;quot;، از پیشنهاد امانوئل مکرون برای بررسی مجدد مساله عضویت اوکراین در ناتو، انتقاد کرد. 🔶او در شبکه اجتماعی ایکس هشدار داد: &amp;quot;آیا او عواقب چنین تصمیمی را درک می‌کند؟ این می‌تواند به جنگ بین دو قدرت هسته‌ای منجر شود&amp;#33;&amp;quot; 🔶این سیاستمدار فرانسوی تأکید کرد که پاریس باید به دنبال صلح باشد، نه تشدید تنشی که فقط می‌تواند آن را به درگیری مسلحانه بکشاند. 🔶سرگئی ریابکوف، معاون وزیر امور خارجه روسیه، روز</description>
+    </item>
     <item>
       <title>آبگرفتگی در استان رییتی ایتالیا بر اثر باران‌های شدید</title>
       <link>https://sputnikiran.github.io/news/104404-آبگرفتگی-در-استان-رییتی-ا.html</link>
@@ -444,15 +451,6 @@
       <description>🗣تیبریو گرازیانی، رئیس مؤسسه بین‌المللی تحلیل‌های جهانی، در حاشیه اجلاس ایپک در شنژن به اسپوتنیک گفت که منطقه آسیا-اقیانوسیه به عرصه کلیدی شکل‌دهی نظم جهانی آینده تبدیل شده است. وی رقابت آمریکا و چین، تنش‌های تجاری و فناوری و جابجایی زنجیره‌های تأمین را از عوامل تسریع این تحول اقتصادی دانست. 👉به گفته این کارشناس، همکاری رو به رشد روسیه و چین نیروی محرکه اصلی این تحول است. روسیه دارای منابع عظیم انرژی و معدنی، تخصص علمی و موقعیت راهبردی در اوراسیا است و چین از پایگاه صنعتی عظیم، منابع مالی، زیر</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104351.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104351.jpg" medium="image" />
-    </item>
-    <item>
-      <title>برگزاری نخستین مجمع رسانه‌ای روسیه و مغولستان در اولان‌باتور با مشارکت اسپوتنیک</title>
-      <link>https://sputnikiran.github.io/news/104347-برگزاری-نخستین-مجمع-رسانه.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/104347-برگزاری-نخستین-مجمع-رسانه.html</guid>
-      <pubDate>Thu, 19 Nov 2026 16:48:00 GMT</pubDate>
-      <description>🔹نخستین مجمع رسانه‌ای روسیه و مغولستان روز 19 نوامبر در پایتخت مغولستان، اولان‌باتور، با مشارکت بیش از 70 خبرنگار، مقام رسانه‌ای و کارشناس از دو کشور و با سازماندهی مشترک اسپوتنیک و شماری از نهادهای رسانه‌ای و رسمی روسیه و مغولستان برگزار شد. 🔹شرکت‌کنندگان درباره چشم‌انداز همکاری بین اتاق‌های خبر، تبادل محتوا و تجربه، سازماندهی بازدیدها و برنامه‌های آموزشی برای خبرنگاران بحث و گفتگو کردند و بر توسعه ارتباط مستقیم بین رسانه‌های دو کشور تأکید نمودند. 🔹آنها همچنین چالش‌های ادغام هوش مصنوعی در کا</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104347.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104347.jpg" medium="image" />
     </item>
   </channel>
 </rss>
