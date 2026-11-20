@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Fri, 20 Nov 2026 05:18:54 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 05:48:18 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>عملکردی با کیفیت بالا: خدمه‌های جنگنده FPV از یگان «عرب» نیروهای مسلح روسیه در جهت کراسنولیمانسک همچنان به انهدام هواپیماها و پهپادهای تهاجمی از نوع هلیکوپتر اوکراین در هوا ادامه می‌دهند</title>
+      <link>https://sputnikiran.github.io/news/104371-عملکردی-با-کیفیت-بالا-خدم.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/104371-عملکردی-با-کیفیت-بالا-خدم.html</guid>
+      <pubDate>Fri, 20 Nov 2026 05:47:00 GMT</pubDate>
+      <description>🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104371.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104371.jpg" medium="image" />
+    </item>
     <item>
       <title>رسانه‌ها: ائتلاف عربی موشک پرتاب شده به سمت عربستان سعودی را رهگیری کرد</title>
       <link>https://sputnikiran.github.io/news/104370-رسانهها-ائتلاف-عربی-موشک.html</link>
@@ -436,15 +445,6 @@
       <description>▫️ولادیمیر پوتین، شی جین‌پینگ و دونالد ترامپ دیدار خود را در شنژن آغاز کردند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104313.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104313.jpg" medium="image" />
-    </item>
-    <item>
-      <title>پوتین به اقامتگاهی رسید که قرار است دیدار با شی جین‌پینگ و ترامپ در آنجا برگزار شود</title>
-      <link>https://sputnikiran.github.io/news/104312-پوتین-به-اقامتگاهی-رسید-ک.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/104312-پوتین-به-اقامتگاهی-رسید-ک.html</guid>
-      <pubDate>Thu, 19 Nov 2026 08:47:00 GMT</pubDate>
-      <description>🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104312.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104312.jpg" medium="image" />
     </item>
   </channel>
 </rss>
