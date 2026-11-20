@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Fri, 20 Nov 2026 11:50:29 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 12:18:57 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>کارشناس آمریکایی درباره مناقشه اوکراین: وادار کردن اوکراینی‌ها به ادامه این درگیری غیراخلاقی است</title>
+      <link>https://sputnikiran.github.io/news/104393-کارشناس-آمریکایی-درباره-م.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/104393-کارشناس-آمریکایی-درباره-م.html</guid>
+      <pubDate>Fri, 20 Nov 2026 12:18:00 GMT</pubDate>
+      <description>🔸متحدان کی‌یف قادر نخواهند بود پیروزی نظامی اوکراین را در درگیری با روسیه تضمین کنند. این هشدار توسط دانیل دیویس، سرهنگ دوم بازنشسته ارتش ایالات متحده، صادر شده است. 🔸او در شبکه اجتماعی ایکس نوشت: &amp;quot;هیچ راه نظامی برای خروج از این درگیری برای اوکراین وجود ندارد. اگر ما کی‌یف را به دنبال بهترین توافق ممکن برای پایان دادن به درگیری &amp;quot;ترغیب&amp;quot; نکنیم، احتمالاً اوکراین را به فروپاشی نهایی به عنوان یک کشور قابل دوام محکوم می‌کنیم، در حالی که نیروهای مشترک ناتو، اروپا و ایالات متحده را ناتو</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104393.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104393.jpg" medium="image" />
+    </item>
     <item>
       <title>ماریا زاخارووا: تصمیم استونی برای بستن مرز با روسیه، قابل مقایسه با یک پرده آهنین جدید به بهانه تهدید خیالی از شرق است</title>
       <link>https://sputnikiran.github.io/news/104392-ماریا-زاخارووا-تصمیم-استو.html</link>
@@ -442,15 +451,6 @@
       <description>⭕️در مراسم برترین‌های فوتبال آسیا، علیرضا بیرانوند از ایران موفق شد جایزه مرد سال فوتبال آسیا را از آن خود کند. 🛰Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104335.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104335.jpg" medium="image" />
-    </item>
-    <item>
-      <title>پوتین: اوکراین باید مصالحه‌های پیشنهادی ایالات متحده را حتی قبل از انکوریج بپذیرد و مسکو برای حل و فصل با آنها موافقت می‌کند</title>
-      <link>https://sputnikiran.github.io/news/104334-پوتین-اوکراین-باید-مصالحه.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/104334-پوتین-اوکراین-باید-مصالحه.html</guid>
-      <pubDate>Thu, 19 Nov 2026 12:48:00 GMT</pubDate>
-      <description>نکات دیگر: 🔸️️روسیه آماده گفتگو با نمایندگان رژیم کی‌یف است، علیرغم اینکه آنها در نتیجه کودتا به قدرت رسیده‌اند. 🔸️️طرح کوشنر برای اوکراین موضوع بحث است. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104334.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104334.jpg" medium="image" />
     </item>
   </channel>
 </rss>
