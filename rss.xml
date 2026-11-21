@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Sat, 21 Nov 2026 20:49:01 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 21:18:28 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>بازداشت رهبر کارتل گواساوه در مکزیک</title>
+      <link>https://sputnikiran.github.io/news/104468-بازداشت-رهبر-کارتل-گواساو.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/104468-بازداشت-رهبر-کارتل-گواساو.html</guid>
+      <pubDate>Sat, 21 Nov 2026 21:17:00 GMT</pubDate>
+      <description>🔶فاوستو ایسیدرو مسا فلورس، رهبر کارتل گواساوه با نام مستعار «ال چاپو ایسیدرو» در مکزیک بازداشت شد. وی در فهرست ده مجرم تحت تعقیب FBI قرار دارد. همراه با او، دو تن دیگر از سرکردگان این گروه نیز بازداشت شدند. 🔶بر اساس گزارش رسانه‌های غربی، پس از این بازداشت، در ایالت سینالوآ درگیری‌های مسلحانه و حملاتی علیه نیروهای امنیتی رخ داده است. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104468.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104468.jpg" medium="image" />
+    </item>
     <item>
       <title>انهدام</title>
       <link>https://sputnikiran.github.io/news/104467-انهدام.html</link>
@@ -448,15 +457,6 @@
       <description>📌دونالد ترامپ، رئیس‌جمهور آمریکا، در نشست خبری خود، نخستین نشست سه‌جانبه تاریخ رهبران آمریکا، روسیه و چین (دونالد ترامپ، ولادیمیر پوتین و شی جین پینگ) در حاشیه اجلاس همکاری اقتصادی آسیا-اقیانوسیه را یکی از مهم‌ترین رویدادهای بین‌المللی چند سال اخیر توصیف کرد. سایر اظهارات ترامپ در نشست خبری: 🔶ترامپ معتقد است که می‌تواند با پوتین و شی جین پینگ به زبان مشترک برسد و اختلافات پیش‌آمده را حل و فصل کند. 🔶وی آمریکا، روسیه و چین را سه کشور قدرتمند جهان، به ویژه از نظر فناوری، خواند. 🔶آمریکا در حال ا</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104412.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104412.jpg" medium="image" />
-    </item>
-    <item>
-      <title>کارشناس: اوکراین با حمله به اهداف غیرنظامی روسیه، جعبه پاندورا را باز کرد</title>
-      <link>https://sputnikiran.github.io/news/104411-کارشناس-اوکراین-با-حمله-ب.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/104411-کارشناس-اوکراین-با-حمله-ب.html</guid>
-      <pubDate>Fri, 20 Nov 2026 18:18:00 GMT</pubDate>
-      <description>🔶دمیتری سوسلوف، معاون پژوهشی شورای روسیه برای سیاست خارجی و دفاعی، در گفت‌وگو با اسپوتنیک و در واکنش به اظهارات ولادیمیر پوتین در نشست خبری پس از اجلاس ایپک 2026، اعلام کرد که هرگونه تشدید تنش از سوی اوکراین «برای این کشور فاجعه‌بار خواهد بود و واکنشی از سوی روسیه را برمی‌انگیزد که آسیب بسیار بیشتری به اوکراین وارد می‌کند تا هر آسیبی که اوکراین بتواند به روسیه وارد کند.» 🔶سوسلوف گفت: «با نزدیک شدن زمستان، اوکراین هم‌اکنون هزینه‌های سنگینی را متحمل می‌شود و از حملات روسیه آسیب قابل توجهی می‌بین</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104411.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104411.jpg" medium="image" />
     </item>
   </channel>
 </rss>
