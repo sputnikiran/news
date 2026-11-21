@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Sat, 21 Nov 2026 17:18:31 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 17:48:20 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>موج ششم اعتراضات پاریس را فراگرفت؛ خشم از قیمت‌ها به جوشش رسید</title>
+      <link>https://sputnikiran.github.io/news/104457-موج-ششم-اعتراضات-پاریس-را.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/104457-موج-ششم-اعتراضات-پاریس-را.html</guid>
+      <pubDate>Sat, 21 Nov 2026 17:47:00 GMT</pubDate>
+      <description>🔶اعضای اتحادیه‌های کارگری، سازمان‌های جوانان و جلیقه‌زردها به خیابان‌های پایتخت فرانسه آمدند و علیه هزینه‌های بالای زندگی، قیمت انرژی و دستمزدهای پایین اعتراض کردند. این اعتراضات در اواخر سپتامبر…</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104457.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104457.jpg" medium="image" />
+    </item>
     <item>
       <title>ورود پرتعداد اتباع خارجی و کنترل سلاح در مرزهای ایران</title>
       <link>https://sputnikiran.github.io/news/104456-ورود-پرتعداد-اتباع-خارجی.html</link>
@@ -446,15 +455,6 @@
       <guid isPermaLink="true">https://sputnikiran.github.io/news/104403-سیاستمدار-اسلواکی-اعلام-ک.html</guid>
       <pubDate>Fri, 20 Nov 2026 15:47:00 GMT</pubDate>
       <description>🔶تحریم‌های ضدروسی اتحادیه اروپا، هزینه‌های اقتصادی برای خود کشورهای اروپایی ایجاد می‌کند و بیشترین تأثیر را بر صنعت و مصرف‌کنندگان می‌گذارد. این مطلب را تیبور گاسپار، معاون رئیس پارلمان اسلواکی، به رسانه ها اعلام کرد. 🔶به گفته این سیاستمدار، شرکت‌های کشورهای عضو اتحادیه اروپا بخشی از فرصت‌های تجاری را از دست داده‌اند و همچنین با بازسازی زنجیره‌های تأمین و آشفتگی جدی در بازارهای انرژی مواجه شده‌اند. 🔶گاشپار تأکید کرد: &amp;quot;اروپا به یک سیاست خارجی و اقتصادی نیاز دارد که از رقابت‌پذیری، مشاغل و</description>
-    </item>
-    <item>
-      <title>بُعد ایرانی در نشست «سه‌گانه بزرگ»: منافع و اختلاف‌ها</title>
-      <link>https://sputnikiran.github.io/news/104402-بُعد-ایرانی-در-نشست-سهگان.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/104402-بُعد-ایرانی-در-نشست-سهگان.html</guid>
-      <pubDate>Fri, 20 Nov 2026 15:47:00 GMT</pubDate>
-      <description>📌رجب صفروف، کارشناس سیاسی نوشت: نشست سه‌جانبه شنژن (نوامبر 2026) نشان داد که مسئله ایران به یکی از عناصر مهم توازن قدرت در حال شکل‌گیری در اوراسیا تبدیل شده است، اما در بیانیه پایانی این نشست هیچ اشاره‌ای به ایران نشد و توافق مشخصی درباره مناقشه ایران، تنگه هرمز یا آینده برنامه هسته‌ای تهران حاصل نگردید. 🔶از دید آمریکا، ایران عمدتاً مسئله امنیت منطقه‌ای و عدم اشاعه هسته‌ای است و واشنگتن تلاش داشت مسکو و پکن را به اعمال فشار بر تهران وادار کند، شاید با پیوند دادن حل و فصل خاورمیانه به توافقات گ</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104402.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104402.jpg" medium="image" />
     </item>
   </channel>
 </rss>
