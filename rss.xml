@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Sat, 21 Nov 2026 12:48:40 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 13:18:26 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>سه نفر در پی حمله ارتش اسرائیل به یک اتوبوس حامل مواد غذایی در منطقه تل‌الهوا در نوار غزه کشته شدند</title>
+      <link>https://sputnikiran.github.io/news/104446-سه-نفر-در-پی-حمله-ارتش-اس.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/104446-سه-نفر-در-پی-حمله-ارتش-اس.html</guid>
+      <pubDate>Sat, 21 Nov 2026 13:17:00 GMT</pubDate>
+      <description>🔸در این حملات چندین نفر دیگر نیز زخمی شدند. 🎥 ویدئو: شبکه‌های اجتماعی 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104446.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104446.jpg" medium="image" />
+    </item>
     <item>
       <title>تجمعات اعتراضی گسترده‌ای با حضور جوانان در بایرن آلمان، برگزار شد</title>
       <link>https://sputnikiran.github.io/news/104445-تجمعات-اعتراضی-گستردهای-ب.html</link>
@@ -446,15 +455,6 @@
       <description>🛰سخنگوی وزارت خارجه روسیه در ادامه افزود که این تصمیم در چارچوب روسیه هراسی قرار می‌گیرد. 🛰این دیپلمات خاطرنشان کرد که اگر استونی مرز را ببندد، روسیه اقدامات سیاسی و دیپلماتیک لازم را برای محافظت از منافع خود انجام خواهد داد. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104392.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104392.jpg" medium="image" />
-    </item>
-    <item>
-      <title>ولادیمیر پوتین و امامعلی رحمان برای ادامه مذاکرات خود به یک صبحانه کاری رفتند</title>
-      <link>https://sputnikiran.github.io/news/104391-ولادیمیر-پوتین-و-امامعلی.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/104391-ولادیمیر-پوتین-و-امامعلی.html</guid>
-      <pubDate>Fri, 20 Nov 2026 11:48:00 GMT</pubDate>
-      <description>🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104391.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104391.jpg" medium="image" />
     </item>
   </channel>
 </rss>
