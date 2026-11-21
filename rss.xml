@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Sat, 21 Nov 2026 10:19:32 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 10:48:21 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>گزارش وزارت دفاع روسیه: محل برگزاری نشست نمایندگان بلندپایه نیروهای مسلح اوکراین و نمایندگان مجتمع صنایع دفاعی از جمله اتباع خارجی مورد هدف قرار گرفت</title>
+      <link>https://sputnikiran.github.io/news/104441-گزارش-وزارت-دفاع-روسیه-مح.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/104441-گزارش-وزارت-دفاع-روسیه-مح.html</guid>
+      <pubDate>Sat, 21 Nov 2026 10:47:00 GMT</pubDate>
+      <description></description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104441.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104441.jpg" medium="image" />
+    </item>
     <item>
       <title>گزارش از فروپاشی مداوم سامانه‌های آمریکا؛ هکرها به وزارت کشاورزی ایالات متحده آمریکا نفوذ کردند</title>
       <link>https://sputnikiran.github.io/news/104440-گزارش-از-فروپاشی-مداوم-سا.html</link>
@@ -446,15 +455,6 @@
       <description>🗣او اظهار داشت: «ما از جمله از طریق دادگاه‌ها، از سازمان‌های ورزشی بین‌المللی خواهیم خواست تا اقدامات مناسبی را علیه برگزارکنندگان مسابقاتی انجام دهند که قوانین عمومی را نقض می‌کنند.» 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104387.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104387.jpg" medium="image" />
-    </item>
-    <item>
-      <title>پسکوف: چمدان هسته‌ای که در جریان سفر پوتین به چین توجه روزنامه‌نگاران را به خود جلب کرد، به تیتر اول روزنامه‌ها برای کسانی تبدیل شد که هرگز رهبر روسیه را ندیده بودند</title>
-      <link>https://sputnikiran.github.io/news/104386-پسکوف-چمدان-هستهای-که-در.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/104386-پسکوف-چمدان-هستهای-که-در.html</guid>
-      <pubDate>Fri, 20 Nov 2026 10:47:00 GMT</pubDate>
-      <description>🛰به گفته دمیتری پسکوف، سخنگوی کرملین، این تیتر توسط «یک روزنامه‌نگار بی‌تجربه» نوشته شده است و این چمدان همه جا همراه پوتین است. 🛰سخنگوی کرملین همچنین گفت که روسیه برای میزبانی اجلاس اپک در سال 2035 درخواست داده است، اما هنوز شهر خاصی انتخاب نشده است. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104386.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104386.jpg" medium="image" />
     </item>
   </channel>
 </rss>

@@ -5,7 +5,7 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Sat, 21 Nov 2026 10:19:32 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 10:48:21 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss8.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
@@ -13,10 +13,19 @@
       <link>https://sputnikiran.github.io/news/</link>
     </image>
     <item>
+      <title>گزارش وزارت دفاع روسیه: محل برگزاری نشست نمایندگان بلندپایه نیروهای مسلح اوکراین و نمایندگان مجتمع صنایع دفاعی از جمله اتباع خارجی مورد هدف قرار گرفت</title>
+      <link>https://sputnikiran.github.io/news/104441-گزارش-وزارت-دفاع-روسیه-مح.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/104441-گزارش-وزارت-دفاع-روسیه-مح.html</guid>
+      <pubDate>Sat, 21 Nov 2026 10:48:21 GMT</pubDate>
+      <description></description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104441.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104441.jpg" medium="image" />
+    </item>
+    <item>
       <title>گزارش از فروپاشی مداوم سامانه‌های آمریکا؛ هکرها به وزارت کشاورزی ایالات متحده آمریکا نفوذ کردند</title>
       <link>https://sputnikiran.github.io/news/104440-گزارش-از-فروپاشی-مداوم-سا.html</link>
       <guid isPermaLink="true">https://sputnikiran.github.io/news/104440-گزارش-از-فروپاشی-مداوم-سا.html</guid>
-      <pubDate>Sat, 21 Nov 2026 10:19:32 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 07:48:21 GMT</pubDate>
       <description>🔸به گزارش رسانه های آمریکایی، هکرها به سامانه وزارت کشاورزی آمریکا (USDA) که برای پردازش و پرداخت کمک‌های مالی به کشاورزان استفاده می‌شود، نفوذ کرده‌اند. این حمله احتمالاً می‌تواند به مهاجمان راهی برای دسترسی به اطلاعات حساس‌تر این وزارتخانه نیز بدهد. 🔸مقام‌های پیشین هشدار داده‌اند که به خطر افتادن این سامانه‌ها ممکن است اطلاعات مربوط به ایمنی مواد غذایی و تحقیقات درباره بیماری‌های قابل انتقال از حیوانات به انسان را نیز در معرض دسترسی غیرمجاز قرار دهد. 🔸این نفوذ سایبری در شرایطی رخ داده است ک</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104440.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104440.jpg" medium="image" />
@@ -25,7 +34,7 @@
       <title>افزایش کشف سلاح در ایران</title>
       <link>https://sputnikiran.github.io/news/104439-افزایش-کشف-سلاح-در-ایران.html</link>
       <guid isPermaLink="true">https://sputnikiran.github.io/news/104439-افزایش-کشف-سلاح-در-ایران.html</guid>
-      <pubDate>Sat, 21 Nov 2026 07:19:32 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 04:48:21 GMT</pubDate>
       <description>🔸به گزارش خبرنگار اسپوتنیک در تهران، علی زینی وند، سخنگوی وزارت کشور جمهوری اسلامی ایران، در نشست خبری گفت:میتوان انتخابات ریاست جمهوری و مجلس را همزمان برگزار کرد، این طرح را ارائه کردیم و در حال بررسی جوانب آن در دستگاه های مختلف هستیم، انتخابات شورا ها هم باید تا پایان امسال برگزار شود. 🔸درباره ی قیمت نان و شایعه ی سهمیه بندی، باید اعلام کنم که این سهمیه بندی برای مصارف غیر متعارف است جالب است بدانیم که فردی با مصرف بیش از ۱۲ هزار کیلوگرم آرد در ماه یا افردای با مصرف بیش از ۱۰ تن آرد در ده </description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104439.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104439.jpg" medium="image" />
@@ -34,7 +43,7 @@
       <title>طوفان در شهر توپانسی‌راتان برزیل جان سه نفر را گرفت و به هزاران خانه خسارت وارد کرد</title>
       <link>https://sputnikiran.github.io/news/104438-طوفان-در-شهر-توپانسیراتان.html</link>
       <guid isPermaLink="true">https://sputnikiran.github.io/news/104438-طوفان-در-شهر-توپانسیراتان.html</guid>
-      <pubDate>Sat, 21 Nov 2026 04:19:32 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 01:48:21 GMT</pubDate>
       <description>🔸در پی وقوع طوفانی شدید در شهر توپانسی‌راتان برزیل، سه نفر جان خود را از دست دادند و حدود 600 نفر نیز مجروح شدند. 🔸بر اساس برآورد شهرداری، از مجموع حدود 8 هزار و 600 واحد مسکونی این شهر، نزدیک به 8 هزار خانه بر اثر این طوفان آسیب دیده‌اند، سقف خود را از دست داده‌اند یا به‌طور کامل تخریب شده‌اند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104438.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104438.jpg" medium="image" />
@@ -43,7 +52,7 @@
       <title>کارشناس: نشست شنژن بر ضرورت گفت‌وگو میان قدرت‌های جهانی تأکید دارد</title>
       <link>https://sputnikiran.github.io/news/104437-کارشناس-نشست-شنژن-بر-ضرور.html</link>
       <guid isPermaLink="true">https://sputnikiran.github.io/news/104437-کارشناس-نشست-شنژن-بر-ضرور.html</guid>
-      <pubDate>Sat, 21 Nov 2026 01:19:32 GMT</pubDate>
+      <pubDate>Fri, 20 Nov 2026 22:48:21 GMT</pubDate>
       <description>🔸ژنگ رونگیو، کارشناس چینی، در گفت‌وگو با خبرگزاری اسپوتنیک و در تشریح نتایج نشست 19 نوامبر میان رهبران روسیه، چین و ایالات متحده آمریکا که در حاشیه اجلاس سران اپک (APEC) در شهر شنژن برگزار شد، اظهار داشت: «جوهره یک جهان چندقطبی نه در تعداد قطب‌های قدرت، بلکه در وجود سازوکارهای حفاظتی و تضمین‌هایی است که میان این قطب‌ها برقرار می‌شود.» 🔸وی خاطرنشان کرد که بسیاری از مردم نسبت به چندقطبی‌شدن جهان با نگرانی نگاه می‌کنند؛ زیرا بیم آن دارند که قدرت‌های بزرگ به‌صورت یک‌جانبه عمل کنند و در نهایت وارد </description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104437.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104437.jpg" medium="image" />
@@ -52,7 +61,7 @@
       <title>تجمعات اعتراضی گسترده‌ای با حضور جوانان در بایرن آلمان، برگزار شد</title>
       <link>https://sputnikiran.github.io/news/104435-تجمعات-اعتراضی-گستردهای-ب.html</link>
       <guid isPermaLink="true">https://sputnikiran.github.io/news/104435-تجمعات-اعتراضی-گستردهای-ب.html</guid>
-      <pubDate>Fri, 20 Nov 2026 22:19:32 GMT</pubDate>
+      <pubDate>Fri, 20 Nov 2026 19:48:21 GMT</pubDate>
       <description>🔸به گزارش پلیس مونیخ، بیش از 800 نفر در چندین تجمع اعتراضی شرکت کردند. در شهر نورنبرگ نیز تقریباً به همین تعداد در راهپیمایی اعتراضی حضور یافتند. با این حال، برگزارکنندگان تعداد شرکت‌کنندگان را در مونیخ 1500 نفر و در نورنبرگ 2500 نفر اعلام کردند. 🔸در نورنبرگ این اعتراضات بدون حاشیه نبود. معترضان مواد محترقه و ترقه پرتاب کردند که برخی از آن‌ها به سمت نیروهای امدادی نیز پرتاب شد. در پی این اتفاق، پلیس چندین بار مجبور به متوقف کردن راهپیمایی شد. 🔸علاوه بر این، نیروهای پلیس برای تصویربرداری از رو</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104435.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104435.jpg" medium="image" />
@@ -61,7 +70,7 @@
       <title>پزشکیان: در کشور مشکل داریم، اما با قدرت بر همهٔ مشکلات غلبه می‌کنیم</title>
       <link>https://sputnikiran.github.io/news/104434-پزشکیان-در-کشور-مشکل-داری.html</link>
       <guid isPermaLink="true">https://sputnikiran.github.io/news/104434-پزشکیان-در-کشور-مشکل-داری.html</guid>
-      <pubDate>Fri, 20 Nov 2026 19:19:32 GMT</pubDate>
+      <pubDate>Fri, 20 Nov 2026 16:48:21 GMT</pubDate>
       <description>🔸رئیس جمهور ایران در جمع فعالان بازار سرمایه گفت که تمام قاره‌ها به‌خاطر جنگ علیه ایران تحت‌فشار قرار گرفته‌اند و دچار تورم شده‌اند؛ دشمن تصورش این بود که ما را ساقط می‌کند اما مگر خواب به‌زانودرآوردن ایران را ببینند‍. 🔸هیچ مشکلی وجود ندارد که راه‌حل نداشته باشد. قطع‌کردن برق و گاز اتاق من تأثیر خاصی ندارد؛ اما می‌خواهیم به مردم بگوییم که حاضریم در خانه و ادارهٔ ما برق و گاز نباشد اما برق و گاز صنعت قطع نشود. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104434.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104434.jpg" medium="image" />
@@ -70,19 +79,10 @@
       <title>پزشکیان: عده‌ای قلدر زورگو قصد داشتند کشورمان را ساقط کنند اما مردم و نیروهای نظامی نگذاشتند</title>
       <link>https://sputnikiran.github.io/news/104433-پزشکیان-عدهای-قلدر-زورگو.html</link>
       <guid isPermaLink="true">https://sputnikiran.github.io/news/104433-پزشکیان-عدهای-قلدر-زورگو.html</guid>
-      <pubDate>Fri, 20 Nov 2026 16:19:32 GMT</pubDate>
+      <pubDate>Fri, 20 Nov 2026 13:48:21 GMT</pubDate>
       <description>🔸رئیس جمهور ایران در جمع فعالان بازار سرمایه در کشور شما سرمایه‌گذاران و تولیدکنندگان بازار را طوری مدیریت کردید که دشمن ناامید شد. در جنگ اقتصادی با تلاش شما همه‌چیز خوب پیش می‌رود. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104433.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104433.jpg" medium="image" />
-    </item>
-    <item>
-      <title>سخنگوی وزارت امور خارجه روسیه: زلنسکی اخیراً طوری با اتحادیه اروپا صحبت می‌کند که گویی این اتحادیه، تابع و تحت‌سلطه اوست</title>
-      <link>https://sputnikiran.github.io/news/104432-سخنگوی-وزارت-امور-خارجه-ر.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/104432-سخنگوی-وزارت-امور-خارجه-ر.html</guid>
-      <pubDate>Fri, 20 Nov 2026 13:19:32 GMT</pubDate>
-      <description>🔸این مطلب را ماریا زاخارووا، سخنگوی وزارت امور خارجه روسیه، در واکنش به مخالفت‌های زلنسکی با پیشنهاد سفر نمایندگان کشورهای اروپایی به مسکو بیان کرد. 🔸زاخارووا گفت: «آن‌ها خودشان را در چنین موقعیتی قرار داده‌اند. یا واقعاً در همین موقعیت هستند و پس دیگر نباید شکایتی داشته باشند، یا اینکه بالاخره به یاد می‌آورند که کشورهای مستقلی هستند.» 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104432.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104432.jpg" medium="image" />
     </item>
   </channel>
 </rss>
