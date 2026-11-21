@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Sat, 21 Nov 2026 15:49:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 16:18:39 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>حمله ارتش روسیه به تأسیسات انرژی و کشتی‌های مرتبط با نیروهای اوکراینی</title>
+      <link>https://sputnikiran.github.io/news/104453-حمله-ارتش-روسیه-به-تأسیسا.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/104453-حمله-ارتش-روسیه-به-تأسیسا.html</guid>
+      <pubDate>Sat, 21 Nov 2026 16:17:00 GMT</pubDate>
+      <description>🔶وزارت دفاع روسیه اعلام کرد که ارتش روسیه امروز بعدازظهر به تأسیسات انرژی و کشتی‌های درگیر در راستای منافع نیروهای مسلح اوکراین حمله کرد. بر اساس این گزارش، در نتیجه این حملات موارد زیر مورد اصابت قرار گرفتند: 🔶یک پست برق در وینیتسا که برق صنایع نظامی اوکراین را تأمین می‌کرد. 🔶یک فروند کشتی باری در آب‌های دریای سیاه در جنوب اودسا که محموله‌های دوکاربره برای تأمین نیروهای مسلح اوکراین را حمل می‌کرد. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104453.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104453.jpg" medium="image" />
+    </item>
     <item>
       <title>تلاش</title>
       <link>https://sputnikiran.github.io/news/104452-تلاش.html</link>
@@ -446,15 +455,6 @@
       <description>🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104399.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104399.jpg" medium="image" />
-    </item>
-    <item>
-      <title>کارشناس: نشست پوتین، شی جین پینگ و ترامپ جهان را از لبه جنگ بازگرداند</title>
-      <link>https://sputnikiran.github.io/news/104398-کارشناس-نشست-پوتین،-شی-جی.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/104398-کارشناس-نشست-پوتین،-شی-جی.html</guid>
-      <pubDate>Fri, 20 Nov 2026 14:18:00 GMT</pubDate>
-      <description>🗣دمیتری سوسلوف، معاون پژوهشی شورای روسیه برای سیاست خارجی و دفاعی، به اسپوتنیک گفت که نشست سه‌جانبه ولادیمیر پوتین، شی جین پینگ و دونالد ترامپ از نظر امنیت بین‌المللی اهمیت تاریخی دارد، زیرا سه قدرت بزرگ را گرد هم آورد که روابطشان تعیین می‌کند جهان با جنگ روبه‌رو می‌شود یا صلح. ✅به گفته وی، بیانیه مشترک نشان می‌دهد که طرفین درک می‌کنند رقابت‌هایشان نباید به رویارویی نظامی مستقیم تبدیل شود که ناگزیر به جنگ جهانی جدید منجر می‌شد. به همین دلیل این نشست سه‌جانبه را می‌توان به درستی «اجلاس صلح» نامی</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104398.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104398.jpg" medium="image" />
     </item>
   </channel>
 </rss>
