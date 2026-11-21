@@ -5,13 +5,20 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Sat, 21 Nov 2026 18:48:38 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 19:18:20 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>مهم‌ترین رویدادهای جهان تا شامگاه</title>
+      <link>https://sputnikiran.github.io/news/104462-مهمترین-رویدادهای-جهان-تا.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/104462-مهمترین-رویدادهای-جهان-تا.html</guid>
+      <pubDate>Sat, 21 Nov 2026 19:17:00 GMT</pubDate>
+      <description>نوامبر 🔹نیروهای مسلح روسیه محل نشست نمایندگان عالی‌رتبه نیروهای مسلح اوکراین را هدف قرار دادند. 🔹نزدیک به نیمی از آلمانی‌ها خواستار مذاکرات فوری پوتین و مرتس شدند. 🔹یانا لانتراتووا، کمیسر حقوق بشر روسیه، اعلام کرد که در پی حمله نیروهای اوکراینی به شهرک یوبیلینویه، درخواستی به سازمان ملل تهیه می‌کند. 🔹سپاه پاسداران ایران از پرتابگر جدید دو موشکی نیروی هوافضای خود رونمایی کرد. 🔹در فرانسه اعتراضات گسترده‌ای برگزار شد که به درگیری با پلیس انجامید. 🔹سه نفر در نتیجه حمله ارتش اسرائیل به یک اتوبو</description>
+    </item>
     <item>
       <title>هشدار سازمان جهانی بهداشت درباره خطر گسترش یک «ابر باکتری» خطرناک در اروپا</title>
       <link>https://sputnikiran.github.io/news/104461-هشدار-سازمان-جهانی-بهداشت.html</link>
@@ -450,13 +457,6 @@
       <description>🔶بر اساس ویدیوهای منتشر شده نیروهای ارتش اسرائیل عملیات انفجارهای زنجیره‌ای را در شهرک حداثا در جنوب لبنان انجام می‌دهند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104406.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104406.jpg" medium="image" />
-    </item>
-    <item>
-      <title>سیاستمدار فرانسوی درباره پیشنهاد مکرون در مورد اوکراین: پاریس باید به دنبال صلح باشد، نه تشدید تنش</title>
-      <link>https://sputnikiran.github.io/news/104405-سیاستمدار-فرانسوی-درباره.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/104405-سیاستمدار-فرانسوی-درباره.html</guid>
-      <pubDate>Fri, 20 Nov 2026 16:47:00 GMT</pubDate>
-      <description>🔶نیکولا دوپون- انیان، نامزد ریاست‌جمهوری فرانسه و رهبر حزب راست‌گرای &amp;quot;برخیز، فرانسه&amp;quot;، از پیشنهاد امانوئل مکرون برای بررسی مجدد مساله عضویت اوکراین در ناتو، انتقاد کرد. 🔶او در شبکه اجتماعی ایکس هشدار داد: &amp;quot;آیا او عواقب چنین تصمیمی را درک می‌کند؟ این می‌تواند به جنگ بین دو قدرت هسته‌ای منجر شود&amp;#33;&amp;quot; 🔶این سیاستمدار فرانسوی تأکید کرد که پاریس باید به دنبال صلح باشد، نه تشدید تنشی که فقط می‌تواند آن را به درگیری مسلحانه بکشاند. 🔶سرگئی ریابکوف، معاون وزیر امور خارجه روسیه، روز</description>
     </item>
   </channel>
 </rss>
