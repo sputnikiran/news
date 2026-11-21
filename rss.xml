@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Sat, 21 Nov 2026 06:48:40 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 07:18:32 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>سخنگوی وزارت امور خارجه روسیه: زلنسکی اخیراً طوری با اتحادیه اروپا صحبت می‌کند که گویی این اتحادیه، تابع و تحت‌سلطه اوست</title>
+      <link>https://sputnikiran.github.io/news/104432-سخنگوی-وزارت-امور-خارجه-ر.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/104432-سخنگوی-وزارت-امور-خارجه-ر.html</guid>
+      <pubDate>Sat, 21 Nov 2026 07:17:00 GMT</pubDate>
+      <description>🔸این مطلب را ماریا زاخارووا، سخنگوی وزارت امور خارجه روسیه، در واکنش به مخالفت‌های زلنسکی با پیشنهاد سفر نمایندگان کشورهای اروپایی به مسکو بیان کرد. 🔸زاخارووا گفت: «آن‌ها خودشان را در چنین موقعیتی قرار داده‌اند. یا واقعاً در همین موقعیت هستند و پس دیگر نباید شکایتی داشته باشند، یا اینکه بالاخره به یاد می‌آورند که کشورهای مستقلی هستند.» 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104432.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104432.jpg" medium="image" />
+    </item>
     <item>
       <title>ارتش روسیه شب گذشته به تأسیسات انرژی و شناورهای با کاربری نظامی متعلق به اوکراین حمله کردند</title>
       <link>https://sputnikiran.github.io/news/104431-ارتش-روسیه-شب-گذشته-به-تأ.html</link>
@@ -444,15 +453,6 @@
       <description>▫️سایر اهداف مورد اصابت نیروهای مسلح روسیه: ▫️در کی‌یف و مناطق اطراف آن: یک کارخانه تولید قطعات سوخت موشک، کارخانه‌های مونتاژ پهپاد و فلامینگو. ▫️در استان دنیپروپتروفسک: یک پست برق. ▫️در استان اودسا: پلی که برای حمل محموله‌های نظامی استفاده می‌شود. ▫️در استان ایوانو-فرانکوفسکی: یک نیروگاه حرارتی. ▫️در استان لفوف: یک کارخانه تولید موشک و پهپاد و یک پست برق. ▫️در استان میکولایف: انباری که موشک‌ها در آن نگهداری می‌شدند. ▫️علاوه برآن، یک کشتی فله‌بر در دریا و چهار لوکوموتیو راه‌آهن مورد اصابت قرار گ</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104377.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104377.jpg" medium="image" />
-    </item>
-    <item>
-      <title>نرخ ارز، سکه و طلا تا ساعت</title>
-      <link>https://sputnikiran.github.io/news/104376-نرخ-ارز،-سکه-و-طلا-تا-ساع.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/104376-نرخ-ارز،-سکه-و-طلا-تا-ساع.html</guid>
-      <pubDate>Fri, 20 Nov 2026 07:47:00 GMT</pubDate>
-      <description>:00 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104376.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104376.jpg" medium="image" />
     </item>
   </channel>
 </rss>
