@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Sat, 21 Nov 2026 10:48:21 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 11:19:32 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>گزارش وزارت دفاع روسیه: محل برگزاری نشست نمایندگان بلندپایه نیروهای مسلح اوکراین و نمایندگان مجتمع صنایع دفاعی از جمله اتباع خارجی مورد هدف قرار گرفت</title>
+      <link>https://sputnikiran.github.io/news/104442-گزارش-وزارت-دفاع-روسیه-مح.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/104442-گزارش-وزارت-دفاع-روسیه-مح.html</guid>
+      <pubDate>Sat, 21 Nov 2026 11:18:00 GMT</pubDate>
+      <description>🔸بر اساس گزارش جدید وزارت دفاع روسیه، نیروهای مسلح روسیه طی شب گذشته محل‌های تولید و انبارداری پهپادها و…</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104442.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104442.jpg" medium="image" />
+    </item>
     <item>
       <title>گزارش وزارت دفاع روسیه: محل برگزاری نشست نمایندگان بلندپایه نیروهای مسلح اوکراین و نمایندگان مجتمع صنایع دفاعی از جمله اتباع خارجی مورد هدف قرار گرفت</title>
       <link>https://sputnikiran.github.io/news/104441-گزارش-وزارت-دفاع-روسیه-مح.html</link>
@@ -446,15 +455,6 @@
       <description>حمله گروهی انجام دادند ▫️سایر نکات کلیدی از جلسه توجیهی جدید وزارت دفاع روسیه: ▫️نیروهای مسلح روسیه به تأسیسات صنایع دفاعی، تأسیسات زیرساخت انرژی و فرودگاه‌های نظامی حمله کردند. ▫️طی هفته گذشته، 12 کشتی باری حامل سلاح و تجهیزات نظامی به اوکراین مورد اصابت قرار گرفتند. ▫️سامانه‌های دفاع هوایی روسیه 13 موشک فلامینگو، 8 موشک نپتون و 6808 پهپاد بال ثابت اوکراینی را سرنگون کردند. ▫️طی هفته گذشته، نیروهای مسلح اوکراین بیش از 1150 سرباز را در منطقه مسئولیت گروه «شمال» از دست داده‌اند. ▫️طی هفته گذشته، </description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104388.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104388.jpg" medium="image" />
-    </item>
-    <item>
-      <title>ماریا زاخارووا ممنوعیت ورزشکاران روسی از مسابقات در غرب را بزدلانه خواند</title>
-      <link>https://sputnikiran.github.io/news/104387-ماریا-زاخارووا-ممنوعیت-ور.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/104387-ماریا-زاخارووا-ممنوعیت-ور.html</guid>
-      <pubDate>Fri, 20 Nov 2026 10:47:00 GMT</pubDate>
-      <description>🗣او اظهار داشت: «ما از جمله از طریق دادگاه‌ها، از سازمان‌های ورزشی بین‌المللی خواهیم خواست تا اقدامات مناسبی را علیه برگزارکنندگان مسابقاتی انجام دهند که قوانین عمومی را نقض می‌کنند.» 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104387.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104387.jpg" medium="image" />
     </item>
   </channel>
 </rss>
