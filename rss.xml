@@ -5,13 +5,31 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Sat, 21 Nov 2026 16:18:39 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 16:49:38 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>نماینده پارلمان آلمان: اروپا با جانبداری در مناقشه اوکراین، جایگاه جهانی خود را تضعیف کرد</title>
+      <link>https://sputnikiran.github.io/news/104455-نماینده-پارلمان-آلمان-ارو.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/104455-نماینده-پارلمان-آلمان-ارو.html</guid>
+      <pubDate>Sat, 21 Nov 2026 16:48:00 GMT</pubDate>
+      <description>🔶استفن کوتره، نماینده حزب آلترناتیو برای آلمان (AfD) و عضو کمیته امور اقتصادی و انرژی بوندستاگ، به اسپوتنیک گفت: «کشورهای اتحادیه اروپا با جانبداری در این مناقشه، خود را در گوشه‌ای گیر انداخته‌اند، در حالی که بقیه جهان از چنین تقسیم‌بندی حمایت نمی‌کند. این امر شانس آنها را برای موفقیت در عرصه بین‌المللی بهبود نمی‌بخشد.» 🔶کوتره در واکنش به نشست 19 نوامبر پوتین، شی جین پینگ و ترامپ گفت که آلمان با جانبداری در مناقشه‌ای که به آن مربوط نیست، اشتباه کرده و عملاً خود را از دیپلماسی بین‌المللی کنار گ</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104455.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104455.jpg" medium="image" />
+    </item>
+    <item>
+      <title>موج ششم اعتراضات پاریس را فراگرفت؛ خشم از قیمت‌ها به جوشش رسید</title>
+      <link>https://sputnikiran.github.io/news/104454-موج-ششم-اعتراضات-پاریس-را.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/104454-موج-ششم-اعتراضات-پاریس-را.html</guid>
+      <pubDate>Sat, 21 Nov 2026 16:48:00 GMT</pubDate>
+      <description>🔶اعضای اتحادیه‌های کارگری، سازمان‌های جوانان و جلیقه‌زردها به خیابان‌های پایتخت فرانسه آمدند و علیه هزینه‌های بالای زندگی، قیمت انرژی و دستمزدهای پایین اعتراض کردند. این اعتراضات در اواخر سپتامبر 2026 با اعتراض دانشجویان به شرایط نامناسب آموزشی آغاز شد و سپس نارضایتی از افزایش قیمت‌ها به آن اضافه گردید. تا اواسط نوامبر، تظاهرات با درگیری با پلیس، آتش‌سوزی و آسیب به ساختمان‌های عمومی همراه بود. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104454.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104454.jpg" medium="image" />
+    </item>
     <item>
       <title>حمله ارتش روسیه به تأسیسات انرژی و کشتی‌های مرتبط با نیروهای اوکراینی</title>
       <link>https://sputnikiran.github.io/news/104453-حمله-ارتش-روسیه-به-تأسیسا.html</link>
@@ -437,24 +455,6 @@
       <description>🔶 پیش از این، حوثی‌ها هشدار داده بودند که در صورت حمله به الحدیده، تمام بنادر عربستان سعودی در دریای سرخ به اهدافی برای حملات تبدیل خواهند شد. 🔶یک سخنگوی انصارالله فهرست اهداف را منتشر کرد و از تمام شرکت‌های کشتیرانی خواست فوراً کشتی‌های خود را از بنادر این پادشاهی خارج کنند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104401.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104401.jpg" medium="image" />
-    </item>
-    <item>
-      <title>بریتانیا عملیات تهاجمی سایبری علیه روسیه، چین، ایران و کره شمالی انجام می‌دهد</title>
-      <link>https://sputnikiran.github.io/news/104400-بریتانیا-عملیات-تهاجمی-سا.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/104400-بریتانیا-عملیات-تهاجمی-سا.html</guid>
-      <pubDate>Fri, 20 Nov 2026 14:48:00 GMT</pubDate>
-      <description>🔶رابرت ماگاون، فرمانده فرماندهی عملیات سایبری و ویژه نیروهای مسلح بریتانیا، به یک شبکه تلویزیونی بریتانیایی این موضوع را بیان کرد. 🔶سفارت روسیه در لندن پیوسته همه اتهامات لندن درباره فعالیت خصمانه ادعایی را رد کرده و بارها تاکید کرده است که مسکو هیچ تهدیدی برای بریتانیا، از جمله در حوزه سایبری، ندارد. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104400.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104400.jpg" medium="image" />
-    </item>
-    <item>
-      <title>وزارت دفاع روسیه: نیروهای روسی به یک نیروگاه حرارتی در استان خارکف و یک مرکز لجستیکی در استان چرنیگوف حمله کردند</title>
-      <link>https://sputnikiran.github.io/news/104399-وزارت-دفاع-روسیه-نیروهای.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/104399-وزارت-دفاع-روسیه-نیروهای.html</guid>
-      <pubDate>Fri, 20 Nov 2026 14:48:00 GMT</pubDate>
-      <description>🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104399.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104399.jpg" medium="image" />
     </item>
   </channel>
 </rss>
