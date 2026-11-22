@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Sun, 22 Nov 2026 15:18:30 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 15:48:32 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>بالگرد امداد، سگی مجروح را از روی صخره‌ای در کوه‌های آلپ ایتالیا نجات داد</title>
+      <link>https://sputnikiran.github.io/news/104511-بالگرد-امداد،-سگی-مجروح-ر.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/104511-بالگرد-امداد،-سگی-مجروح-ر.html</guid>
+      <pubDate>Sun, 22 Nov 2026 15:47:00 GMT</pubDate>
+      <description>🔸این سگ از صخره‌ای در نزدیکی شهر «پاستورو» در استان «لکو» سقوط کرد و دچار جراحاتی شد که او را متوقف کرد؛ امری که موجب شد تیم‌های امداد کوهستان برای نجاتش وارد عمل شوند. 🔸 با توجه به دشواری دسترسی به محل، آتش‌نشانی نیز یک بالگرد به منطقه اعزام کرد. یک امدادگر متخصص به پایین فرستاده شد تا حیوان و صاحبش را نجات دهد و هر دو را به مکانی امن منتقل کند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104511.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104511.jpg" medium="image" />
+    </item>
     <item>
       <title>رسانه‌ها: آتش‌سوزی در کارخانه آب‌نبات‌سازی در اندونزی رخ داد</title>
       <link>https://sputnikiran.github.io/news/104510-رسانهها-آتشسوزی-در-کارخان.html</link>
@@ -446,15 +455,6 @@
       <description>🔶ویتالی آرکوف، تحلیلگر سیاسی روس، به اسپوتنیک گفت که نشست سه‌جانبه روسیه، چین و آمریکا در حاشیه اجلاس ایپک 2026 در شنژن در تاریخ 19 نوامبر، نشانه مهمی از شکل‌گیری معماری جدیدی برای روابط بین‌الملل است. 🔶به گفته وی، هدف این نشست تقسیم جهان میان قدرت‌های بزرگ نیست، بلکه تلاش برای تدوین قواعد تعامل در شرایط افزایش تنش‌های جهانی است. آرکوف اشاره کرد که شرکت‌کنندگان در نشست شنژن درک می‌کنند که صلح پایدار بدون گفتگوی مستقیم میان کشورهایی که دارای توان سیاسی، اقتصادی و نظامی قابل توجهی هستند، امکان‌پ</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104449.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104449.jpg" medium="image" />
-    </item>
-    <item>
-      <title>کشته شدن</title>
-      <link>https://sputnikiran.github.io/news/104448-کشته-شدن.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/104448-کشته-شدن.html</guid>
-      <pubDate>Sat, 21 Nov 2026 14:17:00 GMT</pubDate>
-      <description>نفر در فروریختن یک ساختمان مسکونی در لوگانسک پس از حمله نیروهای اوکراینی 🔶لئونید پاسچنیک، رئیس جمهوری خلق لوگانسک، این موضوع را اعلام کرد. 🔶پیش از این گزارش شده بود که 3 نفر کشته شده‌اند. از زیر آوار ساختمان فروریخته، جسد یک کودک به همراه مادرش…</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104448.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104448.jpg" medium="image" />
     </item>
   </channel>
 </rss>
