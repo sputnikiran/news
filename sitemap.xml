@@ -16,6 +16,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://sputnikiran.github.io/news/104506-هجوم.html</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://sputnikiran.github.io/news/104505-نازیلا-یوسفی-به-اسپوتنیک.html</loc>
     <lastmod>2026-11-22</lastmod>
     <changefreq>monthly</changefreq>
@@ -3005,12 +3011,6 @@
   </url>
   <url>
     <loc>https://sputnikiran.github.io/news/103930-پسکوف-برای-انجام-یک-مأمور.html</loc>
-    <lastmod>2026-11-13</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sputnikiran.github.io/news/103929-اداره-فوریتهای-اضطراری-من.html</loc>
     <lastmod>2026-11-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
