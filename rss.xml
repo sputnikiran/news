@@ -5,13 +5,31 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Sun, 22 Nov 2026 12:18:53 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 12:48:39 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>نخست وزیر چک از پیش نویس بودجه هفت ساله اتحادیه اروپا که شامل بودجه اوکراین نیز می‌شود، انتقاد کرد</title>
+      <link>https://sputnikiran.github.io/news/104504-نخست-وزیر-چک-از-پیش-نویس.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/104504-نخست-وزیر-چک-از-پیش-نویس.html</guid>
+      <pubDate>Sun, 22 Nov 2026 12:47:00 GMT</pubDate>
+      <description>🔸آندری بابیش این سند را برای پراگ کاملاً غیرقابل قبول خواند. 🔸پیش از این، نخست وزیر اسلواکی اظهار داشت که براتیسلاوا قصد ندارد در وام جدید 45 میلیارد یورویی برای کی‌یف شرکت کند. رابرت فیکو خاطرنشان کرد که اوکراین قادر به بازپرداخت این پول نخواهد بود، بنابراین «این یک وام نیست، بلکه یک هدیه است». 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104504.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104504.jpg" medium="image" />
+    </item>
+    <item>
+      <title>رودخانه‌ای به رنگ خون، ساکنان ترکیه را وحشت‌زده کرده است</title>
+      <link>https://sputnikiran.github.io/news/104501-رودخانهای-به-رنگ-خون،-ساک.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/104501-رودخانهای-به-رنگ-خون،-ساک.html</guid>
+      <pubDate>Sun, 22 Nov 2026 12:47:00 GMT</pubDate>
+      <description>🔶در شهر ریزه، رودخانه دگیرمندره ناگهان به رنگ قرمز روشن درآمد. 🔶بازرسی‌ها نشان داد که یک کارخانه چای در همان نزدیکی، به طور غیرقابل کنترلی زباله‌های خود را به داخل مخزن آب تخلیه می‌کرد. 🔶این شرکت قبلاً جریمه شده و نمونه‌های آب برای تجزیه و تحلیل ارسال شده است. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104501.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104501.jpg" medium="image" />
+    </item>
     <item>
       <title>تصادف بین یک مینی‌بوس و یک کامیون در شیلی،</title>
       <link>https://sputnikiran.github.io/news/104498-تصادف-بین-یک-مینیبوس-و-یک.html</link>
@@ -437,24 +455,6 @@
       <description>🔸بر اساس گزارش جدید وزارت دفاع روسیه، نیروهای مسلح روسیه طی شب گذشته محل‌های تولید و انبارداری پهپادها و…</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104442.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104442.jpg" medium="image" />
-    </item>
-    <item>
-      <title>گزارش وزارت دفاع روسیه: محل برگزاری نشست نمایندگان بلندپایه نیروهای مسلح اوکراین و نمایندگان مجتمع صنایع دفاعی از جمله اتباع خارجی مورد هدف قرار گرفت</title>
-      <link>https://sputnikiran.github.io/news/104441-گزارش-وزارت-دفاع-روسیه-مح.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/104441-گزارش-وزارت-دفاع-روسیه-مح.html</guid>
-      <pubDate>Sat, 21 Nov 2026 10:47:00 GMT</pubDate>
-      <description></description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104441.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104441.jpg" medium="image" />
-    </item>
-    <item>
-      <title>گزارش از فروپاشی مداوم سامانه‌های آمریکا؛ هکرها به وزارت کشاورزی ایالات متحده آمریکا نفوذ کردند</title>
-      <link>https://sputnikiran.github.io/news/104440-گزارش-از-فروپاشی-مداوم-سا.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/104440-گزارش-از-فروپاشی-مداوم-سا.html</guid>
-      <pubDate>Sat, 21 Nov 2026 10:18:00 GMT</pubDate>
-      <description>🔸به گزارش رسانه های آمریکایی، هکرها به سامانه وزارت کشاورزی آمریکا (USDA) که برای پردازش و پرداخت کمک‌های مالی به کشاورزان استفاده می‌شود، نفوذ کرده‌اند. این حمله احتمالاً می‌تواند به مهاجمان راهی برای دسترسی به اطلاعات حساس‌تر این وزارتخانه نیز بدهد. 🔸مقام‌های پیشین هشدار داده‌اند که به خطر افتادن این سامانه‌ها ممکن است اطلاعات مربوط به ایمنی مواد غذایی و تحقیقات درباره بیماری‌های قابل انتقال از حیوانات به انسان را نیز در معرض دسترسی غیرمجاز قرار دهد. 🔸این نفوذ سایبری در شرایطی رخ داده است ک</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104440.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104440.jpg" medium="image" />
     </item>
   </channel>
 </rss>
