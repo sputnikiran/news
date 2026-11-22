@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Sun, 22 Nov 2026 12:48:39 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 13:18:29 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>نازیلا یوسفی به اسپوتنیک: موضوع مصرف منطقه‌ای دارو موضوع مهمی هم در ایران هم در جهان است</title>
+      <link>https://sputnikiran.github.io/news/104505-نازیلا-یوسفی-به-اسپوتنیک.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/104505-نازیلا-یوسفی-به-اسپوتنیک.html</guid>
+      <pubDate>Sun, 22 Nov 2026 13:17:00 GMT</pubDate>
+      <description>🗣دکتر نازیلا یوسفی، مدیرکل دفتر پایش و نظارت بر مصرف فرآورده‌های سلامت سازمان غذا و دارو در ادامه مصاحبه ی اختصاصی با اسپوتنیک گفت: مقاومت آنتی بیوتیکی، آنقدر که راه‌های مختلفی هست برای آن و آنقدر که این باکتری‌ها با آن هستند، شده دغدغه مهم نظام سلامت. 🗣وی همچنین افزود: مقاومت آنتی بیوتیکی، می‌تواند خیلی از دستآوردهایی را که چه در درمان عفونت ها، چه در کار های دیگر در نظام سلامت داشتیم را دوباره از ما بگیرد و ما را برگرداند به ده‌های قبل. برای همین همه دنیا با هم دیگر شروع کردند به توجه به این</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104505.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104505.jpg" medium="image" />
+    </item>
     <item>
       <title>نخست وزیر چک از پیش نویس بودجه هفت ساله اتحادیه اروپا که شامل بودجه اوکراین نیز می‌شود، انتقاد کرد</title>
       <link>https://sputnikiran.github.io/news/104504-نخست-وزیر-چک-از-پیش-نویس.html</link>
@@ -446,15 +455,6 @@
       <description>🔸به گزارش خبرنگار اسپوتنیک در تهران، علی زینی وند، سخنگوی وزارت کشور جمهوری اسلامی ایران، در نشست خبری گفت:میتوان انتخابات ریاست جمهوری و مجلس را همزمان برگزار کرد، این طرح را ارائه کردیم و در حال بررسی جوانب آن در دستگاه های مختلف…</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104443.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104443.jpg" medium="image" />
-    </item>
-    <item>
-      <title>گزارش وزارت دفاع روسیه: محل برگزاری نشست نمایندگان بلندپایه نیروهای مسلح اوکراین و نمایندگان مجتمع صنایع دفاعی از جمله اتباع خارجی مورد هدف قرار گرفت</title>
-      <link>https://sputnikiran.github.io/news/104442-گزارش-وزارت-دفاع-روسیه-مح.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/104442-گزارش-وزارت-دفاع-روسیه-مح.html</guid>
-      <pubDate>Sat, 21 Nov 2026 11:18:00 GMT</pubDate>
-      <description>🔸بر اساس گزارش جدید وزارت دفاع روسیه، نیروهای مسلح روسیه طی شب گذشته محل‌های تولید و انبارداری پهپادها و…</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104442.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104442.jpg" medium="image" />
     </item>
   </channel>
 </rss>
