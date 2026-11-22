@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Sun, 22 Nov 2026 14:18:56 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 14:48:26 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>رونمایی از نمونه اولیه یک خودروی پرنده در حال پرواز افقی در چین</title>
+      <link>https://sputnikiran.github.io/news/104509-رونمایی-از-نمونه-اولیه-یک.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/104509-رونمایی-از-نمونه-اولیه-یک.html</guid>
+      <pubDate>Sun, 22 Nov 2026 14:47:00 GMT</pubDate>
+      <description>🔸شرکت «آریج». توسعه‌دهنده این رده جدید از وسایل نقلیه هوایی، اعلام کرد که خودروی پرنده مدل A868 این شرکت، آزمایش‌های پروازی را با موفقیت پشت سر گذاشته است. 🔸این وسیله نقلیه توانست طی یک مانور پیوسته، روتورهای قابل‌تنظیم (تیلت‌روتورها) خود را از حالت معلق (هاور) به حالت پرواز افقی تغییر دهد. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104509.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104509.jpg" medium="image" />
+    </item>
     <item>
       <title>نخست‌وزیر جمهوری چک، به دلیل اختصاص بودجه به کی‌یف، از پیش‌نویس بودجه اتحادیه اروپا انتقاد کرد</title>
       <link>https://sputnikiran.github.io/news/104508-نخستوزیر-جمهوری-چک،-به-دل.html</link>
@@ -446,15 +455,6 @@
       <description>نفر در فروریختن یک ساختمان مسکونی در لوگانسک پس از حمله نیروهای اوکراینی 🔶لئونید پاسچنیک، رئیس جمهوری خلق لوگانسک، این موضوع را اعلام کرد. 🔶پیش از این گزارش شده بود که 3 نفر کشته شده‌اند. از زیر آوار ساختمان فروریخته، جسد یک کودک به همراه مادرش و یک زن سالمند بیرون کشیده شد. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104447.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104447.jpg" medium="image" />
-    </item>
-    <item>
-      <title>سه نفر در پی حمله ارتش اسرائیل به یک اتوبوس حامل مواد غذایی در منطقه تل‌الهوا در نوار غزه کشته شدند</title>
-      <link>https://sputnikiran.github.io/news/104446-سه-نفر-در-پی-حمله-ارتش-اس.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/104446-سه-نفر-در-پی-حمله-ارتش-اس.html</guid>
-      <pubDate>Sat, 21 Nov 2026 13:17:00 GMT</pubDate>
-      <description>🔸در این حملات چندین نفر دیگر نیز زخمی شدند. 🎥 ویدئو: شبکه‌های اجتماعی 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104446.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104446.jpg" medium="image" />
     </item>
   </channel>
 </rss>
