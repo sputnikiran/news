@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Sun, 22 Nov 2026 15:48:32 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 16:18:27 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>دو نفتکش متخلف در شرق تنگه هرمز دچار حریق شدند</title>
+      <link>https://sputnikiran.github.io/news/104512-دو-نفتکش-متخلف-در-شرق-تنگ.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/104512-دو-نفتکش-متخلف-در-شرق-تنگ.html</guid>
+      <pubDate>Sun, 22 Nov 2026 16:17:00 GMT</pubDate>
+      <description>🔸روابط عمومی نیروی دریایی ارتش ایران اعلام نمود که پیش از ظهر امروز، دو فروند نفتکش که برخلاف هشدارهای قبلی و با خاموش کردن سامانه‌های شناسایی و ناوبری وارد محدوده ممنوعه در شرق تنگه هرمز شده بودند، در پی برخورد با مین دریایی دچار آتش‌سوزی شدند. 🔸مالکان، بهره‌برداران و هدایت‌کنندگان شناورها که با نادیده گرفتن هشدارها و با خاموش کردن سامانه‌های ناوبری در محدوده‌های ممنوعه تردد می‌کنند، مسئول مستقیم عواقب و خسارات به نفتکش‌ها خواهند بود. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104512.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104512.jpg" medium="image" />
+    </item>
     <item>
       <title>بالگرد امداد، سگی مجروح را از روی صخره‌ای در کوه‌های آلپ ایتالیا نجات داد</title>
       <link>https://sputnikiran.github.io/news/104511-بالگرد-امداد،-سگی-مجروح-ر.html</link>
@@ -446,15 +455,6 @@
       <description>🔶رسانه غربی به نقل از چهار منبع آگاه گزارش داد که دولت دونالد ترامپ به مقامات اروپایی و اوکراینی اعلام کرده است که کی‌یف باید تا اوایل ژانویه 2027 به توافق صلح با مسکو دست یابد. این مهلت پیش از سوم ژانویه تعیین شده است؛ زمانی که دموکرات‌ها کنترل کنگره را در دست می‌گیرند و این امر می‌تواند تلاش‌های ترامپ برای مذاکره درباره حل و فصل با روسیه را پیچیده کند. 🔶بر اساس این گزارش، دموکرات‌ها می‌توانند از اختیارات کنگره برای افزایش کمک‌های نظامی به اوکراین، فشار برای اعمال تحریم‌های بیشتر علیه مسکو و </description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104450.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104450.jpg" medium="image" />
-    </item>
-    <item>
-      <title>کارشناس: نشست شنژن آغاز فصل جدیدی در سیاست جهانی است</title>
-      <link>https://sputnikiran.github.io/news/104449-کارشناس-نشست-شنژن-آغاز-فص.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/104449-کارشناس-نشست-شنژن-آغاز-فص.html</guid>
-      <pubDate>Sat, 21 Nov 2026 14:17:00 GMT</pubDate>
-      <description>🔶ویتالی آرکوف، تحلیلگر سیاسی روس، به اسپوتنیک گفت که نشست سه‌جانبه روسیه، چین و آمریکا در حاشیه اجلاس ایپک 2026 در شنژن در تاریخ 19 نوامبر، نشانه مهمی از شکل‌گیری معماری جدیدی برای روابط بین‌الملل است. 🔶به گفته وی، هدف این نشست تقسیم جهان میان قدرت‌های بزرگ نیست، بلکه تلاش برای تدوین قواعد تعامل در شرایط افزایش تنش‌های جهانی است. آرکوف اشاره کرد که شرکت‌کنندگان در نشست شنژن درک می‌کنند که صلح پایدار بدون گفتگوی مستقیم میان کشورهایی که دارای توان سیاسی، اقتصادی و نظامی قابل توجهی هستند، امکان‌پ</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104449.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104449.jpg" medium="image" />
     </item>
   </channel>
 </rss>
