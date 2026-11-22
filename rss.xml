@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Sun, 22 Nov 2026 20:18:48 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 20:50:48 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>کارکنان هتلی در ژاپن پس از بارش سنگین برف، ناچار شدند درب ورودی هتل را از زیر برف بیرون بیاورند</title>
+      <link>https://sputnikiran.github.io/news/104522-کارکنان-هتلی-در-ژاپن-پس-ا.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/104522-کارکنان-هتلی-در-ژاپن-پس-ا.html</guid>
+      <pubDate>Sun, 22 Nov 2026 20:48:00 GMT</pubDate>
+      <description>🔸طی شب، درب ورودی هتلی در کوه‌های «تاته‌یاما» تقریباً به‌طور کامل زیر برف مدفون شد. پنج نفر از کارکنان برای اینکه بتوانند از هتل خارج شوند، چندین ساعت را صرف پاک‌سازی مسیر خروجی با استفاده از بیل کردند. 🔸با این حال، کارکنان هتل غافلگیر نشدند؛ چرا که چنین بارش‌های برفی در ماه نوامبر در این منطقه امری رایج است. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104522.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104522.jpg" medium="image" />
+    </item>
     <item>
       <title>به آتش کشیدن خودروها و بازداشت‌های گسترده: اعتراضات جدید در فرانسه</title>
       <link>https://sputnikiran.github.io/news/104521-به-آتش-کشیدن-خودروها-و-با.html</link>
@@ -444,15 +453,6 @@
       <guid isPermaLink="true">https://sputnikiran.github.io/news/104462-مهمترین-رویدادهای-جهان-تا.html</guid>
       <pubDate>Sat, 21 Nov 2026 19:17:00 GMT</pubDate>
       <description>نوامبر 🔹نیروهای مسلح روسیه محل نشست نمایندگان عالی‌رتبه نیروهای مسلح اوکراین را هدف قرار دادند. 🔹نزدیک به نیمی از آلمانی‌ها خواستار مذاکرات فوری پوتین و مرتس شدند. 🔹یانا لانتراتووا، کمیسر حقوق بشر روسیه، اعلام کرد که در پی حمله نیروهای اوکراینی به شهرک یوبیلینویه، درخواستی به سازمان ملل تهیه می‌کند. 🔹سپاه پاسداران ایران از پرتابگر جدید دو موشکی نیروی هوافضای خود رونمایی کرد. 🔹در فرانسه اعتراضات گسترده‌ای برگزار شد که به درگیری با پلیس انجامید. 🔹سه نفر در نتیجه حمله ارتش اسرائیل به یک اتوبو</description>
-    </item>
-    <item>
-      <title>هشدار سازمان جهانی بهداشت درباره خطر گسترش یک «ابر باکتری» خطرناک در اروپا</title>
-      <link>https://sputnikiran.github.io/news/104461-هشدار-سازمان-جهانی-بهداشت.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/104461-هشدار-سازمان-جهانی-بهداشت.html</guid>
-      <pubDate>Sat, 21 Nov 2026 18:47:00 GMT</pubDate>
-      <description>🔶سازمان جهانی بهداشت اعلام کرد که خطر گسترش باکتری مقاوم به درمان «کلبسیلا پنومونیه» در اتحادیه اروپا بالا ارزیابی می‌شود. پیش از این، مرکز اروپایی پیشگیری و کنترل بیماری‌ها نیز درباره این عفونت هشدار داده بود. 🔶این باکتری مقاوم به دارو می‌تواند همراه با بیماران از مرزهای کشورها عبور کند، اما گسترش آن را می‌توان با رعایت دقیق اقدامات کنترل عفونت در بیمارستان‌ها و مصرف محتاطانه آنتی‌بیوتیک‌ها کندتر کرد. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104461.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104461.jpg" medium="image" />
     </item>
   </channel>
 </rss>
