@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Sun, 22 Nov 2026 06:18:32 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 06:48:39 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>علاءالدینوف: به دلیل تلفات تعداد مزدوران اروپایی در نیروهای مسلح اوکراین کاهش یافته است</title>
+      <link>https://sputnikiran.github.io/news/104478-علاءالدینوف-به-دلیل-تلفات.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/104478-علاءالدینوف-به-دلیل-تلفات.html</guid>
+      <pubDate>Sun, 22 Nov 2026 06:47:00 GMT</pubDate>
+      <description>🗣آپتی علاءالدینوف، معاون رئیس اداره اصلی نظامی-سیاسی نیروهای مسلح روسیه و فرمانده نیروهای ویژه اخمت، به اسپوتنیک گفت: تعداد مزدوران اروپایی در نیروهای مسلح اوکراین به دلیل عدم اجرای مفاد قرارداد وعده داده شده توسط طرف اوکراینی و همچنین تشکیل واحدهای جدید در کشورهای اروپایی با استفاده از نیروهای ذخیره خود، در حال کاهش است. 🗣علاءالدینوف اظهار داشت: «تعداد کمتری از کشورهای اروپایی مایل به جنگ علیه ما هستند. کسانی که زودتر آمده‌اند، قبلاً توضیح داده‌اند که این جنگ چقدر دشوار است و روس‌ها اجازه نمی</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104478.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104478.jpg" medium="image" />
+    </item>
     <item>
       <title>پهپادهای روسی شبانه به زیرساخت‌های انرژی و بندری اوکراین حمله کردند</title>
       <link>https://sputnikiran.github.io/news/104477-پهپادهای-روسی-شبانه-به-زی.html</link>
@@ -448,15 +457,6 @@
       <description>▫️سپاه پاسداران سازمان رادیویی آمریکایی در بحرین را حمله کرد. ▫️در مانیلا 49 نشست آسه أن برگزار شد. ▫️در حاشیه نشست اپک در شنژن پوتین سی و ترامپ دیدار کردند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104420.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104420.jpg" medium="image" />
-    </item>
-    <item>
-      <title>اس‌جی-</title>
-      <link>https://sputnikiran.github.io/news/104419-اسجی.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/104419-اسجی.html</guid>
-      <pubDate>Fri, 20 Nov 2026 20:17:00 GMT</pubDate>
-      <description>؛ هواپیمای مسافربری جدید روسیه با جایگزینی واردات 🔹اس‌جی-100 یک هواپیمای کوتاه‌برد مسافربری روسی است که به سیستم‌ها و اجزای توسعه‌یافته داخلی مجهز شده، از جمله موتور پی‌دی-8 و سیستم کنترل پرواز دیجیتال با سیم (فلای بای وایر). #داده_نمایی 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104419.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104419.jpg" medium="image" />
     </item>
   </channel>
 </rss>
