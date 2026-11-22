@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Sun, 22 Nov 2026 05:48:25 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 06:18:32 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>پهپادهای روسی شبانه به زیرساخت‌های انرژی و بندری اوکراین حمله کردند</title>
+      <link>https://sputnikiran.github.io/news/104477-پهپادهای-روسی-شبانه-به-زی.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/104477-پهپادهای-روسی-شبانه-به-زی.html</guid>
+      <pubDate>Sun, 22 Nov 2026 06:17:00 GMT</pubDate>
+      <description>▫️ارتش روسیه با استفاده از پهپادها به تأسیسات انرژی، زیرساخت‌های بندری و کشتی‌های دریایی حمله کرده است که در حمایت از ارتش اوکراین نقش دارند. اهداف ذیل مورد اصابت قرار گرفتند: ▫️نیروگاه برق 330 کیلوولتی پراووبرژنایا در زاپاروژیه، که برق شرکت‌های صنایع نظامی اوکراین را تأمین می‌کند. ▫️در بندر کیلیا، منطقه اودسا - تأسیسات زیرساختی بندری که از آنها برای تحویل تجهیزات نظامی و محموله برای نیروهای مسلح اوکراین استفاده می‌شود. ▫️علاوه بر این، یک کشتی فله بر که محموله‌های دو منظوره برای ارتش اوکراین تحو</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104477.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104477.jpg" medium="image" />
+    </item>
     <item>
       <title>رهگیری و انهدام</title>
       <link>https://sputnikiran.github.io/news/104476-رهگیری-و-انهدام.html</link>
@@ -448,15 +457,6 @@
       <description>؛ هواپیمای مسافربری جدید روسیه با جایگزینی واردات 🔹اس‌جی-100 یک هواپیمای کوتاه‌برد مسافربری روسی است که به سیستم‌ها و اجزای توسعه‌یافته داخلی مجهز شده، از جمله موتور پی‌دی-8 و سیستم کنترل پرواز دیجیتال با سیم (فلای بای وایر). #داده_نمایی 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104419.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104419.jpg" medium="image" />
-    </item>
-    <item>
-      <title>کارشناس: حملات روسیه به پل‌های کی‌یف مسیرهای تأمین غربی اوکراین را فلج می‌کند</title>
-      <link>https://sputnikiran.github.io/news/104418-کارشناس-حملات-روسیه-به-پل.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/104418-کارشناس-حملات-روسیه-به-پل.html</guid>
-      <pubDate>Fri, 20 Nov 2026 20:17:00 GMT</pubDate>
-      <description>🗣واسیلی فاتیگاروف، کارشناس نظامی و دانشمند سیاسی روس، در گفت‌وگو با اسپوتنیک و در واکنش به حملات روسیه به پل‌های کی‌یف و استان کی‌یف اعلام کرد که هر پلی که دو کرانه رودخانه دنیپر را به هم متصل می‌کند، چه در کی‌یف و چه در سایر نقاط اوکراین، از اهمیت راهبردی برخوردار است، زیرا این پل‌ها برای انتقال انواع محموله‌ها به ارتش اوکراین استفاده می‌شوند. 🔶وی گفت: «با توجه به اینکه نیروهای اوکراینی به کمک‌های غربی متکی هستند، اختلال در انتقال محموله‌های نظامی از غرب به شرق به معنای آن است که وضعیت ارتش ا</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104418.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104418.jpg" medium="image" />
     </item>
   </channel>
 </rss>
