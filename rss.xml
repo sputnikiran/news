@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Mon, 23 Nov 2026 05:48:46 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 06:18:19 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>وزارت دفاع روسیه: نیروهای مسلح روسیه حملات شبانه‌ای را به تأسیسات انرژی، لجستیک و زیرساخت‌های بندری اوکراین انجام داد</title>
+      <link>https://sputnikiran.github.io/news/104529-وزارت-دفاع-روسیه-نیروهای.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/104529-وزارت-دفاع-روسیه-نیروهای.html</guid>
+      <pubDate>Mon, 23 Nov 2026 06:17:00 GMT</pubDate>
+      <description>▫️وزارت دفاع روسیه اعلام کرد که این حملات همچنین کشتی‌های دریایی درگیر در پشتیبانی از ارتش اوکراین را هدف قرار داد. چه موارد دیگری هدف قرار گرفت: ▫️دو لوکوموتیو که برای حمل سلاح برای ارتش اوکراین استفاده می‌شدند در نزدیکی ایستگاه راه‌آهن دنپرودزرژینسک در منطقه دنپروپتروفسک مورد اصابت قرار گرفتند. ▫️یک کشتی که محموله‌های نظامی را در جنوب غربی اودسا تحویل می‌داد. ▫️تأسیسات زیرساخت بندری که برای تحویل تجهیزات نظامی برای ارتش اوکراین استفاده می‌شدند در بندر ایزمایل در منطقه اودسا مورد اصابت قرار گرف</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104529.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104529.jpg" medium="image" />
+    </item>
     <item>
       <title>رسانه‌ها: نخست‌وزیر پاکستان در تاریخ</title>
       <link>https://sputnikiran.github.io/news/104528-رسانهها-نخستوزیر-پاکستان.html</link>
@@ -446,15 +455,6 @@
       <description>🔶فاوستو ایسیدرو مسا فلورس، رهبر کارتل گواساوه با نام مستعار «ال چاپو ایسیدرو» در مکزیک بازداشت شد. وی در فهرست ده مجرم تحت تعقیب FBI قرار دارد. همراه با او، دو تن دیگر از سرکردگان این گروه نیز بازداشت شدند. 🔶بر اساس گزارش رسانه‌های غربی، پس از این بازداشت، در ایالت سینالوآ درگیری‌های مسلحانه و حملاتی علیه نیروهای امنیتی رخ داده است. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104468.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104468.jpg" medium="image" />
-    </item>
-    <item>
-      <title>انهدام</title>
-      <link>https://sputnikiran.github.io/news/104467-انهدام.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/104467-انهدام.html</guid>
-      <pubDate>Sat, 21 Nov 2026 20:48:00 GMT</pubDate>
-      <description>رادار پدافندی پاتریوت ارتش آمریکا در بحرین توسط ایران 🔶روابط عمومی سپاه پاسداران اعلام کرد: رزمندگان نیروی هوافضای سپاه با اجرای یک عملیات ترکیبی آفندی موشکی و پهپادی، مواضع ارتش آمریکا در پایگاه‌های الرفاع و عوالی بحرین را هدف آتش موشکی و پهپادی…</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104467.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104467.jpg" medium="image" />
     </item>
   </channel>
 </rss>
