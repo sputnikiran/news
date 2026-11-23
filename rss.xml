@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Mon, 23 Nov 2026 07:18:31 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 07:48:33 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>نرخ ارز، سکه و طلا تا ساعت</title>
+      <link>https://sputnikiran.github.io/news/104533-نرخ-ارز،-سکه-و-طلا-تا-ساع.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/104533-نرخ-ارز،-سکه-و-طلا-تا-ساع.html</guid>
+      <pubDate>Mon, 23 Nov 2026 07:47:00 GMT</pubDate>
+      <description>:00 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104533.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104533.jpg" medium="image" />
+    </item>
     <item>
       <title>رئیس جمعیت هلال‌احمر ایران: تهدیدهای صهیونیست‌ها را با آموزش</title>
       <link>https://sputnikiran.github.io/news/104532-رئیس-جمعیت-هلالاحمر-ایران.html</link>
@@ -446,15 +455,6 @@
       <description>🔥در این حادثه سه نفر جان باختند. جستجو برای یافتن ۳۶ نفر دیگر ادامه دارد. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104474.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104474.jpg" medium="image" />
-    </item>
-    <item>
-      <title>گزارش‌: سالوینی، اوکراین را به وتوی کمک‌های نظامی به دلیل قرار گرفتن در فهرست سیاه میروتوورتس تهدید کرد</title>
-      <link>https://sputnikiran.github.io/news/104473-گزارش-سالوینی،-اوکراین-را.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/104473-گزارش-سالوینی،-اوکراین-را.html</guid>
-      <pubDate>Sun, 22 Nov 2026 05:47:00 GMT</pubDate>
-      <description>🔸متئو سالوینی، معاون نخست‌وزیر ایتالیا، تهدید کرده است که اگر ولادیمیر زلنسکی به دلیل قرار گرفتن در فهرست میروتوورتس، پایگاه داده جنجالی اوکراین که اطلاعات شخصی افرادی را که «دشمنان اوکراین» می‌نامد، منتشر می‌کند، عذرخواهی نکند، کمک‌های نظامی بیشتر به اوکراین را مسدود خواهد کرد. 💬سالوینی گفت:«من انتظار عذرخواهی زلنسکی را دارم» و هشدار داد که اگر کی‌یف این سایت را محکوم نکند و از آن فاصله نگیرد، ایتالیا «عواقب آن را به او نشان خواهد داد». 🔸جورجیا ملونی، نخست‌وزیر، نیز این موضوع را مستقیماً با </description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104473.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104473.jpg" medium="image" />
     </item>
   </channel>
 </rss>
