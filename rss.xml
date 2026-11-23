@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Mon, 23 Nov 2026 13:19:01 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 13:48:49 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>خبرنگار اسپوتنیک در لبنان: نیروی هوایی اسرائیل به شهرک «براشیت» در جنوب این کشور حمله کرد</title>
+      <link>https://sputnikiran.github.io/news/104559-خبرنگار-اسپوتنیک-در-لبنان.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/104559-خبرنگار-اسپوتنیک-در-لبنان.html</guid>
+      <pubDate>Mon, 23 Nov 2026 13:48:00 GMT</pubDate>
+      <description>🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104559.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104559.jpg" medium="image" />
+    </item>
     <item>
       <title>کمیسیون اروپا، انجام رایزنی‌های دوجانبه با روسیه در خصوص امنیت اروپا را نپذیرفت</title>
       <link>https://sputnikiran.github.io/news/104558-کمیسیون-اروپا،-انجام-رایز.html</link>
@@ -450,15 +459,6 @@
       <description>هزار گراز دریایی به سواحل آلاسکا 🔸در نزدیکی روستای «پوینت لی» ، تجمع عظیمی از گرازهای دریایی شکل گرفته است. به دلیل کاهش یخ‌های دریا، این جانوران ناچار شده‌اند به خشکی بیایند. 🔸این بزرگ‌ترین تجمع گرازهای دریایی در آمریکای شمالی است. سازمان‌های حفاظت از محیط زیست تاکنون نزدیک به 20 هزار هکتار از اراضی را تحت حفاظت قرار داده‌اند تا این حیوانات را از گزند فعالیت‌های انسانی در امان نگه دارند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104506.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104506.jpg" medium="image" />
-    </item>
-    <item>
-      <title>نازیلا یوسفی به اسپوتنیک: موضوع مصرف منطقه‌ای دارو موضوع مهمی هم در ایران هم در جهان است</title>
-      <link>https://sputnikiran.github.io/news/104505-نازیلا-یوسفی-به-اسپوتنیک.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/104505-نازیلا-یوسفی-به-اسپوتنیک.html</guid>
-      <pubDate>Sun, 22 Nov 2026 13:17:00 GMT</pubDate>
-      <description>🗣دکتر نازیلا یوسفی، مدیرکل دفتر پایش و نظارت بر مصرف فرآورده‌های سلامت سازمان غذا و دارو در ادامه مصاحبه ی اختصاصی با اسپوتنیک گفت: مقاومت آنتی بیوتیکی، آنقدر که راه‌های مختلفی هست برای آن و آنقدر که این باکتری‌ها با آن هستند، شده دغدغه مهم نظام سلامت. 🗣وی همچنین افزود: مقاومت آنتی بیوتیکی، می‌تواند خیلی از دستآوردهایی را که چه در درمان عفونت ها، چه در کار های دیگر در نظام سلامت داشتیم را دوباره از ما بگیرد و ما را برگرداند به ده‌های قبل. برای همین همه دنیا با هم دیگر شروع کردند به توجه به این</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104505.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104505.jpg" medium="image" />
     </item>
   </channel>
 </rss>
