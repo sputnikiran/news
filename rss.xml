@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Mon, 23 Nov 2026 13:48:49 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 14:18:29 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>انتقاد دبیر کل ناتو از تشکیل ارتش اتحادیه اروپا: اروپا نمی‌تواند به‌موقع در برابر روسیه از خود دفاع کند</title>
+      <link>https://sputnikiran.github.io/news/104561-انتقاد-دبیر-کل-ناتو-از-تش.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/104561-انتقاد-دبیر-کل-ناتو-از-تش.html</guid>
+      <pubDate>Mon, 23 Nov 2026 14:17:00 GMT</pubDate>
+      <description>🔸 مارک روته دبیرکل ناتو با تشکیل ارتشی مستقل برای اتحادیه اروپا مخالفت کرد و هشدار داد که این اقدام تنها موجب پیچیده‌تر شدن فرآیند تصمیم‌گیری‌های نظامی خواهد شد. 🔸 مارک روته گفت: «اگر پوتین حمله کند، ما به دو یا سه هفته زمان نیاز خواهیم داشت تا صرفاً بر سر اینکه چه کسی چه کاری انجام دهد، به توافق برسیم. تا آن زمان، احتمالاً او دیگر به روتردام رسیده است.» 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104561.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104561.jpg" medium="image" />
+    </item>
     <item>
       <title>خبرنگار اسپوتنیک در لبنان: نیروی هوایی اسرائیل به شهرک «براشیت» در جنوب این کشور حمله کرد</title>
       <link>https://sputnikiran.github.io/news/104559-خبرنگار-اسپوتنیک-در-لبنان.html</link>
@@ -450,15 +459,6 @@
       <description>🔸بیش از 100 عملیات امداد و نجات صورت گرفته است. ساکنان مناطق مختلف فلوریدا در پی چندین روز بارندگی شدید با مشکلات جدی مواجه شدند. شرایط نامساعد جوی حرکت‌ خودروها را مختل کرد، چندین منطقه مسکونی را از راه‌های ارتباطی خارج ساخت و نیروهای امدادی را به انجام عملیات تخلیه ساکنان واداشت. 🔸در پی بارندگی‌های طولانی‌مدت، میزان بارش در برخی مناطق از 610 میلی‌متر فراتر رفت. سطح آب رودخانه سنت جانز نیز به بیش از 5,5 متر رسید و رکورد جدیدی ثبت کرد؛ رکوردی که از سطح آب در سیل سال 1953 نیز فراتر رفت. 🔸با وج</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104507.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104507.jpg" medium="image" />
-    </item>
-    <item>
-      <title>هجوم</title>
-      <link>https://sputnikiran.github.io/news/104506-هجوم.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/104506-هجوم.html</guid>
-      <pubDate>Sun, 22 Nov 2026 13:47:00 GMT</pubDate>
-      <description>هزار گراز دریایی به سواحل آلاسکا 🔸در نزدیکی روستای «پوینت لی» ، تجمع عظیمی از گرازهای دریایی شکل گرفته است. به دلیل کاهش یخ‌های دریا، این جانوران ناچار شده‌اند به خشکی بیایند. 🔸این بزرگ‌ترین تجمع گرازهای دریایی در آمریکای شمالی است. سازمان‌های حفاظت از محیط زیست تاکنون نزدیک به 20 هزار هکتار از اراضی را تحت حفاظت قرار داده‌اند تا این حیوانات را از گزند فعالیت‌های انسانی در امان نگه دارند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104506.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104506.jpg" medium="image" />
     </item>
   </channel>
 </rss>
