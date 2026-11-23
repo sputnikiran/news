@@ -5,13 +5,20 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Mon, 23 Nov 2026 17:48:28 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 18:49:49 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>پنهان کاری دولت فرانسه در هویت کشته شدگان نظامی در خاک اوکراین</title>
+      <link>https://sputnikiran.github.io/news/104572-پنهان-کاری-دولت-فرانسه-در.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/104572-پنهان-کاری-دولت-فرانسه-در.html</guid>
+      <pubDate>Mon, 23 Nov 2026 18:48:00 GMT</pubDate>
+      <description>🔸متین پوربحر، پژوهشگر مسائل اروپا، در گفت‌وگو با اسپوتنیک اظهار داشت که تأیید حضور نظامیان فرانسوی در خاک اوکراین از سوی دولت پاریس، این موضوع را از سطح ادعاهای مطرح‌شده از سوی روسیه فراتر برده است. 🔸به گفته وی، دولت فرانسه مدعی است این نیروها در عملیات نظامی مشارکت مستقیم ندارند و صرفاً برای آموزش نیروهای اوکراینی و کمک به نگهداری و تعمیر تجهیزات نظامی در این کشور مستقر شده‌اند، در حالی که روسیه از کشته شدن نظامیان فرانسوی در میدان‌های نبرد خبر می‌دهد و نسبت به پنهان ماندن هویت آنان انتقاد دا</description>
+    </item>
     <item>
       <title>کارشناس: حملات روسیه به اهدافی چون پل‌ها، ظرفیت حمل و نقل نظامی اوکراین را به شدت کاهش می‌دهد</title>
       <link>https://sputnikiran.github.io/news/104571-کارشناس-حملات-روسیه-به-اه.html</link>
@@ -452,15 +459,6 @@
       <description>🔸به گزارش رسانه‌های روسیه، هفته علمی آزاد بریکس‌پلاس و جشنواره بین‌المللی «علم ۰+» در شهر شنژن چین برگزار شد و بیش از 490 هزار نفر در آن شرکت کردند. مهم‌ترین بخش‌های این رویداد: 🔸 علم تعاملی و کیهانی: این رویداد با شعار «جهان کیهانی شما» برگزار شد و شامل برنامه‌هایی همچون رصد آسمان با تلسکوپ، نمایش فناوری‌های رباتیک و آزمایش‌های علمی زنده بود. همچنین دانشمندان برجسته روسیه، چین و بلاروس در این جشنواره سخنرانی کردند. 🔸 همکاری‌های بین‌المللی: این جشنواره بر اهمیت تبادل آزاد دانش و همکاری‌های عل</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104518.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104518.jpg" medium="image" />
-    </item>
-    <item>
-      <title>این پلنگ چاق چینی، اجازه ندارد وزن کم کند</title>
-      <link>https://sputnikiran.github.io/news/104517-این-پلنگ-چاق-چینی،-اجازه.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/104517-این-پلنگ-چاق-چینی،-اجازه.html</guid>
-      <pubDate>Sun, 22 Nov 2026 18:18:00 GMT</pubDate>
-      <description>🔸 پلنگی به نام «پان بائوبائو» به دلیل هیکل بزرگ و وزن قابل توجهش در شبکه‌های اجتماعی مشهور شده است. 🔸 این پلنگ اکنون 19 سال عمر دارد. به همین دلیل، مسئولان باغ‌وحش تصمیم گرفته‌اند رژیم غذایی او را متوقف کنند تا پلنگ سالخورده دچار فشار و استرس نشود. اما فعالیت‌های بدنی او زیاد شده‌است. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104517.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104517.jpg" medium="image" />
     </item>
   </channel>
 </rss>
