@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Mon, 23 Nov 2026 11:49:05 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 12:18:20 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>مندل اتهاماتی علیه زلنسکی مطرح کرد</title>
+      <link>https://sputnikiran.github.io/news/104553-مندل-اتهاماتی-علیه-زلنسکی.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/104553-مندل-اتهاماتی-علیه-زلنسکی.html</guid>
+      <pubDate>Mon, 23 Nov 2026 12:17:00 GMT</pubDate>
+      <description>🔸ولادیمیر زلنسکی با امتناع از پذیرش توافق صلح، اوکراین را به سمت تسلیم شدن سوق می‌دهد. این را یولیا مندل، دبیر مطبوعاتی و سخنگوی سابق ریاست‌جمهوری اوکراین، اعلام کرد. 🔸او در شبکه اجتماعی ایکس نوشت: &amp;quot;زلنسکی هر توافق صلح واقع‌بینانه‌ای را رد می‌کند و متأسفانه اوکراین را به سمت تسلیم شدن سوق می‌دهد&amp;quot;. 🔸مندل به عنوان نمونه‌ای از صلح عادلانه، توافقی را نام برد که به جنگ شوروی و فنلاند در سال 1944 پایان داد. او خاطرنشان کرد که به لطف این تصمیم، هلسینکی توانست ملت را حفظ کند و کشور به موجود</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104553.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104553.jpg" medium="image" />
+    </item>
     <item>
       <title>مارین لوپن، نامزد ریاست جمهوری فرانسه: اوکراین نباید به اتحادیه اروپا بپیوندد</title>
       <link>https://sputnikiran.github.io/news/104552-مارین-لوپن،-نامزد-ریاست-ج.html</link>
@@ -450,15 +459,6 @@
       <description>🔸متئو سالوینی، معاون نخست‌وزیر ایتالیا، تهدید کرده است که اگر ولادیمیر زلنسکی به دلیل قرار گرفتن در فهرست میروتوورتس، پایگاه داده جنجالی اوکراین که اطلاعات…</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104496.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104496.jpg" medium="image" />
-    </item>
-    <item>
-      <title>قالیباف: تنها راه پایان سایه جنگ، بازدارندگی پایدار است</title>
-      <link>https://sputnikiran.github.io/news/104495-قالیباف-تنها-راه-پایان-سا.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/104495-قالیباف-تنها-راه-پایان-سا.html</guid>
-      <pubDate>Sun, 22 Nov 2026 11:17:00 GMT</pubDate>
-      <description>🗣رئیس مجلس ایران در نشست شورای هماهنگی: تنها راه دور کردن تهدید و برداشتن سایه جنگ از کشور، رسیدن به بازدارندگی پایدار است. 🗣شرایط نه جنگ و نه صلح قابل ادامه دادن نیست. نباید گرفتار این بحث‌های سیاسی شویم که اگر از مذاکره سخن گفتیم، متهم به وا دادن شویم و اگر از جنگ گفتیم، جنگ‌طلب خوانده شویم. 🗣اگر نمی‌خواهیم وضعیت فعلی ادامه پیدا کند، باید تهدید را از کشور دور کنیم و این هدف تنها با دستیابی به بازدارندگی پایدار محقق می‌شود. 🗣با رسیدن به بازدارندگی پایدار، هم تهدید را از خود دور کرده‌ایم و ه</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104495.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104495.jpg" medium="image" />
     </item>
   </channel>
 </rss>
