@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Mon, 23 Nov 2026 16:19:09 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 17:18:54 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>غریب‌آبادی در دیدار با مدیرکل سازمان منع سلاح‌های شیمیایی:</title>
+      <link>https://sputnikiran.github.io/news/104569-غریبآبادی-در-دیدار-با-مدی.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/104569-غریبآبادی-در-دیدار-با-مدی.html</guid>
+      <pubDate>Mon, 23 Nov 2026 17:18:00 GMT</pubDate>
+      <description>حمله به تأسیسات صلح‌آمیز شیمیایی نقض آشکار قوانین بین‌المللی است 🔸به گزارش خبرنگار اسپوتنیک در تهران، کاظم غریب‌آبادی، معاون حقوقی و بین‌الملل وزارت امور خارجه ایران که جهت شرکت در سی‌ویکمین کنفرانس سالانه کشورهای عضو سازمان منع سلاح‌های شیمیایی (OPCW) در لاهه به سر می‌برد، در محل این سازمان با «سابرینا دالفیوره ماتر»، مدیرکل این نهاد بین‌المللی دیدار و گفت‌وگو کرد. 🔸معاون وزیر امور خارجه ایران در ابتدای این گفت‌وگو با اشاره به جایگاه ایران به عنوان بزرگ‌ترین قربانی سلاح‌های شیمیایی در دوران م</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104569.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104569.jpg" medium="image" />
+    </item>
     <item>
       <title>کمیسیون اروپا، پیش‌نویس بیست‌ودومین بسته تحریمی علیه روسیه را ارائه کرد</title>
       <link>https://sputnikiran.github.io/news/104568-کمیسیون-اروپا،-پیشنویس-بی.html</link>
@@ -450,15 +459,6 @@
       <guid isPermaLink="true">https://sputnikiran.github.io/news/104515-تصاویری-از-انهدام-بیستمین.html</guid>
       <pubDate>Sun, 22 Nov 2026 17:17:00 GMT</pubDate>
       <description>آمریکایی در شرق تنگه هرمز 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-    </item>
-    <item>
-      <title>دو نفتکش متخلف در شرق تنگه هرمز دچار حریق شدند</title>
-      <link>https://sputnikiran.github.io/news/104514-دو-نفتکش-متخلف-در-شرق-تنگ.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/104514-دو-نفتکش-متخلف-در-شرق-تنگ.html</guid>
-      <pubDate>Sun, 22 Nov 2026 17:17:00 GMT</pubDate>
-      <description>🔸روابط عمومی نیروی دریایی ارتش ایران اعلام نمود که پیش از ظهر امروز، دو فروند نفتکش که برخلاف هشدارهای قبلی و با خاموش کردن سامانه‌های شناسایی و ناوبری وارد محدوده ممنوعه در شرق تنگه هرمز شده بودند، در پی برخورد…</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104514.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104514.jpg" medium="image" />
     </item>
   </channel>
 </rss>
