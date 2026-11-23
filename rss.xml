@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Mon, 23 Nov 2026 09:48:34 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 10:18:40 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>یک بنای یادبود جدید</title>
+      <link>https://sputnikiran.github.io/news/104544-یک-بنای-یادبود-جدید.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/104544-یک-بنای-یادبود-جدید.html</guid>
+      <pubDate>Mon, 23 Nov 2026 10:17:00 GMT</pubDate>
+      <description>متری چنگیز خان در پارک ملی ترلج (80 کیلومتری شمال شرقی اولان‌باتور) مغلستان ساخته شده است 🛰به افتخار هشتصد و بیستمین سالگرد تأسیس امپراتوری بزرگ مغول، تصویب یاسای کبیر (اولین مجموعه قوانین امپراتوری مغول) و به تخت نشستن او، این بنای یادبود که توسط دانشگاه ایخ زاساگ ساخته شده است، چنگیز خان را در حالی که یاسای کبیر (قانون کبیر) را در دست دارد، به تصویر می‌کشد. 🛰مراسم رونمایی از این بنای یادبود در 27 نوامبر برگزار خواهد شد. 🛰تصاویر: رسانه‌های اجتماعی. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104544.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104544.jpg" medium="image" />
+    </item>
     <item>
       <title>بقایی به اسپوتنیک: مذاکره میکنیم اما حواسمان به آمریکا هست</title>
       <link>https://sputnikiran.github.io/news/104543-بقایی-به-اسپوتنیک-مذاکره.html</link>
@@ -448,15 +457,6 @@
       <description>▫️اپراتورهای پهپادهای تهاجمی تیپ Varyag اهداف زیر را مورد حمله قرار دادند: ▫️تأسیسات واقع در محوطه یکی از پالایشگاه‌های نفت. ▫️تأسیسات تولیدی پست‌های…</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104487.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104487.jpg" medium="image" />
-    </item>
-    <item>
-      <title>سپاه پاسداران ایران: انهدام بیستمین پهپاد پیشرفته شناسایی ـ رزمی MQ-</title>
-      <link>https://sputnikiran.github.io/news/104486-سپاه-پاسداران-ایران-انهدا.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/104486-سپاه-پاسداران-ایران-انهدا.html</guid>
-      <pubDate>Sun, 22 Nov 2026 09:18:00 GMT</pubDate>
-      <description>آمریکایی در شرق تنگه هرمز 🔸روابط عمومی سپاه پاسداران ایران: دقایقی پیش، رزمندگان پدافند هوایی نیروی هوافضای سپاه پاسداران انقلاب اسلامی، با بهره‌گیری از سامانه نوین و پیشرفته پدافند هوایی سپاه، موفق شدند بیستمین فروند پهپاد پیشرفته شناسایی ـ رزمی MQ-1 آمریکایی، از نسخه بردافزوده ER (Extended Range)، را در شرق تنگه هرمز با آتش دقیق و مؤثر رهگیری و منهدم کنند. 💬این چهارمین فروند پهپاد شناسایی ـ رزمی ارتش متجاوز آمریکا است که طی 24 ساعت گذشته، با آتش سامانه‌های پدافند هوایی سپاه پاسداران انقلاب ا</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104486.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104486.jpg" medium="image" />
     </item>
   </channel>
 </rss>
