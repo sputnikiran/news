@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Tue, 24 Nov 2026 14:48:27 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 15:18:25 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>رسانه‌ چینی: اروپا ممکن است مسیر خود را تغییر دهد</title>
+      <link>https://sputnikiran.github.io/news/104620-رسانه-چینی-اروپا-ممکن-است.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/104620-رسانه-چینی-اروپا-ممکن-است.html</guid>
+      <pubDate>Tue, 24 Nov 2026 15:17:00 GMT</pubDate>
+      <description>این امر می‌تواند برای زلنسکی دردسرساز شود 🔸به گزارش رسانه چینی، “متحدان” اوکراین بیش از پیش به جای خواسته‌های کی‌یف، منافع خودشان را دنبال می‌کنند. 🔸در این گزارش آمده است که پاریس گفتگو با مسکو را رد نمی‌کند و انتخابات پیش‌رو در چندین کشور اروپایی می‌تواند چشم‌انداز سیاسی را به طور قابل توجهی تغییر دهد. 🔸نویسنده معتقد است: “به دلیل این “بازی در دو جبهه”، زلنسکی به شدت احساس ناامنی می‌کند. او می‌داند که اگر کشورهای اروپایی شروع به تعامل با روسیه کنند، اوکراین هیچ اهرم فشاری در میز مذاکره نخواه</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104620.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104620.jpg" medium="image" />
+    </item>
     <item>
       <title>نسخه دیجیتال دوگین: اروپا ممکن است برای جنگ با روسیه به یک دیکتاتوری فاشیستی تبدیل شود</title>
       <link>https://sputnikiran.github.io/news/104619-نسخه-دیجیتال-دوگین-اروپا.html</link>
@@ -446,15 +455,6 @@
       <description>🔸سرگئی لاوروف، وزیر امور خارجه روسیه، روز دوشنبه در دیدار با پاتریارک «یوحنا دهم» از کلیسای ارتدوکس انطاکیه، اظهار داشت که وضعیت در لبنان همچنان نگران‌کننده است و رو به وخامت می‌رود. 🔸 لاوروف گفت: «متأسفانه اقدامات ارتش اسرائیل ادامه دارد و خطر یک رویارویی نظامی دیگر را افزایش می‌دهد؛ وضعیتی که ما به هر قیمتی خواهان پرهیز از آن هستیم.» 🔸وزیر امور خارجه روسیه همچنین بر اهمیت حفظ ساختار حکومتی لبنان و پاسداری از توازن ظریف میان سه گروه جمعیتی اصلی این کشور تأکید کرد و نسبت به اقداماتی که می‌توا</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104567.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104567.jpg" medium="image" />
-    </item>
-    <item>
-      <title>حال یک دختر دانش‌آموز در سخنرانی مکرون در شهر تولوز بد شد</title>
-      <link>https://sputnikiran.github.io/news/104566-حال-یک-دختر-دانشآموز-در-س.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/104566-حال-یک-دختر-دانشآموز-در-س.html</guid>
-      <pubDate>Mon, 23 Nov 2026 15:48:00 GMT</pubDate>
-      <description>🔸این دختر به بیرون از محل برگزاری مراسم منتقل شد. رئیس‌جمهور فرانسه با دیدن این صحنه گفت: «به خاطر این است که مدت زیادی سر پا ایستاده بودی... این کاملاً طبیعی است.» 🔸مکرون همچنین احتمال داد که شاید این دختر صبحانه نخورده باشد. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104566.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104566.jpg" medium="image" />
     </item>
   </channel>
 </rss>
