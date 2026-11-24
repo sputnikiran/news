@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Tue, 24 Nov 2026 07:18:28 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 07:48:22 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>نرخ ارز، سکه و طلا تا ساعت</title>
+      <link>https://sputnikiran.github.io/news/104589-نرخ-ارز،-سکه-و-طلا-تا-ساع.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/104589-نرخ-ارز،-سکه-و-طلا-تا-ساع.html</guid>
+      <pubDate>Tue, 24 Nov 2026 07:47:00 GMT</pubDate>
+      <description>:00 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104589.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104589.jpg" medium="image" />
+    </item>
     <item>
       <title>وزارت حمل و نقل روسیه: کشتی باری اسپارتا</title>
       <link>https://sputnikiran.github.io/news/104588-وزارت-حمل-و-نقل-روسیه-کشت.html</link>
@@ -448,15 +457,6 @@
       <description>🗣سخنگوی وزارت امور خارجه ایران: تحریم و محاصره اقتصادی و دریایی آمریکا، به‌ویژه در شرایط کنونی، مصداق تعرض و تجاوز نظامی علیه ایران است. 🗣چراکه این اقدامات در ادامه تجاوز نظامی آمریکا و رژیم صهیونیستی و مغایر با بند 4 ماده 2 منشور ملل متحد و قطعنامه 3314 مجمع عمومی سازمان ملل متحد است. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104537.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104537.jpg" medium="image" />
-    </item>
-    <item>
-      <title>رسانه‌های آمریکایی: دموکرات‌ها اکثریت تاریخی مجلس نمایندگان ایالات متحده را به دست آوردند</title>
-      <link>https://sputnikiran.github.io/news/104536-رسانههای-آمریکایی-دموکرات.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/104536-رسانههای-آمریکایی-دموکرات.html</guid>
-      <pubDate>Mon, 23 Nov 2026 08:17:00 GMT</pubDate>
-      <description>🔸به گزارش رسانه‌های آمریکایی، این حزب حداقل 258 کرسی از 435 کرسی را به دست آورد، بهترین عملکرد دموکرات‌ها از سال 1992. 🔸جمهوری‌خواهان حداقل 173 کرسی را به دست آوردند. نتایج چهار حوزه انتخابیه دیگر هنوز نامشخص است. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104536.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104536.jpg" medium="image" />
     </item>
   </channel>
 </rss>
