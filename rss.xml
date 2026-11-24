@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Tue, 24 Nov 2026 18:48:32 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 19:18:59 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>سپاه: یک شناور کانتینربر متخلف در شمال خصب و محدوده جنوبی تنگه هرمز مورد اصابت قرار گرفت</title>
+      <link>https://sputnikiran.github.io/news/104633-سپاه-یک-شناور-کانتینربر-م.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/104633-سپاه-یک-شناور-کانتینربر-م.html</guid>
+      <pubDate>Tue, 24 Nov 2026 19:18:00 GMT</pubDate>
+      <description>🔸 روابط عمومی نیروی دریایی سپاه پاسداران انقلاب اسلامی: بر اساس گزارش‌های عملیاتی دریافتی، عصر امروز یک فروند شناور کانتینربر متخلف که با خاموش کردن سامانه‌های ناوبری…</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104633.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104633.jpg" medium="image" />
+    </item>
     <item>
       <title>واکنش معاون نخست‌وزیر ایتالیا درباره حملات نیروهای مسلح اوکراین در لیبی</title>
       <link>https://sputnikiran.github.io/news/104632-واکنش-معاون-نخستوزیر-ایتا.html</link>
@@ -448,15 +457,6 @@
       <description>بر اساس گزارش‌های عملیاتی دریافتی، طی ساعات گذشته، سه فروند نفتکش متخلف در آب‌های تنگه هرمز بر اثر برخورد با مین‌های دریایی، دچار انفجار و آتش‌سوزی بسیار شدید شدند. 🔸یکی از این نفتکش‌ها در سواحل جنوبی و دو فروند دیگر در شرق تنگه هرمز، در حالی که تحت پوشش و اسکورت هوایی گسترده ارتش متجاوز آمریکا قرار داشتند، با مین‌های دریایی برخورد کرده و در پی انفجارهای شدید، طعمه حریق شدند. 🔸اسکورت هوایی ارتش آمریکا نتوانست مانع وقوع این حوادث شود. تصاویر مربوط به انفجار و آتش‌سوزی این شناورها طی ساعات آینده</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104579.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104579.jpg" medium="image" />
-    </item>
-    <item>
-      <title>کوشنر «جایزه اصلی» مذاکرات اوکراین را اعلام کرد</title>
-      <link>https://sputnikiran.github.io/news/104578-کوشنر-جایزه-اصلی-مذاکرات.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/104578-کوشنر-جایزه-اصلی-مذاکرات.html</guid>
-      <pubDate>Tue, 24 Nov 2026 05:17:00 GMT</pubDate>
-      <description>🔸جارد کوشنر، فرستاده ویژه رئیس جمهور آمریکا، معتقد است که نتیجه کلیدی مذاکرات اوکراین باید رابطه‌ای از نظر کیفی متفاوت بین روسیه و اروپا باشد. 🔸ولادیمیر پوتین، رئیس جمهور روسیه، در 12 نوامبر، استیو ویتکاف و جارد کوشنر، فرستادگان ویژه رئیس جمهور آمریکا را در کرملین به حضور پذیرفت. 🔸دوشنبه گذشته، پائولا پینیو، سخنگوی کمیسیون اروپا، اظهار داشت که نمایندگان کشورهای اروپایی از دعوت برای آمدن به مسکو برای مشورت در مورد معماری امنیتی اروپا و حل و فصل اوکراین مطلع بوده‌اند. 🛰 Sputnik Iran | Rubika |</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104578.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104578.jpg" medium="image" />
     </item>
   </channel>
 </rss>
