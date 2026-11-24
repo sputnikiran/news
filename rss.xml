@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Tue, 24 Nov 2026 20:19:01 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 20:48:16 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>به‌دنبال بارش‌های طولانی‌مدت، سیل جزیره بالی را فرا گرفته است</title>
+      <link>https://sputnikiran.github.io/news/104638-بهدنبال-بارشهای-طولانیمدت.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/104638-بهدنبال-بارشهای-طولانیمدت.html</guid>
+      <pubDate>Tue, 24 Nov 2026 20:47:00 GMT</pubDate>
+      <description>🔸به گزارش سازمان مدیریت بحران منطقه بالی، مقامات دست‌کم 20 حادثه، از جمله سیل، رانش زمین و سقوط درختان را ثبت کرده‌اند. 🔸در منطقه «کارانگاسم»، رانش زمین باعث تخریب یک خانه مسکونی شد که در پی آن، زنی 65 ساله زیر آوار گرفتار ماند و تلاش‌ها برای نجات او بی‌نتیجه ماند. در «باندونگ» نیز، دختربچه‌ای 10 ساله به درون کانال آب سقوط کرد و با جریان شدید آب برده شد. در حال حاضر، این کودک مفقود است. 🔸بارش‌های سنگین که از عصر آغاز شده و تا بامداد ادامه داشت، در چندین منطقه از جزیره بالی وضعیت اضطراری ایجاد</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104638.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104638.jpg" medium="image" />
+    </item>
     <item>
       <title>وزارت دفاع ترکیه: کشته شدن</title>
       <link>https://sputnikiran.github.io/news/104637-وزارت-دفاع-ترکیه-کشته-شدن.html</link>
@@ -450,15 +459,6 @@
       <description>موشک رهگیر دفاع هوایی پاتریوت به اوکراین، از جمله برخی از آنها از ذخایر اروپایی، را به تعویق انداخته است 🔸در این گزارش آمده است که تحویل رهگیرهای PAC-3 و PAC-2 که توسط آمریکا طراحی و ساخته شده‌اند و با بودجه متحدان غربی کی‌یف خریداری شده‌اند، به دلیل اظهارات پیت هگست، وزیر دفاع ایالات متحده، به تعویق افتاده است. 🔸از آنجایی که موشک‌های پاتریوت در ایالات متحده تولید می‌شوند، مقامات محلی باید تمام توافق‌نامه‌های مربوط به صادرات و صادرات مجدد، از جمله انتقال موشک‌ها از ذخایر اروپایی، را تأیید کنند</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104584.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104584.jpg" medium="image" />
-    </item>
-    <item>
-      <title>رهگیری و انهدام</title>
-      <link>https://sputnikiran.github.io/news/104583-رهگیری-و-انهدام.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/104583-رهگیری-و-انهدام.html</guid>
-      <pubDate>Tue, 24 Nov 2026 06:17:00 GMT</pubDate>
-      <description>پهپاد اوکراینی بر فراز خاک روسیه ▫️وزارت دفاع روسیه اعلام کرد که سامانه های پدافند هوایی این کشور طی شب گذشته 699 پهپاد اوکراینی را بر فراز مناطق مختلف روسیه سرنگون کرده اند. ▫️اسپوتنیک تاریخچهٔ درگیری اوکراین را در اینجا برای شما گردآوری کرده است. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104583.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104583.jpg" medium="image" />
     </item>
   </channel>
 </rss>
