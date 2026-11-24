@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Tue, 24 Nov 2026 08:19:21 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 08:48:39 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>رسانه‌های ویتنامی: انفجار مهیبی هانوی را لرزاند و کشته و زخمی برجای گذاشت</title>
+      <link>https://sputnikiran.github.io/news/104592-رسانههای-ویتنامی-انفجار-م.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/104592-رسانههای-ویتنامی-انفجار-م.html</guid>
+      <pubDate>Tue, 24 Nov 2026 08:47:00 GMT</pubDate>
+      <description>💥موج انفجار به ساختمان‌های اطراف آسیب رساند و صدای انفجار تا فاصله قابل توجهی شنیده شد. 💥طبق گزارش‌های اولیه پلیس، ممکن است انفجار گاز در یک رستوران یک طبقه علت این حادثه بوده باشد. بخشی از ساختمان فرو ریخت و مردم زیر آوار گرفتار شدند. 👮به گفته پلیس، امدادگران 11 نفر زخمی را از زیر آواز بیرون کشیدند. رسانه‌های ویتنامی بعداً گزارش دادند که تعداد کشته‌شدگان به سه نفر افزایش یافته است. 🔸عملیات نجات در منطقه ادامه دارد. علت انفجار در حال بررسی است. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104592.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104592.jpg" medium="image" />
+    </item>
     <item>
       <title>رسانه‌های غربی: بریتانیا چندین تن مواد منفجره تقلبی C-</title>
       <link>https://sputnikiran.github.io/news/104591-رسانههای-غربی-بریتانیا-چن.html</link>
@@ -448,15 +457,6 @@
       <description>نوامبر 🛰دمیتری پسکوف، سخنگوی کرملین، به اسپوتنیک گفت که مسکو هنوز ابوظبی را به عنوان محل برگزاری دور بعدی مذاکرات سه جانبه در نظر دارد، اما گزینه‌های مختلفی محتمل است. 🛰روسیه حملات شبانه‌ای را به تأسیسات انرژی، لجستیک و زیرساخت‌های بندری اوکراین انجام ‌داد. 🛰ترامپ گفت که ایران در یک هفته موشک‌های بیشتری نسبت به کل سال شلیک کرده است. 🛰دموکرات‌ها اکثریت تاریخی را در مجلس نمایندگان ایالات متحده به دست آوردند. 🛰بقائی: محاصره دریایی و تحریم‌های آمریکا مصداق تجاوز نظامی است. 🛰 Sputnik Iran | Rub</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104540.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104540.jpg" medium="image" />
-    </item>
-    <item>
-      <title>رسانه محلی: آتش‌سوزی در بزرگترین هتل در تفرجگاه پویانا براسوف رومانی رخ داد</title>
-      <link>https://sputnikiran.github.io/news/104539-رسانه-محلی-آتشسوزی-در-بزر.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/104539-رسانه-محلی-آتشسوزی-در-بزر.html</guid>
-      <pubDate>Mon, 23 Nov 2026 08:48:00 GMT</pubDate>
-      <description>🔥آتش‌سوزی از تراس یکی از طبقات بالای هتل آلپین آغاز شد. سپس به سقف، اتاق زیر شیروانی و سه طبقه فوقانی سرایت کرد. آتش‌سوزی مساحتی تقریباً 2000 متر مربع را در بر گرفت. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104539.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104539.jpg" medium="image" />
     </item>
   </channel>
 </rss>
