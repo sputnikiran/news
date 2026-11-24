@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Tue, 24 Nov 2026 05:48:26 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 06:18:17 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>رهگیری و انهدام</title>
+      <link>https://sputnikiran.github.io/news/104583-رهگیری-و-انهدام.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/104583-رهگیری-و-انهدام.html</guid>
+      <pubDate>Tue, 24 Nov 2026 06:17:00 GMT</pubDate>
+      <description>پهپاد اوکراینی بر فراز خاک روسیه ▫️وزارت دفاع روسیه اعلام کرد که سامانه های پدافند هوایی این کشور طی شب گذشته 699 پهپاد اوکراینی را بر فراز مناطق مختلف روسیه سرنگون کرده اند. ▫️اسپوتنیک تاریخچهٔ درگیری اوکراین را در اینجا برای شما گردآوری کرده است. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104583.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104583.jpg" medium="image" />
+    </item>
     <item>
       <title>کوشنر «جایزه اصلی» مذاکرات اوکراین را اعلام کرد</title>
       <link>https://sputnikiran.github.io/news/104582-کوشنر-جایزه-اصلی-مذاکرات.html</link>
@@ -448,15 +457,6 @@
       <description>🔥بخش آسیب دیده خط لوله در یک زمین باز و دور از مناطق مسکونی در غرب آلاباما واقع شده است. به گفته شاهدان عینی، شعله‌های آتش به ده‌ها متر ارتفاع رسیده و آتش از چندین کیلومتر، حتی از ایالت همسایه، می‌سی‌سی‌پی، قابل مشاهده بوده است. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104531.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104531.jpg" medium="image" />
-    </item>
-    <item>
-      <title>پسکوف: روسیه همچنان ابوظبی را به عنوان محل برگزاری دور بعدی مذاکرات سه‌جانبه درباره اوکراین در نظر دارد</title>
-      <link>https://sputnikiran.github.io/news/104530-پسکوف-روسیه-همچنان-ابوظبی.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/104530-پسکوف-روسیه-همچنان-ابوظبی.html</guid>
-      <pubDate>Mon, 23 Nov 2026 06:47:00 GMT</pubDate>
-      <description>🛰دمیتری پسکوف، سخنگوی کرملین، به خبرگزاری اسپوتنیک گفت: «مسکو همچنان ابوظبی را به عنوان مکانی برای دور بعدی مذاکرات سه‌جانبه مد نظر دارد، اما گزینه‌های دیگری نیز ممکن است مطرح باشند.» 🛰دور پیشین مذاکرات میان روسیه، ایالات متحده و اوکراین در روزهای 10 و 11 نوامبر در ابوظبی برگزار شد. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104530.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104530.jpg" medium="image" />
     </item>
   </channel>
 </rss>
