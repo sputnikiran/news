@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Tue, 24 Nov 2026 10:50:37 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 11:19:50 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>وزارت دفاع روسیه: نیروهای مسلح روسیه شهر باروینوفکا در استان زاپاروژیه را آزاد کردند</title>
+      <link>https://sputnikiran.github.io/news/104604-وزارت-دفاع-روسیه-نیروهای.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/104604-وزارت-دفاع-روسیه-نیروهای.html</guid>
+      <pubDate>Tue, 24 Nov 2026 11:18:00 GMT</pubDate>
+      <description>▫️دیگر دستاوردهای نیروهای مسلح روسیه: ▫️سامانه‌های پدافند هوایی، 1047 پهپاد اوکراینی را منهدم کردند. ▫️نیروهای مسلح روسیخ، فرودگاه‌های نظامی اوکراین را مورد هدف قرار دادند. ▫️تلفات نیروهای اوکراینی در منطقه عملیات نظامی ویژه، به 1110 سرباز رسید. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104604.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104604.jpg" medium="image" />
+    </item>
     <item>
       <title>پسکوف: پوتین نتایج مذاکرات خود با شی جین پینگ و ترامپ را با اعضای دائم شورای امنیت در میان گذاشت</title>
       <link>https://sputnikiran.github.io/news/104603-پسکوف-پوتین-نتایج-مذاکرات.html</link>
@@ -448,15 +457,6 @@
       <description>🔸ولادیمیر زلنسکی با امتناع از پذیرش توافق صلح، اوکراین را به سمت تسلیم شدن سوق می‌دهد. این را یولیا مندل، دبیر مطبوعاتی و سخنگوی سابق ریاست‌جمهوری اوکراین، اعلام کرد. 🔸او در شبکه اجتماعی ایکس نوشت: &amp;quot;زلنسکی هر توافق صلح واقع‌بینانه‌ای را رد می‌کند و متأسفانه اوکراین را به سمت تسلیم شدن سوق می‌دهد&amp;quot;. 🔸مندل به عنوان نمونه‌ای از صلح عادلانه، توافقی را نام برد که به جنگ شوروی و فنلاند در سال 1944 پایان داد. او خاطرنشان کرد که به لطف این تصمیم، هلسینکی توانست ملت را حفظ کند و کشور به موجود</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104553.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104553.jpg" medium="image" />
-    </item>
-    <item>
-      <title>مارین لوپن، نامزد ریاست جمهوری فرانسه: اوکراین نباید به اتحادیه اروپا بپیوندد</title>
-      <link>https://sputnikiran.github.io/news/104552-مارین-لوپن،-نامزد-ریاست-ج.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/104552-مارین-لوپن،-نامزد-ریاست-ج.html</guid>
-      <pubDate>Mon, 23 Nov 2026 11:48:00 GMT</pubDate>
-      <description>🔸او در دیدار با سفیر اوکراین تأکید کرد که آینده کی‌یف «به هیچ وجه» به عضویت در اتحادیه اروپا مرتبط نیست. 🔸پیش از این، گزارش شده بود که مقامات اوکراینی و اروپایی از پیروزی لوپن در انتخابات می‌ترسند. او همچنین اظهار داشت که فرانسه دیگر پولی برای تأمین مالی کی‌یف ندارد. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104552.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104552.jpg" medium="image" />
     </item>
   </channel>
 </rss>
