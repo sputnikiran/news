@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Tue, 24 Nov 2026 13:50:01 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 14:18:29 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>هواپیماهای راهبردی موشک‌انداز  (Tu-</title>
+      <link>https://sputnikiran.github.io/news/104617-هواپیماهای-راهبردی-موشکان.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/104617-هواپیماهای-راهبردی-موشکان.html</guid>
+      <pubDate>Tue, 24 Nov 2026 14:17:00 GMT</pubDate>
+      <description>) ر‌وسیه، پروازی برنامه‌ریزی‌شده را در حریم هوایی بر فراز آب‌های بی‌طرف دریای ژاپن انجام دادند 🔸این پرواز حدود 10 ساعت به طول انجامید. هواپیماهای راهبردی موشک‌انداز (Tu-160) متعلق به ناوگان هوانوردی دوربرد روسیه است. اسکورت جنگنده‌ها توسط خدمه هواپیماهای (Su-35S) و (Su-30SM) از نیروهای هوافضای روسیه تأمین شد. در بخش‌هایی از مسیر، این هواپیماهای راهبردی موشک‌انداز توسط جنگنده‌هایی از کشورهای خارجی همراهی شدند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104617.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104617.jpg" medium="image" />
+    </item>
     <item>
       <title>نیروهای دفاع اسرائیل، نعیم ابونحل، رئیس سرویس امنیت داخلی جنبش فلسطینی حماس را به قتل رساندند</title>
       <link>https://sputnikiran.github.io/news/104614-نیروهای-دفاع-اسرائیل،-نعی.html</link>
@@ -446,15 +455,6 @@
       <description>🔸جرد کوشنر، فرستاده ویژه رئیس‌جمهور آمریکا، اعلام کرد که دونالد ترامپ، رئیس‌جمهور آمریکا، در جریان مذاکرات با رهبران “ائتلاف کشورهای داوطلب”، پیشنهاد کرد میلیاردها دلار به جای تأمین مالی اوکراین، صرف توسعه اقتصادهای خود آنها شود. 🔸کوشنر این مطلب را در صفحه خود در شبکه اجتماعی ایکس نوشت. 🔸او تأکید کرد: “همانطور که رئیس‌جمهور ترامپ در گفتگوها و بحث‌های خود با رهبران “ائتلاف کشورهای داوطلب” اعلام کرد، میلیاردها دلاری که برای این درگیری هزینه می‌شود، می‌توانست به جای آن در اقتصادهای ما، در ایجاد </description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104564.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104564.jpg" medium="image" />
-    </item>
-    <item>
-      <title>صدراعظم آلمان: اروپا آماده است وارد مذاکره با روسیه شود</title>
-      <link>https://sputnikiran.github.io/news/104563-صدراعظم-آلمان-اروپا-آماده.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/104563-صدراعظم-آلمان-اروپا-آماده.html</guid>
-      <pubDate>Mon, 23 Nov 2026 15:18:00 GMT</pubDate>
-      <description>🔸فریدریش مرتس افزود که برای جلوگیری از تشدید تنش‌ها، انجام گفتگوهای فشرده در خصوص وضعیت دریای بالتیک ضروری است. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104563.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104563.jpg" medium="image" />
     </item>
   </channel>
 </rss>
