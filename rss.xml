@@ -5,13 +5,29 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Wed, 25 Nov 2026 19:18:37 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 19:48:23 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>آتش‌سوزی ناشی از یک تصادف رانندگی در قاهره،</title>
+      <link>https://sputnikiran.github.io/news/104695-آتشسوزی-ناشی-از-یک-تصادف.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/104695-آتشسوزی-ناشی-از-یک-تصادف.html</guid>
+      <pubDate>Wed, 25 Nov 2026 19:47:00 GMT</pubDate>
+      <description>کشته و 15 زخمی برجای گذاشت 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104695.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104695.jpg" medium="image" />
+    </item>
+    <item>
+      <title>مسکو: مذاکرات برای انتخاب دبیرکل سازمان ملل ادامه دارد</title>
+      <link>https://sputnikiran.github.io/news/104694-مسکو-مذاکرات-برای-انتخاب.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/104694-مسکو-مذاکرات-برای-انتخاب.html</guid>
+      <pubDate>Wed, 25 Nov 2026 19:47:00 GMT</pubDate>
+      <description>▫️به گفته الکساندر آلیموف، معاون وزیر امور خارجه روسیه، مذاکرات برای انتخاب دبیرکل جدید سازمان ملل متحد ادامه دارد و هنوز به اجماع نرسیده است. ▫️وی خاطرنشان کرد که طرف روسی انتظار دارد فرد جدیدی در اول ژانویه 2027 سمت دبیرکلی سازمان ملل متحد را بر عهده بگیرد. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+    </item>
     <item>
       <title>رویدادهای مهم خبری جهان تا شامگاه</title>
       <link>https://sputnikiran.github.io/news/104693-رویدادهای-مهم-خبری-جهان-ت.html</link>
@@ -435,24 +451,6 @@
       <description>🔸به گزارش سازمان مدیریت بحران منطقه بالی، مقامات دست‌کم 20 حادثه، از جمله سیل، رانش زمین و سقوط درختان را ثبت کرده‌اند. 🔸در منطقه «کارانگاسم»، رانش زمین باعث تخریب یک خانه مسکونی شد که در پی آن، زنی 65 ساله زیر آوار گرفتار ماند و تلاش‌ها برای نجات او بی‌نتیجه ماند. در «باندونگ» نیز، دختربچه‌ای 10 ساله به درون کانال آب سقوط کرد و با جریان شدید آب برده شد. در حال حاضر، این کودک مفقود است. 🔸بارش‌های سنگین که از عصر آغاز شده و تا بامداد ادامه داشت، در چندین منطقه از جزیره بالی وضعیت اضطراری ایجاد</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104638.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104638.jpg" medium="image" />
-    </item>
-    <item>
-      <title>وزارت دفاع ترکیه: کشته شدن</title>
-      <link>https://sputnikiran.github.io/news/104637-وزارت-دفاع-ترکیه-کشته-شدن.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/104637-وزارت-دفاع-ترکیه-کشته-شدن.html</guid>
-      <pubDate>Tue, 24 Nov 2026 20:18:00 GMT</pubDate>
-      <description>نظامی در پی سقوط بالگرد در استان اسکی‌شهیر 🔊 وزارت دفاع ترکیه اعلام کرد که یک فروند بالگرد نیروی هوایی این کشور که برای انجام یک مأموریت آموزشی از استان اسکی‌شهیر برخاسته بود، دچار سانحه هوایی شده است. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104637.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104637.jpg" medium="image" />
-    </item>
-    <item>
-      <title>حملات هوایی روسیه سیستم‌های کنترل پهپاد اوکراینی در زاپوروژیه را از بین برد</title>
-      <link>https://sputnikiran.github.io/news/104636-حملات-هوایی-روسیه-سیستمها.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/104636-حملات-هوایی-روسیه-سیستمها.html</guid>
-      <pubDate>Tue, 24 Nov 2026 20:18:00 GMT</pubDate>
-      <description>🛰راه های ارتباطی، یک ترمینال استارلینک، ایستگاه‌های کنترل پهپاد - هیچ چیز از بازدیدهای کوتاه اما مخرب پهپادهای تهاجمی روسیه جان سالم به در نبرد. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104636.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104636.jpg" medium="image" />
     </item>
   </channel>
 </rss>
