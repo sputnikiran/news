@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Tue, 24 Nov 2026 21:19:09 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 05:18:39 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>رسانه: ترامپ به ادعای زلنسکی درباره توافق صلح اوکراین تا ژانویه خندید</title>
+      <link>https://sputnikiran.github.io/news/104642-رسانه-ترامپ-به-ادعای-زلنس.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/104642-رسانه-ترامپ-به-ادعای-زلنس.html</guid>
+      <pubDate>Wed, 25 Nov 2026 05:17:00 GMT</pubDate>
+      <description>🔶دونالد ترامپ، رئیس‌جمهور آمریکا، وقتی با سوالی درباره ادعای ولادیمیر زلنسکی مبنی بر اینکه مذاکره‌کنندگان آمریکایی خواهان توافق صلح بین روسیه و اوکراین تا ژانویه هستند، مواجه شد، به خنده افتاد. 🔶ترامپ در مصاحبه‌ای در دفتر بیضی پرسید: «چه کسی این را گفت؟» و در حالی که می‌خندید به یکی از دستیاران ارشد خود نگاه کرد. وی افزود: «او از من چه می‌خواهد؟» 🔶ترامپ روشن کرد که به هیچ مهلتی برای حل و فصل این درگیری متعهد نیست و گفت: «من تحت هیچ جدول زمانی نیستم. فقط دوست دارم آن را پایان‌یافته ببینم. می‌د</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104642.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104642.jpg" medium="image" />
+    </item>
     <item>
       <title>واکنش معاون نخست‌وزیر ایتالیا درباره حملات نیروهای مسلح اوکراین در لیبی</title>
       <link>https://sputnikiran.github.io/news/104641-واکنش-معاون-نخستوزیر-ایتا.html</link>
@@ -450,15 +459,6 @@
       <description>▫️وزارت دفاع روسیه اعلام کرد که نیروهای این کشور شب گذشته به یک ایستگاه فرعی برق در «پریل‌وکی» واقع در منطقه «چرنیگوف» حمله کردند؛ تأسیساتی که از فعالیت مجتمع‌های صنایع نظامی اوکراین پشتیبانی می‌کند. ▫️نیروهای مسلح روسیه همچنین یک شناور دریایی حامل محموله نظامی را در جنوب غربی «اودسا» هدف قرار دادند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104586.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104586.jpg" medium="image" />
-    </item>
-    <item>
-      <title>وزارت دفاع روسیه: خدمه تانک‌های T-</title>
-      <link>https://sputnikiran.github.io/news/104585-وزارت-دفاع-روسیه-خدمه-تان.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/104585-وزارت-دفاع-روسیه-خدمه-تان.html</guid>
-      <pubDate>Tue, 24 Nov 2026 06:48:00 GMT</pubDate>
-      <description>BV از یگان « شرق» نیروهای مسلح روسیه یک گروه خرابکاری و شناسایی دشمن را در استان زاپاروژیه از بین بردند 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104585.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104585.jpg" medium="image" />
     </item>
   </channel>
 </rss>
