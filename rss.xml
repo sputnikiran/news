@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Wed, 25 Nov 2026 06:49:04 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 07:18:51 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>رسانه: ورود خدمه فضاپیمای شنژو-</title>
+      <link>https://sputnikiran.github.io/news/104646-رسانه-ورود-خدمه-فضاپیمای.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/104646-رسانه-ورود-خدمه-فضاپیمای.html</guid>
+      <pubDate>Wed, 25 Nov 2026 07:17:00 GMT</pubDate>
+      <description>چین به ایستگاه فضایی تیانگونگ 🔹پیش از این، آژانس فضایی سرنشین‌دار چین اعلام کرد بود که این فضاپیما با موفقیت به ایستگاه فضایی تیانگونگ متصل شد. این آژانس افزود که کل فرآیند اتصال حدود 3.5 ساعت به طول انجامید. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104646.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104646.jpg" medium="image" />
+    </item>
     <item>
       <title>مردی در اورگان آمریکا که با سگش برای تماشای امواج به ساحل رفته بود به اقیانوس کشیده شد و نزدیک بود غرق شود</title>
       <link>https://sputnikiran.github.io/news/104645-مردی-در-اورگان-آمریکا-که.html</link>
@@ -450,15 +459,6 @@
       <description>🛰تصاویر: رسانه‌های اجتماعی. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104590.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104590.jpg" medium="image" />
-    </item>
-    <item>
-      <title>نرخ ارز، سکه و طلا تا ساعت</title>
-      <link>https://sputnikiran.github.io/news/104589-نرخ-ارز،-سکه-و-طلا-تا-ساع.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/104589-نرخ-ارز،-سکه-و-طلا-تا-ساع.html</guid>
-      <pubDate>Tue, 24 Nov 2026 07:47:00 GMT</pubDate>
-      <description>:00 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104589.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104589.jpg" medium="image" />
     </item>
   </channel>
 </rss>
