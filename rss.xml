@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Wed, 25 Nov 2026 14:18:39 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 14:49:31 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>انتقال هواپیماهای بریتانیایی به پناهگاه های امن</title>
+      <link>https://sputnikiran.github.io/news/104679-انتقال-هواپیماهای-بریتانی.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/104679-انتقال-هواپیماهای-بریتانی.html</guid>
+      <pubDate>Wed, 25 Nov 2026 14:48:00 GMT</pubDate>
+      <description>▫️به گزارش رسانه‌های بریتانیایی، بریتانیا به دلیل خطر حملات پهپادی، شب‌ها هواپیماهای خود را به پناهگاه‌های محافظت‌شده منتقل می‌کند. ▫️گزارش‌ها حاکی از آن است که فرماندهی نظامی بریتانیا همچنین در حال تدوین برنامه‌هایی برای نصب تورهای ضدپهپاد در اطراف هواپیماهای جنگی است. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104679.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104679.jpg" medium="image" />
+    </item>
     <item>
       <title>باید محاصره ی دریایی را بشکنیم</title>
       <link>https://sputnikiran.github.io/news/104678-باید-محاصره-ی-دریایی-را-ب.html</link>
@@ -448,15 +457,6 @@
       <description>🔸رئیس‌جمهور روسیه در سخنانی تأکید کرد که اقدامات تلافی‌جویانه روسیه در برابر حملات اوکراین به تأسیسات انرژی، اجتناب‌ناپذیر است؛ «همه باید از این موضوع آگاه باشند.» سایر اظهارات ولادیمیر پوتین، رئیس‌جمهور روسیه: 🔸 وضعیت کنونی در بازار فرآورده‌های نفتی همچنان چالش‌برانگیز است. 🔸 پس از اوج‌گیری قیمت‌ انرژی در اوایل ماه اکتبر، بهای بنزین در بیشتر مناطق روسیه تا حد زیادی تثبیت شده است. 🔸 ثبات در بازار داخلی سوخت روسیه با موفقیت حفظ شده است. 🔸 رئیس‌جمهور روسیه همچنین بر اهمیت تضمین تأمین پایدار س</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104625.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104625.jpg" medium="image" />
-    </item>
-    <item>
-      <title>نهاد مدیریت آبراه خلیج فارس در ایران:</title>
-      <link>https://sputnikiran.github.io/news/104623-نهاد-مدیریت-آبراه-خلیج-فا.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/104623-نهاد-مدیریت-آبراه-خلیج-فا.html</guid>
-      <pubDate>Tue, 24 Nov 2026 16:18:00 GMT</pubDate>
-      <description>شناور یدک‌کش به فهرست عدم‌سازگاری اضافه شدند 🔸 متن اطلاعیه به این شرح است: با توجه به خدمت‌رسانی برخی شناورهای یدک‌کش به کشتی‌های متخلف در جنوب تنگه هرمز، ۲۶ شناور از این نوع با اطلاع‌رسانی شهروندان همسایگان جنوبی ایران و رصد اطلاعاتی پی‌جی‌اس‌ای، به فهرست عدم‌سازگاری اضافه شدند. 🔸 همان‌طور که پیش‌تر اعلام شد، شناورها و شرکت‌هایی که در ارائه خدمات به متخلفین همکاری کنند، خود در فهرست عدم‌سازگاری قرار خواهند گرفت. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104623.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104623.jpg" medium="image" />
     </item>
   </channel>
 </rss>
