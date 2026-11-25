@@ -5,13 +5,20 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Wed, 25 Nov 2026 08:18:33 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 08:48:39 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>انصارالله یمن از حمله به پالایشگاه راس تنوره و مرکز مالی ریاض خبر داد</title>
+      <link>https://sputnikiran.github.io/news/104650-انصارالله-یمن-از-حمله-به.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/104650-انصارالله-یمن-از-حمله-به.html</guid>
+      <pubDate>Wed, 25 Nov 2026 08:47:00 GMT</pubDate>
+      <description>🔶یحیی سریع، سخنگوی نظامی انصارالله (حوثی‌ها)، اعلام کرد که این گروه به پالایشگاه نفت در راس تنوره و مرکز مالی در ریاض حمله کرده است. وی گفت این حملات پاسخی به حملات عربستان سعودی به صنعا، استان لحج و سایر مناطق یمن بوده است. 🔶به گفته وی، اصابت به پالایشگاه راس تنوره باعث آتش‌سوزی در این تأسیسات شد. حمله دوم در سه مرحله به مرکز مالی ملک عبدالله در ریاض انجام شد و به ادعای وی خسارات قابل توجهی وارد کرد. 🔶پیش از این، ائتلاف عربستان به رهبری ریاض اعلام کرده بود که چهار پهپاد را در منطقه راس تنوره</description>
+    </item>
     <item>
       <title>زاخارووا به کمیسیون اروپا توصیه کرد در بسته‌های تحریمی «جزئیات کوچک اما مهم» را ذکر کند</title>
       <link>https://sputnikiran.github.io/news/104649-زاخارووا-به-کمیسیون-اروپا.html</link>
@@ -450,15 +457,6 @@
       <description>شرط ایران هیچ اقدام و مذاکره‌ای در کار نخواهد بود 🗣رئیس مجلس ایران در ادامه گفت: در مواجهه با یاوه‌گویی‌ها و تهدیدهای اخیر رئیس‌جمهور و وزیر خزانه‌داری آمریکا، لازم است تصریح کنم که موضع ما روشن و تغییرناپذیر است. 🗣تهدیدها و توهین‌ها به مردم سرافراز و سربلند ایران و تأکید بر فشارهای اقتصادی، بیش از هرچیز نشانه‌ی درماندگی آمریکاییها در مقابل ملت عزیز و مقاوم و مستقل ماست. 🗣حرف ما همان است که قبلاً گفته‌ایم: پیش از اجرای 7 شرط ایران هیچ اقدام و مذاکره‌ای درکار نخواهد بود و درمقابل تحرکات دشمن ن</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104595.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104595.jpg" medium="image" />
-    </item>
-    <item>
-      <title>رویدادهای مهم جهان تا</title>
-      <link>https://sputnikiran.github.io/news/104594-رویدادهای-مهم-جهان-تا.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/104594-رویدادهای-مهم-جهان-تا.html</guid>
-      <pubDate>Tue, 24 Nov 2026 09:17:00 GMT</pubDate>
-      <description>نوامبر 🛰کوشنر «جایزه اصلی» مذاکرات اوکراین را تعیین کرد. 🛰وزیر دفاع آلمان به اوکراین در مورد گسترش درگیری به بالتیک هشدار داد. 🔸پنتاگون انتقال حدود 60 موشک رهگیر دفاع هوایی پاتریوت به اوکراین، از جمله از ذخایر اروپایی، را به تعویق می‌اندازد. 🛰انفجار سه نفتکش متخلف در تنگه هرمز. 🛰روسیه در طول شب به اهداف انرژی و لجستیکی اوکراین حمله کرد. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104594.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104594.jpg" medium="image" />
     </item>
   </channel>
 </rss>
