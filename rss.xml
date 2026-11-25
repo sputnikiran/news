@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Wed, 25 Nov 2026 18:18:33 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 18:48:28 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>امروز، پس از شش سال وقفه، اولین قطار از پکن به مقصد ایرکوتسک (شهری در سیبری روسیه) حرکت کرد</title>
+      <link>https://sputnikiran.github.io/news/104690-امروز،-پس-از-شش-سال-وقفه،.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/104690-امروز،-پس-از-شش-سال-وقفه،.html</guid>
+      <pubDate>Wed, 25 Nov 2026 18:47:00 GMT</pubDate>
+      <description>🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104690.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104690.jpg" medium="image" />
+    </item>
     <item>
       <title>جنگ دو سر باخت برای اسرائیل</title>
       <link>https://sputnikiran.github.io/news/104689-جنگ-دو-سر-باخت-برای-اسرائ.html</link>
@@ -444,15 +453,6 @@
       <description>🔸بر اساس نظرسنجی انجام‌شده توسط مؤسسه «فورسا» به سفارش شبکه‌های «آرتی‌ال» و «ان‌تی‌وی»، میزان نارضایتی از عملکرد مرتس در آلمان به رکورد 88 درصد رسیده است. 🔸حتی هواداران بلوک محافظه‌کار «سی‌دی‌یو/سی‌اس‌یو» که مرتس رهبری آن را بر عهده دارد نیز نگاهی انتقادی به عملکرد او دارند، به‌طوری که 60 درصد آنان از کارکرد وی ابراز نارضایتی کرده‌اند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104635.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104635.jpg" medium="image" />
-    </item>
-    <item>
-      <title>مهم‌ترین اخبار شامگاهی</title>
-      <link>https://sputnikiran.github.io/news/104634-مهمترین-اخبار-شامگاهی.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/104634-مهمترین-اخبار-شامگاهی.html</guid>
-      <pubDate>Tue, 24 Nov 2026 19:47:00 GMT</pubDate>
-      <description>نوامبر: 🔸 پوتین: کی‌یف با وجود درخواست‌های ترامپ، به حملات خود علیه زیرساخت‌های انرژی روسیه ادامه می‌دهد 🔸 کمیته بین‌المللی المپیک علیه تبعیض کشورهای غربی نسبت به ورزشکاران روس موضع‌گیری کرد 🔸 پسکوف؛ پوتین نتایج گفتگوهای خود با شی جین‌پینگ و ترامپ را با اعضای دائم شورای امنیت بررسی کرد 🔸 تاجیکستان خروج خود از دیوان کیفری بین‌المللی را به سازمان ملل اطلاع داد 🔸 در پی حمله‌ای جدید به یک مرکز مالی در ریاض، بیش از ده نفر مجروح شدند 🔸سازمان مدیریت آبراه خلیج فارس، 26 یدک‌کش را به فهرست شناورهای</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104634.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104634.jpg" medium="image" />
     </item>
   </channel>
 </rss>
