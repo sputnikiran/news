@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Wed, 25 Nov 2026 14:49:31 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 15:18:24 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>زمستان به کوه‌های تاترا رسید</title>
+      <link>https://sputnikiran.github.io/news/104680-زمستان-به-کوههای-تاترا-رس.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/104680-زمستان-به-کوههای-تاترا-رس.html</guid>
+      <pubDate>Wed, 25 Nov 2026 15:17:00 GMT</pubDate>
+      <description>▫️ زاکوپانه به سرزمین عجایب زمستانی تمام‌عیار تبدیل شده است. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104680.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104680.jpg" medium="image" />
+    </item>
     <item>
       <title>انتقال هواپیماهای بریتانیایی به پناهگاه های امن</title>
       <link>https://sputnikiran.github.io/news/104679-انتقال-هواپیماهای-بریتانی.html</link>
@@ -448,15 +457,6 @@
       <description>🔸رئیس‌جمهور روسیه در سخنانی تأکید کرد که اقدامات تلافی‌جویانه روسیه در برابر حملات اوکراین به تأسیسات انرژی، اجتناب‌ناپذیر است؛ «همه باید از این موضوع آگاه باشند.»…</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104626.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104626.jpg" medium="image" />
-    </item>
-    <item>
-      <title>پوتین: کی‌یف با وجود درخواست‌های ترامپ، به حملات خود به زیرساخت‌های انرژی روسیه ادامه می‌دهد</title>
-      <link>https://sputnikiran.github.io/news/104625-پوتین-کییف-با-وجود-درخواس.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/104625-پوتین-کییف-با-وجود-درخواس.html</guid>
-      <pubDate>Tue, 24 Nov 2026 16:18:00 GMT</pubDate>
-      <description>🔸رئیس‌جمهور روسیه در سخنانی تأکید کرد که اقدامات تلافی‌جویانه روسیه در برابر حملات اوکراین به تأسیسات انرژی، اجتناب‌ناپذیر است؛ «همه باید از این موضوع آگاه باشند.» سایر اظهارات ولادیمیر پوتین، رئیس‌جمهور روسیه: 🔸 وضعیت کنونی در بازار فرآورده‌های نفتی همچنان چالش‌برانگیز است. 🔸 پس از اوج‌گیری قیمت‌ انرژی در اوایل ماه اکتبر، بهای بنزین در بیشتر مناطق روسیه تا حد زیادی تثبیت شده است. 🔸 ثبات در بازار داخلی سوخت روسیه با موفقیت حفظ شده است. 🔸 رئیس‌جمهور روسیه همچنین بر اهمیت تضمین تأمین پایدار س</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104625.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104625.jpg" medium="image" />
     </item>
   </channel>
 </rss>
