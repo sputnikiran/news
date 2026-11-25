@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Wed, 25 Nov 2026 15:48:50 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 16:48:52 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>اعلام آمادکی مسکو برای ادامه مذاکرات با اوکراین و آمریکا در قالب ابوظبی</title>
+      <link>https://sputnikiran.github.io/news/104685-اعلام-آمادکی-مسکو-برای-اد.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/104685-اعلام-آمادکی-مسکو-برای-اد.html</guid>
+      <pubDate>Wed, 25 Nov 2026 16:47:00 GMT</pubDate>
+      <description>▫️سرگئی ریابکوف معاون وزیر امور خارجه روسیه با اعلام‌این موضوع خاطرنشان کرد که از هرگونه تماس با اروپایی‌ها بی‌اطلاع است، اما اگر آنها شرط و شروطی تعیین می‌کنند، شانس خود را برای گفتگو از بین می‌برند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104685.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104685.jpg" medium="image" />
+    </item>
     <item>
       <title>حملات روسیه به پست های برق اوکراین</title>
       <link>https://sputnikiran.github.io/news/104684-حملات-روسیه-به-پست-های-بر.html</link>
@@ -444,15 +453,6 @@
       <description>🔸 روابط عمومی نیروی دریایی سپاه پاسداران انقلاب اسلامی: بر اساس گزارش‌های عملیاتی دریافتی، عصر امروز یک فروند شناور کانتینربر متخلف که با خاموش کردن سامانه‌های ناوبری و موقعیت‌یابی خود، بدون رعایت دستورالعمل‌های تردد دریایی در حال عبور از مسیر غیرمجاز در محدوده شمال بندر خصب و جنوب تنگه هرمز بود، مورد اصابت قرار گرفت. 🔸 نیروی دریایی سپاه پاسداران انقلاب اسلامی بار دیگر به مالکان و فرماندهان شناورهای تجاری تأکید می‌کند که رعایت مقررات ایمنی دریانوردی، استفاده از مسیرهای مجاز و توجه به هشدارهای </description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104630.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104630.jpg" medium="image" />
-    </item>
-    <item>
-      <title>&amp;nbsp;واکنش عراقچی به کارشکنی آمریکا در عملکرد سازمان منع سلاح‌های شیمیایی: این رفتار، نهایت بی‌شرمی است</title>
-      <link>https://sputnikiran.github.io/news/104629-nbsp-واکنش-عراقچی-به-کارش.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/104629-nbsp-واکنش-عراقچی-به-کارش.html</guid>
-      <pubDate>Tue, 24 Nov 2026 17:47:00 GMT</pubDate>
-      <description></description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104629.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104629.jpg" medium="image" />
     </item>
   </channel>
 </rss>
