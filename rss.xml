@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Wed, 25 Nov 2026 07:49:08 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 08:18:33 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>زاخارووا به کمیسیون اروپا توصیه کرد در بسته‌های تحریمی «جزئیات کوچک اما مهم» را ذکر کند</title>
+      <link>https://sputnikiran.github.io/news/104649-زاخارووا-به-کمیسیون-اروپا.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/104649-زاخارووا-به-کمیسیون-اروپا.html</guid>
+      <pubDate>Wed, 25 Nov 2026 08:17:00 GMT</pubDate>
+      <description>🗣ماریا زاخارووا، سخنگوی وزارت خارجه روسیه، اعلام کرد که بروکسل باید مشخص کند که هر تحریم ضدروسی چه هزینه‌ای برای بودجه اتحادیه اروپا و بودجه کشورهای عضو این اتحادیه در بر خواهد داشت. 🔶وی گفت: «این کار نسبت به شهروندان اتحادیه اروپا و همچنین نسبت به کل اتحادیه اروپا که یادآور می‌شوم به عنوان یک اتحادیه اقتصادی ایجاد شد، منصفانه خواهد بود.» 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104649.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104649.jpg" medium="image" />
+    </item>
     <item>
       <title>نرخ ارز، سکه و طلا تا ساعت</title>
       <link>https://sputnikiran.github.io/news/104648-نرخ-ارز،-سکه-و-طلا-تا-ساع.html</link>
@@ -450,15 +459,6 @@
       <description>نوامبر 🛰کوشنر «جایزه اصلی» مذاکرات اوکراین را تعیین کرد. 🛰وزیر دفاع آلمان به اوکراین در مورد گسترش درگیری به بالتیک هشدار داد. 🔸پنتاگون انتقال حدود 60 موشک رهگیر دفاع هوایی پاتریوت به اوکراین، از جمله از ذخایر اروپایی، را به تعویق می‌اندازد. 🛰انفجار سه نفتکش متخلف در تنگه هرمز. 🛰روسیه در طول شب به اهداف انرژی و لجستیکی اوکراین حمله کرد. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104594.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104594.jpg" medium="image" />
-    </item>
-    <item>
-      <title>رسانه‌های ویتنامی: انفجار مهیبی هانوی را لرزاند و کشته و زخمی برجای گذاشت</title>
-      <link>https://sputnikiran.github.io/news/104592-رسانههای-ویتنامی-انفجار-م.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/104592-رسانههای-ویتنامی-انفجار-م.html</guid>
-      <pubDate>Tue, 24 Nov 2026 08:47:00 GMT</pubDate>
-      <description>💥موج انفجار به ساختمان‌های اطراف آسیب رساند و صدای انفجار تا فاصله قابل توجهی شنیده شد. 💥طبق گزارش‌های اولیه پلیس، ممکن است انفجار گاز در یک رستوران یک طبقه علت این حادثه بوده باشد. بخشی از ساختمان فرو ریخت و مردم زیر آوار گرفتار شدند. 👮به گفته پلیس، امدادگران 11 نفر زخمی را از زیر آواز بیرون کشیدند. رسانه‌های ویتنامی بعداً گزارش دادند که تعداد کشته‌شدگان به سه نفر افزایش یافته است. 🔸عملیات نجات در منطقه ادامه دارد. علت انفجار در حال بررسی است. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104592.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104592.jpg" medium="image" />
     </item>
   </channel>
 </rss>
