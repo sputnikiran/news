@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Thu, 26 Nov 2026 18:48:54 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 19:18:46 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>مهم‌ترین رویدادهای خبری تا شامگاه</title>
+      <link>https://sputnikiran.github.io/news/104754-مهمترین-رویدادهای-خبری-تا.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/104754-مهمترین-رویدادهای-خبری-تا.html</guid>
+      <pubDate>Thu, 26 Nov 2026 19:17:00 GMT</pubDate>
+      <description>نوامبر 🔹سرگئی لاوروف، وزیر امور خارجه روسیه: روسیه برای گفتگو با همه درباره اوکراین باز است، اما مذاکرات باید میان «افراد شریف» انجام شود. 🔹ولادیمیر پوتین، رئیس‌جمهور روسیه: داشتن نسل جدید هوش مصنوعی دیگر تضمین‌کننده برتری فناورانه نیست. 🔹ماریا زاخارووا، سخنگوی وزارت امور خارجه روسیه: هیچ چشم‌اندازی برای گفتگو با اروپای غربی درباره معماری امنیتی در اوراسیا وجود ندارد. 🔹روسیه و اوکراین تبادل دیگری از پیکرهای نظامیان کشته‌شده انجام دادند. 🔹دمیتری پسکوف، سخنگوی کرملین: اتحادیه اروپا در بحث درب</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104754.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104754.jpg" medium="image" />
+    </item>
     <item>
       <title>نمایش چتربازان در جمهوری آفریقای مرکزی پیش از رژه یکم دسامبر</title>
       <link>https://sputnikiran.github.io/news/104753-نمایش-چتربازان-در-جمهوری.html</link>
@@ -446,15 +455,6 @@
       <description>▫️کوشنر گفت، ولادیمیر پوتین بدون شک یک استاد بزرگ سیاست، یک شخصیت تاریخی است... کاملاً واضح است که او درک عمیقی از موضوعات مورد بحث دارد. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104698.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104698.jpg" medium="image" />
-    </item>
-    <item>
-      <title>دیدار ولادیمیر پوتین و توکایف، رئیس جمهور قزاقستان، در کرملین</title>
-      <link>https://sputnikiran.github.io/news/104697-دیدار-ولادیمیر-پوتین-و-تو.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/104697-دیدار-ولادیمیر-پوتین-و-تو.html</guid>
-      <pubDate>Wed, 25 Nov 2026 20:17:00 GMT</pubDate>
-      <description>▫️پوتین در این دیدار خاطرنشان کرد که روسیه و قزاقستان 96 درصد از تسویه حساب‌های متقابل را با ارزهای ملی خود انجام می‌دهند. ▫️توکایف به پوتین بابت اجلاس سه جانبه در چین تبریک گفت و اظهار داشت که از ظهور روسیه به عنوان یک قدرت بزرگ خوشحال است. ▫️وی افزود که بیانیه اجلاس سه جانبه به خوبی بررسی شده و دستاورد دیپلماسی روسیه است. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104697.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104697.jpg" medium="image" />
     </item>
   </channel>
 </rss>
