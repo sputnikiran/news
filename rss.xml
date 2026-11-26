@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Thu, 26 Nov 2026 05:18:30 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 05:48:53 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>درخواست وزارت دفاع بریتانیا از کهنه‌سربازان برای بسیج احتمالی در زمان جنگ</title>
+      <link>https://sputnikiran.github.io/news/104704-درخواست-وزارت-دفاع-بریتان.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/104704-درخواست-وزارت-دفاع-بریتان.html</guid>
+      <pubDate>Thu, 26 Nov 2026 05:47:00 GMT</pubDate>
+      <description>▫️به گزارش رسانه‌های غربی، این نخستین بار از زمان جنگ سرد است که چنین اقدامی صورت می‌گیرد. ▫️بیش از 100 هزار نیروی ذخیره راهبردی، نامه‌هایی دریافت کرده‌اند که از آن‌ها برای شرکت در رزمایش‌های نظامی، از جمله رزمایش «مدافع استوار» دعوت به عمل آمده است. ◾️ولادیمیر پوتین، رئیس‌جمهور روسیه، بارها به تفصیل توضیح داده است که مسکو هیچ قصدی برای حمله به کشورهای عضو ناتو ندارد؛ با این حال، سیاستمداران غربی اغلب برای منحرف کردن افکار عمومی از مشکلات داخلی، با توسل به یک تهدید خیالی، در میان مردم خود هراس‌ا</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104704.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104704.jpg" medium="image" />
+    </item>
     <item>
       <title>زاخارووا: برای اتحادیه اروپا، حمایت از تروریسم کی‌یف مهم‌تر از جمعیت خودش است</title>
       <link>https://sputnikiran.github.io/news/104703-زاخارووا-برای-اتحادیه-ارو.html</link>
@@ -440,15 +449,6 @@
       <description>:00 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104648.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104648.jpg" medium="image" />
-    </item>
-    <item>
-      <title>حملات روسیه به صنایع نظامی و زیرساخت‌های حمل‌ونقل اوکراین در شب گذشته</title>
-      <link>https://sputnikiran.github.io/news/104647-حملات-روسیه-به-صنایع-نظام.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/104647-حملات-روسیه-به-صنایع-نظام.html</guid>
-      <pubDate>Wed, 25 Nov 2026 07:48:00 GMT</pubDate>
-      <description>⚔️وزارت دفاع روسیه اعلام کرد که نیروهای روسی در شب گذشته به زیرساخت‌های حمل‌ونقل، تأسیسات صنایع نظامی و شناورهای دریایی حامی ارتش اوکراین حمله کردند. اهداف مورد اصابت: 📍یک پست برق در زلنودولسک در منطقه دنیپروپتروفسک که برق صنایع نظامی اوکراین را تأمین می‌کرد. 📍یک تأسیسات صنعتی در اسنوفسک در منطقه چرنیگوف که قطعات پهپاد تولید می‌کرد. 📍دو لوکوموتیو در دنیپروپتروفسک که برای انتقال سلاح و تجهیزات نظامی ارتش اوکراین استفاده می‌شدند. 📍یک پست برق در شهر زاپوریژیا که برق صنایع نظامی-صنعتی اوکراین را</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104647.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104647.jpg" medium="image" />
     </item>
   </channel>
 </rss>
