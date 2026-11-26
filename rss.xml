@@ -5,13 +5,40 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Thu, 26 Nov 2026 12:18:30 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 12:49:28 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>سیاستمدار آلمانی: مرتس باید به دلیل حمایت از کی‌یف به هر قیمتی که شده، از سمت خود برکنار شود</title>
+      <link>https://sputnikiran.github.io/news/104732-سیاستمدار-آلمانی-مرتس-بای.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/104732-سیاستمدار-آلمانی-مرتس-بای.html</guid>
+      <pubDate>Thu, 26 Nov 2026 12:48:00 GMT</pubDate>
+      <description>🔸️️️️️️فریدریش مرتس، صدراعظم آلمان، باید به خاطر تمایلش به حمایت از اوکراین به هر قیمتی که شده، استعفا دهد. سارا واگنکنخت، بنیانگذار حزب &amp;quot;اتحادیه برای عدالت اجتماعی و اقتصاد هوشمند&amp;quot; (BSW) این را اعلام کرد. 🔸️️️️️️واگنکنخت در شبکه اجتماعی ایکس نوشت: &amp;quot;مرتس مردم خود را به فقر محکوم می‌کند تا مسابقه تسلیحاتی دیوانه‌وار و درگیری در اوکراین را که به نظر می‌رسد هرگز پایان نمی‌یابد، تأمین مالی کند. این دولت، آلمان را به نابودی می‌کشاند و باید هر چه زودتر از قدرت برکنار شود&amp;#33;» 🔸️️️️️</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104732.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104732.jpg" medium="image" />
+    </item>
+    <item>
+      <title>وزارت دفاع روسیه: پیشروی‌های چشمگیر و تلفات سنگین اوکراین</title>
+      <link>https://sputnikiran.github.io/news/104731-وزارت-دفاع-روسیه-پیشرویها.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/104731-وزارت-دفاع-روسیه-پیشرویها.html</guid>
+      <pubDate>Thu, 26 Nov 2026 12:48:00 GMT</pubDate>
+      <description>🔸️️️️️️نیروهای روسیه تأسیسات تولید و انبار پهپادها و خودروهای زمینی بدون سرنشین اوکراین را به شدت درهم کوبیدند. 🔸️️️️️️تلفات اوکراین: حدود 1110 سرباز کشته یا زخمی 🔸️️️️️️پدافند هوایی: چهار بمب هدایت‌شونده «جی‌دم» (JDAM)، دو موشک «نپتون» و 872 پهپاد رهگیری شدند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104731.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104731.jpg" medium="image" />
+    </item>
+    <item>
+      <title>«پل حماقت» ایالت اوهایو در آمریکا</title>
+      <link>https://sputnikiran.github.io/news/104730-پل-حماقت-ایالت-اوهایو-در.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/104730-پل-حماقت-ایالت-اوهایو-در.html</guid>
+      <pubDate>Thu, 26 Nov 2026 12:48:00 GMT</pubDate>
+      <description>🔸️️️️️️راننده‌ای که در این ویدئو دیده می‌شود، هیچ علامت هشدار یا چراغ راهنمایی او را متوقف نکرده بود - او صرفاً سرعتش را کم کرده بود، اما همچنان تراکتورها را به آهن قراضه تبدیل می‌کرد. او بی‌توجه به خرد شدن شیشه‌ها و صدای سایش ماشین‌آلات، به راهش ادامه داد. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104730.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104730.jpg" medium="image" />
+    </item>
     <item>
       <title>اختلاف‌نظر اف‌بی‌آی، سیا و کاخ سفید درباره نقش «آلیس هوانگ» به عنوان جاسوس چینی</title>
       <link>https://sputnikiran.github.io/news/104729-اختلافنظر-افبیآی،-سیا-و-ک.html</link>
@@ -422,33 +449,6 @@
       <description>🔶دکتر سجاد قیطاسی، استاد دانشگاه و تحلیلگر مسائل غرب آسیا، در گفت‌وگو با اسپوتنیک با اشاره به پیام سرلشکر محسن رضایی درباره بی‌نتیجه بودن طرح‌های ترامپ برای محاصره ایران، اظهار داشت که این پیام فراتر از یک موضع‌گیری سیاسی و در چارچوب بازدارندگی راهبردی ایران است و تلاش می‌کند محاسبات طرف مقابل را درباره اثربخشی فشار اقتصادی، دریایی و احتمال توسل مجدد به گزینه نظامی تحت تأثیر قرار دهد. 🔶ضمن اینکه هم‌زمانی این اظهارات با موضع سخنگوی وزارت خارجه درباره استفاده از تمامی ابزارها نشان‌دهنده هم‌راستا</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104674.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104674.jpg" medium="image" />
-    </item>
-    <item>
-      <title>واژگونی و آتش‌گرفتن تانکر سوخت در هیوستون؛ راننده جان باخت</title>
-      <link>https://sputnikiran.github.io/news/104673-واژگونی-و-آتشگرفتن-تانکر.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/104673-واژگونی-و-آتشگرفتن-تانکر.html</guid>
-      <pubDate>Wed, 25 Nov 2026 13:19:00 GMT</pubDate>
-      <description>🔥در هیوستون، یک تانکر سوخت در بزرگراه واژگون شد و آتش گرفت که منجر به مرگ راننده شد. پس از این حادثه در بزرگراه ایستکس فری‌وی، سوخت ریخته‌شده کامیون را در برگرفت و آتش‌سوزی تقریباً یک ساعت ادامه داشت. 🔥بر اساس تصاویر، در جریان آتش‌سوزی انفجارهایی نیز رخ داده است. راننده تانکر جان باخت، اما سرنشین یک خودروی جیپ که در نزدیکی بود آسیبی ندید. تردد در بزرگراه مسدود و پل هوایی برای بررسی بسته شد. 🛰Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104673.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104673.jpg" medium="image" />
-    </item>
-    <item>
-      <title>مرتس گفت، و کل کشور هزینه‌اش می‌پردازد</title>
-      <link>https://sputnikiran.github.io/news/104672-مرتس-گفت،-و-کل-کشور-هزینه.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/104672-مرتس-گفت،-و-کل-کشور-هزینه.html</guid>
-      <pubDate>Wed, 25 Nov 2026 13:19:00 GMT</pubDate>
-      <description>میلیاردها یورو تقریباً کورکورانه خرج می‌شود 🔶مرتس وعده داد که قوی‌ترین ارتش اروپا را &amp;quot;به هر قیمتی که شد‌ه&amp;quot; ایجاد کند. رسانه‌های آلمانی این را گزارش می‌دهند. 🔶در این گزارش آمده است که اکنون آلمان صدها میلیارد یورو را به تسلیح مجدد اختصاص می‌دهد، اما پارلمان روز به روز بیشتر در مورد محل صرف این پول مطمئن نیست. کنترل بر تدارکات عملاً از بین رفته است. 🔶کار به جایی رسیده است که قراردادهایی با مبالغ نجومی بدون تصویب بوندستاگ منعقد می‌شود. در جریان اجرای پروژه‌ها، هزینه‌های آن‌ها به دلیل م</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104672.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104672.jpg" medium="image" />
-    </item>
-    <item>
-      <title>فشار اروپا بر روسیه هزینه‌هایی دارد که به غرب بازمی‌گردد</title>
-      <link>https://sputnikiran.github.io/news/104671-فشار-اروپا-بر-روسیه-هزینه.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/104671-فشار-اروپا-بر-روسیه-هزینه.html</guid>
-      <pubDate>Wed, 25 Nov 2026 13:19:00 GMT</pubDate>
-      <description>✍️سمیه پسندیده، کارشناس مسائل بین‌الملل، در یادداشتی با اشاره به اینکه حمله به پالایشگاه‌های روسیه صورتحساب آن را به اقتصاد کشورهای حامی کی‌یف منتقل می‌کند و کاهش عرضه گازوئیل روسیه در بازار آسیب‌دیده از اختلالات خاورمیانه رقابت بر سر محموله‌های جایگزین را تشدید می‌کند، تأکید کرد که موفقیت راهبرد فرسایش انرژی روسیه را نمی‌توان فقط با میزان خسارت به پالایشگاه‌ها سنجید، زیرا هزینه تحمیل‌شده به مصرف‌کنندگان و صنایع غربی نیز بخشی از این محاسبه است. 👉وی همچنین با اشاره به استدلال حقوقی کایا کالاس در</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104671.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104671.jpg" medium="image" />
     </item>
   </channel>
 </rss>
