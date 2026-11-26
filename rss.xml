@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Thu, 26 Nov 2026 19:18:46 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 19:48:17 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>بادهای شدید در نیویورک؛ کندن درختان از ریشه و اعلام وضعیت اضطراری</title>
+      <link>https://sputnikiran.github.io/news/104755-بادهای-شدید-در-نیویورک؛-ک.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/104755-بادهای-شدید-در-نیویورک؛-ک.html</guid>
+      <pubDate>Thu, 26 Nov 2026 19:47:00 GMT</pubDate>
+      <description>🌟بادهای شدید در نیویورک درختان را از ریشه می‌کند و سطل‌های زباله را واژگون می‌سازد. به دلیل طوفان، در شهر وضعیت اضطراری اعلام شده است. 🔶کتی هوکول، فرماندار نیویورک، اعلام کرد که انتظار می‌رود سرعت وزش باد به 26 متر بر ثانیه برسد. در حال حاضر، هوای نامساعد در شهر ادامه دارد. 📌باد شدید در منهتن افراد را از جا می‌کند، درختان را از ریشه می‌کند و سطل‌های زباله را واژگون می‌سازد. به دلیل بارش شدید، برخی خیابان‌های شهر دچار آب‌گرفتگی جزئی شده‌اند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104755.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104755.jpg" medium="image" />
+    </item>
     <item>
       <title>مهم‌ترین رویدادهای خبری تا شامگاه</title>
       <link>https://sputnikiran.github.io/news/104754-مهمترین-رویدادهای-خبری-تا.html</link>
@@ -446,15 +455,6 @@
       <description>▫️کوشنر گفت، ولادیمیر پوتین بدون شک یک استاد بزرگ سیاست، یک شخصیت تاریخی است... کاملاً واضح است که او درک عمیقی از موضوعات مورد بحث دارد. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104699.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104699.jpg" medium="image" />
-    </item>
-    <item>
-      <title>کوشنر، ولادیمیر پوتین را یک شخصیت تاریخی و استاد بزرگ دنیای سیاست نامید</title>
-      <link>https://sputnikiran.github.io/news/104698-کوشنر،-ولادیمیر-پوتین-را.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/104698-کوشنر،-ولادیمیر-پوتین-را.html</guid>
-      <pubDate>Wed, 25 Nov 2026 20:47:00 GMT</pubDate>
-      <description>▫️کوشنر گفت، ولادیمیر پوتین بدون شک یک استاد بزرگ سیاست، یک شخصیت تاریخی است... کاملاً واضح است که او درک عمیقی از موضوعات مورد بحث دارد. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104698.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104698.jpg" medium="image" />
     </item>
   </channel>
 </rss>
