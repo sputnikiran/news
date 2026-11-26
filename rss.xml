@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Thu, 26 Nov 2026 10:48:50 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 12:18:30 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>اختلاف‌نظر اف‌بی‌آی، سیا و کاخ سفید درباره نقش «آلیس هوانگ» به عنوان جاسوس چینی</title>
+      <link>https://sputnikiran.github.io/news/104729-اختلافنظر-افبیآی،-سیا-و-ک.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/104729-اختلافنظر-افبیآی،-سیا-و-ک.html</guid>
+      <pubDate>Thu, 26 Nov 2026 12:17:00 GMT</pubDate>
+      <description>🔸️️️️️️اف‌بی‌آی ارزیابی کرده است که اطلاعات ایالات متحده ثابت نمی‌کند آلیس هوانگ افسر اطلاعاتی یا عامل چین بوده باشد؛ در حالی که سیا احتمال وجود شواهد جدید را همچنان باز گذاشته است. 🔸️️️️️️در اواسط ماه نوامبر، این کارآفرین از سمت مدیرعاملی انویدیا استعفا داد. استعفای او پس از رسوایی روابط نامشروع صورت گرفت. او با آلیس هوانگ، تاجر زن، در رابطه بود که به گفته رسانه‌های آمریکایی، اطلاعات طبقه‌بندی‌شده را به سازمان‌های دولتی چین فاش می‌کرد. وزارت امور خارجه چین گزارش‌های رسانه‌ها را افتراآمیز خوان</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104729.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104729.jpg" medium="image" />
+    </item>
     <item>
       <title>روسیه و اوکراین بار دیگر اجساد نظامیان کشته شده را تبادل کردند</title>
       <link>https://sputnikiran.github.io/news/104727-روسیه-و-اوکراین-بار-دیگر.html</link>
@@ -440,15 +449,6 @@
       <description>✍️سمیه پسندیده، کارشناس مسائل بین‌الملل، در یادداشتی با اشاره به اینکه حمله به پالایشگاه‌های روسیه صورتحساب آن را به اقتصاد کشورهای حامی کی‌یف منتقل می‌کند و کاهش عرضه گازوئیل روسیه در بازار آسیب‌دیده از اختلالات خاورمیانه رقابت بر سر محموله‌های جایگزین را تشدید می‌کند، تأکید کرد که موفقیت راهبرد فرسایش انرژی روسیه را نمی‌توان فقط با میزان خسارت به پالایشگاه‌ها سنجید، زیرا هزینه تحمیل‌شده به مصرف‌کنندگان و صنایع غربی نیز بخشی از این محاسبه است. 👉وی همچنین با اشاره به استدلال حقوقی کایا کالاس در</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104671.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104671.jpg" medium="image" />
-    </item>
-    <item>
-      <title>نه جنگ و نه نبود وسایل حمل‌ونقل نتوانست آنها را متوقف کند</title>
-      <link>https://sputnikiran.github.io/news/104670-نه-جنگ-و-نه-نبود-وسایل-حم.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/104670-نه-جنگ-و-نه-نبود-وسایل-حم.html</guid>
-      <pubDate>Wed, 25 Nov 2026 13:19:00 GMT</pubDate>
-      <description>🔶تصاویری در شبکه‌های اجتماعی منتشر شده است که نشان می‌دهد کودکان در نوار غزه با یک ارابه اسبی (گاری) به مدرسه می‌روند تا تحصیل کنند؛ آن هم در شرایط سخت واقعیتی که کودکی و حداقل امکانات زندگی را از آنها گرفته است. 🛰Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104670.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104670.jpg" medium="image" />
     </item>
   </channel>
 </rss>
