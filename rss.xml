@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Thu, 26 Nov 2026 16:48:45 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 17:18:34 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>زاخارووا: اهداف عملیات ویژه نظامی در هر صورت محقق می شوند</title>
+      <link>https://sputnikiran.github.io/news/104747-زاخارووا-اهداف-عملیات-ویژ.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/104747-زاخارووا-اهداف-عملیات-ویژ.html</guid>
+      <pubDate>Thu, 26 Nov 2026 17:17:00 GMT</pubDate>
+      <description>🗣ماریا زاخارووا، سخنگوی وزارت خارجه روسیه، در نشست خبری خود اعلام کرد که اهداف عملیات ویژه نظامی در هر صورت محقق خواهند شد، صرف‌نظر از اینکه رژیم کی‌یف به چه روش‌های تروریستی در خشکی، دریا و هوا متوسل شود. سایر محورهای اصلی اظهارات وی: 🔶هیچ چشم‌اندازی برای گفتگو با اروپای غربی درباره معماری امنیتی در اوراسیا وجود ندارد. 🔶کارکنان شرکت‌های دفاعی خارجی که در حملات علیه روسیه مشارکت دارند، اهداف نظامی مشروع محسوب می‌شوند و می‌توانند تحت پیگرد قانونی قرار گیرند. 🔶روسیه در پاسخ به فعالیت‌های ژاپن </description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104747.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104747.jpg" medium="image" />
+    </item>
     <item>
       <title>کارشناس: مشکلات نگهداری جنگنده‌های اف-</title>
       <link>https://sputnikiran.github.io/news/104746-کارشناس-مشکلات-نگهداری-جن.html</link>
@@ -444,15 +453,6 @@
       <description>🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104688.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104688.jpg" medium="image" />
-    </item>
-    <item>
-      <title>گزارش: ناتو تمایلی به حمایت از پدافند هوایی اوکراین ندارد</title>
-      <link>https://sputnikiran.github.io/news/104687-گزارش-ناتو-تمایلی-به-حمای.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/104687-گزارش-ناتو-تمایلی-به-حمای.html</guid>
-      <pubDate>Wed, 25 Nov 2026 17:18:00 GMT</pubDate>
-      <description>▫️سزاری تومچیک، معاون وزیر دفاع ملی لهستان، به رسانه‌ها گفته است که این اتحاد موشک‌های روسی را در حریم هوایی اوکراین سرنگون نخواهد کرد. ▫️او تأکید کرد: «ناتو به هیچ وجه موافق این موضوع نیست. این امر پیچیدگی‌های زیادی ایجاد خواهد کرد.» ▫️تومچیک گفت، اگرچه کشورهای ناتو ماه‌ها پیش احتمال چنین اقداماتی را مورد بحث قرار دادند، اما هیچ تصمیمی گرفته نشد و افزود که چنین اقدامی نیاز به رضایت همه اعضای اتحاد دارد. ▫️پیش از این، بلومبرگ اعلام کرده بود که لهستان از متحدان ناتو خود در مورد احتمال سرنگونی موش</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104687.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104687.jpg" medium="image" />
     </item>
   </channel>
 </rss>
