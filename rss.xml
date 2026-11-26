@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Thu, 26 Nov 2026 07:48:36 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 08:18:51 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>رسانه ها:  فعالان حامی فلسطین و هواداران اسرائیل در نیویورک موجب بروز ناآرامی‌هایی شدند</title>
+      <link>https://sputnikiran.github.io/news/104712-رسانه-ها-فعالان-حامی-فلسط.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/104712-رسانه-ها-فعالان-حامی-فلسط.html</guid>
+      <pubDate>Thu, 26 Nov 2026 08:17:00 GMT</pubDate>
+      <description>▫️ به گزارش رسانه ها، معترضان هنگام تلاش برای برچیدن موانع، با پلیس درگیر شدند. چهار نفر در این میان بازداشت شدند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104712.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104712.jpg" medium="image" />
+    </item>
     <item>
       <title>تصاویر جدیدی از زرادخانه هسته‌ای کره شمالی</title>
       <link>https://sputnikiran.github.io/news/104711-تصاویر-جدیدی-از-زرادخانه.html</link>
@@ -444,15 +453,6 @@
       <description>» با اولین فضانورد خارجی به ایستگاه فضایی چین «تیان‌گونگ» 🛰Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104657.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104657.jpg" medium="image" />
-    </item>
-    <item>
-      <title>کرملین: استقرار هرگونه نیروی خارجی در اوکراین برای روسیه کاملاً غیرقابل قبول است</title>
-      <link>https://sputnikiran.github.io/news/104656-کرملین-استقرار-هرگونه-نیر.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/104656-کرملین-استقرار-هرگونه-نیر.html</guid>
-      <pubDate>Wed, 25 Nov 2026 10:17:00 GMT</pubDate>
-      <description>🔶دمیتری پسکوف، سخنگوی کرملین، افزود: «ما می‌دانیم که متأسفانه بارها از پایتخت‌های اروپایی و از بروکسل سخنانی درباره برنامه‌های استقرار نیروهای نظامی شنیده شده است. یک بار دیگر…</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104656.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104656.jpg" medium="image" />
     </item>
   </channel>
 </rss>
