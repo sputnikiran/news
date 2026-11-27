@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Fri, 27 Nov 2026 17:48:25 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 18:18:27 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>کارشناس: پهپادها نقش تانک‌ها و بالگردها را در میدان نبرد تغییر می‌دهند</title>
+      <link>https://sputnikiran.github.io/news/104811-کارشناس-پهپادها-نقش-تانکه.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/104811-کارشناس-پهپادها-نقش-تانکه.html</guid>
+      <pubDate>Fri, 27 Nov 2026 18:17:00 GMT</pubDate>
+      <description>🔶دمیتری کوزیاکین، طراح ارشد مرکز راهکارهای یکپارچه بدون سرنشین، به اسپوتنیک گفت که سامانه‌های تسلیحاتی متعارف در آینده‌ای نزدیک به دلیل تأثیر پهپادها بر جنگ مدرن، دستخوش تحولی جدی خواهند شد. 🔶پهپادهای دید اول شخص می‌توانند برای جابه‌جایی محموله مانند بالگردهای ترابری استفاده شوند. توزیع بار میان تعداد زیادی پهپاد کوچک‌تر تضمین می‌کند که از دست رفتن یکی از آنها به از دست رفتن کل محموله منجر نشود. 🔶تانک‌های نبرد اکنون به عنوان مواضع توپ متحرک عمل می‌کنند، زیرا توسعه پهپادها تاکتیک حملات زرهی «م</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104811.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104811.jpg" medium="image" />
+    </item>
     <item>
       <title>پوتین: روسیه توان رزمی ناوگان زیردریایی خود را پیوسته افزایش خواهد داد</title>
       <link>https://sputnikiran.github.io/news/104810-پوتین-روسیه-توان-رزمی-ناو.html</link>
@@ -452,15 +461,6 @@
       <description>نوامبر 🔹سرگئی لاوروف، وزیر امور خارجه روسیه: روسیه برای گفتگو با همه درباره اوکراین باز است، اما مذاکرات باید میان «افراد شریف» انجام شود. 🔹ولادیمیر پوتین، رئیس‌جمهور روسیه: داشتن نسل جدید هوش مصنوعی دیگر تضمین‌کننده برتری فناورانه نیست. 🔹ماریا زاخارووا، سخنگوی وزارت امور خارجه روسیه: هیچ چشم‌اندازی برای گفتگو با اروپای غربی درباره معماری امنیتی در اوراسیا وجود ندارد. 🔹روسیه و اوکراین تبادل دیگری از پیکرهای نظامیان کشته‌شده انجام دادند. 🔹دمیتری پسکوف، سخنگوی کرملین: اتحادیه اروپا در بحث درب</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104754.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104754.jpg" medium="image" />
-    </item>
-    <item>
-      <title>نمایش چتربازان در جمهوری آفریقای مرکزی پیش از رژه یکم دسامبر</title>
-      <link>https://sputnikiran.github.io/news/104753-نمایش-چتربازان-در-جمهوری.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/104753-نمایش-چتربازان-در-جمهوری.html</guid>
-      <pubDate>Thu, 26 Nov 2026 18:48:00 GMT</pubDate>
-      <description>✈️در جمهوری آفریقای مرکزی، چتربازان پیش از رژه یکم دسامبر 2026 که به مناسبت سالگرد اعلام جمهوری آفریقای مرکزی برگزار می‌شود، نمایش‌هایی اجرا کردند. چتربازان آفریقای مرکزی با حمایت متحدان روسی، مهارت‌های پرش و استقرار بر روی زمین را به نمایش گذاشتند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104753.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104753.jpg" medium="image" />
     </item>
   </channel>
 </rss>
