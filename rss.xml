@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Fri, 27 Nov 2026 06:18:40 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 06:48:46 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>میمون‌ها سه ورودی تاج محل را محاصره کرده‌اند</title>
+      <link>https://sputnikiran.github.io/news/104765-میمونها-سه-ورودی-تاج-محل.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/104765-میمونها-سه-ورودی-تاج-محل.html</guid>
+      <pubDate>Fri, 27 Nov 2026 06:47:00 GMT</pubDate>
+      <description>🐒اتخمین زده می‌شود که حدود 500 حیوان در دروازه‌های شرقی، غربی و سلطنتی در آگرا جمع شده‌اند. 🐒این دسته‌ها غذا و وسایل گردشگران را می‌ربایند، آنها را تعقیب می‌کنند و گاز می‌گیرند. در سپتامبر 2026، یک مرد 83 ساله برزیلی و یک گردشگر از بنگال غربی به دلیل گازگرفتگی تحت درمان قرار گرفتند. 🐒شهرداری مسئول به دام انداختن میمون‌ها است، در حالی که سازمان باستان‌شناسی هند مسئول امنیت داخل مجموعه است. یکی از گزینه‌ها دفع دسته‌ها با با استفاده از امواج فراصوت، است. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104765.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104765.jpg" medium="image" />
+    </item>
     <item>
       <title>رهگیری و انهدام بیش از</title>
       <link>https://sputnikiran.github.io/news/104764-رهگیری-و-انهدام-بیش-از.html</link>
@@ -448,15 +457,6 @@
       <description>▫️یک زن سالخورده و یک مرد سالخورده در این حادثه مجروح شدند؛ آن‌ها با استفاده از برانکارد به مکان امن منتقل گردیدند. ▫️وزارت دفاع روسیه گزارش داد که در مجموع 16 نفر در جریان این عملیات تخلیه شدند. به گفته نیروهای روسیه، 30 نفر دیگر نیز همچنان در انتظار تخلیه هستند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104709.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104709.jpg" medium="image" />
-    </item>
-    <item>
-      <title>کارشناس نظامی: تعداد اتباع فرانسوی در ارتش اوکراین کاهش یافته است</title>
-      <link>https://sputnikiran.github.io/news/104708-کارشناس-نظامی-تعداد-اتباع.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/104708-کارشناس-نظامی-تعداد-اتباع.html</guid>
-      <pubDate>Thu, 26 Nov 2026 06:48:00 GMT</pubDate>
-      <description>▫️خاویر مورو، کارشناس نظامی، به رسانه‌های روسی گفت که تعداد اتباع فرانسوی در صفوف نیروهای مسلح اوکراین به‌طور قابل‌توجهی کاهش یافته است. ❗️وزارت دفاع روسیه بارها اعلام کرده است که رژیم کی‌یف…</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104708.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104708.jpg" medium="image" />
     </item>
   </channel>
 </rss>
