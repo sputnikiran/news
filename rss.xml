@@ -5,13 +5,40 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Fri, 27 Nov 2026 06:48:46 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 07:18:45 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>اسرائیل یک حمله هوایی به عین التینه در جنوب لبنان به انجام رساند</title>
+      <link>https://sputnikiran.github.io/news/104768-اسرائیل-یک-حمله-هوایی-به.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/104768-اسرائیل-یک-حمله-هوایی-به.html</guid>
+      <pubDate>Fri, 27 Nov 2026 07:18:00 GMT</pubDate>
+      <description>🔸ارتش اسرائیل ادعا کرد که ده‌ها موشک و پرتابگر را در یک مرکز آموزشی برای نیروهای رضوان، بخشی از حزب‌الله، منهدم کرده است. 🔸به گفته ارتش اسرائیل، پرتابگرها برای استفاده علیه سربازان و غیرنظامیان اسرائیلی آماده شده بودند. 🔸این رویدادها در بحبوحه حملات مداوم اسرائیل به لبنان، علیرغم توافقی که در ماه ژوئن با میانجیگری ایالات متحده حاصل شد، رخ می‌دهد. 🔸تصاویر: رسانه‌های اجتماعی. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104768.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104768.jpg" medium="image" />
+    </item>
+    <item>
+      <title>سرویس‌های اطلاعاتی اوکراین تلاش کردند یک افسر عالی‌رتبه نظامی روسیه را در جمهوری خلق دونتسک ترور کنند</title>
+      <link>https://sputnikiran.github.io/news/104767-سرویسهای-اطلاعاتی-اوکراین.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/104767-سرویسهای-اطلاعاتی-اوکراین.html</guid>
+      <pubDate>Fri, 27 Nov 2026 07:18:00 GMT</pubDate>
+      <description>▫️سرویس امنیت فدرال روسیه این عملیات را خنثی کرد. یک زن روسی در حال انتقال اطلاعات به کی‌یف در مورد موقعیت مکانی و خودروهایی که او سوار می‌شد، بود؛ او به طور خاص برای نظارت به دونتسک نقل مکان کرده بود. ▫️تلاشی برای ترور این شخصیت نظامی با استفاده از سه پهپاد تهاجمی «بابا یاگا» که پر از مواد منفجره بودند، انجام شد. این پهپادها توسط یک سیستم جنگ الکترونیکی روسی از کار افتادند و متخصصان آنها را خنثی کردند. این زن بازداشت و دستگیر شد. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104767.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104767.jpg" medium="image" />
+    </item>
+    <item>
+      <title>رسانه غربی: اختلاف نظر اتحادیه اروپا و ایالات متحده بر سر ادامه حمایت از اوکراین رو به افزایش است</title>
+      <link>https://sputnikiran.github.io/news/104766-رسانه-غربی-اختلاف-نظر-اتح.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/104766-رسانه-غربی-اختلاف-نظر-اتح.html</guid>
+      <pubDate>Fri, 27 Nov 2026 07:18:00 GMT</pubDate>
+      <description>🔸به نقل از منابعی، در جریان مکالمه‌ای بین ترامپ و زلنسکی در 19 نوامبر، رئیس جمهور آمریکا اظهار داشت که &amp;quot;میلیاردها دلار&amp;quot; برای حمایت از اوکراین هدر می‌رود. با این حال، این موضع &amp;quot;به سختی مورد توجه رهبران اتحادیه اروپا قرار گرفته است&amp;quot;. علاوه بر این، رویارویی بر سر مالیات دیجیتال بر شرکت‌های چندملیتی رو به افزایش است. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104766.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104766.jpg" medium="image" />
+    </item>
     <item>
       <title>میمون‌ها سه ورودی تاج محل را محاصره کرده‌اند</title>
       <link>https://sputnikiran.github.io/news/104765-میمونها-سه-ورودی-تاج-محل.html</link>
@@ -430,33 +457,6 @@
       <description>▫️ به گزارش رسانه ها، معترضان هنگام تلاش برای برچیدن موانع، با پلیس درگیر شدند. چهار نفر در این میان بازداشت شدند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104712.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104712.jpg" medium="image" />
-    </item>
-    <item>
-      <title>تصاویر جدیدی از زرادخانه هسته‌ای کره شمالی</title>
-      <link>https://sputnikiran.github.io/news/104711-تصاویر-جدیدی-از-زرادخانه.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/104711-تصاویر-جدیدی-از-زرادخانه.html</guid>
-      <pubDate>Thu, 26 Nov 2026 07:47:00 GMT</pubDate>
-      <description>▫️رسانه‌های دولتی کره شمالی عکس‌هایی را منتشر کردند که در جریان بازدید رهبر این کشور از تأسیسات بخش هسته‌ای، از جمله تأسیسات اختصاص‌یافته به اهداف نظامی، گرفته شده‌اند. به‌طور مشخص، در یک مرکز تحقیقاتی، نمونه‌هایی از کلاهک‌های گرماهسته‌ای که در حال حاضر در زرادخانه این کشور موجود است، به کیم جونگ اون نشان داده شد. ▫️به گزارش خبرگزاری مرکزی کره، کیم جونگ اون، رهبر کره شمالی، به دستیابی به رکوردهای جدید در تولید تسلیحات هسته‌ای اشاره کرد و بر لزوم تضمین توانایی به‌کارگیری تسلیحات هسته‌ای تاکتیکی د</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104711.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104711.jpg" medium="image" />
-    </item>
-    <item>
-      <title>توپخانه «گیاسینت-اس» روسیه مواضع اوکراین را درهم می‌کوبد</title>
-      <link>https://sputnikiran.github.io/news/104710-توپخانه-گیاسینت-اس-روسیه.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/104710-توپخانه-گیاسینت-اس-روسیه.html</guid>
-      <pubDate>Thu, 26 Nov 2026 07:47:00 GMT</pubDate>
-      <description>▫️خدمه‌های سامانه‌های «گیاسینت-اس» از گروه رزمی «وستوک» روسیه، استحکامات اوکراین را در منطقه زاپوروژیه درهم می‌کوبند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104710.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104710.jpg" medium="image" />
-    </item>
-    <item>
-      <title>حمله نیروهای مسلح اوکراین به غیرنظامیانی که توسط نیروهای روسیه از شهر «کنستانتینوفکا» در حال تخلیه بودند</title>
-      <link>https://sputnikiran.github.io/news/104709-حمله-نیروهای-مسلح-اوکراین.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/104709-حمله-نیروهای-مسلح-اوکراین.html</guid>
-      <pubDate>Thu, 26 Nov 2026 07:17:00 GMT</pubDate>
-      <description>▫️یک زن سالخورده و یک مرد سالخورده در این حادثه مجروح شدند؛ آن‌ها با استفاده از برانکارد به مکان امن منتقل گردیدند. ▫️وزارت دفاع روسیه گزارش داد که در مجموع 16 نفر در جریان این عملیات تخلیه شدند. به گفته نیروهای روسیه، 30 نفر دیگر نیز همچنان در انتظار تخلیه هستند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104709.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104709.jpg" medium="image" />
     </item>
   </channel>
 </rss>
