@@ -5,7 +5,7 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Fri, 27 Nov 2026 11:48:24 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 12:18:44 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss8.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
@@ -13,10 +13,28 @@
       <link>https://sputnikiran.github.io/news/</link>
     </image>
     <item>
+      <title>سپاه پاسداران ایران: انفجار یک نفتکش در شمال جزیره غنم</title>
+      <link>https://sputnikiran.github.io/news/104789-سپاه-پاسداران-ایران-انفجا.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/104789-سپاه-پاسداران-ایران-انفجا.html</guid>
+      <pubDate>Fri, 27 Nov 2026 12:18:44 GMT</pubDate>
+      <description>🔸روابط عمومی نیروی دریایی سپاه: صبح امروز دو فروند نفتکش در تلاش برای عبور مخفیانه در شمال جزیره غنم و از مسیر غیرمجاز تنگه هرمز بودند که یکی از آنها با اصابت به مین دریایی دچار انفجار و نفتکش دیگر که آن را همراهی می‌کرد مجبور به بازگشت شد. 🔸تعداد نفتکش‌های متخلف برای عبور از مسیر غیرمجاز تنگه هرمز طی روزهای گذشته به‌شدت روند کاهشی داشته و این نشان از اقتدار و حاکمیت مطلق نیروی دریایی سپاه به شرق و غرب تنگه هرمز است. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104789.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104789.jpg" medium="image" />
+    </item>
+    <item>
+      <title>استقبال کشورهای خلیج فارس از ابتکار امنیتی مسکو، گامی در مسیر شکل‌گیری نظم امنیتی منطقه‌ای</title>
+      <link>https://sputnikiran.github.io/news/104788-استقبال-کشورهای-خلیج-فارس.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/104788-استقبال-کشورهای-خلیج-فارس.html</guid>
+      <pubDate>Fri, 27 Nov 2026 09:18:44 GMT</pubDate>
+      <description>💬اندیشه کاظمی، پژوهشگر مسائل بین‌الملل، در گفت‌وگو با اسپوتنیک اظهار داشت: اعلام آمادگی کشورهای خاورمیانه برای بررسی راه‌های اجرای عملی نسخه به‌روزشده طرح روسیه درباره ایجاد سازوکار امنیت جمعی در منطقه، نشان‌دهنده اهمیت فزاینده ابتکارات دیپلماتیک مسکو در معادلات امنیتی خلیج فارس است. 💬کاظمی افزود: تحرکات دیپلماتیک روسیه در ماه‌های اخیر نشان می‌دهد مسکو تلاش دارد با بهره‌گیری از روابط خود با بازیگران مختلف منطقه‌ای، نقش مؤثری در کاهش تنش‌ها و ایجاد سازوکارهای پایدار امنیتی ایفا کند. وی تصریح کر</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104788.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104788.jpg" medium="image" />
+    </item>
+    <item>
       <title>در جریان اعتراضات در فرانسه، درختان کریسمس آتش زده شدند</title>
       <link>https://sputnikiran.github.io/news/104786-در-جریان-اعتراضات-در-فران.html</link>
       <guid isPermaLink="true">https://sputnikiran.github.io/news/104786-در-جریان-اعتراضات-در-فران.html</guid>
-      <pubDate>Fri, 27 Nov 2026 11:48:24 GMT</pubDate>
+      <pubDate>Fri, 27 Nov 2026 06:18:44 GMT</pubDate>
       <description>🔥یکی از این حوادث در پاریس، در میدان مقابل بنای پانتئون رخ داد. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104786.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104786.jpg" medium="image" />
@@ -25,7 +43,7 @@
       <title>پسکوف: پوتین و پاشینیان در مذاکرات آتی خود موضوع پایگاه نظامی روسیه در ارمنستان را مطرح خواهند کرد</title>
       <link>https://sputnikiran.github.io/news/104785-پسکوف-پوتین-و-پاشینیان-در.html</link>
       <guid isPermaLink="true">https://sputnikiran.github.io/news/104785-پسکوف-پوتین-و-پاشینیان-در.html</guid>
-      <pubDate>Fri, 27 Nov 2026 08:48:24 GMT</pubDate>
+      <pubDate>Fri, 27 Nov 2026 03:18:44 GMT</pubDate>
       <description>🛰نکات دیگر اظهارات دمیتری پکوف، سخنگوی کرملین: 🛰سفر پاشینیان به روسیه مدت‌ها پیش توافق شده بود و کرملین در حال آماده‌سازی برای آن است. 🛰جهت‌گیری ارمنستان نسبت به اتحادیه اروپا و تمایل آن برای ادامه همکاری در اتحادیه اقتصادی اوراسیا متناقض است. 🛰پوتین و ترامپ در دیدار دوجانبه خود در مورد نامزدی سفیر جدید روسیه در ایالات متحده صحبتی نکردند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104785.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104785.jpg" medium="image" />
@@ -34,7 +52,7 @@
       <title>وزارت دفاع روسیه: نزدیک به</title>
       <link>https://sputnikiran.github.io/news/104783-وزارت-دفاع-روسیه-نزدیک-به.html</link>
       <guid isPermaLink="true">https://sputnikiran.github.io/news/104783-وزارت-دفاع-روسیه-نزدیک-به.html</guid>
-      <pubDate>Fri, 27 Nov 2026 05:48:24 GMT</pubDate>
+      <pubDate>Fri, 27 Nov 2026 00:18:44 GMT</pubDate>
       <description>پهپاد اوکراینی طی یک هفته توسط نیروهای مسلح روسیه سرنگون شدند ▫️وزارت دفاع روسیه اعلام کرد که طی هفته گذشته 17 بمب هوایی هدایت‌شونده، یک پرتابه &amp;quot;هیمارس&amp;quot; ساخت آمریکا، سه موشک کروز &amp;quot;نپتون&amp;quot; و 5422 پهپاد اوکراین رهگیری و منهدم ‌شد. ▫️به گزارش این وزارتخانه، طی همین مدت دو حمله گسترده و 12 حمله گروهی علیه اهداف مرتبط با نیروهای اوکراین انجام ‌شد. ▫️بنا به اعلام این نهاد، 14 کشتی باری حامل سلاح، تجهیزات نظامی و محموله های دومنظوره نیروهای مسلح اوکراین هدف قرار گرفت. 🛰 Sputnik Iran</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104783.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104783.jpg" medium="image" />
@@ -43,7 +61,7 @@
       <title>رسانه‌ها: هفت کشور اتحادیه اروپا جلسه مذاکرات بودجه را ترک کردند</title>
       <link>https://sputnikiran.github.io/news/104782-رسانهها-هفت-کشور-اتحادیه.html</link>
       <guid isPermaLink="true">https://sputnikiran.github.io/news/104782-رسانهها-هفت-کشور-اتحادیه.html</guid>
-      <pubDate>Fri, 27 Nov 2026 02:48:24 GMT</pubDate>
+      <pubDate>Thu, 26 Nov 2026 21:18:44 GMT</pubDate>
       <description>🔸پتر ماجار، نخست‌وزیر مجارستان ، مذاکرات اخیر در بروکسل را «یک جلسه کاملاً بی‌معنی» توصیف کرد که در آن رهبران اتحادیه اروپا تلاش کردند بر سر بودجه هفت ساله جدید به توافق برسند. 🔸هفت کشور در اعتراض به این موضوع، این رایزنی‌ها را به طور کامل تحریم کردند. ماجار خاطرنشان کرد که احتمال دستیابی به توافق در جلسه بعدی بسیار کم است که قرار است در 16 دسامبر برگزار شود. 🔸علاوه بر این، نخست‌وزیر تأکید کرد که مجارستان با کمک 100 میلیارد یورویی به اوکراین از این بودجه مخالف است. 🛰 Sputnik Iran | Rubika | </description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104782.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104782.jpg" medium="image" />
@@ -52,7 +70,7 @@
       <title>آلیس وایدل، رهبر حزب «آلترناتیو برای آلمان»، درباره اوکراین اظهار نظر کرد</title>
       <link>https://sputnikiran.github.io/news/104781-آلیس-وایدل،-رهبر-حزب-آلتر.html</link>
       <guid isPermaLink="true">https://sputnikiran.github.io/news/104781-آلیس-وایدل،-رهبر-حزب-آلتر.html</guid>
-      <pubDate>Thu, 26 Nov 2026 23:48:24 GMT</pubDate>
+      <pubDate>Thu, 26 Nov 2026 18:18:44 GMT</pubDate>
       <description>مناطق روس‌زبان به روسیه خواهند پیوست و روس‌ها آن‌ها را پس نخواهند داد. اصلاً چرا باید پس بدهند؟ پیش از تهاجم، خودِ اوکراین موشک به سمت جمعیت ساکن در منطقه دونباس شلیک می‌کرد. اما این موضوع همیشه نادیده گرفته می‌شد و باصطلاح زیر فرش پنهان می‌شد. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104781.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104781.jpg" medium="image" />
@@ -61,28 +79,10 @@
       <title>نواک: روسیه و ترکیه قرارداد تأمین گاز از طریق خط لوله را به مدت سه سال تمدید کرده‌اند</title>
       <link>https://sputnikiran.github.io/news/104780-نواک-روسیه-و-ترکیه-قراردا.html</link>
       <guid isPermaLink="true">https://sputnikiran.github.io/news/104780-نواک-روسیه-و-ترکیه-قراردا.html</guid>
-      <pubDate>Thu, 26 Nov 2026 20:48:24 GMT</pubDate>
+      <pubDate>Thu, 26 Nov 2026 15:18:44 GMT</pubDate>
       <description>🛰علاوه بر این، معاون نخست وزیر روسیه گفت که نواتک عرضه گاز طبیعی مایع به ترکیه را از ژانویه سال 2027 آغاز خواهد کرد. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104780.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104780.jpg" medium="image" />
-    </item>
-    <item>
-      <title>رسانه: آتش‌سوزی بزرگی در مکزیک در نزدیکی خط لوله‌ای که توسط شرکت نفت دولتی پترولئوس مکزیکانوس (پمکس) اداره می‌شود، رخ داد</title>
-      <link>https://sputnikiran.github.io/news/104779-رسانه-آتشسوزی-بزرگی-در-مک.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/104779-رسانه-آتشسوزی-بزرگی-در-مک.html</guid>
-      <pubDate>Thu, 26 Nov 2026 17:48:24 GMT</pubDate>
-      <description>🔸در ابتدا، گزارش‌هایی مبنی بر انفجار و خسارت احتمالی به خط لوله منتشر شد. 🔸با این حال، سرویس مطبوعاتی پمکس گزارش داد که آتش، علف‌های خشک در امتداد خط لوله را فرا گرفته و بر یکپارچگی زیرساخت‌ها تأثیری نداشته است. هیچگونه تلفات جانی گزارش نشده است و حمل و نقل سوخت طبق معمول در ایالت نوئوو لئون ادامه دارد. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104779.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104779.jpg" medium="image" />
-    </item>
-    <item>
-      <title>رسانه محلی: برخورد ده‌ها خودرو در ایتالیا، ترافیک را فلج کرد</title>
-      <link>https://sputnikiran.github.io/news/104778-رسانه-محلی-برخورد-دهها-خو.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/104778-رسانه-محلی-برخورد-دهها-خو.html</guid>
-      <pubDate>Thu, 26 Nov 2026 14:48:24 GMT</pubDate>
-      <description>🔸بعد از ظهر دیروز، تصادف بزرگی در بزرگراه سورا-فرنتینو در منطقه آلاتری لاتزیو رخ داد: ده‌ها خودرو و ون از مسیر منحرف شده و به یکدیگر برخورد کردند. 🔸بزرگراه به یک تله لغزنده تبدیل شد و خودروها به طور غیرقابل کنترلی سر می‌خوردند. ترافیک کاملاً متوقف شد و رانندگان و مسافران برای انتظار امدادگران به جاده هجوم آوردند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104778.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104778.jpg" medium="image" />
     </item>
   </channel>
 </rss>
