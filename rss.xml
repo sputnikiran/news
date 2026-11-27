@@ -5,13 +5,40 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Fri, 27 Nov 2026 20:18:32 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 21:18:34 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>نمای چشمگیر ماه غول‌پیکر از فضا</title>
+      <link>https://sputnikiran.github.io/news/104820-نمای-چشمگیر-ماه-غولپیکر-ا.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/104820-نمای-چشمگیر-ماه-غولپیکر-ا.html</guid>
+      <pubDate>Fri, 27 Nov 2026 21:17:00 GMT</pubDate>
+      <description>🔶آنیل منون، فضانورد ناسا، از ایستگاه فضایی بین‌المللی، طلوع و غروب ماه غول‌پیکر «ماه سگ آبی» را ثبت کرد. تصاویر نشان می‌دهند که چگونه ماه کامل در حالی که ایستگاه فضایی بین‌المللی به دور زمین می‌چرخد، از بالای سیاره عبور کرده و زیر آن فرو می‌رود و دیدگاهی منحصربه‌فرد را برای فضانوردان فراهم می‌کند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104820.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104820.jpg" medium="image" />
+    </item>
+    <item>
+      <title>ربات‌های سگ‌مانند چین در برابر آتش‌سوزی‌های</title>
+      <link>https://sputnikiran.github.io/news/104819-رباتهای-سگمانند-چین-در-بر.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/104819-رباتهای-سگمانند-چین-در-بر.html</guid>
+      <pubDate>Fri, 27 Nov 2026 21:17:00 GMT</pubDate>
+      <description>درجه مقاومت می‌کنند 🤖یک لباس محافظ جدید با استاندارد هوافضا به ربات‌های چهارپای چین اجازه می‌دهد تا 10 دقیقه در دل آتش‌های سهمگین بدون آسیب کار کنند. 🚀این لباس کامپوزیتی 5 تا 6 میلی‌متری از فناوری محافظت حرارتی موشک‌های «لانگ مارچ 5» چین اقتباس شده است. با وجود گرمای سوزان، محفظه باتری ربات تنها در دمای 45 درجه سانتی‌گراد باقی ماند، در حالی که موتورهای مفاصل آن تنها به 70 درجه سانتی‌گراد رسیدند. 🤩این ربات مجهز به تصویربرداری لیزری، 5G و انتقال ویدئوی با کیفیت بالا است و می‌تواند در ساختمان‌ها</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104819.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104819.jpg" medium="image" />
+    </item>
+    <item>
+      <title>سرقت مسلحانه خشن در پرو؛ خودروی حامل جواهرات هدف گلوله قرار گرفت</title>
+      <link>https://sputnikiran.github.io/news/104818-سرقت-مسلحانه-خشن-در-پرو؛.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/104818-سرقت-مسلحانه-خشن-در-پرو؛.html</guid>
+      <pubDate>Fri, 27 Nov 2026 20:48:00 GMT</pubDate>
+      <description>🔶رسانه‌های محلی پرو گزارش دادند که سه خودروی شاسی‌بلند مسیر پل ساحلی را مسدود کردند. دست‌کم 8 فرد نقاب‌دار شیشه‌ها را شکستند، افراد و کیف‌ها را از خودرو بیرون کشیدند و سپس فرار کردند. در این حادثه دو نفر، یک مرد و یک زن، زخمی شدند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104818.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104818.jpg" medium="image" />
+    </item>
     <item>
       <title>روسیه اولین کشور جهان که رباتیک، باله و نمایش یخی را با هم ترکیب کرد</title>
       <link>https://sputnikiran.github.io/news/104816-روسیه-اولین-کشور-جهان-که.html</link>
@@ -434,33 +461,6 @@
       <description>🔸آژانس بین‌المللی انرژی اتمی اعلام کرد که در پی قطع مجدد برقِ دریافتی از شبکه بیرونی در نیروگاه هسته‌ای زاپاروژیه، در حال رایزنی با روسیه و اوکراین برای ایجاد یک آتش‌بس موضعی دیگر در این نیروگاه است. 🔸بر اساس این بیانیه، در تاریخ 25 نوامبر، به دلیل آنچه فعالیت‌های نظامی گزارش شده است، اتصال این نیروگاه به تنها خط برق خارجی باقی‌مانده (خط 330 کیلوولتی «فروسپلاونا-1») قطع شد. 🔸این بیست‌وهشتمین باری است که در جریان این درگیری‌ها، نیروگاه هسته‌ای زاپاروژیه ناچار می‌شود برای انجام عملکردهای حیاتیِ</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104762.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104762.jpg" medium="image" />
-    </item>
-    <item>
-      <title>زاخارووا: سلاح فضایی هسته‌ای ادعایی روسیه پوششی برای نظامی‌گری آلمان است</title>
-      <link>https://sputnikiran.github.io/news/104761-زاخارووا-سلاح-فضایی-هستها.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/104761-زاخارووا-سلاح-فضایی-هستها.html</guid>
-      <pubDate>Fri, 27 Nov 2026 05:17:00 GMT</pubDate>
-      <description>💬ماریا زاخارووا، سخنگوی وزارت امور خارجه روسیه، گفت گزارش‌های رسانه‌های آلمانی در مورد یک ماهواره مسلح به سلاح هسته‌ای روسیه برای منحرف کردن توجه از برنامه &amp;quot;حمله عمیق مداری دقیق&amp;quot; آلمان است. وی افزود: &amp;quot;گمانه‌زنی‌های پوچ در مورد فعالیت‌های روسیه در فضا هیچ ارتباطی با واقعیت ندارد و هدف آنها توجیه اقدامات مخرب آلمان برای قرار دادن سلاح‌های خود در فضا است.&amp;quot; 💬زاخارووا تأکید کرد که روسیه برنامه‌های فضایی خود را کاملاً مطابق با پیمان فضای بیرونی 1967، حفظ می‌کند که صراحتاً سلاح‌ها</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104761.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104761.jpg" medium="image" />
-    </item>
-    <item>
-      <title>برنامه ایالات متحده برای توسعه نظامی تا سقف</title>
-      <link>https://sputnikiran.github.io/news/104760-برنامه-ایالات-متحده-برای.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/104760-برنامه-ایالات-متحده-برای.html</guid>
-      <pubDate>Fri, 27 Nov 2026 05:17:00 GMT</pubDate>
-      <description>میلیون دلار در پایگاه فضایی «پیتوفیک» در گرینلند اعلام شد 🔸بر اساس اسناد مربوط به تدارکات و مناقصات، ایالات متحده در حال بررسی یک برنامه بزرگ ساخت‌وساز نظامی در گرینلند به ارزش حداکثر 500 میلیون دلار است تا حضور خود را در منطقه قطب شمال تقویت کند. 🔸این طرح‌ها شامل ساخت سه آشیانه برای محافظت از هواپیماها، یک ساختمان اختصاصی برای تعمیر و نگهداری هواپیما، و همچنین بهسازی زیرساخت‌های هوانوردی است. 🔸فرآیند تدارکات این پروژه در تاریخ 15 سپتامبر آغاز شد و در آن از شرکت‌های دانمارکی و گرینلندی برای ا</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104760.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104760.jpg" medium="image" />
-    </item>
-    <item>
-      <title>انهدام مراکز فرماندهی پهپادهای اوکراین توسط سامانه «گراد» روسیه</title>
-      <link>https://sputnikiran.github.io/news/104759-انهدام-مراکز-فرماندهی-پهپ.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/104759-انهدام-مراکز-فرماندهی-پهپ.html</guid>
-      <pubDate>Thu, 26 Nov 2026 21:17:00 GMT</pubDate>
-      <description>🔶در محور کراسنولیمان، توپخانه‌های گروه رزمی «غرب» روسیه علاوه بر انهدام مراکز فرماندهی پهپادهای نیروهای مسلح اوکراین، نیروی انسانی یگان‌های اوکراینی را نیز منهدم کردند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104759.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104759.jpg" medium="image" />
     </item>
   </channel>
 </rss>
