@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Fri, 27 Nov 2026 16:19:11 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 16:49:39 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>حضور پوتین در مراسم برافراشتن پرچم بر فراز زیردریایی اتمی «پرم»</title>
+      <link>https://sputnikiran.github.io/news/104807-حضور-پوتین-در-مراسم-برافر.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/104807-حضور-پوتین-در-مراسم-برافر.html</guid>
+      <pubDate>Fri, 27 Nov 2026 16:48:00 GMT</pubDate>
+      <description>🔹ولادیمیر پوتین در مراسم برافراشتن پرچم بر فراز زیردریایی اتمی «پرم» شرکت کرد. این زیردریایی از کلاس «یاسن-ام» مجهز به سامانه مافوق صوت «زرکون» است و اولین حامل متدوال این موشک‌ها محسوب می‌شود.…</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104807.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104807.jpg" medium="image" />
+    </item>
     <item>
       <title>کرملین: پوتین امروز در سورودوینسک نشستی درباره توسعه ناوگان زیردریایی‌های اتمی چندمنظوره برگزار می‌کند</title>
       <link>https://sputnikiran.github.io/news/104806-کرملین-پوتین-امروز-در-سور.html</link>
@@ -452,15 +461,6 @@
       <description>اهداف و اولویت‌های کلیدی این راهبرد عبارتند از: 🔶سهم قطب شمال از تولید ناخالص منطقه‌ای روسیه قرار است تا سال 2035 به 8.4 درصد برسد. 🔶سهم این منطقه از کل سرمایه‌گذاری ثابت باید به 12.6 درصد افزایش یابد. 🔶پوتین به دولت دستور داد ظرف شش ماه برنامه جامع توسعه قطب شمال روسیه و کریدور حمل‌ونقل فرا-قطب شمالی را تدوین کند. 🔶ترافیک بار در مسیر دریای شمال قرار است تا سال 2035 به 110 تا 150 میلیون تن برسد. 🔶اهمیت اقتصادی و نظامی-راهبردی قطب شمال در شرایط بی‌ثباتی جهانی و تغییر موازنه قدرت در حال افزای</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104750.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104750.jpg" medium="image" />
-    </item>
-    <item>
-      <title>طوفان شدید در برزیل؛ شکستن پنجره‌ها و کشته شدن دست‌کم</title>
-      <link>https://sputnikiran.github.io/news/104749-طوفان-شدید-در-برزیل؛-شکست.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/104749-طوفان-شدید-در-برزیل؛-شکست.html</guid>
-      <pubDate>Thu, 26 Nov 2026 18:17:00 GMT</pubDate>
-      <description>نفر 🤩بادهای طوفانی در یکی از دفاتر در برزیل، پنجره‌ها را شکست و سپس میزها و پارتیشن‌ها را با خود برد. بر اساس آخرین آمار، در پی این طوفان شدید دست‌کم 13 نفر جان باختند و هزاران نفر بی‌خانمان و بدون برق شدند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104749.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104749.jpg" medium="image" />
     </item>
   </channel>
 </rss>
