@@ -5,13 +5,31 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Fri, 27 Nov 2026 15:18:38 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 15:49:37 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>برخورد خودروها در خیابانی در مسکو؛ شمار مصدومان به</title>
+      <link>https://sputnikiran.github.io/news/104805-برخورد-خودروها-در-خیابانی.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/104805-برخورد-خودروها-در-خیابانی.html</guid>
+      <pubDate>Fri, 27 Nov 2026 15:48:00 GMT</pubDate>
+      <description>نفر رسید 🔶اداره حمل و نقل مسکو تصاویر برخورد خودروها را منتشر کرد. 🔶این حادثه به دلیل عبور یکی از رانندگان از چراغ قرمز رخ داد. شمار مصدومان به 5 نفر رسید که 4 نفر از آنها در بیمارستان بستری شدند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104805.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104805.jpg" medium="image" />
+    </item>
+    <item>
+      <title>کرملین: پوتین امروز در سورودوینسک نشستی درباره توسعه ناوگان زیردریایی‌های اتمی چندمنظوره برگزار می‌کند</title>
+      <link>https://sputnikiran.github.io/news/104804-کرملین-پوتین-امروز-در-سور.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/104804-کرملین-پوتین-امروز-در-سور.html</guid>
+      <pubDate>Fri, 27 Nov 2026 15:48:00 GMT</pubDate>
+      <description>🔶دمیتری پسکوف، سخنگوی کرملین، افزود که روسیه امروز در محیطی خصمانه قرار دارد و به همین دلیل، سه‌گانه هسته‌ای تضمین قابل اعتمادی برای امنیت آن محسوب می‌شود. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104804.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104804.jpg" medium="image" />
+    </item>
     <item>
       <title>تاریخ‌دان فرانسوی: اتحادیه اروپا در حال فروپاشی و جستجوی یک دشمن خارجی است</title>
       <link>https://sputnikiran.github.io/news/104803-تاریخدان-فرانسوی-اتحادیه.html</link>
@@ -443,24 +461,6 @@
       <description>🔶سردار شکارچی، سخنگوی ارشد نیروهای مسلح جمهوری اسلامی ایران، با اشاره به ادعاهای اخیر ارتش کویت مبنی بر وقوع حمله نیروهای ایرانی به یکی از مراکز حیاتی این کشور، ضمن تکذیب قاطع و کامل این ادعا اعلام کرد که هیچ‌گونه عملیات نظامی یا تهاجمی از سوی نیروهای مسلح ایران در منطقه صورت نگرفته است. 🔶سردار شکارچی افزود: «با توجه به پیشینه اقدامات خصمانه و نقش اسرائیل و نیروهای آمریکایی در استفاده از پرچم دروغین و ماجراجویی‌های منطقه‌ای، این اتهامات پوششی برای تداوم شرارت و تلاش جهت افزایش ناامنی در منطقه </description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104748.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104748.jpg" medium="image" />
-    </item>
-    <item>
-      <title>زاخارووا: اهداف عملیات ویژه نظامی در هر صورت محقق می شوند</title>
-      <link>https://sputnikiran.github.io/news/104747-زاخارووا-اهداف-عملیات-ویژ.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/104747-زاخارووا-اهداف-عملیات-ویژ.html</guid>
-      <pubDate>Thu, 26 Nov 2026 17:17:00 GMT</pubDate>
-      <description>🗣ماریا زاخارووا، سخنگوی وزارت خارجه روسیه، در نشست خبری خود اعلام کرد که اهداف عملیات ویژه نظامی در هر صورت محقق خواهند شد، صرف‌نظر از اینکه رژیم کی‌یف به چه روش‌های تروریستی در خشکی، دریا و هوا متوسل شود. سایر محورهای اصلی اظهارات وی: 🔶هیچ چشم‌اندازی برای گفتگو با اروپای غربی درباره معماری امنیتی در اوراسیا وجود ندارد. 🔶کارکنان شرکت‌های دفاعی خارجی که در حملات علیه روسیه مشارکت دارند، اهداف نظامی مشروع محسوب می‌شوند و می‌توانند تحت پیگرد قانونی قرار گیرند. 🔶روسیه در پاسخ به فعالیت‌های ژاپن </description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104747.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104747.jpg" medium="image" />
-    </item>
-    <item>
-      <title>کارشناس: مشکلات نگهداری جنگنده‌های اف-</title>
-      <link>https://sputnikiran.github.io/news/104746-کارشناس-مشکلات-نگهداری-جن.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/104746-کارشناس-مشکلات-نگهداری-جن.html</guid>
-      <pubDate>Thu, 26 Nov 2026 16:47:00 GMT</pubDate>
-      <description>اوکراین، عدم آمادگی ناتو برای درگیری‌های شدید را آشکار کرد 🗣الکسی لئونکوف، تحلیلگر نظامی، به اسپوتنیک گفت بسته پشتیبانی ایالات متحده برای اف-16 اوکراین، که تنها شامل نگهداری، عیب‌یابی و تعمیرات جزئی است، نمی‌تواند مشکل اوکراین را حل کند. 🔶وی افزود: «اگر یک هواپیما نیاز به تعمیرات اساسی یا تعویض قطعات حیاتی داشته باشد، این تجهیزات کمکی نمی‌کند و تنها می‌تواند تا حدودی بازگشت اف-16ها به خدمت را تسریع کند و کمبود فعلی هواپیما را برطرف نمی‌کند.» بسته تأییدشده توسط وزارت خارجه آمریکا حدود 621.9 میل</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104746.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104746.jpg" medium="image" />
     </item>
   </channel>
 </rss>
