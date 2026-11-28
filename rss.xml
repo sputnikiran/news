@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Sat, 28 Nov 2026 10:18:26 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 10:48:24 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>رسانه اسرائیلی گزارش داد که نتانیاهو، قصد دارد آمادگی خود را برای رهبری مجدد دولت در قالب توافق چرخشی با آیزنکوت، رهبر حزب «یاشار»، اعلام کند</title>
+      <link>https://sputnikiran.github.io/news/104834-رسانه-اسرائیلی-گزارش-داد.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/104834-رسانه-اسرائیلی-گزارش-داد.html</guid>
+      <pubDate>Sat, 28 Nov 2026 10:47:00 GMT</pubDate>
+      <description>🔸پیش از این و در پی مذاکرات میان احزاب «لیکود» و «یاشار»، آیزنکوت اعلام کرده بود که رایزنی‌ها برای تشکیل دولت وحدت ملی با حزب لیکود به رهبری نتانیاهو به بن‌بست رسیده است. 🔸به گفته آیزنکوت، حزب لیکود از امتیازدهی در مسائل اصولی، از جمله شرط کنار گذاشتن نمایندگان احزاب ارتدکس افراطی (حریدی) از ترکیب دولت، خودداری کرده است. با این حال، او وعده داد که روند تشکیل کابینه را در هشت روز باقی‌مانده به پایان برساند. 🔸این مذاکرات در حالی جریان دارد که تلاش‌ها برای تشکیل دولت جدید اسرائیل ادامه دارد و تق</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104834.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104834.jpg" medium="image" />
+    </item>
     <item>
       <title>معاون وزیر خارجه روسیه: اتحادیه اروپا به دلیل سیاست‌های ضد روسی، متحمل خساراتی «بزرگ» شده است</title>
       <link>https://sputnikiran.github.io/news/104833-معاون-وزیر-خارجه-روسیه-ات.html</link>
@@ -452,15 +461,6 @@
       <description>نوامبر 🛰زاخارووا: سلاح فضایی هسته‌ای ادعایی روسیه پوششی برای نظامی‌سازی آلمان است. 🛰آمریکا قصد دارد تا 500 میلیون دلار برای گسترش نظامی پایگاه فضایی پیتوفیک گرینلند هزینه کند. 🛰آژانس بین‌المللی انرژی اتمی در حال کار جهت برقراری آتش‌بس موضعی برای تعمیر خط برق نیروگاه هسته‌ای زاپاروژیه است. 🛰رسانه‌ها: اختلافات اتحادیه اروپا و آمریکا بر سر ادامه حمایت از اوکراین در حال افزایش است. 🛰اسرائیل حمله هوایی به عین التینه در جنوب لبنان انجام داد. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104776.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104776.jpg" medium="image" />
-    </item>
-    <item>
-      <title>افسانه یخی: مسابقه مجسمه‌سازی یخی &amp;quot;الماس‌های یاکوتیا&amp;quot; در پایتخت جمهوری برگزار می‌شود</title>
-      <link>https://sputnikiran.github.io/news/104775-افسانه-یخی-مسابقه-مجسمهسا.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/104775-افسانه-یخی-مسابقه-مجسمهسا.html</guid>
-      <pubDate>Fri, 27 Nov 2026 09:18:00 GMT</pubDate>
-      <description>🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104775.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104775.jpg" medium="image" />
     </item>
   </channel>
 </rss>
