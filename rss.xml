@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Sat, 28 Nov 2026 14:48:39 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 15:18:37 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>رسانه: محدودیت سرعت استارلینک، عملیات پهپادی اوکراین را فلج کرده است</title>
+      <link>https://sputnikiran.github.io/news/104845-رسانه-محدودیت-سرعت-استارل.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/104845-رسانه-محدودیت-سرعت-استارل.html</guid>
+      <pubDate>Sat, 28 Nov 2026 15:17:00 GMT</pubDate>
+      <description>🔶نیروهای اوکراینی پس از اعمال محدودیت‌های سرعت بر «استارشیلد»، نسخه نظامی سرویس اینترنت ماهواره‌ای استارلینک ایلان ماسک، در انجام حملات پهپادی با دشواری روبرو شده‌اند. 🔶به گفته اپراتورهای پهپاد اوکراینی، سقف سرعت 160 کیلومتر بر ساعت که در 10 نوامبر دوباره اعمال شد، پهپادها را در برابر پدافند هوایی روسیه آسیب‌پذیرتر کرده و توانایی آنها را برای رهگیری پهپادهای سریع‌الحرکت روسی محدود کرده است. این محدودیت‌ها همچنین یگان‌های اوکراینی را مجبور می‌کند برای اصابت به همان اهداف، از پهپادهای بیشتری است</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104845.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104845.jpg" medium="image" />
+    </item>
     <item>
       <title>رسانه: استفاده نیروهای اوکراین از پایانه‌های ماهواره‌ای اسرائیلی در حمله به پل کریمه</title>
       <link>https://sputnikiran.github.io/news/104844-رسانه-استفاده-نیروهای-اوک.html</link>
@@ -452,15 +461,6 @@
       <description>🔸روابط عمومی نیروی دریایی سپاه: صبح امروز دو فروند نفتکش در تلاش برای عبور مخفیانه در شمال جزیره غنم و از مسیر غیرمجاز تنگه هرمز بودند که یکی از آنها با اصابت به مین دریایی دچار انفجار و نفتکش دیگر که آن را همراهی می‌کرد مجبور به بازگشت شد. 🔸تعداد نفتکش‌های متخلف برای عبور از مسیر غیرمجاز تنگه هرمز طی روزهای گذشته به‌شدت روند کاهشی داشته و این نشان از اقتدار و حاکمیت مطلق نیروی دریایی سپاه به شرق و غرب تنگه هرمز است. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104789.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104789.jpg" medium="image" />
-    </item>
-    <item>
-      <title>استقبال کشورهای خلیج فارس از ابتکار امنیتی مسکو، گامی در مسیر شکل‌گیری نظم امنیتی منطقه‌ای</title>
-      <link>https://sputnikiran.github.io/news/104788-استقبال-کشورهای-خلیج-فارس.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/104788-استقبال-کشورهای-خلیج-فارس.html</guid>
-      <pubDate>Fri, 27 Nov 2026 12:17:00 GMT</pubDate>
-      <description>💬اندیشه کاظمی، پژوهشگر مسائل بین‌الملل، در گفت‌وگو با اسپوتنیک اظهار داشت: اعلام آمادگی کشورهای خاورمیانه برای بررسی راه‌های اجرای عملی نسخه به‌روزشده طرح روسیه درباره ایجاد سازوکار امنیت جمعی در منطقه، نشان‌دهنده اهمیت فزاینده ابتکارات دیپلماتیک مسکو در معادلات امنیتی خلیج فارس است. 💬کاظمی افزود: تحرکات دیپلماتیک روسیه در ماه‌های اخیر نشان می‌دهد مسکو تلاش دارد با بهره‌گیری از روابط خود با بازیگران مختلف منطقه‌ای، نقش مؤثری در کاهش تنش‌ها و ایجاد سازوکارهای پایدار امنیتی ایفا کند. وی تصریح کر</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104788.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104788.jpg" medium="image" />
     </item>
   </channel>
 </rss>
