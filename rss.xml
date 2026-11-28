@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Sat, 28 Nov 2026 17:18:19 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 18:18:16 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>از بوکس تا سرو قهوه؛ ربات‌های انسان‌نما توانایی‌های خود را در نمایشگاه فناوری چین به نمایش گذاشتند</title>
+      <link>https://sputnikiran.github.io/news/104852-از-بوکس-تا-سرو-قهوه؛-ربات.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/104852-از-بوکس-تا-سرو-قهوه؛-ربات.html</guid>
+      <pubDate>Sat, 28 Nov 2026 18:17:00 GMT</pubDate>
+      <description>🤖ربات‌های انسان‌نما در بیست و هشتمین نمایشگاه فناوری‌های پیشرفته چین در شنژن، مهارت‌های ورزشی و کاربردی متنوعی را به نمایش گذاشتند. در این نمایشگاه، ربات‌ها در مسابقه بوکس شرکت کردند، تنیس روی میز بازی کردند، قهوه سرو کردند، ترافیک را مدیریت کردند، به توپ فوتبال ضربه زدند، اشیا را در کیف گذاشتند، بسته‌ها را مرتب کردند، حوله تا کردند، با لباس اژدها رقصیدند، برجی از لیوان‌ها ساختند، به بازدیدکنندگان ماساژ دادند و دست تکان دادند. 🤖همچنین ربات‌های بازویی حرکات مختلفی انجام دادند، جعبه‌ها را جابه‌ج</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104852.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104852.jpg" medium="image" />
+    </item>
     <item>
       <title>کارشناس: استمرار حضور زلنسکی و این فرقه تبهکار در اوكراين امنیت همگان را به خطر می‌اندازد</title>
       <link>https://sputnikiran.github.io/news/104851-کارشناس-استمرار-حضور-زلنس.html</link>
@@ -452,15 +461,6 @@
       <description>🔸به گفته ارتش، از جمله کسانی که در حمله به اسرائیل در 7 اکتبر 2023 دست داشتند. ارتش همچنین از انهدام چهار انبار سلاح و تجهیزات که گفته می‌شود توسط حماس استفاده می‌شد، خبر داد. 🔸از سوی دیگر، حماس با انتقاد از سکوت بین‌المللی در مورد این وضعیت، اظهار داشت که هرگونه توافقی تا زمانی که اسرائیل به اقدامات نظامی و محاصره نوار غزه ادامه می‌دهد، بی‌معنی است. 🔸تصاویر: ارتش اسرائیل. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104794.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104794.jpg" medium="image" />
-    </item>
-    <item>
-      <title>گازپروم: اروپا در بحبوحه هوای سرد نوامبر همچنان به سرعت از تأسیسات ذخیره‌سازی گاز مصرف می‌کند</title>
-      <link>https://sputnikiran.github.io/news/104793-گازپروم-اروپا-در-بحبوحه-ه.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/104793-گازپروم-اروپا-در-بحبوحه-ه.html</guid>
-      <pubDate>Fri, 27 Nov 2026 13:47:00 GMT</pubDate>
-      <description>🔸به گفته شرکت انرژی روسی گازپروم، این نتیجه‌گیری را می‌توان از داده‌های زیرساخت گاز اروپا استخراج کرد. حجم گاز برداشت‌شده از تأسیسات ذخیره‌سازی گاز زیرزمینی اروپا در 25 نوامبر، بالاترین میزان ثبت‌شده برای آن تاریخ بود. پیش از این، اوج برداشت روزانه برای 23 و 24 نوامبر ثبت شده بود. 🔸چندین کشور اتحادیه اروپا، مانند آلمان و فرانسه، نیز در حال تجربه پایین‌ترین سطح مشابه هستند. در همین حال، در آلمان، میزان اشغال تأسیسات ذخیره‌سازی گاز زیرزمینی در حال حاضر به زیر 55 درصد کاهش یافته است - پایین‌ترین </description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104793.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104793.jpg" medium="image" />
     </item>
   </channel>
 </rss>
