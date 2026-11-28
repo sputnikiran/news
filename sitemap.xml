@@ -16,6 +16,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://sputnikiran.github.io/news/104825-شب-گذشته.html</loc>
+    <lastmod>2026-11-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://sputnikiran.github.io/news/104824-ارتش-اسرائیل.html</loc>
     <lastmod>2026-11-28</lastmod>
     <changefreq>monthly</changefreq>
@@ -3005,12 +3011,6 @@
   </url>
   <url>
     <loc>https://sputnikiran.github.io/news/104254-فخریزاده-به-اسپوتنیک-عامل.html</loc>
-    <lastmod>2026-11-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sputnikiran.github.io/news/104253-پوتین-در-مراسم-پذیرایی-وی.html</loc>
     <lastmod>2026-11-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
