@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Sat, 28 Nov 2026 13:49:32 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 14:18:45 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>پایان تحقیقات دادستانی لهستان درباره سقوط هواپیمای ریاست‌جمهوری در نزدیکی اسمولنسک</title>
+      <link>https://sputnikiran.github.io/news/104843-پایان-تحقیقات-دادستانی-له.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/104843-پایان-تحقیقات-دادستانی-له.html</guid>
+      <pubDate>Sat, 28 Nov 2026 14:17:00 GMT</pubDate>
+      <description>🔶دادستانی لهستان تحقیقات درباره سانحه هوایی نزدیک اسمولنسک را که منجر به مرگ لخ کاچینسکی، رئیس‌جمهور پیشین این کشور شد، به پایان رساند. 🔶یک گروه کارشناسی بین‌المللی فرضیه انفجار را رد کرد و علت این فاجعه را مجموعه‌ای از خطاها در فرود آمدن اعلام کرد. به طور خاص، خلبانان ارتفاع را اشتباه ارزیابی کردند و به کاهش ارتفاع زیر حداقل مجاز ادامه دادند؛ علاوه بر این، تصمیم برای دور زدن (فرود مجدد) بسیار دیرهنگام گرفته شد. 🔶هواپیمای تو-154ام رئیس‌جمهور کاچینسکی در سال 2010 در فرودگاه اسمولنسک-شمالی سقوط</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104843.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104843.jpg" medium="image" />
+    </item>
     <item>
       <title>کشتی های معلق بر فراز آبهای امارات</title>
       <link>https://sputnikiran.github.io/news/104842-کشتی-های-معلق-بر-فراز-آبه.html</link>
@@ -452,15 +461,6 @@
       <description>🔥یکی از این حوادث در پاریس، در میدان مقابل بنای پانتئون رخ داد. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104786.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104786.jpg" medium="image" />
-    </item>
-    <item>
-      <title>پسکوف: پوتین و پاشینیان در مذاکرات آتی خود موضوع پایگاه نظامی روسیه در ارمنستان را مطرح خواهند کرد</title>
-      <link>https://sputnikiran.github.io/news/104785-پسکوف-پوتین-و-پاشینیان-در.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/104785-پسکوف-پوتین-و-پاشینیان-در.html</guid>
-      <pubDate>Fri, 27 Nov 2026 11:47:00 GMT</pubDate>
-      <description>🛰نکات دیگر اظهارات دمیتری پکوف، سخنگوی کرملین: 🛰سفر پاشینیان به روسیه مدت‌ها پیش توافق شده بود و کرملین در حال آماده‌سازی برای آن است. 🛰جهت‌گیری ارمنستان نسبت به اتحادیه اروپا و تمایل آن برای ادامه همکاری در اتحادیه اقتصادی اوراسیا متناقض است. 🛰پوتین و ترامپ در دیدار دوجانبه خود در مورد نامزدی سفیر جدید روسیه در ایالات متحده صحبتی نکردند. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104785.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104785.jpg" medium="image" />
     </item>
   </channel>
 </rss>
