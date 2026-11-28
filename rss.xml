@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Sat, 28 Nov 2026 09:18:32 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 10:18:26 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>معاون وزیر خارجه روسیه: اتحادیه اروپا به دلیل سیاست‌های ضد روسی، متحمل خساراتی «بزرگ» شده است</title>
+      <link>https://sputnikiran.github.io/news/104833-معاون-وزیر-خارجه-روسیه-ات.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/104833-معاون-وزیر-خارجه-روسیه-ات.html</guid>
+      <pubDate>Sat, 28 Nov 2026 10:17:00 GMT</pubDate>
+      <description>🔸الکساندر گروشکو، معاون وزیر امور خارجه روسیه، اظهار داشت که اروپا به دلیل رویکرد کنونی خود در قبال روسیه، متحمل هزینه‌های سنگین اقتصادی و اجتماعی شده است؛ وضعیتی…</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104833.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104833.jpg" medium="image" />
+    </item>
     <item>
       <title>یک گروه مسلح در پرو به یک خودرو حمله کردند و چمدان ها را به سرقت بردند</title>
       <link>https://sputnikiran.github.io/news/104831-یک-گروه-مسلح-در-پرو-به-یک.html</link>
@@ -452,15 +461,6 @@
       <description>🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104775.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104775.jpg" medium="image" />
-    </item>
-    <item>
-      <title>فرمانده نیروی دریایی ارتش ایران: دشمن همهٔ ابزارش را به‌کار گرفته که بتواند یک کشتی را از تنگهٔ هرمز عبور دهد، اما زهی خیال باطل؛ فرمان این است که تنگه بسته بماند</title>
-      <link>https://sputnikiran.github.io/news/104774-فرمانده-نیروی-دریایی-ارتش.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/104774-فرمانده-نیروی-دریایی-ارتش.html</guid>
-      <pubDate>Fri, 27 Nov 2026 08:47:00 GMT</pubDate>
-      <description>💬فرمانده نیروی دریایی ارتش ایران در ادامه گفت: ارتش آمریکا 2 نفتکش ایران را دزدید اما تکاوران نیروی دریایی هنگامی که آمریکایی‌ها خواب بودند بالای سر آن‌ها رفتند و شناورها را پس گرفتند. 💬ارتش آمریکا برای عبوردادن شناورها از تنگهٔ هرمز اول از مالکان شناورها پول می‌گیرد و وقتی شناورها هدف قرار می‌گیرد، موضوع را گردن نمی‌گیرد و پولی هم پس نمی‌دهد. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104774.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104774.jpg" medium="image" />
     </item>
   </channel>
 </rss>
