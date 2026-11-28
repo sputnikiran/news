@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Sat, 28 Nov 2026 16:48:42 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 17:18:19 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>کارشناس: استمرار حضور زلنسکی و این فرقه تبهکار در اوكراين امنیت همگان را به خطر می‌اندازد</title>
+      <link>https://sputnikiran.github.io/news/104851-کارشناس-استمرار-حضور-زلنس.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/104851-کارشناس-استمرار-حضور-زلنس.html</guid>
+      <pubDate>Sat, 28 Nov 2026 17:17:00 GMT</pubDate>
+      <description>🔸روح الله مدبر، کارشناس مسائل روسیه و اوراسیا، در خصوص حملات دریایی اوکراین علیه کشتی های روسیه در مدیترانه و دریای لیبی، به خبرنگار اسپوتنیک در تهران گفت: جنایت جدید…</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104851.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104851.jpg" medium="image" />
+    </item>
     <item>
       <title>وزارت دفاع روسیه: انهدام یک کشتی باری در دریای سیاه و حمله به زیرساخت‌های انرژی کی‌یف</title>
       <link>https://sputnikiran.github.io/news/104850-وزارت-دفاع-روسیه-انهدام-ی.html</link>
@@ -452,15 +461,6 @@
       <description>🔸به گفته شرکت انرژی روسی گازپروم، این نتیجه‌گیری را می‌توان از داده‌های زیرساخت گاز اروپا استخراج کرد. حجم گاز برداشت‌شده از تأسیسات ذخیره‌سازی گاز زیرزمینی اروپا در 25 نوامبر، بالاترین میزان ثبت‌شده برای آن تاریخ بود. پیش از این، اوج برداشت روزانه برای 23 و 24 نوامبر ثبت شده بود. 🔸چندین کشور اتحادیه اروپا، مانند آلمان و فرانسه، نیز در حال تجربه پایین‌ترین سطح مشابه هستند. در همین حال، در آلمان، میزان اشغال تأسیسات ذخیره‌سازی گاز زیرزمینی در حال حاضر به زیر 55 درصد کاهش یافته است - پایین‌ترین </description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104793.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104793.jpg" medium="image" />
-    </item>
-    <item>
-      <title>روزنامه‌نگار غربی: اتحادیه اروپا به بزرگترین تهدید برای دموکراسی و رفاه در اروپا تبدیل شده است</title>
-      <link>https://sputnikiran.github.io/news/104792-روزنامهنگار-غربی-اتحادیه.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/104792-روزنامهنگار-غربی-اتحادیه.html</guid>
-      <pubDate>Fri, 27 Nov 2026 13:17:00 GMT</pubDate>
-      <description>🔸راجر کپل، سردبیر مجله سوئیسی دی ولتوچه، به تمرکز قدرت در دست نهادهای اروپایی اشاره کرد. او به عنوان مثال به بحث بودجه اتحادیه اروپا اشاره کرد و خاطرنشان کرد که آلمان مجبور است پرداخت‌های بازنشستگی و یارانه‌ها را کاهش دهد تا بودجه بیشتری را برای حمایت از اوکراین اختصاص دهد. 🔸پیش از این، دمیتری پسکوف، سخنگوی کرملین اظهار داشت که اتحادیه اروپا، در بحث هزینه‌های حمایت از اوکراین، قصد دارد مبلغ هنگفت دیگری را برای جنگ اختصاص دهد، نه صلح. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104792.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104792.jpg" medium="image" />
     </item>
   </channel>
 </rss>
