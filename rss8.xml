@@ -5,7 +5,7 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Sat, 28 Nov 2026 14:18:45 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 14:48:39 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss8.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
@@ -13,10 +13,19 @@
       <link>https://sputnikiran.github.io/news/</link>
     </image>
     <item>
+      <title>رسانه: استفاده نیروهای اوکراین از پایانه‌های ماهواره‌ای اسرائیلی در حمله به پل کریمه</title>
+      <link>https://sputnikiran.github.io/news/104844-رسانه-استفاده-نیروهای-اوک.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/104844-رسانه-استفاده-نیروهای-اوک.html</guid>
+      <pubDate>Sat, 28 Nov 2026 14:48:39 GMT</pubDate>
+      <description>🔶رسانه غربی به نقل از منابع آگاه گزارش داد که نیروهای مسلح اوکراین در جریان حمله تروریستی به پل کریمه از پایانه‌های ارتباط ماهواره‌ای اسرائیلی «های‌اسکای» استفاده کرده‌اند. 🔶به گفته این منابع، این سامانه‌ها برای برخی مهمات اوکراینی به کار گرفته شده‌اند. یکی از منابع گفت که سامانه اسرائیلی به مهارت فنی بالاتر و حضور متخصصان در طول عملیات نیاز دارد و از این نظر استفاده از آن دشوارتر از پایانه‌های استارلینک است. 🔶در همین حال، بسیاری از پهپادهای اوکراینی در ابتدا برای کار با خدمات شرکت اسپیس‌ایکس</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104844.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104844.jpg" medium="image" />
+    </item>
+    <item>
       <title>پایان تحقیقات دادستانی لهستان درباره سقوط هواپیمای ریاست‌جمهوری در نزدیکی اسمولنسک</title>
       <link>https://sputnikiran.github.io/news/104843-پایان-تحقیقات-دادستانی-له.html</link>
       <guid isPermaLink="true">https://sputnikiran.github.io/news/104843-پایان-تحقیقات-دادستانی-له.html</guid>
-      <pubDate>Sat, 28 Nov 2026 14:18:45 GMT</pubDate>
+      <pubDate>Sat, 28 Nov 2026 11:48:39 GMT</pubDate>
       <description>🔶دادستانی لهستان تحقیقات درباره سانحه هوایی نزدیک اسمولنسک را که منجر به مرگ لخ کاچینسکی، رئیس‌جمهور پیشین این کشور شد، به پایان رساند. 🔶یک گروه کارشناسی بین‌المللی فرضیه انفجار را رد کرد و علت این فاجعه را مجموعه‌ای از خطاها در فرود آمدن اعلام کرد. به طور خاص، خلبانان ارتفاع را اشتباه ارزیابی کردند و به کاهش ارتفاع زیر حداقل مجاز ادامه دادند؛ علاوه بر این، تصمیم برای دور زدن (فرود مجدد) بسیار دیرهنگام گرفته شد. 🔶هواپیمای تو-154ام رئیس‌جمهور کاچینسکی در سال 2010 در فرودگاه اسمولنسک-شمالی سقوط</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104843.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104843.jpg" medium="image" />
@@ -25,7 +34,7 @@
       <title>کشتی های معلق بر فراز آبهای امارات</title>
       <link>https://sputnikiran.github.io/news/104842-کشتی-های-معلق-بر-فراز-آبه.html</link>
       <guid isPermaLink="true">https://sputnikiran.github.io/news/104842-کشتی-های-معلق-بر-فراز-آبه.html</guid>
-      <pubDate>Sat, 28 Nov 2026 11:18:45 GMT</pubDate>
+      <pubDate>Sat, 28 Nov 2026 08:48:39 GMT</pubDate>
       <description>🛳در سواحل امارات متحده عربی، یک پدیده نوری نادر به نام «سراب فاتا مورگانا» ثبت شد. به دلیل شکست نور در لایه‌های هوا با چگالی متفاوت، یک کشتی باری عظیم به نظر می‌رسد که بر فراز دریا معلق است. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104842.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104842.jpg" medium="image" />
@@ -34,7 +43,7 @@
       <title>لیبی از اوکراین بابت حمله به بندر بنغازی درخواست غرامت می‌کند</title>
       <link>https://sputnikiran.github.io/news/104841-لیبی-از-اوکراین-بابت-حمله.html</link>
       <guid isPermaLink="true">https://sputnikiran.github.io/news/104841-لیبی-از-اوکراین-بابت-حمله.html</guid>
-      <pubDate>Sat, 28 Nov 2026 08:18:45 GMT</pubDate>
+      <pubDate>Sat, 28 Nov 2026 05:48:39 GMT</pubDate>
       <description>🔸دولت لیبی قصد دارد در پی حمله‌ای به بندر بنغازی که منجر به کشته شدن دو نیروی نظامی شد، از اوکراین درخواست غرامت کند. 🔸عبدالهادی الحویج، وزیر امور خارجه در شرق لیبی، اظهار داشت که این غرامت باید…</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104841.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104841.jpg" medium="image" />
@@ -43,7 +52,7 @@
       <title>رسانه آمریکایی: ‌تعدادی از مقامات ارشد دولت ترامپ به دلیل تهدیدات در تأسیسات نظامی حفاظت‌شده در واشینگتن اقامت دارند</title>
       <link>https://sputnikiran.github.io/news/104840-رسانه-آمریکایی-تعدادی-از.html</link>
       <guid isPermaLink="true">https://sputnikiran.github.io/news/104840-رسانه-آمریکایی-تعدادی-از.html</guid>
-      <pubDate>Sat, 28 Nov 2026 05:18:45 GMT</pubDate>
+      <pubDate>Sat, 28 Nov 2026 02:48:39 GMT</pubDate>
       <description></description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104840.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104840.jpg" medium="image" />
@@ -52,7 +61,7 @@
       <title>لیبی از اوکراین بابت حمله به بندر بنغازی درخواست غرامت می‌کند</title>
       <link>https://sputnikiran.github.io/news/104839-لیبی-از-اوکراین-بابت-حمله.html</link>
       <guid isPermaLink="true">https://sputnikiran.github.io/news/104839-لیبی-از-اوکراین-بابت-حمله.html</guid>
-      <pubDate>Sat, 28 Nov 2026 02:18:45 GMT</pubDate>
+      <pubDate>Fri, 27 Nov 2026 23:48:39 GMT</pubDate>
       <description>🔸دولت لیبی قصد دارد در پی حمله‌ای به بندر بنغازی که منجر به کشته شدن دو نیروی نظامی شد، از اوکراین درخواست غرامت کند. 🔸عبدالهادی الحویج، وزیر امور خارجه در شرق لیبی، اظهار داشت که این غرامت باید هم شامل تلفات جانی و هم خسارات مادی وارده به زیرساخت‌ها باشد. 🔸مقامات لیبی پیش‌تر کی‌یف را به انجام حملاتی غیرقابل‌قبول متهم کرده و خواستار توضیحات رسمی شده بودند. 🔸ولودیمیر زلنسکی، رئیس‌جمهور اوکراین، در ابتدا مدعی شده بود که این اقدامات با سایر کشورها هماهنگ شده است؛ اما او بعداً از این ادعا عقب‌نش</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104839.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104839.jpg" medium="image" />
@@ -61,7 +70,7 @@
       <title>وزارت دفاع روسیه: نیروهای نظامی روسیه از آغاز عملیات ویژه نظامی روسیه در اوکراین بیش از</title>
       <link>https://sputnikiran.github.io/news/104838-وزارت-دفاع-روسیه-نیروهای.html</link>
       <guid isPermaLink="true">https://sputnikiran.github.io/news/104838-وزارت-دفاع-روسیه-نیروهای.html</guid>
-      <pubDate>Fri, 27 Nov 2026 23:18:45 GMT</pubDate>
+      <pubDate>Fri, 27 Nov 2026 20:48:39 GMT</pubDate>
       <description>هزار پهپاد اوکراینی را سرنگون کرده‌اند 🔸در بیانیه وزارت دفاع روسبه آمده است: «در مجموع از زمان آغاز عملیات ویژه نظامی روسیه در اوکراین تاکنون، 674 فروند هواپیما، 284 فروند بالگرد و 301 هزار و 51 فروند پهپاد منهدم شده است.» 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104838.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104838.jpg" medium="image" />
@@ -70,19 +79,10 @@
       <title>آزمایش سوسک‌های جاسوس مجهز به «کوله‌پشتی‌های» حسگر  در آلمان</title>
       <link>https://sputnikiran.github.io/news/104837-آزمایش-سوسکهای-جاسوس-مجهز.html</link>
       <guid isPermaLink="true">https://sputnikiran.github.io/news/104837-آزمایش-سوسکهای-جاسوس-مجهز.html</guid>
-      <pubDate>Fri, 27 Nov 2026 20:18:45 GMT</pubDate>
+      <pubDate>Fri, 27 Nov 2026 17:48:39 GMT</pubDate>
       <description>🔸این سوسک‌های جاسوس در آلمان مورد آزمایش قرار گرفته‌اند؛ این زیست‌ربات‌ها با استفاده از حشرات زنده ساخته شده‌اند. ایده توسعه آن‌ها نخستین بار در سال 2025 مطرح شد. 🔸این کاوشگرانِ شاخک‌دار می‌توانند بی‌سروصدا به باریک‌ترین شکاف‌ها، میان آوارها و دیگر نقاطی که دسترسی به آن‌ها دشوار است — و پهپادها قادر به ورود به آن‌ها نیستند — نفوذ کنند. 🔸حرکات سوسک‌های زنده توسط سیستم‌های تحریک عصبی کنترل می‌شود. تجهیزات الکترونیکی تعبیه‌شده در یک «کوله‌پشتی»، وظیفه جمع‌آوری، پردازش و انتقال داده‌ها را به‌صورت</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104837.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104837.jpg" medium="image" />
-    </item>
-    <item>
-      <title>وزارت دفاع روسیه: حملات ارتش روسیه، نیروهای دفاعی اوکراین را همچنان از بین می برد</title>
-      <link>https://sputnikiran.github.io/news/104836-وزارت-دفاع-روسیه-حملات-ار.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/104836-وزارت-دفاع-روسیه-حملات-ار.html</guid>
-      <pubDate>Fri, 27 Nov 2026 17:18:45 GMT</pubDate>
-      <description>🔸وزارت دفاع روسیه گزارش داد که یگان‌های پهپادی گروه رزمی «سنتر / مرکز» روسیه، شبکه‌ای از پناهگاه‌ها و مواضع آتش ارتش اوکراین را شناسایی و منهدم کردند. 🔸اوایل این هفته، یگان‌های…</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104836.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104836.jpg" medium="image" />
     </item>
   </channel>
 </rss>
