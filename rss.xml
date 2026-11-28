@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Sat, 28 Nov 2026 05:48:16 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 06:18:29 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>ارتش اسرائیل</title>
+      <link>https://sputnikiran.github.io/news/104824-ارتش-اسرائیل.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/104824-ارتش-اسرائیل.html</guid>
+      <pubDate>Sat, 28 Nov 2026 06:17:00 GMT</pubDate>
+      <description>تن از نیروهای حفاظتی سازمان «پزشکان بدون مرز» را در غزه هدف قرار داد 🔸ارتش اسرائیل از کشته شدن 2 نفر در شهر غزه خبر داد و مدعی شد که آن‌ها از عوامل حماس بوده‌اند که هم‌زمان در یک سازمان امدادی بین‌المللی نیز فعالیت می‌کردند. 🔸هویت این افراد «احمد سفیان محمد علی ابوحصیره» و «معاذ یوسف الیتسباخ» اعلام شده است؛ نفر دوم به عنوان فرمانده یک واحد توپخانه‌ای در شاخه نظامی حماس عضويت داشته است. 🔸ارتش اسرائیل این رویداد را نمونه‌ای از نفوذ و استقرار حماس در درون سازمان‌های بین‌المللی دانست. 🛰 Sputnik</description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104824.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104824.jpg" medium="image" />
+    </item>
     <item>
       <title>سه كشور عضو «اتحاد مکه» متعهد شد که در بحبوحه حملات حوثی‌ها، حمایت خود را از عربستان سعودی افزایش دهد</title>
       <link>https://sputnikiran.github.io/news/104823-سه-كشور-عضو-اتحاد-مکه-متع.html</link>
@@ -452,15 +461,6 @@
       <description>🔸به نقل از منابعی، در جریان مکالمه‌ای بین ترامپ و زلنسکی در 19 نوامبر، رئیس جمهور آمریکا اظهار داشت که &amp;quot;میلیاردها دلار&amp;quot; برای حمایت از اوکراین هدر می‌رود. با این حال، این موضع &amp;quot;به سختی مورد توجه رهبران اتحادیه اروپا قرار گرفته است&amp;quot;. علاوه بر این، رویارویی بر سر مالیات دیجیتال بر شرکت‌های چندملیتی رو به افزایش است. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104766.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104766.jpg" medium="image" />
-    </item>
-    <item>
-      <title>میمون‌ها سه ورودی تاج محل را محاصره کرده‌اند</title>
-      <link>https://sputnikiran.github.io/news/104765-میمونها-سه-ورودی-تاج-محل.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/104765-میمونها-سه-ورودی-تاج-محل.html</guid>
-      <pubDate>Fri, 27 Nov 2026 06:47:00 GMT</pubDate>
-      <description>🐒اتخمین زده می‌شود که حدود 500 حیوان در دروازه‌های شرقی، غربی و سلطنتی در آگرا جمع شده‌اند. 🐒این دسته‌ها غذا و وسایل گردشگران را می‌ربایند، آنها را تعقیب می‌کنند و گاز می‌گیرند. در سپتامبر 2026، یک مرد 83 ساله برزیلی و یک گردشگر از بنگال غربی به دلیل گازگرفتگی تحت درمان قرار گرفتند. 🐒شهرداری مسئول به دام انداختن میمون‌ها است، در حالی که سازمان باستان‌شناسی هند مسئول امنیت داخل مجموعه است. یکی از گزینه‌ها دفع دسته‌ها با با استفاده از امواج فراصوت، است. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104765.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104765.jpg" medium="image" />
     </item>
   </channel>
 </rss>
