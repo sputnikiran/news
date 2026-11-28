@@ -5,13 +5,22 @@
     <link>https://sputnikiran.github.io/news/</link>
     <description>Sputnik Iran - последние новости и публикации.</description>
     <language>fa</language>
-    <lastBuildDate>Sat, 28 Nov 2026 12:48:36 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 13:18:16 GMT</lastBuildDate>
     <atom:link href="https://sputnikiran.github.io/news/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://raw.githubusercontent.com/sputnikiran/news/main/logo_sputnik.svg</url>
       <title>Sputnik Iran</title>
       <link>https://sputnikiran.github.io/news/</link>
     </image>
+    <item>
+      <title>رسانه آمریکایی: ‌تعدادی از مقامات ارشد دولت ترامپ به دلیل تهدیدات در تأسیسات نظامی حفاظت‌شده در واشینگتن اقامت دارند</title>
+      <link>https://sputnikiran.github.io/news/104840-رسانه-آمریکایی-تعدادی-از.html</link>
+      <guid isPermaLink="true">https://sputnikiran.github.io/news/104840-رسانه-آمریکایی-تعدادی-از.html</guid>
+      <pubDate>Sat, 28 Nov 2026 13:17:00 GMT</pubDate>
+      <description></description>
+      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104840.jpg" type="image/jpeg" />
+      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104840.jpg" medium="image" />
+    </item>
     <item>
       <title>لیبی از اوکراین بابت حمله به بندر بنغازی درخواست غرامت می‌کند</title>
       <link>https://sputnikiran.github.io/news/104839-لیبی-از-اوکراین-بابت-حمله.html</link>
@@ -452,15 +461,6 @@
       <description>🔸پتر ماجار، نخست‌وزیر مجارستان ، مذاکرات اخیر در بروکسل را «یک جلسه کاملاً بی‌معنی» توصیف کرد که در آن رهبران اتحادیه اروپا تلاش کردند بر سر بودجه هفت ساله جدید به توافق برسند. 🔸هفت کشور در اعتراض به این موضوع، این رایزنی‌ها را به طور کامل تحریم کردند. ماجار خاطرنشان کرد که احتمال دستیابی به توافق در جلسه بعدی بسیار کم است که قرار است در 16 دسامبر برگزار شود. 🔸علاوه بر این، نخست‌وزیر تأکید کرد که مجارستان با کمک 100 میلیارد یورویی به اوکراین از این بودجه مخالف است. 🛰 Sputnik Iran | Rubika | </description>
       <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104782.jpg" type="image/jpeg" />
       <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104782.jpg" medium="image" />
-    </item>
-    <item>
-      <title>آلیس وایدل، رهبر حزب «آلترناتیو برای آلمان»، درباره اوکراین اظهار نظر کرد</title>
-      <link>https://sputnikiran.github.io/news/104781-آلیس-وایدل،-رهبر-حزب-آلتر.html</link>
-      <guid isPermaLink="true">https://sputnikiran.github.io/news/104781-آلیس-وایدل،-رهبر-حزب-آلتر.html</guid>
-      <pubDate>Fri, 27 Nov 2026 10:47:00 GMT</pubDate>
-      <description>مناطق روس‌زبان به روسیه خواهند پیوست و روس‌ها آن‌ها را پس نخواهند داد. اصلاً چرا باید پس بدهند؟ پیش از تهاجم، خودِ اوکراین موشک به سمت جمعیت ساکن در منطقه دونباس شلیک می‌کرد. اما این موضوع همیشه نادیده گرفته می‌شد و باصطلاح زیر فرش پنهان می‌شد. 🛰 Sputnik Iran | Rubika | Bale | Web</description>
-      <enclosure url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104781.jpg" type="image/jpeg" />
-      <media:content url="https://raw.githubusercontent.com/sputnikiran/news/main/assets/images/104781.jpg" medium="image" />
     </item>
   </channel>
 </rss>
